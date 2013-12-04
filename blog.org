@@ -1,0 +1,4158 @@
+#+TITLE: Life at the Room.
+#+DESCRIPTION: Mike goes on:
+#+OPTIONS: LaTeX:dvipng
+
+- Muista käyttää blogin uudelleengenerointiin F12-näppiä.
+
+- Kaikki keskeneräiset työt pitää näemmä kääntää TODO-merkinnöiksi,
+  muuten org pyörittelee ne ulos.
+
+- Sulje aina valmistunut postaus DONE:ksi valmiilla pikanäppäimellä
+  niin saat oikeanmallisen CLOSED-timestampin. Tuunaa timestamppia
+  mahdollisimman oitis, jos mahdollista. Sen jälkeen sen pitäisi olla
+  hyvinkin pysyvää laatua Disqusien ja muiden takia.
+
+- Käytettäviä tageja, joita tulisi käyttää:
+
+  - listat on listoja varten
+  - elokuvat
+  - sarjat TV-sarjoille, yms
+  - fp funktionaaliselle ohjelmoinnille
+
+- C-2 S-Tab antaa listan blogientryistä.
+
+* Viihde
+  :PROPERTIES:
+  :CATEGORY: viihde
+  :END:
+** TODO Elokuvat kirjoittamisesta                           :elokuvat:listat:
+   
+   - Martian Child
+   - Adaptation
+   - Paper Man
+   - The Words
+   - oh man...
+   
+** DONE Tilkkutäkkielokuvat                                 :elokuvat:listat:
+   CLOSED: [2013-02-06 Wed 12:34]
+   
+   Tilkkutäkkejä vai palapelejä?
+
+   Tilkkutäkkielokuvien karakteristinen piirre on sisältää monia
+   pieniä tarinoita samalta alueelta ja joiden henkilöillä on joitakin
+   pieniä yhteyksiä. Ei siis mitään juontamuuttavaa pärähdystä
+   konnektioiden takia, vaan lähinnä kuriositeetteja. Pääasia ei ole
+   hahmojen määrässä, eikä sinänsä siis konnektioissakaan, vaan
+   hienovaraisissa yhteyksissä. Katsoja nauttii pienistä
+   kuriositeeteista siinä missä isommistakin.
+   
+   Yleensä hahmoja on paljon ja näiden välillä lomitellaan tiuhaan.
+   Elokuville tyypillistä on myös pituus -- alle kahden tunnin ei
+   ehditä kokemaan niin paljoa. Näissä elokuvissa rakennetaan suhteita
+   katsojan ja kaikkien kytkösten välille.
+   
+*** Esimerkkejä
+
+    - [[http://www.imdb.com/title/tt0108122][Short Cuts]] (1993) on suuren Bobby Altmanin näkemys
+      tilkkutäkkeilystä LA:n seudulla. Hyönteismyrkyt, juopot
+      limusiinikuskit, poliisit ja monet muut saavat kyytiä keskenään
+      hyvin löyhänläisessä kytköksessä.
+    - [[http://www.imdb.com/title/tt0175880][Magnolia]] (1999) on erittäin suuren Paul Thomas Andersonin
+      /magnum opus/, jossa LA:han sijoittuvat ihmiset keräilevät
+      voimiaan ja ihmissuhteita. Lopussa tapahtuu suuri
+      luonnonmullistus.
+    - [[http://www.imdb.com/title/tt0449467][Babel]] (2006) kertoo marokkolaisesta vuohifarmarista,
+      japanilaisesta koulutytöstä, amerikkalaisesta pariskunnasta ja
+      meksikolaisesta lapsenlikasta. Erittäin kiinnostava esitys tähän
+      genreen.
+      
+    Sinä annat kommenttina lisää ehdokkaita, jos tiedät.
+
+** DONE Boston Public                                 :sarjat:david_e_kelley:
+   CLOSED: [2013-02-22 Fri 20:18]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-02-22 Fri 20:18]
+   :END:
+   
+   Boston Public on David E. Kelleyn luoma sarja bostonilaisen lukion
+   (high school) opettajista ja rehtorista ja vähän
+   opiskelijoistakin. Tarinat tulevat nätisti kouluympäristöstä:
+   milloin vanhemmat ovat kimpussa, milloin opiskelijat. Pientä
+   draamaa on koko ajan ilmassa ja välillä ryskyy isommin. Opettajien
+   mielenlaatua löytyy joka lähtöön ja vararehtori (Anthony Heald) on
+   varsin kylmäkiskoinen johtaja. Sarjassa on hyvä tunnelma kaikin
+   puolin.
+   
+   Tämän sarjan pari ensimmäistä kautta tuli aikoinaan (noin
+   2003-2005) Suomenkin televisiosta, ja ne silloin nappulana katsoin.
+   Eipä noista muistanut muuta kuin että erinomaisesta sarjasta on
+   kyse. Innoissani aloitin alusta ja ensimmäiset kaksi kautta ovat
+   erittäin kovia. Kolmas on nyt minulla aluillaan ja lupailee ihan
+   kelvollista.
+   
+   Kakkoskauden alussa taso nousi huomattavasti, kun Ronnie ja Danny
+   tulivat kuvioihin. Ronnie (Jeri Ryan) haluaa vaihtaa uraansa
+   lakipalveluista ihmisläheisempään puuhaan. Danny (Michael Rapaport)
+   puolestaan puhuu liian suurella sydämellä ja ajattelee liian vähän
+   sanomisiaan etukäteen. Sopii hyvin koulun muiden opettajien kanssa
+   yhteen. Ja voi toki, yhteenottoja syntyy kyllä...
+   
+*** Kakkoskauden loppua kohden
+
+    Kakkoskauden lopussa on kova jakso, kun Harry Senaten synttäreitä
+    kokoonnutaan juhlimaan, mutta Harry itse vanhasta oppimattomana ei
+    odottanut yllätysjuhlia. Lupaavat juhlat saavat oitis kaikenlaista
+    tummaa pilveä päällensä.
+
+    Miksi tämä oli jollain tavalla määrittävä hetki (defining moment)
+    Boston Publicin tarinassa ja jatkumossa?
+    
+    - Jakso on traaginen: Ronnie haluaisi olla Harryn, mutta Dana Poole
+      sotkee ympyröitä. Harry ei todellakaan halua esitellä
+      tuntemuksiaan kellekään.
+    - Jakso on huvittava: dialogi ja näyttely on perinteiseen tapaan
+      erinomaista. Tavallaan yliampuvia juttuja, tavallaan ei. Sopii
+      silti tähän jaksoon kuin räkä nenään.
+    - Steven hupihakemus toisen koulun rehtoriksi aiheuttaa kovaa närää
+      ja muuttaa monia käsityksiä. Hyvin dynaaminen tilanne kaikessa.
+    - Jakso on totta ja antaa paljon, muistuttaa myös: "we've had a
+      terrible night. The kind of night we'll come to refer to as the
+      good times."
+     
+    Näitä asioita tulee jatkuvasti sarjassa muutenkin esille, mutta ei
+    näin paljoa yhdessä jaksossa kerrallaan. Käsikirjoitus on parasta
+    kun se on hauskaa, traagista ja /totta/ samaan aikaan. Näistä
+    asioista ei todellakaan tarvitse vääntää minun kanssa kättä:
+    David E. Kelleyllä on selvästi jonkinlainen lahja.
+
+    Synttärijakson jälkeen moni asia sarjaa kohtaan tuntuu muuttuneen,
+    mutta ei sitten muutukaan. Juonella ja tarinoilla on jatkumonsa,
+    mutta se ei ole vahva jatkumo. Oma käsitykseni ja arvostukseni
+    sarjasta kohosi kovasti tämän episodin jälkeen.
+
+    Luonnollista taisikin olla, että tämä jakso lokaalina maksimina loi
+    tarpeetonta painetta myöhemmiltä jaksoilta. Kakkoskauden lopetus
+    olikin yllättäen synttärijakson veroinen, mutta paras on paras.
+
+*** David E. Kelley
+
+    Boston Publicin jatkuvasti toimiva käsikirjoitus johtaa
+    väistämättä tutustumaan taustapiruunsa. Kelley on kirjoittanut
+    erityisesti lääkäri- ja lakisarjoja (Chicago Hope, Boston Legal ja
+    Ally McBeal). Uudempi sarja, *Monday Mornings*, on ollut nyt
+    puheiden alla. Lisäksi kiintoisa tapaus, sarja nimeltä *Picket
+    Fences* kuulema johtaa paljon *Twin Peaksista* ja Northern
+    Exposuresta. Tätä pitää kokeilla. En luultavasti pety.
+
+** DONE Monday Mornings                               :sarjat:david_e_kelley:
+   CLOSED: [2013-06-15 Sat 13:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-15 Sat 13:24]
+   :END:
+
+   David E. Kelleyn uusi luomus on lääkärisarja kivalla twistillä.
+   Seuraamme Chelsea Generalin toimintaa Portland, Oregonissa. Tiivis
+   joukko lääkäreitä tekee parhaansa ja vain työtään. Valitettavasti
+   joskus kuitenkin potilaan näkemys hyvästä työstä eroaa lääkärin
+   vastaavasta.
+
+   Päälääkäri valvoo alaisiaan ja hoitovirheitä. Maanantaiaamuisin
+   kaikki kokoontuvat seuraamaan uusimpia tapauksia ja piinapenkkiin
+   pääsee yksi jos toinen.
+
+   Lääkärivirheiden lisäksi mukana on tietenkin aina parit
+   hoitotapaukset ja palaillaan aiempaan kanssa. Kelleyn tyylistä
+   pidän: jokainen jakso on uusi päivä maailmassa, mutta historia
+   painaa takana. Siis jatkuvajuonista ratkaisua hieman kevyempi
+   tapaus.
+
+   Sarjassa vierailee DEK-tutut, kuten *Anthony Heald* ja muita
+   julkimoita. Pilottijaksossa kuulin mitä mielenkiintoisimman
+   musiikkivalinnan pitkään aikaan: potilaan kuoltua leikkauspöydälle
+   pantiin etualalle soimaan Gilmour-vetoisen Pink Floydin
+   välisoittokappale "A New Machine" heidän vihatulta levyltään "A
+   Momentary Lapse of Reason", josta minä kuitenkin pidän huimasti.
+   Todella kiinnostava veto, josta en osaa sanoa, miten suhtautuisin
+   siihen. Se oli terävässä kontrastissa tavanomaisiin
+   pop-kappaleisiin, joten luultavasti sarjaa katsoneet ovat sankoin
+   joukoin nyt tutustuneet tähän unohdettuun albumiin.
+** DONE House MD                                                     :sarjat:
+   CLOSED: [2013-02-04 Wed 18:20]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2013-02-06 Wed 18:20]
+   :END:
+   
+   Tämä sarja alkaa olla kohta katsottu. Kahdeksatta ja viimeistä
+   kautta on jäljellä muutama jakso, jotka katson seuraavan viikon
+   aikana. Nyt onpi aika kirjoitella mietteitä tästä.
+   
+   Sarjallahan on mitä kutkuttavimmat lähtökohdat. Mestarilääkäri,
+   joka tekee asiat omalla tavallaan ja mausteitahan riittää. Uniikit
+   ihmissuhdetaidot ja olemalla alansa paras tekee hyvän ja
+   realistisen kombinaation. Tässä asiassa tietysti ollaan ajan myötä
+   hieman hypelty, mutta sarjahan on ollut parhaimmillaan pelkkien
+   hahmojen varassa ollessaan.
+   
+   Tarkoitan sitä, kun sarjan draama on kehittynyt pois
+   lääketieteellisistä ongelmista (ehkä draama ei koskaan ollutkaan
+   siellä -- alkupään kausia en muista juurikaan) ja erikoisjaksot,
+   joissa lääketieteellisellä potilaalla on huomattavan pieni rooli,
+   ovat niitä hienoimpia.
+
+   Kullakin kaudella on taipumusta alkaa hyvin, mutta heti sitten
+   vaivutaan pieneen ahdinkoon tai tylsään, harmaaseen massaan.
+   Massasta noustaan kehittelemään kauden kliimaksi vasta puolivälin
+   jälkeen, jolloin taso onkin sitten erinomaista. Näin tehtiin
+   ainakin vitosella, kutosella ja seiskalla. Nyt katsonnassa oleva
+   kahdeksas on ollut aika heikko tässä suhteessa.
+   
+   Housen kanssa on niin helppo samaistua, minun ainakin. Välillä
+   naurettavan yksityiskohtaiset analyysit toisten elkeistä ovat
+   toisaalta muodostuneet klassiseksi kliseeksi, mutta pysyvät
+   kutkuttavina. Ja Housen ongelmanratkaisumetodi varsinaisen työnsä
+   ulkopuolella on sekin viihdyttävää katsottavaa.
+   
+   Ensimmäinen iso merkki sarjan erinomaisuudesta tuli jossakin
+   kolmoskauden jaksossa, jossa unimaailma dominoi monessa pisteessä
+   ja taiteellinen näkemys oli erinomainen, suorastaan lynchinen.
+   Paras kausi mielestäni on ollut viides. Vanhat naamat lähtivät pois
+   kolmannella ja sitten neljännellä mukaantulleet alkoivat
+   viimeistään upota viidennellä sisään. Ja jaksot olivat mitä
+   nokkelimpia silloin. Dialogi ja kaikki. Ja viidennen kauden lopetus
+   sitten viimein ikuisti koko sarjan.
+   
+   Vitoskausi asetti sarjalle uuden riman. Valitettavasti myöhemmät
+   kaudet eivät yllä mitenkään yhtä pitkälle, vaikka sitten
+   kutoskauden päätöksessä kutitellaan hienosti siihen suuntaan ja
+   seiskakaudella on omia, erinomaisia häkkyröitä.
+
+*** ...where we came in?
+    
+    (Päivitystä 29.3.2013.)
+    
+    Kahdeksas kausi päättyi odotusten mukaisesti ja en sitten
+    malttanut olla ilmankaan: aloitin ensimmäisestä kaudesta
+    seuraavalla viikolla.
+
+    Alkujärkytys syntyi kahdesta asiasta: ensinnäkin kaikki ihmiset
+    ovat nuorempia. Noin 8 vuotta nuorempia. Hyvin nuoria! Mutta
+    isompi mielenkiintoisuus on sarjan alkuvaiheessa seurannut tyyli.
+    Hyvin taiteellinen ele on ollut alusta alkaen ja kaikenlaista
+    fotograafista kikkailua on ilmassa. Ja minä kun muistelin, että
+    sellaista otettiin vain hiljattain käyttöön kolmannella kaudella
+    sopiviin paikkoihin. Pehmeätä valoa, lievää bluria. 
+
+    CGI on mukana alusta alkaen, sen kyllä muistin. Alussa on
+    tavallaan mukava, kun otetaan sellaista realistista
+    lähestymistapaa lääkäreiden tekemiin löytöihin. Myöhemmillä
+    kausilla ne -- kuten on kannattavaa -- ohitetaan turhana toistona.
+    Wilson on yllättäen isona mukana pilotista lähtien. Tätä en aivan
+    muistanut.
+
+** DONE The Unit                                                     :sarjat:
+   CLOSED: [2013-04-07 Sun 19:28]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-07 Sun 19:28]
+   :END:
+   
+   Tämä supermainio [[http://www.imdb.com/title/tt0460690][sarja]] kertoo amerikkalaisesta erikoisjoukkueesta
+   tekemässä "black opseja" armeijan piikkiin ympäri maailmaa.
+   Tarkastelussa on sekä nelihenkinen tiimi että heidän vaimonsa ja
+   heilansa sotilasalueen asutuksessa. Työ on salaista, ja perheetkin
+   on pidettävä turvassa.
+   
+   Viime torstaina uppouduin viimeistä kertaa Snake Doctorin, Dirt
+   Diverin, Betty Bluen ja Cool Breezen, (sekä avustamassa Dogpatch,
+   Whiplash ja Red Cap), seurassa kun sarja sitten loppui. Neljä upeaa
+   kautta ovat täynnä hektistä ja erittäin hyvin tuotettua äksöniä.
+   Käsikirjoitus on rehellistä ja luontevaa, toiminta on näpäkkää ja
+   nämä meidän pikku-commandot toimivat kuuliaisesti.
+
+   Dennis Haysbert ja Robert Patrick isompina tähtinä ja koko
+   (modernimpi) tiimi on erittäin kelvollisesti valittuja
+   näyttelijöitä täynnä. Tätä sarjaa katsoisi mielellään lisää. Vaikka
+   suuret kuviot olivat hieman väsyneitä, jokaisen jakson oma tehtävä
+   on aina niin hyvin tehtyä, ettei kyllästymään voi mitenkään päästä.
+
+   Superlämpimät suosittelut.
+** DONE The Newsroom                                                 :sarjat:
+   CLOSED: [2013-02-07 Thu 11:07]
+   
+   Kiinnostava sarja Jeff Danielsin johdolla kertoo uutistoimistosta,
+   joka kilpailun kiristyessä reformoi tyylinsä kokonaan. Sarja nappaa
+   oikeita uutisia parin vuoden takaa aihepiiriinsä ja tekee yleisesti
+   ottaen hyvää HBO-laatua. Olen neljä jaksoa katsonut ensimmäisestä
+   10 jakson kaudesta. (Nyttemmin koko ensimmäisen kauden.) Uutta on
+   tulossa, sillä juuri tarkastin IMDB:stä että toista kautta on jo
+   kaksi jaksoa ulostautunut.
+
+   Newsroomin käsikirjoitus on oivaa, vaikka onkin poliittisesti
+   värittynyttä. Kunnon taiteissahan ei minusta politiikalle ole
+   sijaa. Mutta jos tehdään politiikasta taidetta, on se kai
+   pakollinen paha... Kirjoitus on originaalia, ja paikkaa paljon. Ei
+   sillä, että paikattavaa olisi kamalasti. Näyttelijöiden työskentely
+   on ihan hyvää, vaikka aivan vakavimmasta työstä ei puhutakaan. Jeff
+   Daniels ja Emily Mortimer toimivat hyvin yhdessä kyllä. Mukava
+   /feelgood/ jää katsomisen jälkeen pyörimään ilmaan. Lennokas
+   musiikki varmasti tekee osansa.
+   
+   Päivitetty 2013-03-29.
+
+** DONE It's Saturday Night!                                         :sarjat:
+   CLOSED: [2013-09-05 Thu 18:43]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-09-05 Thu 18:43]
+   :END:
+
+   /SNL/ eli /Saturday Night Live/ on käsite, johon Suomessa ehkä
+   törmätään harvemmin. Ja ne kerrat, kun siihen törmätään, nähdään
+   vain outoa ja kuivaa sketsihuumoria vähillä mausteilla. Ehkä näin,
+   mutta olen alkanut nähdä uusia ulottuvuuksia tästä hienosta
+   installaatiosta.
+
+   Vuodesta 1975 alkaen säännöllisesti pyörinyt sketsisarja esitetään
+   New Yorkista käsin livenä ja joka viikko sketsejä piristää jokin
+   vierastähti, eli illan /isäntä/. Sketsit ovat hyvinkin toistuvia ja
+   seassa silloin tällöin jotain uutta kokeilua. Sarjan mukavuus on
+   seurata ihmisten nousua ryysyistä rikkauksiin. Esimerkiksi Bill
+   Murrayn, Eddy Murphyn, Mike Myersin, Tina Feyn ja Will Ferrellin
+   tapaiset nimet ovat tulleet pinnalle juuri SNL:n kautta. Ja nyt
+   esimerkiksi sarjan pääkirjoittaja Seth Meyers pääsee jatkamaan
+   uraansa NBC:n myöhäisillassa Jimmy Fallonin tilalla (Fallon siirtyy
+   Tonight Show'hun kun Leno jää /toista/ kertaa eläkkeelle.)
+
+   Tähdet tuikkivat siis. Ja riemastuttavaa on kanssa nähdä paljon
+   hienoja tähtiä elokuva- ja TV-maailmasta. Hugh Laurie on
+   esimerkiksi oiva SNL-isäntä. Innolla odotan saavani aikaa katsoa
+   Jeff Bridgesin isännöimän jakson parin vuoden takaata. Onpa myös
+   Conan tehnyt jakson. Moni aiempi SNL:stä ponnahdusta saanut on
+   myös tullut vierasisännöimään muistoja virkistääkseen.
+
+   Sarja on hyvin liberaalissa hengessä tehty ja demokraatit
+   kukoistavat urbaanin manhattanilaismiljöön keskellä. Senkin kestää,
+   kun huomaa toistuvista kaavoista parhaan kaiken keskeltä:
+   vakiokasti on hyvin läheistä porukkaa ja koko tunnin jaksosta tulee
+   pitkästi sellainen "perhe koolla" -fiilinki. Ihmiset tuntuvat
+   selvästi tulevan ensisijaisesti viettämään hyvää aikaa keskenään ja
+   vasta toissijaisesti tuottamaan tv-katsojille tasokasta viihdettä.
+   Eipä siinä, tunnin ohjelmaan ehtii kyllä saada parit naurut
+   aikaiseksi. Tätä korostaa vielä ainakin nykyjaksoissa henkevä
+   alkumusiikin aikana tehtävä kattava listaus vakituisista ja
+   uusista "koeajalla" olevista nimistä. Sopivan kiireetöntä menoa ja
+   sopisi muuallekin.
+** DONE Fallout                                               :pelit:fallout:
+   CLOSED: [2013-06-18 Tue 16:04]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-18 Tue 16:04]
+   :END:
+
+   Uudet 3D-Falloutit jakavat hieman pelikansaa kahteen osaan, mutta
+   minä olen valmis julistamaan Fallout 3:n parhaaksi pelaamakseni
+   peliksi. Tämä vieläpä konsolilla, jossa kaikki tökki ja jökki. Nyt
+   tilasin Fallout: New Vegasin täyden paketin, eli Ultimate
+   Editionin. Siinä on luonnollisesti kaikki julkaistut lisäosat
+   samassa paketissa. Ja tämä on PC:lle. The way FPS's are meant to be
+   played.
+
+   New Vegasia pidetään kaikin puolin kolmosta parempana: on kuulema
+   uskollisempi alkuperäisille ja kaikkea sitä. Se voi olla, ja
+   pelimekaniikka on ainakin NV:ssä hyvää tasoa. Mutta tunnelman ja
+   sellaisen kanssa itärannikolle sijoittuva Fallout 3 vetää omassa
+   painotuksessani pidemmän korren. Ero on samanlainen kuin Grand
+   Theft Auto -pelisarjan pelien välillä. GTA: San Andreas saattaa
+   olla /toistaiseksi/ sarjan monipuolisin peli, mutta Vice City tai
+   GTA IV vievät tunnelmassa ja kokemuksessa. Maun mukaan; Vice City
+   ainakin henkilökohtaisesti on kutkuttanut runsaasti nämä viime
+   vuodet.
+
+   Fallout 3 on sopivan sininen ja radioaktiivinen kokemus, ja pidän
+   sen hyvästä musiikkivalikoimasta NV:tä enemmän. Mutta kolmonen on
+   pelattu täysin läpi (GOTY (Game Of The Year) Edition), on New
+   Vegasin aika. Mikä erinomaisinta, NV:lle on luvattu erinomainen
+   wine-yhteensopivuus. Koodi on muutenkin teknisesti parempaa -- jo
+   konsoliversioissa sen näin ja haistoin. Kolmonen jumiutuu sangen
+   ikävästi milloin mihinkin. New Vegas on aina ollut sulavampi
+   kokemus. Uuden raudan kasattuani NV:n pitäisi putkahtaa
+   postiluukusta sisään ja riemu olkoon rajaton.
+   
+   Joutomaalla kelpaa selailla ja tutkiskella nyt kun pitäisi speksien
+   puolesta olla ihan pelikelvollinen elämys luvassa. Ainut oikea tapa
+   kerätä tunnelmaa on FPS. Syksyn kuuma odotus, eli Wasteland 2, on
+   epäilemättä superhyvä, mutta en valitettavasti kykene odottamaan
+   siitä yhtä tunnelmallista kokemusta kuin näistä isommista peleistä.
+   Kyse on eläytymisestä: toki top-down -peleissäkin osaan eläytyä,
+   mutta FPS tuo sen parhaiten silmille.
+
+   Parhaat eläytymiset kyllä tulivat, kun Fallout 3:lla aloittelin
+   PS3-konsolilla silloin muinoin. Pelikäyttöliittymän hienot kikat
+   olivat pimennossa ja suunnistelin Arefulle sitten ilman kummempia
+   ohjeita. Tehtävänä oli suunnistaa itään ja se oli kyllä erinomaisen
+   tunnelmallinen päiväretki. Myöhemmin kun opin, että kompassista
+   näkee päätehtävää parhaiten edistävän ilmansuunnan, alkoi peli
+   nopeasti rutinoitua. Alussa oli selviytyminenkin tyylikkään
+   haastavaa, ja jokainen kohtaaminen raiderien kanssa tuotti pientä
+   haastetta. Tämä hävisi sekin nopeasti. Ehkä nyt aloitan suoraan
+   pelin vaikealla vaikeustasolla.
+   
+*** Jatkokehityksiä
+
+    New Vegas on likipitäen täydellinen peli sekin, mutta tuo /auto
+    travel/ on iso tunnelmansyöjä. Täydellinen kokemus olisi ollut
+    tuoda Half-Life 2 -henkiset ajoneuvot ja kustomoidut kirput
+    areenalle. Niillä olisi päässyt päristeltyä nopeasti, mutta
+    polttomoottori melu olisi toisaalta karkottamassa pienempiä
+    elukoita ja houkuttelemassa isompia paikalle. Olisi jännitystä
+    matkanteossa sitten.
+    
+** DONE Jos Fallout olisi kuten Nethack               :pelit:fallout:nethack:
+   CLOSED: [2013-07-09 Tue 12:40]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 12:40]
+   :END:
+
+   Fallout New Vegas tuo pöydälle kiintoisan Hardcore-moodin, jonka
+   myötä ammuksilla on massa (ei enää satojen ohjusten kantelua
+   selkärepussa noin vain), syödä ja juoda pitää kun on nälkä ja jano,
+   ja untakin pitäisi saada. Kaikki on varmasti hyvin hc:ta, mutta
+   Nethackia pelanneelle nämä ominaisuudet kuulostavat aika tutuilta.
+   Minkälaisia eroja pelaamisessa noin muuten olisi?
+
+   Ensimmäinen huomio varmasti olisi, että syödä pitäisi, ja vieläpä
+   ravitsevasti niin. Siihen päälle vielä ns. /iron man/ -pelitila,
+   eli tallennettaessa peliä peli lopetetaan ja ladatessa peli savetus
+   poistetaan. Kuoleman koittaessa ei auta hötkyily. Jotta tämä nyt
+   olisi kunnolla hyvä valinta, pitäisi pelin toimia kaatumatta hyvin.
+   Kaatuilipa Nethackikin aikoinaan, mutta siellä oli hyvät
+   palautustoiminnot onneksi mukana.
+
+   Kuolema on tietysti ikävä, mutta apuna on
+   hengenpelastus-onnenamuletit, teleportaatio pakokeinona ja maahan
+   kaiverrettava tai poltettava *Elbereth* -teksti, jota kaikki
+   eläimet pelkäävät ja kunnioittavat, eivätkä käy kiinni.
+   Ihmisvihulaiset ja kaukaa ampuvat eivät välitä.
+
+   Jotta asiat eivät mene liian helpoksi, korkeamman tason
+   vihulaisilla on heilläkin teleportaatio apuvälineenä. Lähinnä
+   pakenevat pelaajan ulottumattomiin parantelemaan itseään.
+   
+*** Kaikella on massa
+
+    Jopa korkeilla on oma, pieni massansa, joka alkaa tuntua siinä
+    vaiheessa kun massia on kymppitonneittain repussa. Kudit ja muut
+    luonnollisesti painavat jotain.
+
+    Lisälystiä saadaan, kun pääasialliseen inventaarioon mahtuu vain
+    55 eri esinettä tai asiaa: loput joutuu jemmaamaan joko pussukkaan
+    tai ulkopuoliseen kirstuun. Toisaalta plus-puolena onkin, että
+    lukitut kirstut pitävät tavaransa säilössä ja omia jemmojaan voi
+    tehdä minne vain joutomaalla.
+
+*** Taidot ja kokemustasot
+
+    Erilaiset taidot kehittyvät käytön myötä, ei suinkaan
+    kokemustasojen perästä. Aluksi unskilled-tasolla aseen ampuminen
+    tai miekan huitominen tuottaa runsaasti huteja, mutta sitten se
+    taito kehittyy. Kun harjoittelua on tehty tarpeeksi, voi tämän
+    uuden taidon "unlockata" skill-ruudussa, mutta kokemustaso
+    vaikuttaa avattavien taitojen määrää.
+    
+    Eri tehtäviä varten tarvitsisit tietyn kokemustason päästäksesi
+    suorittamaan sitä. Perksejä ei ole, eli kokemustaso vaikuttaa vain
+    taitojen avaamiseen ja tehtävien tekemiseen. Kokemusta saa vain
+    vihulaisten tappamisesta ja sopivista kemikaaleista, joita voi
+    itsekin leiritulella kokkailla. Sekä koiranruoasta.
+
+    Satunnaisesti arvottujen vihulaisten vaikeusaste on keskiarvo
+    pelaajan kokemustasosta ja fyysisestä etäisyydestä
+    aloituspaikkaan. Ehkä ei toimi tasossa niin hyvin kuin Nethackin
+    kerrospohjaisessa luolastossa.
+
+    SPECIAL muuttuu D&D-henkiseksi /Strength -- Constitution --
+    Dexterity -- Intelligence -- Wisdom -- Charisma/ -yhdistelmäksi.
+    Onnea ei saa itse säätää, mutta sopiva onnenkivi taskussa riittää
+    muuttamaan asiat omaksi edukseen. Nämäkin ominaisuudet kehittyvät
+    käytön myötä, paitsi karisma ja älykkyys, joihin pitää puuttua
+    sitten implantein tai taikaesinein.
+    
+*** Seuralaiset
+
+    Falloutissa on seuralaisia ja matkakumppaneita; Nethackissa on
+    eläimiä. Älykkäitä eläimiä ei voi valjastaa lemmikeikseen, mutta
+    seassa on aika tiukkoja elukoita, joilla saa hyvää tuhoa aikaan.
+    Nethackin lemmikit voivat tietenkin kuolla omistajansa tapaan,
+    mutta jos ruumis jää lojumaan maahan, aina voi kokeilla elvyttää
+    sopivalla sauvalla.
+
+    Lemmikeillä voi esimerkiksi varastaa kaupasta ilman "karman"
+    (Nethackissa "alignment") menettämistä.
+
+*** Tavaroiden parantelu ja valmistaminen
+
+    Falloutissa, erityisesti New Vegasissa, on hyvät välineet ja
+    mahdollisuudet tehdä kaikenlaista pientä resepteistä ja
+    raaka-aineista. Nethackissa aseita voi vain parannella kääröin.
+    Juomia voi tietyin varauksin tehdä sekoittelemalla pullojen
+    sisältöjä keskenään. Tämä toimii tietyissä tilanteissa todella
+    edullisesti pelaajan kannalta.
+
+    Nethackissa voi myös keräillä roskatavaraa ja polymorfailla sitä
+    paremman tavaran toivossa. Menetelmä tuottaa erityisesti
+    loitsukirjojen tapauksessa hyviä tuloksia. Taikaesineitä
+    polymorfaamalla saa hieman tavallista paremmalla
+    todennäköisyydellä uusia taikaesineitä.
+
+    Ja Nethackissa voi tietenkin onnekas sielu päästä tekemään
+    toivomuksen: mikä tahansa on vapaata riistaa, mutta artifakteja
+    toivoessa todennäköisyydet pienenevät generoitujen artifaktien
+    myötä: /make it count/.
+
+*** Ja mitä muuta?
+
+    Aseita voi parannella ja modailla entiseen malliin, mutta nyt ne
+    voi siunata tai joku voi ne kirota. Kirottu ase toimii vähän miten
+    sattuu; kirottua haarniskaa ei voi riisua. Ikävämpi juttu, jos
+    kokeilee jotain legionaalaisen hametta, joka onkin kirottu.
+
+    Nethackissa on varsin suoraviivainen pelimalli, jonka ansiosta
+    ylipäänsä nämä pelimekaaniset seikat ovat mahdollisia ja hyvinkin
+    toimivia. Eihän näistä monikaan toimi sellaisenaan Falloutin
+    kaltaisessa pelissä, kuten olemme varmaan nähneet tässä.
+** DONE Faster Than Light 2                                 :pelit:roguelike:
+   CLOSED: [2013-04-02 Tue 12:20]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-02 Tue 12:20]
+   :END:
+   
+   Faster Than Light on hykerryttävän mukavaa avaruuskikkailua, jota
+   onpi myös roguelikeksi haukuttu. Tästä arvonimestä on käyty
+   keskustelua: onko se aivan paikkansapitävä genre tälle pelille.
+   Minulle ainakin tulee avaruus-roguelikesta ensin mieleen jotain
+   hieman muuta, mutta kun peliä pelaa tarpeeksi, on myönnyttävä
+   antamaan rogueliken arvokas genrelappu tällekin.
+
+*** Millä tavoin FTL on roguelike?
+    
+    Roguelikessä tarvitaan aina yksi ohjattava hahmo. Ensin mietitytti
+    se, että mikä on FTL:n tapauksessa se hahmo. Aluksen miehistö
+    vaihtuu ja menee, mutta näkymätön kapteeni ja itse alus säilyvät.
+    Alus, tai sen näkymätön kapteeni, on tämä hahmo. Muita havaintoja,
+    jotka mielestäni kuvaavat roguelikeihin:
+
+    - Satunnaiselementit tietenkin.
+    - Satunnaisuudesta huolimatta alati kehittyvä taito päästä
+      eteenpäin.
+    - Strateginen taktikointi satunnaiselementtien edessä.
+    - Hyvien aseiden satunnainen ilmaantuminen.
+    - Minitehtävät (lievästi) vapaalla valinnalla.
+    - Lopputaistelu kuuluu henkeen.
+      
+*** Faster Than Light 2
+    
+    FTL on selvästi suunniteltu raikkaalla ranteella, eikä välttämättä
+    poikien ideana ollut koskaan tehdä lopullista Nethack-in-space
+    -spektaakkelia. Minä sen sijaan voisin maksaa seuraavat 9 euroa
+    hyvin samanhenkisestä pelistä, mutta jossa roguelike-elementtejä
+    on viety vielä pidemmälle:
+
+    - Avaruudesta kokonainen sektoripohjainen taso, josta mikään
+      vanha paikka ei häviä ja uutta generoidaan entiseen malliin
+      tarvittaessa, kuten nytkin. Lopputaistelun käymällä peli kyllä
+      loppuisi, mutta ei välttämätöntä, tyyliin ADOM.
+    - Varastoinnilla uudenlaista merkitystä. Ehkä romumetallin sijaan
+      haaksirikoista löytyisi enemmän sekalaista sorttia roinaa, jolla
+      on massa, ja alus ei jaksa kuljettaa loputtomia määriä.
+      /Scrappi/ voisi silti toimia valuuttana kuten kulta Nethackissa.
+    - Kaupankäynti edellisen nojalla hieman oleellisemmaksi: vapaus
+      myydä kaikkea ja suorittaa vaihtokauppaa. Eri kauppiaat
+      tarjoavat eri hintoja ja onnekas pelaaja voi tienata vaikka
+      ohjuskaupalla ylimääräistä taskunpohjalle.
+    - Questit kuten ennen, mutta avoimemmin määriteltyjä. Koska
+      pelitaso voi nyt sisältää vapaammin taaksepäin mentäviä alueita,
+      voivat erilaiset tehtävät saada uudenlaista luonnetta.
+    - Helppo vaikeustaso veks. Nyt pelaajat tietävät, mitä odottaa.
+      Lisäksi alus voi aina palata aiemmin selatuille vesille, jossa
+      on suhteellisen turvallista korjailla alusta ja odotella
+      parantumisia.
+    - Alusta voi myös vaihtaa jollain sopivalla planeetalla toiseen
+      välirahalla tai ilman: riippuu kovasti asennetuista
+      virityksistä.
+    - Roguelikeille oleellinen /iron man/ -moodi tulee tietenkin
+      säilyttää, ja satunnaiselementtien suuri varianssi samoiten.
+
+** DONE Happojatsi ja Acid jazz                               :musiikki:jazz:
+   CLOSED: [2013-06-29 Sat 19:27]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-29 Sat 19:27]
+   :END:
+
+   Kaksi termiä, joilla on haasteellisesti kovin samantapaiset nimet.
+   Mutta itse sisällöt ovat kovasti erilaiset. Koska minä olen
+   pääasiallinen /happojatsi/-termin viljelijä, koen eräänlaista
+   tarvetta antaa selityksen tapahtuneelle.
+
+*** Happojatsi on sitä vapaampaa sorttia
+
+    Vaikka jo kultaisella 50-luvulla jazz-skene kuohui Miles Davisin
+    ja John Coltranen tapaisilla spektaakkeleilla, todellinen potti
+    avattiin 1959 ja 1960, kun Ornette Coleman toi vapaan
+    improvisaation kaikkien huulille. Colemanin johdolla, erityisesti
+    hänen levynsä /The Shape of Jazz to Come/ (1959) ja /Free Jazz/
+    (1960) julistivat jazz-musiikin vapaaksi säännöistä -- mistä,
+    totisesti, genrenkin nimi tulee.
+
+    Kaikki eivät Colemanin musiikista niin pitäneet, mutta suurta
+    momenttia kerännyt Coltrane näki uudessa tyylissä ja vapaudessa
+    paljon hyvää. Kirjaimellisesti LSD-huuruissa hän alkoi siirtyä
+    bopeistaan kohti vapaata tyyliä vuonna 1965: suuri happojatsin
+    vuosi.
+
+    Coltranen johdolla /free jazzin/ genre levisi hieman ympäriinsä,
+    mutta vapaudestaan johtuen kaikkea on kovin hankala luokitella.
+    Käytänkin kernaasti sateenvarjotermiä /happojatsi/ merkkaamaan
+    kaikkea happopäiseltä kuulostavaa jazzia. Listaan muutamia hyviä
+    levyjä, jotka karakterisoivat omaa käsitettäni:
+
+    - Ornette Coleman - Free Jazz (1960) :: luonnollisesti se
+         alkuperäinen vapaan jazzin starttaaja. Colemanin /Free Jazz/
+         on musiikillinen vastine Jackson Pollockin /Number 5/:lle.
+    - John Coltrane - A Love Supreme (Live) (ALSL) (1965) :: Coltranen
+         /magnum opus/ oli A Love Supreme vuodelta 1964, ja jo se
+         esitti vahvoja modaalisen bopin elementtejä uudenlaisessa
+         valossa; vapaassa valossa. Myöhemmin ilmeisesti ainut hyvin
+         taltioitu live-esitys tästä jazz-klassikosta on selvästi
+         hapokkaampi ja todellinen taidonnäyte, miten improvisaatiota
+         voi käyttää rakentamaan jotain uutta kaoottisesta, eikä vain
+         luomaan lisää kaaosta.
+    - Coltrane - Ascension (1965) :: 'Trane halusi luoda jotain
+         eeppistä happorintamalle, ja tuloksena syntyi koko levyn
+         kattava /Ascension/ -- täynnä happoa kaikilta nimiltä
+         alhaalta. Ehkä 'Tranen ALSL oli tarpeeksi meille muille --
+         minusta ainakin ALSL esittää kaikki parhaat happoelementit,
+         mutta Ascensiota ei sovi siitä huolimatta sivuuttaa. Sanders
+         heittelee varsin hurjat sävelet täällä, ja muutenkin
+         lämmettyään kokonaisuus tekee hyvää kuulla.
+    - Pharoah Sanders - Karma (1969) :: Sanders soitti 'Tranen
+         remmissä mestarin kuolemaan asti, ja Sandersin myöhemmät
+         soolotuotokset ovat järin merkittäviä aivan omassa
+         arvossaankin. Sandersin vapaa tyyli on spiritualistista,
+         johon vain sopii hänen erinomainen tenorisaksofonin
+         käyttötaito. Sandersin muut levyt, kuten /Izipho Zam/ ja
+         /Elevation/ ovat omaan korvaani 'Tranen ALSL:n ohella niitä
+         määrittelevimpiä happojazzilevyjä.
+    - Archie Shepp - New Thing At Newport (1965) :: Shepp on toinen
+         Coltranen happoajan poppoon vakionimi. Shepp toimi kovasti
+         esimerkiksi /Ascensionin/ parissa. Hieman poikkeuksellisesti
+         Sheppin soolouran levyt eivät ole niin hapokkaita kuin
+         muilla: ehkä hän vain nauttii soittamisesta, oli jazz
+         vapaata tai ei. Hänen taitonsa ei totisesti mene hukkaan
+         /Attica Bluesin/ tai /The Way Aheadin/ kanssa, se on vissi!
+         
+    Olen itse niin partiaalinen tenorisaksofonille, niin
+    Coltrane--Sanders--Shepp on helposti se kolminaisuus, johon
+    hakeudun kun tarvitsen happoa korvistani sisään.
+
+    Happoilua harrasti moni, moni esittäjä; eivät kaikki
+    saksofonisteja. Pianisti Cecil Taylor edustaa hyvin vaihtoehtoista
+    kuvaa vapaasta jazzista. En ole itse niin pianojazzin perään,
+    mutta /Looking Ahead/ ja /Jazz Advance/ ovat erittäin onnistuneita
+    levyjä muistaakseni.
+
+    Rockahtava ryhmä, jolla on ripaus reipasta happoa suonissaan: *Les
+    Claypool's Frog Brigade* ja erityisesti livekeikka /Live Frogs/ on
+    todella hyvä esimerkki enemmän rock-orientoituneelle siitä, mitä
+    vapaa jazz tarkoittaa.
+
+    Elektronisella puolella meillä on Squarepusher, jolla on oikea
+    tyyli vapaaseen suuntaan.
+
+*** Acid jazz
+    
+    Happojatsi on pitkälti minun kehittämä ja käyttämä termi. /Acid
+    jazz/ on sen sijaan oikea genre, joka yhdistää monesti
+    elektronista musiikkia, räppiä ja tanssimusiikkia joihinkin
+    perinteisiin jazzin elementteihin. Usein kuulee kyllä, että
+    kyseessä on jazz-levy, mutta voi olla hankala osoittaa sormella
+    syyllistä. Acid jazz on mukavaa ajanviettomusiikkia, jota voisi
+    kuvitella mukavissa tanssipaikoissa soitettavan tanssiväelle.
+    Ehkä ei, mutta saa sitä kai kuvitella.
+
+    Vaikka olen tähän genreen tutustunut lähinnä etsiessäni
+    happojatsiin liittyvää materiaalia, niin tyyli jäi tavallaan
+    "omakseni". Se toimii elektronisen musiikin ohella rentouttamaan,
+    mutta myös tarjoamaan satunnaista taustamusiikkia erilaisine
+    kokoelmineen.
+
+    Muutama nimi, joita voisin luonnehtia hyvin kivasti acid jazz
+    -vaikutteisiksi:
+    
+    - De-Phazz :: erityisesti levy /Days of Twang/ on hyvin
+                  määritteleväinen acid jazz -tuotos, jossa on
+                  kaikkea elementtejä.
+    - The James Taylor Quartet :: todellinen suunnannäyttäjä ja acid
+         jazzin perikuva. Näiden levyt ovat täynnä viheltelevää
+         meininkiä positiivisemmilta ajoilta.
+    - Parov Stelar :: elektronisempaa, mutta silti ah-niin
+                      "orgaanista" ja jazzahtavaa.
+                      
+
+    Acid jazz on hyvin heterogeenistä musiikkia, mutta silti se on
+    helppoa tunnistaa. Hae lähikirjastostasi mikä tahansa acid jazz
+    -kokoelma: esimerkiksi /100% Acid Jazz/ tai /Ministry of Sound -
+    Acid Jazz/ -kokoelmia. Löydät nimiä kuten *Will Downing*, *Brand
+    New Heavies* ja *Jamiroquai* niistä. Elektronisen tanssimusiikin
+    ja acid jazzin välillä on joskus niin ohut väliseinämä.
+** DONE Jyrki Kivimäki ja Dzoukki-kirjat                     :kirjat:huumori:
+   CLOSED: [2013-04-16 Tue 14:51]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2013-04-16 Tue 14:51]
+   :END:
+
+   Järin omituista on, etteivät nämä kirjat koskaan levinneet
+   pitkälle. (PC) Dzoukki -kirjasarja on nimittäin viihdyttänyt monin
+   painoksin vuosilla 1995-2006 ja ne ovat monia kultaisia juttuja ja
+   nostalgiaa 90-luvulta täynnä.
+
+   Kirjathan ovat seuraavat:
+
+   - Dzoukki '95
+   - Dzoukki Y2K (1998)
+   - Dzoukki Y3K
+   - Dzoukki XP (2004)
+   - Dzoukki 2006
+     
+   Näistä kirjoista oleellisin on Dzoukki Y3K, jota onneksi useimmissa
+   kirjastoissa löytää. Niitä kai hankittiin Kivimäen nimen
+   perusteella hyllyyn sen kummemmin sisältöä tutkimatta. Suosittelen
+   kaivelemaan tavallisen kirjastonne hyllyjä, sillä nämä kirjat ovat
+   kultaa. Olen aikani metsästellyt opuksia omakseni ja vain Y2K
+   puuttuu hyllystä. Hieman tarpeetontahan sen hankkiminen on, sillä
+   Y3K on pitkälti uusintapainos Y2K:sta useilla lisäyksillä, mutta
+   myös muutamalla poistolla.
+
+   Tämän sarjan kanssa oppii niskoittelevista käyttäjistä,
+   koodaajista, mikrotuesta, johdosta. On johtajia, taloushenkilöstöä
+   ja koulutusviikonloppuja. Kaikki erinomaisen hienosti rakenneltuna
+   kieli poskella ja erinomaisen kuivakalla kerronnalla. Kirjat ovat
+   hyvin mielikuvituksekkaasti ideoituja tosiaan. Ja työt ovat
+   pitkälti kaikki 1990-luvun fiilistelyä aikakaudelle ominaisten
+   juttujen kanssa. "Kuka haluaa alustaa levykkeet tälle kurssille?!"
+
+   Minuun nämä jutut upposivat jo pojankloppina, vaikka kaikki
+   bisneselämään liittyvä ei aivan selvinnytkään. Sitä sitten vähän
+   kerrassaan oppi enemmän ja enemmän. Sääli on se, miten vähän
+   internetistä löytyy näitä juttuja. Paolo Rytkösen raideria koitin
+   googlailla, mutta mitään fiksuja tuloksia en löytänyt. Ehkä
+   lähitulevaisuudessa tämä postaus oleilee listan kärjessä.
+
+   Ernst W. Hakkarainen on toinen kova, mieleenpolttunut hahmo.
+   Uusmediakoodarit Marco ja Hemmo-Joachim samoiten. Sepposen ja
+   Tepposen Formula Notes -tappelut nekin. Puhumattakaan huvittavista
+   case-tapauksista, joita voi todellakin kehitellä loputtomiin.
+
+   Vaan taitaa Jürgen von Steinhugel nyt olla luovuttanut pelin.
+   Viimeisin kirja jo liikkui uusille urille, eikä ollut aivan Y3K:n
+   veroinen. Paluu 90-luvulle olisi liian kornia, ja hankala olisikin
+   panna paremmaksi sillä saralla. Mutta olemmehan me kehitelleet
+   2000-luvullakin paljon hulluja juttuja ja erityisesti kun
+   kokonaiskuva on kehittynyt...
+* Mietteet
+  :PROPERTIES:
+  :CATEGORY: miete
+  :END:
+** DONE Joensuuhun hinnalla millä hyvänsä                            :asunto:
+   CLOSED: [2013-03-08 Fri 18:03]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-03-09 Sat 18:03]
+   :END:
+   
+   16 kuukauden Outokumpuilun jälkeen sitä pääsee viimein muuttamaan
+   Joensuuhun. Hinta (asumistaso) tuntuisi äkkiseltään kevyeltä, mutta
+   on se aika kova kuitenkin.
+
+   Uusi asunto on Joensuun ruutukaava-aluetta, kuten kuuluukin olla.
+   Yliopistolle on 15 minuutin matka kävellen. Ei riippuvuuksia
+   busseihin, ei aikatauluja. Taivas.
+   
+   Asunto maksaa välittömine kuluineen (vuokra + kommuutti + vesi)
+   noin 35 euroa kuussa enemmän kuin Outokummussa. Hieman enemmän kuin
+   mitä olin valmis ottamaan, mutta kohtuuhintaista asuntoa on
+   metsästelty hyvät tovit. Vaikka olisi voinut tärpätä paremminkin,
+   nyt tärppäsi hyvin.
+   
+   Lisäkustannus on kouluaikoina tuo 35 euroa; kaikille
+   kesäkuukausille ei Okussa bussia tarvinnut, joten niille
+   kuukausille lisäkustannus on satasen suurempi. Kaikki sen parempi;
+   motivoipa enemmän työnhakuun!
+   
+   Kämppä on tietenkin lokaatioltaan erinomaisella sijainnilla
+   ylimmässä kerroksessa ja kohtuuhyvin lähellä palveluita
+   (Outokummussa on joitain palveluita lähempänäkin, mutta vastineeksi
+   on tuskaisia ylämäkiä ja huoltoaseman metelit.)
+   
+   Saattaa olla, että vain muutan Okun huoltoasemahälyt hieman
+   kalliimmaksi naapurihälyksi Joensuussa. Naapurihälyt ovat hieman
+   korvaantunkeutuvaisempaa, mutta niitä vastaan on myös ehkä helpompi
+   taistella. Asiaa ei pitäisi pohtia ennen kuin olen saanut sen
+   kaikukammion täytettyä huonekaluilla. Saattaa yksi jos toinenkin
+   meteli vaimentua yksinään sillä.
+   
+   Pysyviä töitä voisin mielelläni ottaa Kotkan kaltaisista
+   ei-opiskelijakaupungeista, joissa on erinomainen ja tiivis
+   keskusta. Helsinki ei kiinnosta pätkääkään hajanaisuuden ja kalliin
+   keskustan takia. Vaikka HSL on parasta, mitä Suomesta saa, ei ole
+   tarpeeksi hyvä.
+   
+*** Haasteita
+
+    Tämä asunto on haasteinen asunto. Ikkunat länteen, ei verhoja ja
+    vapaa huoneleiska. Keittiön tuuletushormista kuuluu naapurien
+    äänet melko vapaasti. Ruuvailla ei kuulema seiniin saa ilman
+    lupaa.
+
+    Haasteita riittää... ja näihin haasteisiin on mukava vastata.
+    Koulunkäynti siinä ohessa teettää vain vähän työtä rahasta
+    puhumattakaan. Näissä asioissa voi vaipua epätoivoon tai ymmärtää,
+    että joskus on ponnistettava vähän matalempaa kuin tavallisesti.
+    Ja Joensuussa on helppoa ponnistaa, kun on rautakaupat lähellä.
+
+** DONE Viikonloppu Joensuussa                                       :asunto:
+   CLOSED: [2013-03-17 Sun 21:46]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-03-17 Sun 21:46]
+   :END:
+   
+   Eilen lauantaina sitten muutin Outokummusta Joensuun ruutukaavalle
+   ja nyt sitä mietitään teon kaikkia implikaatioita. [[*Joensuuhun hinnalla millä hyvänsä][Edellisessä
+   postauksessa]] tuumailin joitakin alkuoletuksia asialle. Ne oletukset
+   liittyivät ensinnäkin kovasti joihinkin löytämiini teknisiin
+   haasteisiin. Haasteita on muunkinlaisia.
+
+   Naapurihäly on nyt pidemmän oleilun perusteella selvinnyt ihan
+   kohtuulliseksi. Lauantai-ilta sujui verraten rauhallisissa
+   merkeissä. Myös näin sunnuntai on ollut mukava. Naapurien
+   kovaääninen jutustelu liittyy nähtävästi huoneiston avonaisiin
+   oviin samalla tavalla kuin Outokummussa. Harmi vain, että täällä
+   minulla ei ole valtaa sulkea kaikkia ovia -- niitä kun ei ole.
+   
+   Keskustassa on mukava olla, ja tämä nurkka ruutukaavaa tuntuu
+   olevan rauhallisempaa. Pahalta kuulostaa tuossa ruutukaavaa jakavan
+   Koski- ja Siltakadun kupeessa. Tämä on rauhallisempaa aluetta ja
+   torille on silti huisin lyhyt matka. Bussikorttiakin on reilu
+   viikko jäljellä, joka pitänee käyttää lähiliikenteessä.
+   
+   Jääkaappi (Rosenlew) tuntui levinneen, mutta onneksi äidin
+   jääkaappi palvelee 15 minuutin bussimatkan päässä. Ja onpa
+   taloyhtiöllä kylmävarastokin, jonka 4 celsiusasteen lämpötila
+   riittää oivasti vastaamaan jääkaappioloja. Vuokraisäntään otan toki
+   yhteyden heti kun vastaa puhelimeen.
+   
+   Asunto on Outokummun asuntoa kuivempi ilmaltaan: ehkä täällä
+   ilmankierto pelaa tai jotain muuten. Tuntuu ja haisee hyvältä.
+   Suihkusta tullessa iho kuivaa todella vauhdikkaasti ja teevesi
+   höyryää kovasti. Staattinen sähkö vaivaa paikoittain kovasti.
+   
+   Ja niin, se suihku. Tässä asunnossahan on ensisijaisesti kylpyamme
+   ja suihku tuntuu hieman hankalalta näin kahden suihkuttelukerran
+   jälkeen. Kylpyhuoneen seinät ja lattia ovat jonkintapaista muovia
+   kaakelin sijaan, ja kaikkien saumojen vedenpitävyydestä en ole
+   satavarma. Onko tässä opeteltava kylpemään ammeessa, ettei homeesta
+   tarvitse ruveta kärsimään tai maksamaan. Se tuntuu niin kovin
+   hitaalta suihkuun verrattuna.
+   
+   Nettiyhteyttä ei ole vielä asennettu, mutta mokkuloita on
+   kokeilussa ja lainassa monella tavalla. Huawein 3xxx-sarjalainen
+   (DNA) ei tunnu toimivan VirtualBoxissa eikä vanhassa Lubuntussa,
+   mutta Huawein E1820 toimii Lubuntussa. Harmittavasti ei Gentoon
+   kautta VirtualBoxissa... Ja Gentoohon itseensä ei huvita lähteä
+   konffailemaan kaikkien koulutehtävien ja muiden juttujen lomassa.
+   Vaan tosimieshän blogaa vaikka ilman Internetiä.
+
+*** Palvelu pelaa (päivitystä seuraavana maanantaina)
+
+    Jääkaapista ei tullut kalua, mutta mikä nopeus palvelussa!
+    Sunnuntaina en saanut yhteyttä vuokraisäntään, mutta hänellä
+    taitaakin olla jonkinlainen sunnuntaimoodi puhelimessaan. Tänään
+    maanantaina hän vastasi soittoihini ja puolessa tunnissa paikalle
+    järjestyi elektroniikkamies. Ja tämän käynnin jälkeen tunnin
+    päästä miehet olivatkin jo kantamassa uutta kaappia sisälle ja
+    vanhaa pois. Nopeata!
+
+    Edellinen asukas on ilmeisesti naarmutellut kaapin freonit
+    pihalle, joten saan uuden kaapin. Lupasivat pyrkiä hoitamaan asian
+    vielä tämän keskipäivän aikana. Herroiksi tässä elellään selvästi.
+
+*** Rautakaupat ja Clas Ohlson
+
+    Outokummun huoneasetelmassa riitti käyttää metrisiä HDMI-johtoja
+    ja nyt vaihtelun vuoksi haluan kokeilla vaihtoehtoisia ratkaisuja.
+    Ensimmäinen asia on tietenkin hankkia pitkä HDMI-johto
+    mahdollistamaan asioita. Verkkokaupoissa piti olla halpaa, mutta
+    lopulta taas paikallinen kivijalkaliike Clas Ohlson veti parhaat
+    pisteet kotiin. Olisinhan minä voinut säästää pari euroa ja
+    odottaa muutaman päivän, tai sitten kävellä viiden minuutin päässä
+    olevaan liikkeeseen ja ostaa sieltä edullisia roinia.
+    Jatkojohdotkin jakorasioineen lähtevät todella edullisesti. Clas
+    Ohlsonista tulee minun /go-to/ -rautakauppani jatkossa.
+
+** DONE Naapuriongelmat ratkaistu                                    :asunto:
+   CLOSED: [2013-05-28 Tue 11:04]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-05-28 Tue 11:04]
+   :END:
+
+   Tässä talossa on tosiaankin ohuet seinämät. Naapurit ovat ihan
+   mukavia, eivätkä riehu. Mutta se ei riitä, kun kaikki kohtuullinen
+   eläminen kuuluu kaikkinensa liian hyvin seinien kautta. Ajattelin,
+   että kuukausi tai kaksi riittäisi totuttelemaan meluihin, mutta ei
+   siihen ikinä tottunut.
+
+   Keksin sitten unohduksissa olleet korvanappini, eli tulpat. Niillä
+   tosiaan häviää kaikki ääni ja unikin tulee mitä mainioiten.
+   Elämänlaatu parani syventyneiden unien ansiosta heti useita
+   prosentteja. Päivisin musiikkia kuulokkeilla, öisin tulppia
+   korvissa. Parempi kuin se valkoisen kohinan laite.
+
+   Heräämisen kanssa voi olla hieman ongelmia: miten kuulla
+   herätyskello kaiken tulppauksen jälkeen, kun vielä unikin on
+   sitkeästi kiinni. Valopohjaiset herättimet maksavat huomattavan
+   paljon, mutta keksin sitten lopulta siihenkin jotain: heitetään
+   tavallinen ajastinratkaisu hitaasti syttyvän ESL-valon perään.
+   Tulee yllättävän hyvää jälkeä näin.
+   
+   [[/home/progo/dokumentit/blog/pics/laehi.jpeg]]
+
+   [[/home/progo/dokumentit/blog/pics/yleis.jpeg]]
+
+   No joo, laitoin lukuvalona toimivan loisteputken siihen perään,
+   toimii ihan yhtä hyvin. Erityisesti kun rasiassa on se ajastimen
+   ohituksen mahdollistava vipu. Enää pitää muistaa jättää valo
+   päälle kun menee nukkumaan.
+   
+*** Lämpöongelma
+
+   Lämpöongelma on enää tässä talossa päällimmäisenä murheena. Länteen
+   laskeva aurinko paahtaa noin kymmeneen asti illalla
+   kilowattitolkulla hellettä ikkunoistani sisään, ja ensimmäinen
+   kunnollinen heijastaja on seinän väärällä puolella. Haittaa toki
+   myös elokuvia, ja juhannuksen lähestyessä varmasti aikaisia
+   nukkumaanmenojakin.
+
+   No, kävin noita kodinlaiteliikkeitä läpi eilen. Joensuun Gigantissa
+   eivät olleet vastaanottavaisella päällä: pahvit menevät toki
+   puristimeen oitis. Kuulema tavaran vastaanottopäivinä olisi saumaa,
+   mutta eivät kertoneet, milloin sellaisia on luvassa. Gigantin
+   naapurissa oli Expert, jossa sitten oli samanlainen tilanne, mutta
+   sielläpä erittäin ystävällinen henkilökunta lupasi laittaa syrjään
+   joitain pahveja, jos tulen myöhemmin viikolla käymään. Jees!
+
+** DONE Uusi blogi on nyt /out live/                                   :blog:
+   CLOSED: [2013-03-28 Thu 19:31]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-03-28 Thu 19:31]
+   :END:
+   
+   Uusi blogi on nyt "virallisesti" julkistettu, vanha on jäädytetty
+   ja selvät linkit uuteen paikkaan on pantu merkille. Kaikki tuntuu
+   hieman keskeneräiseltä vielä, mutta se on tavallaan hyväkin merkki.
+   
+   TextPattern on poistettu. Yksi biohajoava PHP-systeemi vähemmän
+   huollettavaksi. Wgetillä crawlasin ja hienosäädin vielä
+   sed-taioilla vanhan blogin staattiseen muotoon. Tätä systeemiä
+   ehtii tuunata kyllä.
+
+   Ulkoasu on mitä on. Tuntui miellyttävän kontrolliryhmää. Tämän --
+   miksei mihin tahansa muunkin -- postauksen kommentteihin saa ampua
+   palautetta ja ehkäpä peräti ehdotuksiakin.
+
+   Käytettävyys saattaa olla huonolaatuista tässä vaiheessa, kun olen
+   mietiskellyt asioita vääristä näkökulmista. Jälkeenpäin asiat
+   kirkastuvat, mutta huvittaako ryhtyä refaktorointiin noin vain.
+   Clojurepohjaisessa koodissa on paljon etuja, mutta sotkuiseksi
+   menee ilman hyväksikoettuja rutiineja. Niitä pitää koittaa löytää
+   kaiken seasta ja kirjoitella uusiksi.
+   
+*** Teemasta
+
+    Teema on vaihteluksi taas odotushuone tai /black lodge/. Edellinen
+    blogini oli tyhjästä taiottu ja (mielestäni) yllättävän raikasta
+    vaihtelua. Sitä ennen oli myös odotushuoneteemainen blogi. Sitä
+    ennen taisi olla jotain muuta. Blogi ja teema on muuttunut monesti
+    sitten vuoden 2007.
+    
+    Odotushuone-teema oli hyvin odotettavissa, kun domain, fwwm.us,
+    oli kuitenkin sidottu jo etukäteen. Omaperäistä tästä ei kyllä saa
+    kirveelläkään. Olisin halunnut jatkojalostaa Michael Corleone
+    -teemaa, jota olen pyöritellyt TP:tä pidempäänkin avatarina.
+    Michael ja Lodge on tottakai yksi potentiaalinen jalostuksen
+    kohde. Yhdistäisin ehkä vanhan blogin yläpalkkijuttua ja Michaelia
+    ja Odotushuonetta. /We'll see in 25 years!/
+
+** DONE Tämän blogin refaktorointia                                    :blog:
+   CLOSED: [2013-10-08 Tue 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-10-08 Tue 20:28]
+   :END:
+
+   Eilen sängyssä pyöriessäni eräs asia valkeni minulle: vaikka
+   koodasin tämän blogin perinteiseen blogimalliin, niin en itse
+   kirjoita kuitenkaan blogia perinteiseen blogimalliin. Tämän
+   epäkohdan korjaaminen saattaa tapahtua jossain vaiheessa.
+
+*** Blogimalli, perinteinen
+
+    Blogien tunnistettava ominaispiirre on olla joukko kirjoituksia
+    tai muuta hengentuotetta sekä hakemistolistaus, indeksi
+    mainituille hengentuotteille. Lisäksi yleinen lisäoptio on tarjota
+    RSS-feedi kanavoimaan muutoksia.
+
+    Perinteisessä mallissa hengentuotteet on sidottu kirjoittamis-
+    tai julkistamisajankohtaan ja sitten jälkikäteen viesteihin, jos
+    on ollut tarvetta, on lisätty metatietoa. Blogi, jossa ajankohta
+    on oleellinen, kuten vaikka kontemporaari matkablogi, tarvitsee
+    tätä tietoa. 
+
+*** Blogimalli, kaavailtu
+
+    Sen sijaan, että postausten ensisijainen metatieto on olla
+    listana julkaisuajan funktiona jossain, niin miksei vain
+    kirjoittaa näitä viestejä ja artikkeleita jaoteltuna ei ajan,
+    vaan kantavan idean mukaan.
+
+    Follow-up. Foorumeilla on se kiva systeemi, että kukin ketju on
+    tavallaan sidottu yhteen aiheeseen, ja kutakin aihetta voi
+    päivittää toisia häiritsemättä vapaasti. Vastaavaa ajattelua
+    haluan tuoda blogeihin. Se kun tuntuu palvelevan ajatusmaailmaani
+    parhaiten.
+
+    RSS-feedit saisivat tavaraa kirjoittajalta itseltään sen mukaan
+    kun tarinassa on oikeasti jotain kehitystä. Pikkumuutokset eivät
+    siis näkyisi feedeissä. Itse asiassa tähän ajattelin
+    versiohallinnoista tuttua mallia, eräänlaista commit-viestiä.
+    Tämänlainen viesti näkyisi sitten asiaankuuluvien osoitteiden
+    kanssa RSS:ssä.
+
+    Uusi malli ei ole millään keinoin uusi, mutta sen äkillinen tarve
+    minulle on uutta. Samaa koittaa tarjota jokainen wikiin pohjautuva
+    blogimoottori (esimerkiksi Emacsin MUSE tai Vimin VimWiki), joista
+    olen ollut tietoinen hyvinkin pitkiä aikoja. Lisäksi moni bloggaa
+    ihan MediaWikiä tai vastaavaa käyttäen. Pikkumuutokset voi merkitä
+    "minoreiksi", jolloin eivät välttämättä näy historiassa. 
+
+*** Teknisiä yksityiskohtia
+
+    Minulla on tähän single-file -malliin eräänlainen
+    viha-rakkaussuhde, Tukholman syndrooma. Tämän systeemin piti
+    tarjota niin paljon mukavia ominaisuuksia ja helppoa greppailua
+    systeemistä (ikään kuin =grep pat *= olisi sen vaikeampaa), vaan
+    toisin tuntui käyneen.
+
+    Uusi systeemi tulee olemaan osittainen uudelleenkirjoitus. Ehkä
+    peräti hylkään org-moden Markdownin tieltä ja ehkäpä
+    unix-henkisesti käytän hakemistoja ja alihakemistoja merkitsemään
+    kategorisointeja. Vielä unix-henkisempää olisi käyttää
+    symlinkkejä tagailuun.
+
+    Blogin tietämyksen kaapiminen offlinenä onnistuu helposti
+    tuunatun =ack=-skriptin tai hienonnetun greppailun avulla.
+
+    Ja kun aiemmin puhuin versiohallinnan tapaisesta
+    commit-meiningistä niin samapa tuo on sitten oikeasti toteuttaa
+    niin, siis oikea historia gitin avulla. Skriptein tätä historiaa
+    saa sitten näkyville kotisivulle ja sittenpä se on sama puskea
+    koko paska vaikka githubiinkin.
+
+    Kertokaahan vähän tästä ideasta. Minusta tämä on askel sitä
+    kaavailemaani "follow-up" -systeemiä ja että tämä tulee olemaan se
+    oikea tapa tehdä asia. [Hassua. Olin varma, että olin kirjoittanut
+    kyseisestä follow-up -systeemistä jotain tähän blogiin. Mutta
+    näemmä en. Siispä laajensin postaustani tuonne ylemmäksi.]
+    
+** DONE org 8 hajottaa blogin                                          :blog:
+   CLOSED: [2013-11-14 Thu 14:02]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2013-11-14 Thu 14:02]
+   :END:
+
+   Ei ole tullut kamalan usein päiviteltyä tätä blogia nyt ainakaan,
+   kun on ollut aatteena [[*Tämän blogin refaktorointia][uudistaa koko systeemi]]. Nyt iso ja kenties
+   viimeinen pisara on katkaista kamelimme selän, kun org 8:n uusittu
+   vientimoottori on uusinut myös ulostulon kokonaan. Hieman
+   purkkamaisesti kasattu HTML->Blog -skriptini ei selviä aivan
+   kaikista muutoksista triviaalein säädöksin, sillä uusi org-export
+   jättää joitain päivämääriin liittyvää pois.
+
+   Nämä pari tuoretta blogijuttua julkaisin näppärästi
+   fallbackkaamalla versioon org-7.8, ja näin voi tehdä hamaan
+   tulevaisuuteen saakka. Kaikki toimii tässä kuten ennenkin, joskin
+   syntaksivärjäys on oudosti hävinnyt johonkin. Lienee viisainta
+   ruveta tosissaan virittelemään kestävämpää ratkaisua. Olen ollut
+   hiljan tulessa erinäisten clojure-projektien kanssa, joten ehkä
+   samalla kyydillä repäisen tämän kuntoon.
+
+   Kantavana perusideana on ollut tehdä blogista hieman orgaanisempi,
+   yksi-postaus-per-tiedosto, ja viritellä git-integraatiota siten,
+   että postausten muutoshistoria olisi ainakin päivämäärien osalta
+   näkyvillä.
+   
+** DONE Canto on uusi RSS-lukijani                             :softa:python:
+   CLOSED: [2013-03-29 Fri 12:20]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-03-29 Fri 12:20]
+   :END:
+   
+   Kun Google hieman odottamatta ilmoitti vetävänsä Readerin pois
+   valikoimastaan, alkoi verkkainen etsintä uudelle RSS-aggregaatille.
+   Vaikka Reader on käytettävyydeltään ihan kohtuullinen, oli
+   pääasiallisena tavoitteena saada jonkinlainen ncurses-ratkaisu
+   kuntoon säädettävyyden ja etäkäytön takia. (*Huomio:* tämä juttu ja
+   konffausvinkit koskevat vain vanhentunutta Canto 0.7.10 -versiota.
+   Suosittelen kokeilemaan [[http://codezen.org/canto-ng/][uudempaa 0.8-sarjaa]] omiin kokeiluihinne.)
+
+   [[http://www.newsbeuter.org/][Newsbeuter]] oli ensimmäisenä pinnalla ilmoittaen olevansa
+   RSS-lukijoiden "mutt". Asiahan kuulostaa hyvältä, mutta mutt ei ole
+   koskaan ollutkaan kovin mieleinen ainakaan omaan makuuni. Siitä
+   puuttuu olennainen säätövara ja lisäksi on kovin hidas.
+
+   Tämän jälkeen taas pientä hiljaiseloa vietettyäni jaksoin
+   googlailla hyvän [[http://tinyapps.org/blog/nix/200708170700_command_line_feed_readers.html][listan]] sopivia ehdokkaita komentoriville ja
+   terminaalikäyttöön löytyviä RSS-lukijoita. Listahan on ikivanha,
+   mutta näissä softissa ei yleensä ole montaa liikkuvaa osaa ja
+   RSS-parserointikin on ulkoistettu. Canto osui silmään
+   kuvaruutukaappausten perusteella hyvänä ehdokkaana, ja asentamisen
+   jälkeen tämä vaikutelma vahvistui entisestään.
+
+*** Puhdasta Pythonia
+    
+    [[http://codezen.org/canto/][Canto]] konfiguroidaan monien muiden kovien ohjelmien tapaan
+    kunnollisella ohjelmointikielellä ja konfiguraatiossa saakin nyt
+    kirjoittaa kovaa Pythonia mielinmäärin. Ohjelma tukee täysin
+    muokattavia näppäimiä. Värejäkin saa säädellä. Sisäänrakennettu
+    lukija on kohtuullinen, vaikka itse keskitynkin ampumaan selaimeen
+    niitä osoitteita. Esimerkiksi näin säädetään näppäimiä ja värejä
+    asetuksissa:
+
+    #+begin_src python
+      never_discard("unread")
+      link_handler("firefox \"%u\"")
+      
+      keys['C-h'] = "help"
+      keys['h'] = "prev_tag"
+      keys['\n'] = "goto"
+      
+      colors[0] = 15 # default
+      colors[1] = 214 # unread
+      colors[2] = 138 # read
+    #+end_src
+    
+    Canto tarjoaa pari moduulia, jotka voi importata mukaan ja
+    kirjoittaa vaikka funktioita uusiksi. Tarjolla on esimerkiksi
+    näppäinsarjoja, jotka kirjoitetaan tavallisina python-listoina
+    konffiin.
+
+   
+
+*** Feedit konffissa
+
+    Feedit lisätään erityisen =add()=-kutsun avulla, ja halutut tagit
+    ja lisäasetukset kutsun valinnaisten argumenttien kanssa. Hieman
+    työlästä, ehkä, mutta kirjoitetaan simppelisti muutama
+    =for=-silmukka ja homma alkaa sujua. Canto tarjoaa talon puolesta
+    OPML- ja tekstitiedostoparsimista.
+    
+*** Superjoustava
+    
+    Tageilla voi ryhmitellä feedejä samoihin kuosiin, jolloin
+    esimerkiksi kaikki päivittäiset sarjakuvat saa samasta ryhmästä
+    noukittua. Kukin feedi voi luonnollisesti kuulua useaan ryhmään.
+    Ja ryhmiäkin voi tietenkin filtteröidä ja lajitella omiksi
+    näkymikseen. Oletuksena näkymiä ei ole, vaan kaikki -- sekä luetut
+    että lukemattomat -- ovat samassa. Vähintäänkin kannattaa lisätä
+    =canto.extra.show_unread= -funktio =filters=-listalle, jotta voi
+    keskittyä uusiin artikkeleihin. Konfiguraatiota voi jatkaa
+    edelleen vieläkin puhtaammalla pythonilla, johon ei ole minulla
+    ainakaan välitöntä tarvetta.
+
+*** Päivitykset crontabin tai demonin kautta
+
+    Unix-hengen mukaisesti päivitykset voi hoitaa erillisen
+    =canto-fetch=-ohjelman avulla. Sen voi huoletta laittaa ajamaan
+    vaikka minuutin välein, sillä konffissa voi määritellä kullekin
+    feedille omat intervallit.
+    
+*** Tämä on vanha Canto.
+
+    Nyt tätä juttua kirjoittaessani huomasin, että asentamani Canto
+    0.7.10 on vanhaa sorttia, ja uusi [[http://codezen.org/canto-ng/][Canto-ng]] on syrjäyttänyt vanhan.
+    Epäilemättä sen konffiminen sujuu samalla tavalla kuin vanhan,
+    mutta en nyt ihan heti aio siirtyä. Tai ehkäpä siirrynkin. Sitten
+    palaan muutosten kera tähän juttuun.
+
+** DONE Puoli vuotta Emacsia                            :emacs:editorit:blog:
+   CLOSED: [2013-03-29 Fri 19:36]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-03-29 Fri 19:36]
+   :END:
+
+   Emacs on ollut käytössä noin puoli vuotta likipitäen pääeditorina
+   (vakituisena, mutta ei yksinomaan ainoana) ja se on tehnyt oman
+   osansa uuden ajatusmaailman rakentamisessa.
+
+   Viime syyskuussa minä otin org-moden parempaan käsittelyyn ensin
+   VimOrganizerin kautta. VimOrganizer käyttää Emacsia
+   taustaprosesseissaan, joten konffasin sen Emacsin sinne. Vuosien
+   piskuinen Emacs-käyttö näkyi niissä konffauksissa nyt
+   kumuloituneena peruskäyttötaitona: ymmärsin hyvin kaikki ideat
+   suunnittelun taustalla.
+
+   VimOrganizer oli kiva, mutta täyttä potentiaalia sillä ei mitenkään
+   saa. Ja kun kuulin uudesta ja parhaasta vi-näppäintasosta,
+   Evil-moodista, tuntui asia selvältä. Tätäkin kirjoittelen Emacsin
+   org-moodin hellästä huomasta.
+
+*** Emacsin borgimainen olemus
+
+    Olin aiemmin täysin tyytyväinen siihen malliin, että blogaan
+    vimillä yhdestä paikkaa ja python-purkalla siirrän ja käpistelen
+    tavaraa eteenpäin. Samalla ajatusmallilla monet muut asiat. Ja nyt
+    on ollut "pakko" siirtyä blogaamaan uuden blogimoottorin ja
+    org-moden kanssa, koska täällä moni asia sujuu niin joustavasti.
+    Emacsilla on jonkinlainen vetovoima saada kaikki saman prosessin
+    sisälle.
+    
+    Ehkä se on vain tämä org-moodi. Org tekee kaiken sulavasti.
+    Dokumentitkin: nyt on pitänyt kirjoitella harjoitustehtäviä
+    puhtaaksi PDF-muotoon koulua varten, ja org on palvellut tässä
+    erittäin hyvin. LaTeXin huippunätti jälki ja orgin verrattaen
+    kevyt syntaksi. Kirjoittelin valmiit tiedostopohjatkin
+    "dokumentteja" varten. Org totisesti on Emacsin
+    toimisto-ohjelmistopaketti.
+
+*** Mutta en ole aivan siirtynyt
+
+    On joitakin kohteita, joissa ammun mieluummin vanhan Vimin tulille
+    kuin heitän (hieman nopeammin avautuvan) emacsclient-kutsua
+    menemään. Syynä on pääasiassa se, ettei huvita lähteä
+    konfiguroimaan puuttuvia tiedostoformaatteja aivan satunnaisten
+    asioiden takia. Cronjobit, Haskell, Ledger ja sen sellaista.
+    Joskus ihan piruuttani editoin sellaisiakin asioita vimillä, jotka
+    onnistuvat emacsilla hyvin. Onhan minulla siellä tavallaan hyvin
+    viimeistelty käyttöympäristö: pitäisikö se sitten väistämättä
+    heittää pois noin vain.
+    
+    Näistä seikoista johtuen siirtymä tuskin koskaan tulee olemaan
+    täydellinen. Vim ja Gvim ovat nopeavasteisia, joten välillä ihan
+    naputtelunautinnostakin johtuen on mukava palailla vanhaan. Emacs
+    on totisesti kuitenkin se laajennettavampi systeemi, eli jos vain
+    panisin kaikki munat samaan koriin, voisin päästä aika hulluun
+    tilanteeseen nopeasti säätöjen kanssa. Elisp rules the world.
+
+** DONE Emacs rokkaa                                         :editorit:emacs:
+   CLOSED: [2013-02-06 Wed 18:13]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-02-06 Wed 18:13]
+   :END:
+   
+   Emacsin palvelinmalli on mitä erinomaisin lahja liikkuvalle
+   koodaajalle. Asiakasohjelman nopean käynnistymisen johdosta myös
+   perinteisempi hyökkäys komentorivillä on tuhottoman nopeata.
+
+*** Eshell
+    
+    Eshell on näitä Emacsin väärinymmärrettyjä hienouksia. Kyseessä ei
+    ole =shell=-moodista jatkokehitelty versio, vaan se on
+    POSIX-näköisen bourne-shellin imitaatio kirjoitettuna Elispillä.
+    Yksi ilmeinen etu on Eshellin komentojen integrointi
+    elisp-systeemiin. Tämä tietenkin tarkoittaa asioita kuten
+    =find-file=:n käyttöä komentoriviltä avaamaan samaan instanssiin.
+    
+    Myös huomioitavaa on, että Windows-käyttäjät saavat nauttia tällä
+    tavoin perustason elisp/posix-komentokehotteesta ilman Cygwinin
+    asentamista. [[http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/][Mastering Emacs]] -blogi on käsitellyt tätä
+    laajemmalti.
+
+*** Emacsin demonimoodi
+
+    Emacsin palvelinmoodi on toiminut versiosta 23 alkaen
+    sisäänrakennettuna herkkuna, ja rypyt ovat silinneet vuosien
+    saatossa. Tämä on erinomainen systeemi, jolla voi korvata
+    esimerkiksi *GNU Screenin* ja vastaavat työkalut kokonaan. Kaikki
+    emacs-prosessin aloittamat lapsiprosessit kulkeutuvat vaivatta
+    asiakkaille. Ja kun Emacsin kääntää ilman GTK-tukea, niin se on
+    myös vakaa.
+    
+    Emacsclient käynnistyy suunnattoman nopeasti ja kaikki raskaat
+    konfiguroinnit seuraavat perässä. Muistiakaan tämä ei syö sen
+    kummemmin: tämä nykyinen Emacs-instanssi on ollut pystyssä 73
+    vuorokautta ja kantaa isoja org- ja clojure-buffereita liittyvine
+    lapsiprosesseineen. Ja syö vain 60 megaa. Se on noin puolentoista
+    vim-istunnon verran.
+    
+    Työskentely on täten erittäin sulavaa. Oli ikkunat kiinni tai
+    auki, olipa X käynnistetty uudelleen tai ei, voin avata uuden
+    asiakasohjelman ja valita kaikista avoimista puskureista hyvin
+    pienellä vaivalla haluamani. Palvelinmalli kannattaa ja toteuttaa
+    eräänlaista työpoolia, josta voi poimia helposti kohteen. Tämä
+    blogi-org aukeaisi noin kolmella painalluksella mistä tahansa
+    palvelimeen kytkeytyneestä asiakkaasta. Siitä kiitos osittain
+    =Iswitchb=-komennolle, joka käyttää IDO-moodin sumeata hakua
+    avointen puskurien välillä.
+    
+    Ja kaikki tietenkin myös kotikoneen ulkopuolella: voin koodata
+    vaikka Pythonia ja pitää Python-REPLiä kakkosikkunassa auki, ja
+    pääsen samoihin puskureihin käsiksi SSH:n ylitse. Tämä on
+    erinomainen voimavara.
+
+** DONE Twitteröintiä Emacsilla                               :emacs:twitter:
+   CLOSED: [2012-10-24 Wed 16:59]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-03 Wed 19:11]
+   :END:
+
+Tänään piti viettää kiva päivä käymällä hyvällä luennolla ja sitten
+pakertaa vähän tehtävien kimpussa koululla. Toisin kävi, kun tehtäviä
+ei tullut aamusella näkysälle ja vettäkin satoi. Vietin sitten
+kotipäivän ja miettien itselleni jotain tekemistä. Emacsin Twitter ja
+IRC saivat olla kohteenani.
+
+Irssi on ollut pitkään käytössä, ja sehän on oikein mainio kyllä
+kaikenlaisten täydennysten ja muiden juttujen kanssa. Sille löytyy
+hyvät twitter-integraatiot ([[twirssi.com][Twirssi]] siis) ja kaikenlaista mukavaa.
+Mutta kuten totesin aikoinani, irssi ei ole oikein vimimäinen ja
+twitteröintien seuraaminenkin on vähän nihkeätä.
+
+Tässä on ollut hieman sensuuntaista kehitystä, että ajan yhtä emacsia
+screenissä ja toista sitten demonina. Screeni-Emacs vastaa näistä
+pikaviestinjutuista eikä sotke puskureitaan “työ-Emacsiin”. Toki on
+mahdollista, että demoneita saa käynnistettyä useita rinnakkaisajoon,
+mutta ajattelin toistaiseksi olla kokeilematta sellaista.
+Pikaviestin-Emacsista tulkoon irssin korvaaja, jos kaikki rullaa
+sulavasti. 
+
+*** Twitter
+
+Nyt Emacsille saa oikein mojovia Twitter-asiakkaita, jotka eivät veny
+ja pauku perl-pakettien muhiessa, päivitellen epäyhteensopivasti.
+Kokeilin ensimmäistä uudempaa asiakasta, eli [[http://twmode.sourceforge.net/][Twittering-modea]]. Sen
+EmacsWiki-sivulta saa oikein hyvän kuvan [[http://emacswiki.org/emacs/TwitteringMode][käyttöönotosta]] ja ei ollut
+minullakaan mitään ongelmia saada twitter juoksemaan taustalla.
+Asensin git-version paketinhallinnasta ja kaikki lähti rullaamaan
+ensiheitolla.
+
+Twittering-mode avaa uuden puskurin kullekin “näkymälle”, joita ovat
+esimerkiksi jonkun tietyn ihmisen aikajana tai jokin hakutulos, tai
+kotinäkymä. Mikä hienointa, moodin näppäimet ovat erittäin
+vi-henkiset, eikä niihin tarvitse kajota lainkaan. =jk= hyppelee
+twiittien välillä ja =np= kelaa vuorostaan saman lähettäjän twiittien
+välillä. Tabilla pompitaan erilaisten entiteettien välillä ja sitä
+rataa. Enteriä painamalla urlit ja hashtagit aukeavat selaimessa ja
+muuta mukavaa.
+
+Uuden twiitin säveltämiseen saa käyttää compose-modesta vaikutteita
+saaneita työkaluja. Luonnollisesti jäljelläolevien merkkien lukumäärä
+seuraa alapalkissa ja tupla- =C-c= lähettää sirkutuksen maailmalle.
+Tämä oli erityisesti yksi Twirssin heikko kohta.
+
+Twittering-mode korvaa siis Twirssin tyydyttävästi. Puskuria
+päivitetään tasaisesti uusilla viesteillä ja kursori pysyy
+ilahduttavasti siinä, mihin se on jätetty: lukuosoitin toimii siis,
+toisin kuin Twirssissä, mihin piti heittää irssin trackbar-skriptiä
+kaveriksi. Sittenkin on vähän hankala lukea isoa tekstimassaa ja pysyä
+rivillä. 
+
+*** IRC
+
+Sitten on se IRC. Twirssi on helppo kellittää, mutta
+irc-keskusteluissa irssi on aika kuningas. Puutteelliset vi-näpit on
+helppo antaa anteeksi suhteellisen hyvin toimivien ominaisuuksien
+takia; erityisesti nyt kun on melko maukkaasti toimiva VimMode-skripti
+olemassa.
+
+Mutta ERC on kova tekijä sekin. Kukin kanava ja tsätti aukeaa omaksi
+puskurikseen (~ ikkuna irssissä) ja näitä puskureita voi tietenkin
+sitten pyöritellä kuin tavallista tekstiä. Tietenkin uuden rivin
+heittääkseen tulee kohdistus ohjata puskurin lopuille: melko helppoa
+vi-näppäinten (EVIL!) avulla. Kaikki emacsin työkalut (ja
+komentorivijuttujen ansiosta kaikki unix-työkalut sen puoleen) ovat
+käytettävissä kun kirjoitat tarinaa kanavalle: thesaurukset,
+sanakirjat, sanatäydennykset, oikoluvut, laskutaulukot,
+LaTeX-lausekkeet (CDLatex), symbolinen matematiikka (Calc). Pretty
+much everything. Spoilerit kääntyvät rot13-salatuksi pienellä
+litanialla. Puskureita voi hajauttaa ikkunoihin tai peräti eri
+kehyksiin (ikkunanhallinta-ikkunoihin), jos ajat demonina tai
+graafisessa ympäristössä.
+
+ERCille saa oleelliset samat lelut kuin irssiinkin, siis. Trackbarin
+vastine on saatu toimimaan, samoin kuin nimimerkkien väritys. (No
+hieman vajavaisella toiminnallisuudella: track toimii jos vaihdetaan
+yhdestä ERC-puskurista toiseen.) Hieman mietityttää vielä minulle
+kohdennettujen huomioiden/mainintojen parempi värjäys, sekä kanavien
+logitus. Logaus on mukavaa, kun se tuo paljon muistoja vuosien päähän,
+joten en haluaisi luopua siitä paheesta.
+
+ERC on ollut toistaiseksi aikalailla erilainen kokemus irssistä, joten
+hieman on totuteltava uuteen kuvioon. Koska tuo twitter-puolisko
+toimii niinkin hyvin kuin toimii, olen ajatellut kokeilla mukautua
+tilanteeseen parhain tavoin.
+
+Irssissähän on aina ollut joitain puutteitakin: ensimmäisenä tulee
+mieleen aika mielivaltaisesti toimiva värjäyssysteemi ja awaylogi. Jos
+haluan värjätä jotain sanoja muuten vain, pitää sitten hyväksyä
+awaylogin täyttyminen tauhkalla tai olla käyttämättä. Ja on ollut
+aikoinaan ongelmia myös nimimerkki-highlightien kanssa: jos halusin
+saada koko rivin keltaiseksi, niin sitten mikään nimimerkkiäni koskeva
+keskustelu ei tallentunut awaylogiin. Nykyisin en käytä awaylogeja kun
+toimii niin satunnaisesti. Lisäksi irssin dokkarit ja perl-rajapinnan
+avaaminen on ollut pitkään perin mystistä puuhaa, mutta siitä olen
+toistaiseksi päässyt yli.
+
+*** Emacs-jutut
+
+Näitä saattaa tulla jatkossa enemmänkin. Ja vim-näkökulma tulee
+säilymään Emacs-seikkailuissani. Te hiljaiset lukijat siellä: antakaa
+jonkinlainen huuto, jos haluatte kuulla itse vimistäkin jatkossa. En
+pidä sitä mahdottomana asiana. Työkaluja on hyvä pitää rasvattuna
+vaikka käyttö vähenisikin. Ja kun totta puhutaan: tämä blogiviesti on
+vimillä kirjailtu. Siitä syystä kun skriptini kysyy =$EDITOR=:ia, enkä
+ole hennonut vielä vaihtaa sitä.
+
+*** Backport
+
+    Tämä on portattu vanhasta [[%20http://progo.viuhka.fi/mietteet/595/twitterointia-emacsilla][blogista]] ihan mielenkiinnosta ja
+    sisällön takia.
+    
+** TODO mu4e: kovatasoista sähköpostia Emacsilla                :emacs:email:
+   
+   - Gmailin uusi viestinkirjoitus on sotkuinen paketti HTML:ää -> en
+     voi enää käyttää mukavasti vanhaa vi-tekniikkaa viestien
+     kirjoittamiseen.
+   - Pelastus aloitetaan asentamalla offlineimap tai vastaava.
+   - synkatessa menee todella pitkään suurien viestienvälisten
+     overheadien takia.
+   - Gmailin labelit menevät ristiin imapin kansiosysteemin kanssa. On
+     viisainta kääntää Gmailin asetuksista IMAP-synkattavat kansiot
+     minimiin: Inbox, All Mail, Sent, Drafts. Nopeutuu synkkaaminen
+     huimasti.
+   - IMAP-synkkauksen lisäksi mu:n indeksöimiin hakemistoihin
+     kannattaa tehdä rajoituksia duplikaattien varalta.
+   - http://wenshanren.org/?p=111 perustason intro
+   - https://groups.google.com/d/msg/mu-discuss/wk0hJGVM14Q/k8I9s3lrJ1EJ
+     kertoo tarkemmin hyvistä palasista.
+   
+** DONE Käyttämäni MPD-asiakkaat                                        :mpd:
+   CLOSED: [2013-05-17 Fri 14:29]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-05-17 Fri 14:29]
+   :END:
+
+   Kerron, mitä MPD-asiakasohjelmia käytän. Tässä ne tulevat
+   käyttöjärjestyksessä, ja sitten elaboroin, jos näen tarvetta.
+
+   1. [[http://pms.sourceforge.net/][PMS]], eli Practical Music Search
+   2. [[https://github.com/progo/jazz_up][jazz\_up]] on omakirjoittamani bash-kikkare
+   3. [[http://www.musicpd.org/clients/mpc/][MPC]] loppuihin kikkailuihin
+   4. (mpp: C-kikkare, joka tulostaa soittolistan terminaaliin)
+   5. (mpp\_length.sh: awk-kikkare, jolla katson soittolistan
+      kokonaispituuden)
+   
+   Kunniamaininta annetaan [[http://mpd.wikia.com/wiki/Client:Mpdscribble][MPDScribblelle]], joka on myös klientti ja
+   teknisesti ottaen täten eniten käyttämäni klientti. MPDScribble
+   siirtää kuunteluni last.fm -palveluun.
+   
+*** PMS on simppeli ja tehokas
+
+    PMS on ncurses-pohjainen MPD-klientti, jonka filosofiana on puskea
+    kaikki tietokannan musiikki yhteen ja samaan listaan, jossa
+    tehdään pinnallisia ja joustavia hakuja. Näppäimet ja toiminta on
+    hyvin vi-henkistä: =/= aloittaa haun ja =b=-näppäimellä siirretään
+    kursorin alla olevan kappaleen koko albumi soittolistalle. Iso =B=
+    vastaavasti lisää albumin ja aloittaa soittamisen siitä
+    välittömästi. En ole osannut kaivata ylimääräistä joustavuutta,
+    joten PMS:stä tuli vähitellen pääasiallinen klienttini.
+
+*** Jazz\_up nopeita arvontoja varten
+
+    Jazz\_up ottaa argumenttinaan minuuttilukeman ja mpd-soittolistan
+    nimen. Sieltä se sitten alkeellisesti arpoo listalta sellaisia
+    kappaleita listalle, että minuuttilukema tulee suurinpiirtein
+    täyteen. Toimii, kun haluaa nopeasti syödä nuudelinsa jonkun
+    päivällisjazzin kanssa, tai odottelee hiusten kuivamista.
+
+*** MPC
+
+    MPC on niin yleinen, ettei siitä kamalasti mitään keksi. Käytän
+    sitä joskus skripteissäni, mutta en kamalasti. Eniten käytetty
+    kutsu lienee =mpc toggle=, jota ei sitäkään kamalan usein tapahdu.
+
+*** Tulevaisuus?
+
+    Ehkä MPyD kypsyy ja otan sen käyttöön. Ehkä se toimii hyvin, mutta
+    en sitten innostukaan omasta keksinnöstäni. Se on varma, että en
+    aio toteuttaa kaikkea "tarpeellista" MPyD:iin ihan sillä
+    periaatteella, että PMS, MPC ja muut ovat olemassa ja voivat elää
+    samanaikaisesti käytössä.
+** DONE Kopiointia seurannan kanssa                                     :cli:
+   CLOSED: [2013-05-18 Sat 17:55]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-05-18 Sat 17:55]
+   :END:
+
+   Jonkin verran manuaalista synkkaamista tehneenä osaa arvostaa
+   kopioinnin tai siirtämisen edistymisen seurantaa. Koska unixien
+   =cp= ja =mv= eivät tätä taida omasta takaa, on yleisin peruskikka
+   ollut käyttää yhtä yleistä =rsync=-ohjelmaa =--progress=-option
+   kanssa. Se toimii hyvin, mutta kaipasin kanssa graafisista
+   kopiointilomakkeista tuttua kokonaistilanteen kehittymistäkin, jos
+   siis tiedostoja tai hakemistoja on useampi työn alla.
+
+   Nopea googlailu paljastaa ensin aika näppäriä vinkkejä [[https://bbs.archlinux.org/viewtopic.php?pid=937445#p937445][Arch Linuxin]]
+   foorumilta asiaan liittyen. Erityisesti ovela on =strace=-ohjelman
+   yhteenkytkeminen cp:n kanssa ja siitä sitten awk:n kautta
+   ihmislukuisiin tuloksiin. Myös =pv=:n käyttöä demotaan. Nämä eivät
+   kuitenkaan ole rsync-ratkaisua sen kummoisempia.
+
+   [[http://www.beatex.org/web/advancedcopy.html][Advanced copy]] on sitten se ratkaisu, johon päädyin. Vaikka
+   manuaalista työtä onkin luvassa, käännöstä varten on tehty oikein
+   ystävälliset ohjeet, joita noudattamalla jokainen kyllä osaa tehdä
+   omat versiot. Toisin kuin mitä ohjeet suosittelevat, siirsin
+   lopulliset käännökset uusille nimille, enkä korvaa alkuperäisiä
+   ohjelmia. Jos vaikka tulee sössittyä tai jotain.
+
+   Koodasin vielä progressbarit aina näkyville ja siirsin
+   henkilökohtaiseen binäärihakemistooni nimille =cpprog= ja
+   =mvprog=. Tämä ratkaisu toimii hyvin. Tämä on hyvä.
+** DONE Xmonad ja dynaamiset työpöydät                       :xmonad:haskell:
+   CLOSED: [2013-11-14 Thu 12:53]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-11-14 Thu 12:53]
+   :END:
+
+   Xmonadin oletuksena tarjoamat 9-10 työpöytää tulevat nopeasti
+   ahtaaksi, kun oikein haluaa railatella. Lisäksi ennalta valitut,
+   kiinnitetyt työpöytänimet eivät aina kuvaa koko totuutta.
+   Saataisiinko Emacsin [[http://www.emacswiki.org/emacs/InteractivelyDoThings][IDO]]-moodia vastaavaa huippukäytettävää
+   toiminnallisuutta Xmonadin työpöytiinkin? Voi, kyllä saadaan,
+   kiitos tuoreen löydön, [[http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Actions-Commands.html][Xmonad.Actions.Commands]]-kirjaston.
+
+   Tuli tässä virikettä säätää Xmonadia eteenpäin, kun kuulin
+   tyylikkäästä [[http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Actions-Commands.html][X.A.Commands]]-kirjastosta. Kyseinen kirjasto tarjoaa
+   [[http://tools.suckless.org/dmenu/][dmenu]]-rajapinnan erilaisten Xmonad-komentojen (eli tietyntyyppisten
+   Haskell-funktioiden) suorittamiseen. Dmenulle tarjoillaan lista
+   erilaisia merkkijonoja ja käyttäjä valkkaa sopivan listalta. Xmonad
+   suorittaa sitten. Suurin ilo irtoaa sitten, kun muistaa erään
+   [[http://lists.suckless.org/dev/1209/12505.html][sumean haun toiminnallisuuden tuovan pätsin]] olemassaolon dmenun
+   versiolle 4.5.
+
+*** Dmenu 4.5 ja =dmenu-4.5-fuzzy.diff=
+
+    Tavallinen dmenu ottaa listan merkkijonoja vastaan, esittää ne
+    graafisena listalla näytön ylä- tai alareunassa, ja antaa
+    käyttäjän näppäillä listaa lyhyemmäksi, kunnes voi valita
+    mieleisensä näppäimistöltä käsin. Dmenu palauttaa valinnan
+    /stdouttiin/.
+
+    Tämä on kiva ja muutama käyttöympäristö käyttää dmenua
+    ohjelmakäynnistimenä. Tämä on kiva ilman sumeatakin hakua. Mutta
+    jos oikein halutaan kaikki irti tuosta Xmonadin
+    X.A.Commands-kirjastosta, on sumeus aikalailla /must/.
+
+    Gentoon portagessa ei dmenulle moista pätsiä tarjoilla, enkä
+    viitsinyt taiteilla portagen ebuild-patch-overlayn kanssa, joten
+    latasin, pätsäsin ja käänsin kotihakemistoni onkaloihin. Kirjoitin
+    pienen launcherin sumean haun aktivoimiseksi ja kaikki on
+    reilassa.
+
+    #+BEGIN_SRC sh
+      exec /home/progo/.dmenu/bin/dmenu -i -z "$@"
+    #+END_SRC
+
+    Erillinen =dmenu_launch= on erikseen, ja siinä tuo sumeuden
+    aktivoiva flagi =-z= on poissa. Näin on hyvä.
+
+*** Työpöytävalinta uuden Dmenun avulla
+
+    Ensin tietysti kokeiltiin tätä vanhan konffin kanssa. Vielä eilen
+    kovassa käytössä oli 10-ympäristöinen systeemini, jossa työpöytiä
+    vaihtavat vain näppäinyhdistelmät =Win-d=, $d = 1, ..., 0$. Tähän
+    skeemaan olisikin ollut hankala lisätä uusia työpöytiä, ja
+    muutenkin ideana olisi saada kestävämpi ratkaisu.
+
+    X.A.Commands sisältää muutamia valmiiksimääriteltyjä
+    "komentolistoja", joista yksi on =defaultCommands= ja toinen on
+    =workspaceCommands=. Triviaali pikakokeilu osoittaa kaikki ideat
+    toimiviksi; mapataan kokeeksi näppäin =Win-x=.
+
+    #+BEGIN_SRC haskell
+      ((modm,               xK_x), defaultCommands >>= runCommand)
+    #+END_SRC
+
+    (Tämä pitää ujuttaa sinne Xmonad-konffin =keys=-listan jatkeeksi.
+    Tavalla tai toisella, niitä on niin monia...)
+
+    Tämä toimii upeasti. Entä pelkästään työpöytien /vaihtamiseen/
+    liittyviä komentoja? Tämä on nyysitty/mukailtu X.A.Commandsien
+    lähdekoodista. Tai saattoi olla oletuskonffin näppäinyhdisteistä.
+    Joka tapauksessa tämä tuottaa listan pelkästään työpöytiin
+    vaihtavia komentoja ja niille merkkijonoja.
+
+    #+BEGIN_SRC haskell
+      viewWorkspaceCommands :: X [(String, X ())]
+      viewWorkspaceCommands = asks (workspaces . config) >>= \spaces -> return
+                                  [((m ++ " " ++ show i), windows $ f i)
+                                      | i <- spaces
+                                      , (f, m) <- [(W.greedyView, "view")] ]
+    #+END_SRC
+
+    Vastaavasti purkkasin ikkunoita siirtävän version. Vaihdetaan vain
+    funktio =W.greedyView= funktioksi =W.shift=. Ja nämä mappasin näppäimelle
+    =Win-f= ja =Win-S-f= nyt toistaiseksi:
+
+    #+BEGIN_SRC haskell
+      ((modm,               xK_f), viewWorkspaceCommands >>= runCommand)
+      ((modm .|. shiftMask, xK_f), moveWorkspaceCommands >>= runCommand)
+    #+END_SRC
+    
+    Ja yllätyksekseni toimii moitteetta! Nyt homma toimii siis
+    kiinteän työpöytälistauksen kanssa, eli kamalasti etua ei vielä
+    tässä ole. Mutta odotapas kun työpöytiä on kymmenen sijasta 100...
+    
+*** Dynaamiset työpöydät Xmonadissa
+
+    Xmonadin dynaamiset työpöydät on tehtävissä monella, monella
+    tavalla. Minä tein nyt sillä tavalla, että hyödynnän työpöytiä
+    uudelleennimeävää kirjastoa, [[http://hackage.haskell.org/package/xmonad-contrib-bluetilebranch-0.9.1.4/docs/XMonad-Actions-WorkspaceNames.html][X.A.WorkspaceNames]]:ia.
+
+    Luon nyt oletuksena 99 työpöytää triviaalilla nimeämisellä.
+    Luulisipa riittävän!
+
+    #+BEGIN_SRC haskell
+      myWorkspaces = map show [1 .. 99 :: Int]
+    #+END_SRC
+
+    Tietysti tämä ei ole teknisesti ottaen dynaamista nähnytkään,
+    koska kaikki työpöydät on luotu Xmonadin käynnistyessä. Idea on
+    kuitenkin ihan kelpo.
+
+    Sitten meidän pitää saada nimetä työpöytiä haluamaksemme. Se
+    WorkspaceNames-kirjasto tulee tässä apuun. Siihen ei tarvitse
+    muuta kuin seurata kirjaston dokumentaation ohjeita ja tehdä
+    sopiva näppäimistömappaus =renameWorkspace=-funktiolle. Laitoin
+    omassa konffissani sen nyt =Win-s=:n taakse.
+
+    Nyt uudet työpöydät näkyvät oikein statuspalkissa (Xmobar
+    minulla), mutta eivät pirskattilainen näy tuoreelti
+    konffaamassamme dmenussa. Tarvitaan hieman voitelua ja
+    WorkspaceNamesiin kuuluvaa funktiota =getWorkspaceNames=.
+    Kirjoitetaan aiemmin määritelty =viewWorkspaceCommands= uudestaan:
+
+    #+BEGIN_SRC haskell
+      type NamedAction = String -> WindowSet -> WindowSet
+      
+      doWSCommands :: NamedAction -> String -> X [(String, X ())]
+      doWSCommands action string = do
+        spaces <- asks (workspaces . config)
+        wsNames <- getWorkspaceNames                            -- (1)
+        return [((m ++ " " ++ show (wsNames i)), windows $ f i)
+               | i <- spaces
+               , (f, m) <- [(action, string)] ]
+      
+      viewWorkspaceCommands = doWSCommands W.greedyView "view"
+      moveWorkspaceCommands = doWSCommands W.shift      "move"
+    #+END_SRC
+
+    Taikasana on =(1)=:llä merkitty monadisovellus, joka tuottaa
+    meille sopivan funktion työpöytäolioista niiden "dynaamisiin"
+    nimiin.
+
+    Ja kaikki tuntuu upeasti toimivan. Nyt minulla on kymmenen
+    ensimmäistä työpöytää edelleen nopeiden pikanäppien takana ja
+    loputkin ovat saatavilla dmenun kautta. Ilmeisesti nimet säilyvät
+    myös Xmonadin uudelleenkäynnistysten yli, vaikka se ei ollut
+    prioriteetti. Olen yllättynyt erityisesti omista
+    hakkailutaidoistani. Ilmeisesti Clojuren kautta alkaa viimein
+    tarttua jotain oikeata funktionaalista osaamista.
+
+*** Jatkokehittelyä
+
+    Tämä on siis nykytilanne. Mitä parannuksia systeemi saattaisi
+    vaatia?
+
+    - Työpöytien swappaus, eli kaikkien ikkunoiden siirtäminen
+      kerralla työtilasta toiseen voisi olla paikallaan, jos haluan
+      varata jonkun "nopean" pöydän (numero alle 10) jollekin
+      tuoreelle projektille.
+
+      WorkspaceNames saattoi tarjota jotain sellaista, mutta pitää nyt
+      tutkia.
+    - Dmenun listauksessa on nyt aina 99 työpöytää, oli niillä nimi
+      tai täytettä tai ei. Numero niillä on aina, mutta vähän rumalta
+      voi näyttää. Voisikohan niitä piilottaa jollain ehdolla siten,
+      että niihin pääsisi kyllä tarvittaessa käsiksi, mutta ei
+      tarvitsisi pikavalinnassa näkyä.
+
+*** Versiohallinta voittoon
+
+    Tämä on ollut lisäksi hyvä showcase gitille. Muutamia
+    kuukausia/vuosia sitten kun ensimmäistä kertaa tarkastelin
+    dynaamisia pöytiä, laitoin =xmonad.hs=:n git-repoksi ja kokeilin
+    toisessa haarassa noita juttuja. Eihän niistä tullut oikein
+    mitään. Onneksi toimiva peruskonffi oli vain haaranvaihdon takana.
+
+    Nyt sitten oli mukava palata vanhaan haaraan, yhdistää päähaarassa
+    tapahtuneet pikkumuutokset ja siistimiset ja konffata viimein koko
+    roska kuntoon. Ehkäpä haara =dynamicws= saa nyt siirtyä laitumille
+    ja mergaan koko toiminnallisuuden =masteriin=.
+** DONE Java + JavaScript, paras pelialusta?            :pelit:clojure:koodi:
+   CLOSED: [2013-07-12 Fri 13:27]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-07-12 Fri 13:27]
+   :END:
+
+   Nykypäivän web-työkalut tuntuvat johtavan väistämättä tilanteeseen,
+   jossa Javascript on riittävän tehokasta moneen tarkoitukseen ja on
+   pysyvää: selaimet tukevat jatkossakin. Lisäksi tarjolla on
+   kaikenlaista kivaa: on Audio-API:a ja on Websockettia. Peräti
+   3D-kiihdyteltyä GL:ää, jos oikein riehaannutaan. Javascript, eikä
+   Java sen puoleen, ei ole menossa minnekään, vaan tarjoaisi hyvän
+   tavan toimittaa käyttöjärjestelmäriippumattoman pelikokemuksen
+   aistikkaasti kaikille ja niin, että peli toimii tulevaisuudessakin.
+
+   Jokin Java-moottori, erityisesti Clojure, voisi tarjota todella
+   hulppean, läskin palvelinpään ja toteuttaisin käyttöliittymän
+   Javascriptinä, /thin client/ -mallin mukaisesti. Tällä tavalla
+   valitsen sen kompromissin, että palvelimen oletetaan olevan
+   nollalatenssien päässä lokaalina ja vastineeksi saan vähemmän
+   JS-purkkaa jauhettavaksi. Thin client tarkoittaisi siis
+   oleellisesti sitä, että asiakas, eli selain, kuuntelee korvat
+   höröllä web-sokettiamme ja uskollisesti piirtää annetun tavaran
+   juuri niihin koordinaatteihin, jotka palvelin antaa. Selain
+   vastaavasti lähettää paluuputkessa kaikki käyttäjän toimet
+   palvelimelle. Palvelin siis huolehtii esimerkiksi kartan tilasta ja
+   pelaajan toimista. Minimoimalla JS-logiikka minimoidaan ketutus.
+
+   Tietenkin Clojuren sijaan voi käydä mikä tahansa tehokas ja hyvä
+   minimaalisen web-palvelimen toteuttava kieli. Grails, Django taikka
+   Ruby on Rails vaikkapa. Ihan mikä sopii itselleen parhaiten.
+   Java/JVM on mielestäni hyvä valinta peleille, koska parin sekunnin
+   käynnistysajan pystyy sietämään ja pyörähdettyään käyntiin JVM on
+   varsin nopea.
+
+   Jos taasen monipuolistaisin asiakaskoodia, voisin saada aikaan
+   tilanteen, jossa tavalliset 100-millisekuntiset viipeet eivät
+   häiritse pelaamista (peliksi ei sitten kannata mitään toiminta-FPS
+   -räimintää suunnitella) ja voin ulkoistaa pelipalvelimen vaikka
+   Google App Engineen (GAE) tai vastaavaan. Haittapuolena on
+   luonnollisesti turhauttava määrä JS-tappelua. Puhumattakaan siitä,
+   että kaikki muutokset pelissä heijastuvat enemmän tai vähemmän sekä
+   palvelimen että asiakkaan koodissa. Tuskin CoffeeScript tai edes
+   ClojureScript ratkaisisi kaikkia ongelmiani.
+
+   GAE:n ja vastaavien kanssa tulee myös se ongelma, että he haluavat
+   sitoa esimerkiksi tietokantaratkaisut omiin viritelmiinsä:
+   onnistuisiko sitten lokaali pelaaminen lainkaan?! Eli
+   henkilökohtaisesti lähtisin kehittämään lokaalia peliä, joka tulisi
+   käyttäjien ladata ennen pelaamista. Demomielessä voisi tietysti
+   laittaa yhden instanssin pyörimään verkkoonkin, mikä ettei.
+
+   Seppo Suorsan [[https://arena-6.appspot.com/][Areena 6]] menikin jo "pilveen", mikä on hyvä esimerkki
+   tästä mallista. Seppo tuskin koodasi Clojurella, mutta ajatus on jo
+   melkein oikein.
+** DONE Python on huonompi kieli kuin Clojure          :koodi:python:clojure:
+   CLOSED: [2013-05-18 Sat 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-05-18 Sat 20:28]
+   :END:
+
+   Pakko hieman avautua Pythonin puutteista ja miksi Clojure sitten
+   voittaa kädenväännössä lopulta. Nämä asiat ovat osittain
+   objektiivisia totuuksia, mutta lopputulema on luonnollisesti
+   subjektiivinen, oma näkemykseni näiden faktojen kasaantumisesta.
+
+*** Pythonin dokumentaatio on sekavaa
+
+    Guido ja Python-yhteisö painottaa kovasti hyvää dokumentaatiota,
+    ja yhteisö onkin kehitellyt hyviä työkaluja ja käytäntöjä hyvän
+    dokumentaation tuottamiseksi.
+
+    Mutta loppupeleissä Pythonin omien kirjastojen dokumentit ovat
+    aikamoisessa sotkussa. Mistä löytyy se kattava referenssi uuden
+    =format=-metodin muotoilukoodeista? Googlellakin saa hakea
+    useasta paikasta, ennen kuin tärppää.
+
+    Sittenkin dokumentaation löydyttyä niissä ei ole yleensä
+    tarpeeksi esimerkkejä, eikä funktioiden standarditoteutuksiin
+    löydy suoria linkkejä, vaikka syytä olisi.
+    
+    [[http://joepie91.wordpress.com/2013/02/19/the-python-documentation-is-bad-and-you-should-feel-bad/][Tämä joepie91:n]] kirjoittama rantti avasi silmäni lopullisesti
+    asialle: Python on dokumentaationsa tasolla substandardi. Olen
+    myös valmis allekirjoittamaan joepien muut pointit Python-yhteisön
+    ominaisuuksista. PHP ja Clojure menevät heittämällä ohi parempien
+    dokkariensa kanssa, vaikka ehkä vertailu Clojuren kanssa on
+    epäreilua: Clojuren "viralliset" dokkarit ovat kehnot, mutta
+    google toisaalta osaa tarjoilla uusia [[http://clojuredocs.org/][ClojureDocs]]-tuloksia
+    ensimmäisinä tuloksina.
+    
+*** Python on hidasta
+
+    Python käynnistyy nopeasti, mutta siihen se nopeus jääkin.
+    Tavukoodia suorittava moottori ei ole erityisesti tunnettu
+    hyvästä just in time -optimoinnista.
+
+    Toinen puutteellinen seikka on Pythonin virtuaalikoneen
+    säieongelma: säikeet pyörivät vain yhden instanssin alla, joka
+    rajoittaa säikeiden etuja tietyissä sovelluksissa kovasti.
+    Prosesseihinjakaminen on onneksi olemassa, joten tilanne ei ole
+    kokonaan hukassa. Säiepyörittely ja jaettu muisti on kuitenkin
+    tehokkaampaa ja joskus helpompaa kuin erillisprosessien käyttämät
+    viestinvälitysmekanismit.
+
+    Clojure JVM-kielenä tykittää dynaamisten kielien benchmarkeissa
+    aika korkealla. JPython saattaisi olla ratkaisu näihin
+    mainittuihin ongelmiin, kun saataisiin JVM:n kypsynyt
+    JIT-optimointi ja ehkäpä säikeetkin saavat rellestää vapaammin.
+    
+*** 'Batteries included', or not.
+
+    Pythonin suuri hehkutettu etu on ollut kielen hyvä tuki
+    kaikenlaiselle hyvälle.
+
+    Ensimmäinen totuus on se, että JVM:llä on isompi valmiskirjasto.
+    Clojure perii tämän kaiken.
+
+    Ja entäs jos jotain Pythonin valmiskirjastoista puuttuu? Toki,
+    ongelman kuin ongelman voi suurella todennäköisyydellä ratkaista
+    tehokkaasti ja elegantisti Python-kirjastojen työkaluilla. Sitä en
+    epäile. Mutta teoreettisen koulutuksen käyneenä minulla saattaa
+    olla hyvä ja elegantti ratkaisumalli jo päässäni, ja silloin olisi
+    luultavasti kaikkien etu, jos pääsen käyttämään sitä. Näin kävi,
+    kun halusin tarkastella järjestettyjen puiden käyttöä
+    ongelmassani. Javassa ja Clojuressa on TreeMap näitä varten;
+    Pythonissa pitää koodata oma punamustapuu ja toivoa, että se edes
+    etäisesti vastaisi CPython-alkuperäisien tietorakenteiden
+    tehokkuutta. Eli Pythonin valmiskirjasto ei ole niin suuri kuin
+    Javalla.
+
+    Muutenkin Pythonin käyttämien tietorakenteiden ominaisuudet
+    tuntuvat kelluvan hieman implementaation varassa: voinko luottaa
+    listojen aikavaativuuksiin eri implementaatioiden välillä?
+
+*** Python 2:n unicode-sotkut
+
+    Python 2 sisältää aivan tolkuttoman surkean unicode-tuen. Javassa
+    asia on tehty oikein. Python 3 lopulta korjaa kaikki ongelmat
+    fiksulla tavalla, mutta /kuka sitä pääsee käyttämään/ -- kaikki
+    helvetin hyvät kirjastot toimivat vain kakkosessa.
+
+*** Pythonin moduulisysteemi on vaarallinen
+
+    Kaikki modernit dynaamiset kielet sisältävät hienot
+    "pakettihallinnat", joilla puuttuvat moduulit saadaan asennettua
+    kuntoon kertaheitolla ja riippuvuudet huomioiden. Ihan kiva,
+    Rubyllä on =gem= ja Pythonilla =pip= ja =easy_install=, mutta
+    ovatko ne turvallisia? Näillä systeemeillä pääsee helposti
+    asentamaan distron oman pakettihallinnan ohi tavaraa globaalin
+    polun alle.
+
+    Javassa saattaa olla kamalan verboosinen työkalusetti moduuleihin
+    ja paketteihin, mutta se on myös aiheuttanut minulle vähiten
+    päänsärkyä kaikista. Clojuren tapauksessa pakettiriippuvuudet ovat
+    projektilokaaleja, ja ne hallinnoidaan Javassa tuttujen, hyvin
+    kypsyneiden työkalujen avulla kuntoon. Kokonaisuutta voidaan
+    sitten tarjoilla yhtenä isona jar-tiedostona, jonka
+    suorittamiseen ei tarvitakaan kuin pyörivä JRE. Eikä systeemiin
+    koidu tarpeetonta kuonan kertymistä.
+
+*** Puutteellinen funktionaalisen paradigman tuki
+
+    [[http://www.bestinclass.dk/index.clj/2009/10/python-vs-clojure-evolving.html][Lau Jensen]] on kirjoitellut hyvän introduktion Pythonin ja
+    Clojuren eräistä eroista ja funktionaalisuuteen painottuen. Tämä
+    "pointti" on hyvin subjektiivista, koska ihmiset kirjoittavat
+    isoja ja upeita sovelluksia ilman funktionaalisuuttakin.
+
+    Toki Pythonissa on teoriassa kaikki eväät funktionaalisen koodin
+    tuottamiseen, mutta silti pienet asiat tekevät asioista hankalia.
+    Pythonin peruskirjastossa on vain pieni määrä funktioita listojen
+    ja iteroitavien käsittelyyn; usein edellämainittuja kahta joutuu
+    käsittelevään ankkatyypityksestä huolimatta erikseen ohjelmissa.
+    Clojuren laiskat tietorakenteet käyttäytyvät pinnalla tasan
+    samoin kuin kokonaan evaluoidut lajitoverinsa.
+
+    Ankkatyypityksen jälkeen Python on muutenkin ulkoistanut loput
+    abstraktioajattelunsa OOP:n harteille. Vaikka oliopohjainen
+    paradigma onkin erinomainen työkalu abstrahointiin, ovat Haskellin
+    ja Scalan /abstraktit tietotyypit/ ja Clojuren vastaavat
+    laajennukset protokollineen ja toteutuksineen pidemmällä kuin
+    mihin OOP nätisti kykenee.
+
+    Python ei huono kieli puutteellisesta funktionaalisuudestaan
+    johtuen, vain huonompi kuin Clojure. Ja tämä minun mielipidettäni
+    tietenkin!
+** DONE Eli Bressert: Scipy and Numpy (O'Reilly)     :python:kirja:arvostelu:
+   CLOSED: [2013-06-06 Thu 18:52]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-06 Thu 18:52]
+   :END:
+
+   O'Reillyn blogiohjelmasta ilmaiseksi saamani kirja *Scipy and
+   Numpy* (Eli Bressert) kuulosti alkuvaiheessa erinomaiselta
+   kirjalta, erityisesti kun aloitin niin hienosti sillä Wes McKinneyn
+   [[http://progo.viuhka.fi/mietteet/597/wes-mckinney-python-for-data-analysis-oreilly][Python for Data Analysis]] kirjalla aikoinaan. Mutta Scipy and Numpy
+   ei toimi jatko-osana, eikä toisaalta myöskään aloittelijoille
+   sopivana pakettina.
+
+   Hyvät lähtökohdat kirjalle karisivat hyvin nopeasti pois, kun sain
+   käsiini ensimmäisen painoksen kirjaa viime joulukuussa. Paketista
+   paljastui vain 60-sivuinen paketti hyvin pinnallista esittelyä
+   kahdesta mainitusta kirjastosta. Muutenkin pani vähän jäihin koko
+   esitys minut. Tässä puolen vuoden aikana on kuitenkin tehty useita
+   korjauksia tähän työhön, ja nyt tämä neljäs versio on hionut
+   useimmat ongelmat pois.
+
+   Monia haasteita esimerkiksi koodiesimerkkien valinnassa tuntuu
+   hävinneen -- ja hyvä näin -- mutta työ on edelleen liian
+   pinnallinen toimiakseen edes aloittelijoille. Numpylle ja Scipylle
+   on molemmille varattu noin 25 sivua ja lopuksi on 10-sivuinen
+   näytös SciKit-paketista. SciKit ei ollut ennestään tuttu, mutta ei
+   se tämän kirjan myötä sen enempää auennut. Esimerkit ovat kaikessa
+   värikkyydessään riittämättömiä avaamaan kirjastojen
+   käyttötilanteita, ja Bressert ei ole kyennyt selittämään niitä
+   proosassa sen paremmin. Tosin hyvin harva pystyykään 70 sivussa.
+
+   Uudistetussa painoksessa on otettu jonkin verran numeeriseen
+   laskentaan painottuvaa tavaraa, ja se on tavallaan ihan jees.
+   Lopussa esitellään ryhmittelystä ja esimerkkejä avataan tietysti
+   jonkin verran. Kirja on painoksissaan hioutunut kyllä hyvään
+   suuntaan, mutta se on edelleen oleellisesti vain kokoelma
+   annotoituja koodipätkiä. Aloittelijan lähtöteokseksi kamalan huono
+   pinnallisuuden takia. Korkeintaan voisi suositella niille
+   aloittelijoille, jotka tarvitsevat jonkun isomman kirjan tueksi
+   vähän vaihtelevia esimerkkejä. Ei sillä, että ne /vaihtelisivat/
+   tämän kirjan puitteissa, mutta johonkin muuhun kirjaan nähden.
+** TODO Illuminatukseni                                          :peli:koodi:
+
+   Haaveita saa miehellä olla. Suuriakin.
+
+   Oma Illuminatukseni
+
+   - Parhaat palat kustakin pelituttavuudesta
+       - UnReal World
+           - yleinen survival-meininki
+           - tavaroiden rakentelu
+           - käyttöliittymä
+       - Nethack
+           - yleinen pelin sujuvuus 
+           - valikoiden käytettävyys
+       - Falloutit
+           - pelitunnelma, aseiden korjaaminen
+       - Dwarf Fortress
+           - kenties omat rakennelmat ja tukikohdat...
+       - Jagged Alliance
+           - tiimityöskentely ja taktikointi
+       - Doom Roguelike
+           - ainakin ampuma-/tähtäyssysteemi
+   - UI ja käyttöliittymä
+       - grafiikka: ncurses se ainut oikea
+           - ssh ja telnet -pelaaminen
+           - tavallinen moodi, varmaan vähintään 120x30 -ruutu
+           - kompakti, 80x24 on puristisuuteni takia oltava tuettuna
+           - värejä ne standardit 16, koska 8-bittiset värit liian vaihtelevia
+       - ääniä
+           - kenties äänitehosteita välittömään tunnelmaan
+           - äänten oltava ei-välttämättömiä pelaamisen suhteen (SSH)
+           - musiikkia tuskin
+       - näppäimistö Nethackin tapaan
+           - HJKL, numeropädi liikkumiseen
+           - #extended-komennot 
+           - ehkä emacs-henkisiä näppäinketjuja valikoineen (URW)
+   - pelimaailma
+       - iso tietenkin
+       - Satunnainen maailma alusta alkaen
+           - maamassaa ja vähän vettäkin
+           - kuitenkin sekaan on ripoteltu joitain määrättyjä kaupunkeja tai paikkoja.
+           - Toki ne kaupungitkin voisi generoida...
+       - kartat pitää luonnollisesti itse selata.
+       - vihreää metsää ja luontoa, mutta myös lunta
+       - ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
+         perinteisempään tapaan.
+       - teema avoinna
+           - Tolkien-fantasia (Nethackin tapaan)
+           - post-apokalyptinen tapaus (Fallout; Postman)
+   - juoni ja tarina
+       - jotain syvällistä ja ehkä paikoin surrealististakin, tietenkin.
+       - Pelaaja saapuu jostain paikasta X hänelle tuntemattomaan
+         paikkaan/mantereelle Y melko tyhjin käsin. Joku tämmöinen idyllinen
+         kalastajakaupunki pyörii mielessä. Sieltä tavernasta (HoMM-tribuutti)
+         sitten palkataan ensimmäiset apuväet.
+       - tavoitteena ja määränpäänä jotain henkilökohtaista kenties. 
+       - erilaisia sivujuttuja sitten roppakaupalla päälle. 
+   - pelaaminen ja pelimekaniikka
+       - vuoropohjainen
+           - ei AP-pohjainen kuten JA, vaan yksinkertaistettu kuten Nethackissa.
+       - *ei* suora roguelike, vaan tallennukset kuten jossain fallouteissa.
+           - tietenkin iron man -moodi kiihottaisi, mutta se tajuton vaikeustaso
+             näissä kompleksisissa peleissä...
+       - hahmoilla attribuutteja, ehkä kokemusjuttujakin.
+       - pelattavaa vähintään 50 tuntia
+       - Ison kartan ja sen sellaisen kanssa on pidettävä itse kirjaa asioista.
+         Osattava vaikka suunnistaa itse oikeaan ilmansuuntaan, jos sellainen
+         vinkki annetaan.
+       - pelaaja johtaa tuttuun tapaan pientä joukkuetta
+           - useita tiimejä eri puolille asemoituna, rakentelevat tukikohdan DF-henkeen
+           - pelaajan mukana voi seurata pieni osa tiimistä, loput jätkistä
+             tienaavat vaikkapa turvaamalla kaupunkeja 
+       - --> twisti: vain pelaajan omaa hahmoa liikutellaan. Muut tulevat tekoälyn turvin.
+           - käskyttely tapahtuu luonnollisin kielin englanniksi.
+               - automaattitäydennys apuun
+               - aliaksia usein tehdyille komennoille
+               - dialogi pitänee kuitenkin käsikirjoittaa... ei tässä AI-jumaluutta tavoitella
+           - esimerkkejä komennoista:
+               - "cease fire!"
+               - "go"
+               - "Kalle: go by the other side"
+               - "alpha (määritelty tiimi, koostuu 1-n apurista): use bows"
+               - "collect the loot"
+               - (Kaupunkiin tultaessa haluat käydä kunnanjohtajalla yksinäsi:)
+                 "I meet you in the tavern later."
+           - tekoälyn oltava sitten naurettavan hyvä, ettei pelaaminen pysähdy siihen.
+
+** DONE Moary täyttää vuoden                                :python:elokuvat:
+   CLOSED: [2013-08-15 Thu 11:41]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-08-15 Thu 11:41]
+   :END:
+
+   On ollut kylmää ja sateista koko tämän pitkän elokuun. Ei ollut
+   näin kylmää vuosi sitten. Mistäkö muistan? Tasan vuosi sitten
+   tänään elokuvapäivyrini [[https://github.com/progo/moary][Moary]] aloitti vakituisen toiminnan
+   katselemieni elokuvien kirjaamiseen. Se oli helteistä aikaa saada
+   elokuvat nautittua ilman paikkojen sotkemista.
+
+   166 elokuvaa 365 päivässä. Selvemmin ajateltuna kolme elokuvaa
+   viikossa. Sehän käy hyvin yksiin sen kanssa, että kesäisin katson
+   helposti 6 elokuvaa viikossa ja arkena vain viikonloppuisin, eli
+   kaksi viikossa. Uniikkeja enimmäkseen: onkohan listalla ehkä kaksi
+   duplikaattia. Olen henkilökohtaisesti hyvin tyytyväinen tähän
+   tulokseen. Katsomattomia elokuvia on maailmassa aivan riittämiin,
+   eikä ole selvästikään tarvinnut turhaa toistoa katsoa vuoden
+   sisään.
+
+   Olen myös hyvin tyytyväinen moaryn käyttöasteeseen:
+   käyttöliittymän olen saanut pidettyä riittävän simppelinä, että
+   kriittinen tiedonlisäyskynnys pysyy matalana. Ohjelma itse on
+   vähän paukkunut saumoistaan, erityisesti IMDBpy on huteraa tekoa.
+   Tietysti kun IMDB ei tarjoa kunnollista API-rajapintaa, niin tämä
+   olikin odotettavissa. Pari kertaa on saanut pähkäillä ongelmien
+   kanssa, mutta suurinpiirtein ainut häviö onkin ollut tyhjä
+   IMDB-ruutu. Sen saa helposti jälkikäteenkin mukaan.
+
+   Moary on ollut aina hyvin vapaamuotoinen rajoitteiltaan: en pakota
+   ketään hakemaan IMDB-osoitteita, kirjoittamaan satojen sanojen
+   sepustuksia tai edes antamaan numeerista arvosanaa! Otin myös
+   periaatteekseni sen, että tässä ohjelmassa tehdään merkintöjä
+   katsomiskerroista, ei itse elokuvista. Jos saman elokuvan katsoo
+   kuukautta myöhemmin ja tällä katsomiskerralla oivaltaa jotain
+   uutta, on lupa antaa parempi arvosana elokuvalle (näin
+   halutessaan, jokuhan voisi pitää tätä katsontakertaa muuten
+   huonona) eikä ensivaikutelman arvosanaa tarvitse mutiloida tai
+   hävittää historiasta.
+
+*** Tulevaisuuskuvia
+
+    Lokaali tietokantani on pysynyt kevyenä. Oleellisesti ainut
+    pakollinen tieto on nimikenttä (joko/tai IMDB), mutta halutessaan
+    molemmat voi täyttää. Minä ainakin teen niin.
+
+    IMDB:n kautta voi poimia kaiken muun tiedon. Jos Moaryn
+    metakykyjä lähtisi virittelemään, niin se olisi helppoa IMDBpy:n
+    lokaalin välimuistin ansiosta. Olettaen vain, että käyttäjä on
+    pitänyt IMDB-tunnisteet mukana kuvioissa.
+
+    Mutta tuskin teen mitään sellaista. Tylsää, hankalaa ja minä
+    ainakin henkilökohtaisesti tiedän kaikki katsomani elokuvat.
+    Suosituksia jaksan kaivaa nettisivujenkin kautta.
+
+    Sen sijaan arvostelujen integraatio esimerkiksi tänne blogiin tai
+    Twitteriin on ollut mielessä. Tietysti kirjoittamani kuvaukset
+    ovat luokkaa "1--2 virkettä", joten kovin havainnollisia tuskin
+    olisivat.
+
+    Jonkinlaista pientä on luvassa seuraavan 12 kuukauden aikana, sen
+    kyllä voin taata. Githubissa saa laittaa tikettiä pystyyn ja
+    potkia vähän persuksillekin.
+** DONE Nopeat kirjanmerkit Emacsille                           :emacs:elisp:
+   CLOSED: [2013-05-11 Sat 18:06]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-05-11 Sat 18:06]
+   :END:
+
+   Tänään aamulla minulle syntyi visio Emacs-skriptistä, joka toisi
+   Vimperator-henkiset kirjanmerkit Emacsiin. Panin asiasta merkinnän
+   =org=-kalenteriini ja jatkoin sitten päivän pakottavammissa
+   askareissa.
+
+   Sitten iltapäivästä asia tuli yhä uudestaan ja uudestaan mieleen,
+   ja ei siinä muu auttanut kuin aloittaa koodaaminen. Syntyi
+   tuloksena [[https://github.com/progo/progomarks][progomarks]]-niminen unix-filosofisella näkemyksellä.
+
+   Tässä työssä on paljon kaunista. Ehkä sikäli, kun allapiilevä
+   mekanismi on todella yksinkertainen ja toimiva. Erityisesti kaikki
+   näyttää kauniilta, kun tunnun tulleen siihen pisteeseen, että
+   Emacsia voi lähteä laajentamaan ihan noin vain, jos jotain tuntuu
+   puuttuvan. Tähän tilaan pääsy veikin noin 8 kuukautta, mutta kyllä
+   se kannatti.
+
+   
+*** Perusidea
+
+    Usein koluttuihin tiedostoihin tahtoisi päästä nopeasti. Emacsin
+    olemassaolevat kirjanmerkkiratkaisut eivät näyttäneet äkkiseltään
+    katsoen sisältävän muuta kuin nuolinäppäimiä ja
+    perusliikkumakomentoja: käytännössä siis suunniteltu isojen
+    kirjanmerkkimäärien hallinnointiin, joista haetaan sitten
+    hakutoiminnoin.
+
+    Minulla oli tausta-ajatuksena saada pari kiperässä paikassa
+    lymyävää, mutta usein käytettyä tiedostoa helposti saataville.
+    Tiedostoja tulisi olemaan siis kohtuullisen vähän näkyvillä. Ja
+    niihin pääsee hyppimään nopeasti Vimperatorista tutuilla
+    aakkoslyhenteillä. Ohessa esimerkki ruudulle aukeavasta näkymästä,
+    kun =progomarks= aktivoidaan:
+
+    #+begin_example
+    Progomarks
+    ----------
+    j SPC               /home/progo/.emacs.d/progomarks
+    k SPC               /home/progo/kurssit/nyk/oht/oht-s4.org
+    l SPC               /home/progo/LoremIpsum.txt
+    f SPC               /home/progo/dokumentit/Runo.txt
+    a SPC               /home/progo/koodi/mpyd/DB.py
+    kj SPC              /home/progo/koodi/progomarks/progomarks.el
+    kk SPC              /home/progo/LoremIpsum.txt
+    kl SPC              /home/progo/dokumentit/blog/blog.org
+    #+end_example
+
+    Nyt riittää painaa =j <SPC>=, niin =progomarks=-tiedosto aukeaa.
+    Jos tämän =progomarks=-komennon itsensä asettaa nätin
+    näppäinyhdistelmän taakse, niin usein haluttuihin tiedostoihin
+    pääsee hyppimään nopeasti. Minä heitin sen kokeeksi
+    @<code>,fb@</code>-yhdistelmän taakse. 
+
+    Toinen tarvittava "julkinen" funktio on
+    =progomarks-mark-current-file=, jolla avoinna oleva tiedosto
+    ympätään kirjanmerkkilistan perälle. Itse lista säilyy tiedostossa
+    ja sisältää äärisimppelisti yhden URI:n per rivi. Sitä tiedostoa
+    saa sitten itse editoida ja mukauttaa järjestystä, jos näin
+    tahtoo.
+
+*** Itse koodi
+
+    Koodi on [[https://github.com/progo/progomarks/blob/master/progomarks.el][Githubissa]]. Siitä on paha sanoa mitään tässä kohtaa,
+    muuta kuin että se on /todennäköisesti/ melko idiomaattista
+    Elispiä suurimmalti osin. Emacs Wikin Elisp-keittokirjaa
+    pläränneenä ja tämänkin paketin koodanneena olen tehnyt muutamia
+    huomioita:
+
+    - Elispissä ja Emacsissa ylipäätään kaikenlainen tiedostojen
+      lukeminen ja kirjoittaminen tehdään lukemalla tiedoston sisältö
+      väliaikaisiin (ja käyttäjältä näkymättömiin) puskureihin, joissa
+      sitten käytetään tavallisia Emacs-komentoja editointiin. Lopuksi
+      tallennetaan koko roska takaisin.
+    - Emacs-sovellukset (kuten Viminkin vastaavat) kirjoitetaan
+      luonnollisesti "virtuaalisiksi" puskureiksi, eli puskureiksi,
+      joilla ei ole tiedostoa taustalla. Tässä kohtaa Emacs (ja Vim)
+      todella ovat löytäneet juuri oikean abstraktion. Avonaisten
+      puskurien ei tarvitsekaan kuvata oikeita tiedostoja pohjalla.
+      Riittää vain, että kirjoitellaan tekstiä puskuriin, tehdään
+      sopivat näppäinoikotiet saataville ja paiskataan kaikki
+      käyttäjän naamalle. Kaikki on tekstiä ja temppitiedostoja ei
+      tarvitse pyöritellä systeemissä.
+    - Emacsin paketointisysteemi on kevyt ja toimiva. Ei tarvita
+      turhia alkujulistuksia, vain =(provide ...)= -lauseke tiedoston
+      (mielellään) lopussa. Paketti ladataan sitten =(require ...)=
+      -makrolla käyttöön ja Emacs etsii tiedostonimellä
+      latauspoluistaan sopivannimisiä tiedostoja ja lukee niitä.
+    - Lispinä Elisp on toki mukavaa ja ilmaisuvoimaista
+      sellaisenaankin, mutta funktionaalista ei missään tapauksessa.
+      Erilaiset silmukat jylläävät pitäjää ja muuttujia päivitellään
+      tuon tuosta. Jopa sulkeumia minun piti etsiä oikein työtä
+      tehden, ja ne lopulta löytyivät uuden Emacsin kokeellisista
+      lisäosista. No, hyvä että löytyivät kuitenkin.
+
+    Sulkeumia oli kiva käyttää tässä(kin) ongelmassa: kun määränä oli
+    rakentaa lennosta erilaisia näppäinyhdistelmiä bindattavaksi
+    samantapaisiin funktioihin, niin rakensin kullekin yhdistelmälle
+    sulkeuman avulla nolla-argumenttisen funktion, joka avaa juuri
+    halutun tiedoston.
+** DONE Emacsin IDO trumppaa kirjanmerkit                             :emacs:
+   CLOSED: [2013-06-06 Thu 18:32]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-06 Thu 18:32]
+   :END:
+
+   Aiemmin [[*Nopeat kirjanmerkit Emacsille][kirjoittamani kirjanmerkkisysteemi]] on tavallaan erittäin
+   kiva ja kohtuullisen toimiva, vaan se on yksinkertaisesti tarpeeton
+   omassa Emacs-käytössäni.
+
+   IDO, eli Interactively DO on kyselyihin erikoistunut
+   Emacs-kirjasto, jonka erityinen voitto piilee sumean haun
+   toimivuudessa ja yleisessä sulavuudessa. Avaa tiedostoja
+   kovalevyltä tai hae avoimia puskureita näytölle vain muutamalla
+   näppäilyllä, kun kirjaimia ei tarvitse tapailla perätysten saati
+   alusta alkaen. 
+
+   IDO ja Emacsin [[*Emacs rokkaa][demonimoodi]] yhdessä tuottavat sen tilanteen, että
+   kirjanmerkit tosiaan jäävät toissijaisiksi: huomaan avaavani
+   tiedoston kerran per emacs-istunto (ja tämäkin istunto on
+   =emacs-uptime= -funktion perusteella 21 päivää vanha) ja sitten
+   voin avata avoimet puskurit hyvin nopeasti sumealla haulla
+   näkyville. Erityisesti muutamat usein käytetyt portage-konffit
+   =etc=-hakemistojen alla aukeavat usein kolmea aakkosta painamalla.
+   Tämä blogitiedosto samoiten löytyy aina avoimena hakusanalla
+   =blog=.
+
+   Ihan kivaa harjoitusta, mutta ultimaattisesti tarpeettoman
+   kirjaston minä kirjoitin.
+
+** DONE Rautapäivityksiä ja Gentoo uusiksi                     :rauta:gentoo:
+   CLOSED: [2013-06-15 Sat 13:10]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-15 Sat 13:10]
+   :END:
+
+   Sain hyvän tilaisuuden vaihtaa AMD-setistäni takaisin Inteliin.
+   Uusi hirviö on tarunhohtoinen *Core i5 2500k*, josta ihmisillä on
+   vain hyvää sanottavaa. Siihen kaveriksi 8 gigaa muistia ja Asus
+   [[http://www.asus.com/Motherboards/P8Z68V/#specifications][P8Z68-V]]-emolevy. Pitäisi olla kaikki reilassa. AMD-linjalta
+   eroamisen ei pitäisi tuottaa ikävää.
+
+*** Kivaa rautaa
+
+    Intelin tuotteet ovat Sandy Bridgestä lähtien olleet melkoisen
+    ylivertaisia AMD:n tuotteisiin nähden. AMD onkin ilmoittanut
+    luovuttaneensa high end -prosessorien kanssa kilpailun. Moni
+    ongelma vaivaa AMD:tä, ja se näkyy Intelin voittokulussa ja
+    hintalapuissa.
+
+    Nykypäivän AMD:n huippumallissa olisi peräti 8 hyvää ydintä ja
+    sikäli kun käytettävät ohjelmat säikeistyisivät tarpeeksi hyvin,
+    saisin nykysettiini noin neljä kertaa paremman suorituskyvyn.
+    Intelin vahvuus on todella hulppeassa per-ydin -suorituskyvyssä,
+    joka tietenkin näkyy erityisesti peleissä ja muissa
+    yksisäikeisissä sovelluksissa. Saan AMD:n prosessorin hinnalla
+    käytetyn ja valmiin setin, jossa on kaikenlaista hyvää. Ja
+    sähköäkin syö vähemmän, ja 2500k kellottuu julmasti.
+
+    Emolevykin on mukava parannus entiseen. USB 3 ja toinen 16x
+    PCI-e  -portti auttaa tutkimaan. Intelin piirisarjoissa ei
+    pitäisi olla mitään ongelmia.
+
+    Näin se tapahtuu. En ole minkään prosessorileirin kannattaja tai
+    fani, vaan AMD on ollut aiempina vuosina hinta-laatusuhteeltaan
+    niin erinomaista. Suoritinhistoriani (486, Pentium, Athlon XP,
+    Athlon X2, Phenom II X2) saa pompun takaisin Intelin puolelle,
+    mutta jos uutta tavaraa joutuisin ostamaan, tuskin olisin.
+   
+*** Gentoo uusiksi 7 vuoden jälkeen
+    
+    Koska Intelin mikro-optimoinnit eroavat hieman AMD:n vastaavista
+    ratkaisuista, on viisainta kääntää Gentoo kokonaan uusiksi. Samalla
+    pääsen vaihtamaan 64-bittiseen puoleen. Asia, joka ei ollut kamalan
+    ajankohtainen vuonna 2006, kun asentelin tämän nykyisen
+    Gentooasennukseni. Kamala, kun tämä pysyykin hyvin pystyssä! Ja
+    nyt kaikesta viisastuneena tuleva asennus tulee pysymään entistä
+    pidempään pystyssä. Turhat pelleilyt Gnomen ja KDE:n kanssa jäävät
+    pois. Suoraan Xmonadiin.
+
+    "Ja puhtaalta pöydältä kun lähdetään, miksi Gentoo?", kuulen
+    kysyttävän. Kieltämättä, Arch Linux on ollut mielessäni vähän
+    aikaa: heillä on erinomainen ja nykyaikainen ote dokumentointiin
+    ja käyttäjäyhteisöihin. Mutta hyvät, ellei erinomaiset kokemukset
+    Gentoon kanssa pitävät minut täällä leirissä. Oleellisesti Archin
+    ja Gentoon välillä ei ole kuin makuasioiksi luokiteltavia eroja,
+    joten pysyn samassa maussa toistaiseksi.
+
+    Koska Gentoo tuntuu pysyvän hyvin pystyssä, aion panostaa tähän
+    puhtaan pöydän asennukseen ja välttelemään olemassaolevia
+    konffeja, ainakin näitä eniten systeemiin vaikuttavia sellaisia.
+    Tulen luultavasti kirjailemaan jonkinlaista asennuslogia ja nyt on
+    paras hetki antaa palautetta ja ehdotuksia asioista, joita
+    haluatte logista lukea. Teillä on noin viikko aikaa.
+** DONE Hikinen iltapäivä: Gentoo uusiksi                      :rauta:gentoo:
+   CLOSED: [2013-06-23 Sun 16:37]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-23 Sun 16:37]
+   :END:
+
+   Tämä on se pienimuotoinen asennuspäiväkirja 7-vuotisen
+   Gentooasennukseni uudelleenasentamiseksi mahdollisimman puhtaalta
+   pöydältä 64-bittiseen Intel-maailmaan. Kirjoitin tästä aiemmin
+   [[*Rautapäivityksiä ja Gentoo
+    uusiksi][muutaman alkusanan]] ja nyt seuraa puhtaaksi kirjoiteltu näkemys
+   asioista.
+
+   Tarina on kirjailtu pitkälti sitä mukaa kuin olen asioita tehnyt ja
+   jaksanut mounttailla kotiosiot auki. Moni asia paranee
+   jälkiviisastuttuaan, joten kirjailen sulkuihin asioita, miten ne
+   oikeasti pitäisi tehdä.
+
+   Mitähän alkusanoja tähän keksisi? [[http://www.gentoo.org/doc/en/handbook/][Gentoon käsikirja]] on edelleen
+   yhtä priimatasoinen ja aloittelijaystävällinen kuin 7 vuotta
+   sitten. Se tosin suosittelee tekemään asennuksen käyttäen Gentoon
+   omia livekiekkoja, ja tässä kohtaa mielestäni pitäisi painottaa
+   sitä vapautta valita asennusmediansa vapaavalintaisesti. En tiedä
+   noista nykyisistä Gentoon livekiekoista (vain vuosimallia 2006
+   oleva löytyy hyllystä), mutta Lubuntut sun muut sentään tukevat
+   pysyvyyttä ja sallivat apuohjelmien asentelun sulavasti.
+
+*** Perjantai 21.6. klo 10:21. 
+
+    Vielä vanhassa systeemissä sisällä. Kahvia kupissa ja nälkä
+    vatsassa. Etukäteen katselin joitain kernelikonffeja Gentoon
+    wikistä: Nvidian ajurit esimerkiksi tarvitsevat MTR-tuen. Hyvähän
+    se on sitten varmistaa, että tulee käännettyä ensimmäisellä
+    kerralla.
+    
+    Gentoon uudistettu wiki tuntuu olevan ihan hyvässä kunnossa.
+    Tavaran kirjoitan kotihakemistoni juureen (=~/LOG.txt= ja
+    =~/KERNEL.txt=), koska kotihakemistoni on sentään omana osionaan,
+    peräti kovalevynään. Jos ei olisi, kirjoittaisin muistiinpanojani
+    sellaiselle osiolle, joka säilyy uudelleenasennusten yli. Jos ei
+    sellaistakaan ole, niin luultavasti usb-tikku olisi seuraava
+    valinta. Verkkopalvelutkin ovat vähän niin ja näin, jos verkko ei
+    ole päällä. Tai X, mutta ssh:n ylitsehän me kaikki teemme.
+    
+*** klo 10:50
+
+    Boottasin lubuntuun sisälle tekemään joitain tarkastuksia.
+    Merkintä itselleni: boottiosio siirtyköön sdb2:sta sda2:ksi
+    (sdb3:ksi, toim. huom.) ja swappi sda2:sta sda3:ksi. Nämä tietysti
+    kannattaisi koodata fstabiin UUID:n avulla, mutta swapista en
+    tiedä, onnistuiko se. Kah, pitäisi onnistua. Fstabissa tavara oli
+    jo labeloitu "boot":ksi ja "swap":ksi, joten ongelmia ei pitäisi
+    tulla. Grub ei tietysti labeleista niin välitä.
+    
+    Ja Lubuntu toimii hyvin sutjakasti SSD-USB -levylta.
+    
+    Kello alkaa olla pykälässä, eli 11:00. Pizzapaikka aukeaa ja
+    toisaalta K-market on viela tunnin ajan auki. Käyn hakemassa
+    margariinia kaupasta ja pizzaa pizzapaikasta. Sitten availlaan
+    koppaa ja imuroidaan vähän.
+    
+*** klo 13:40
+
+    Noin kahdentoista aikaan olin saanut ruokani nautittua ja
+    aloitettua ruljanssin. Raudan vaihtaminen sujui kivutta, vaikka
+    hieman hitaasti teinkin.
+    
+    Hieman emmin tuon jäähdyttimen kanssa: vakiojäähy vai OCZ
+    Gladiator Max. LGA775-kama taisi mennä hyvin uudempien kantojen kanssa
+    yhteen (ei mene). Koska minulla ei ole kuin huonoa tahnaa, en sitten
+    valinnut vaihtaa sita jäähyä lennosta. Nyt on kuitenkin lubuntuun
+    bootattuani luvut aika korkealla (Asus sanoo 97 astetta ja
+    Lubuntu/tuore lm-sensors sanoo 60 astetta)... ehkä tahna on
+    huonoa, ehka sensorien kalibrointi ei pelaa. Mistähän saisi oikean
+    luvun?
+    
+*** klo 14:05
+
+    Pakko todeta, etta myyjä on heittänyt huonot tahnat jäähyn väliin.
+    lm-sensorin antavat luvut voivat hyvinkin olla oikeita, sillä ne
+    nousevat kovasti Kraken-testeissä. Suljetaan ja tarkastellaan.
+    
+*** klo 15:40
+
+    Aikani tapeltuani jäähyjen kanssa tulin siihen tulokseen, (ja nyt
+    myos vahvistan taman googlauksin) että AM2/LGA775-kantaan
+    suunniteltu OCZ Gladiator Max ei käy LGA1155:een. Laitoin omat,
+    huonot tahnat ja uudelleenkiinnitin vakiojäähyn. Kovin huonohan se
+    on kaikin puolin, mutta mita voin tässä vaiheessa tehdä...
+    
+*** klo 16:07
+
+    Tässä vaiheessa on tullut selväksi, että Gladiator Max vaatii joko
+    1155-sopivat kasauspalikat (OCZ ei niita valmista) tai sitten
+    pitää ostaa uusi hyvä jäähy. CM Hyper on kuulema hyvä ja ihan
+    edullinenkin, ja saastyisi tuolta Intelin ruuvikauhulta.
+    
+    Mutta nyt alkakoon Gentoon asennus.
+    
+    Roger Watersin "In The Flesh" -kiertueelta koostettu video
+    pyörimään ja menoksi. Muita alkuvalmisteluja on tietysti asettaa
+    Lubuntuun kaikki näytöt näkysälle ja mapata Caps Lock ESC:ksi.
+    Vimistelyä varten. /All set, I guess./ Muutahan ei tarvita kuin
+    sopiva versio Gentoo Handbookista (AMD64 viimein). Asennus
+    tapahtuu Lubuntu 13.10:n kautta.
+    
+*** klo 16:30
+
+    Käytännössä aloitetaan homma asennusoppaan luvusta 4 alkaen.
+    Kaikki sitä aiempi on livekiekon säätöä ja lievästi miettien aika
+    turhaa. Lubuntu tai joku muu helppokäyttöinen perusdistro sopii
+    hyvin automaattisten verkkokonffien ja muun tauhkan kaveriksi.
+    
+    Levyosiointikin on kunnossa, pitää vain tyhjätä se. Ext4 vai XFS,
+    siinäpä se kysymys. Valittakoon ext4. Alustettu ilman mitään
+    erityisempiä flageja ja panin wgetin laulamaan uusimman
+    stage3-tarballin kanssa.
+    
+    [[http://paste.nerv.fi/54154565-asennus.png]]
+    
+*** klo 17:10
+
+    Tarball purettu; oppaan luvussa 5c menossa. Uusi ja tyhjä
+    =make.conf= ammottaa edessäni: mitä ihmettä tähänkin nyt keksisi.
+    Taidan lukea ajatuksella tuon oppaan suositteleman
+    =/usr/share/portage/config/make.conf.example=-tiedoston. En
+    tainnut lukea sitä silloin 7 vuotta sitten, enkä ainakaan ole sen
+    jälkeen!
+    
+    No, siellä ei sitten ollut mitään uutta ja mullistavaa.
+    =ACCEPT_LICENSE= perinteiseen tapaan tähdelle ja =PORTAGE_NICENESS=
+    isolle.
+    
+    Nyt uskaltaa konsultoida vanhaa make.conffia. Ei mitään uutta ja
+    mullistavaa. No, =march=native= on ainut oleellinen lisä
+    oletuksiin.
+    
+*** klo 17:35
+
+    Hitaasti edetään, mutta ei olekaan tarkoitus hoppuilla. Nyt
+    mentiin chrootin sisään ja portagen synkkaus meneillänsä. Viisi
+    lukematonta uutista odottelee. (Vinkiksi uusille asentajille:
+    kirjoittakaa oppaassa käytetyt =mount=- ja =umount=-litaniat
+    suoraan shell-skripteiksi, sillä kerneli tuskin kääntyy
+    täydellisesti ensimmäisellä kerralla. Eikä toisellakaan.)
+    
+    Ensimmäinen kääntö ei ollut =vi=, vaan =eix=. Sitten =gentoolkit=
+    ja =euses=. Nyt seuraavana lähti =vim= tulille.
+    
+*** klo 17:50
+
+    Kerneli 3.8.13 pannaan konffaten ja kääntymään. Olisin mielelläni
+    ottanut 3.9-sarjalaista eteen, mutta reboottailla pitää
+    lähitulevaisuudessa muutenkin. On siis aikaa päivitellä.
+    
+*** klo 18:35
+
+    Kerneli käännetty; luku 8a alkamassa. Vanhan systeemin =fstab= käy
+    vallan hyvin. Pitää toki muistaa vaihtaa xfs-lätkä ext4:ksi. Ja
+    sama sitten grubbia asentaessani. Localet varastan vanhasta.
+    Toimivat sen verran hyvin siellä. Samoiten lokaalit (suurin osa
+    en\_US-lokaaleita, muutama hassu, kuten paperiasetus, suomeksi).
+    
+*** klo 18:55
+
+    Oppaan luku 9 menossa: joitain satunnaisia työkaluja systeemiin.
+    =Syslog-ng= on oma valintani loggeriksi. =Dcron= on temppuillut
+    vanhassa omituisesti; ehkä koitan vixietä.
+    
+*** klo 19:10
+
+    Oppaan asennusvaiheet on päästy suosiolla loppuun. No, vielä
+    toistaiseksi olen skipannut rebootin. Mukavampi käännellä joitakin
+    paketteja moninäyttösysteemissä...
+    
+*** klo 19:50
+
+    Jotain häikkää grubin saadoissa ja kernelissäni. Ensimmäinen
+    isompi probleema matkassa.
+    
+*** klo 20:20
+
+    Ext4:n mountprobleemasta varmaan kyse... (Ei ole. /Wait for it.../)
+    
+*** klo 22:00
+
+    Viimein asia ratkesi. Kuten tavallista, kyse oli nyyppäongelmasta:
+    =TMPFS=-tukea en ollut kääntänyt mukaan kerneliin. Nyt päästään
+    takaisin tavallisiin ongelmiin, kuten puuttuvaan
+    verkkokorttiajuriin.
+    
+*** klo 23:00
+
+    Verkkoajurit olivat kylla kunnossa, mutta uusi =udev= tai jokin
+    vastaava on nimennyt sen =eno1=:ksi vanhan tutun =eth0=:n sijaan.
+    Helppo tottua tahan muutokseen.
+    
+    =Xorg-x11= lahti kääntymään. Koska määrittelin nvidian mukaan jo
+    =make.conf=:issa, kaikki tarpeellinen tulee yhdessä lastissa. Ehkä
+    tunnin sisaan. Roger Watersin vetämä The Wall Live pyörii
+    telkkarissa.
+    
+*** klo 23:50
+
+    Xorg jo toiminnassa. Hieman mietinnässä, että menenkö vanhalla
+    GDM:lla, vai Qingylla, vai vaikka LightDM:lla. Eräät tuntuvat
+    olevan startx-linjalla, mutta rohkenen olla asiasta eri mieltä.
+    
+    Alkaa olla talta paivaa tarpeeksi kaantelya ilmassa.
+    
+*** Lauantai 22.6.2013, klo 10:27
+
+    Olen hieman häkeltynyt vielä siitä, miten nopeasti nvidian uuden
+    =xrandr=-tuen turvin päästiin moninäyttöiseen X-käyttelyyn. Nyt
+    boottasin kuitenkin kaikesta huolimatta Lubuntun puolelle tekemään
+    joitain kääntelyitä ja lukemaan LightDM-ohjeita. Olen kahden
+    vaiheilla, otanko LightDM:n käyttööni. Qingyn asentaminen vaatii
+    framebufferit kerneliin (ei vaadi, jos ei tarvitse silmäkarkkia
+    loginiin), mutta olisi sitten aika eliitti.
+    
+    Tällä hetkellä on GHC:n asentaminen Xmonadia varten meneillään --
+    sitten Firefox luvassa. Ei tässä ole onneksi mihinkään kiire.
+    
+    Nyt oleellisinta olisi kirjoittaa asennuslistaa itselleen ja
+    keskittyä kuhunkin osakohtaan kerrallaan: muuten tulee vain
+    hädissään paiskottua paketteja sisään ja konffit jäävät
+    puutteellisiksi.
+    
+*** klo 11:04
+
+    GHC edelleen kääntymässä. Edelleen kaksiportaisen käännöksensä
+    ensimmäisessä vaiheessa, joten hengitystään ei kannata pidätellä.
+    
+    Päätin siinä ohessa valita Qingyn "loginmanagerikseni". Se on
+    todella kevyt, ei dependenssejä ja saa myös ihan nätiksi
+    framebufferien kanssa.
+    
+    Oletus-USE-flageilla on päässyt yllättävän pitkälle! Olen nyt
+    kirjaillut joitain yhteisiä nimittäjiä ylös, ja niitä ei ole kovin
+    montaa. Yhdessä ikkunassa pidät editorissa sekä =packages.use=-
+    että =make.conf=-tiedostoja ja toisessa pyörittelet =emerge -tuvpN
+    world= -listausta. Omalla kohdallani huomasin, että:
+    
+    - X;
+    - jpeg, png, gif, alsa, (mp3, ogg, flac, ...);
+    - oletuskonffin suosittelemat mmx, sse, sse2;
+    - (bindist pois ehdottomasti),
+    - (bash-completion, zsh-completion),
+  
+    riittävät pitkälle. Jos olet aloitteleva Emacsisti, niin älä laita
+    =emacs=-flagia ainakaan globaaleihin flageihin. Tuntuu vain
+    sotkevan, mutta ehkä se olen vain minä. Sen sijaan vimistelijän
+    kannattaa asettaa =vim= globaaleihin. Saa paljon hyvää
+    automaattisesti. Esimerkiksi asennat conkyn -> sopiva
+    conky-konffin väritys tulee automaattisesti perästä. 
+  
+    Useflagit voi toki jakaa useaan palaseen tähän malliin:
+  
+    #+BEGIN_EXAMPLE
+      # general use
+      USE="bindist X vim offensive"
+      
+      # optimizations
+      USE="${USE} mmx sse sse2"
+      
+      # multimedia etc
+      USE="${USE} jpeg png gif xft alsa"
+    #+END_EXAMPLE
+
+    Näin vältyt massiiviselta kilotavuluokan onelinerilta.
+
+*** klo 12:20
+
+    Qingy näyttää asentuneen hyvin ja framebufferitkin ovat taas
+    pelissä. Xmonad ei lähtenyt nätisti rullaamaan, mutta taisi johtua
+    siitä, että /home on mountattu noexecinä. Älä aseta huvin vuoksi
+    "user"-flagia /homen mount-optioihin =fstabissa=.
+
+*** klo 12:35
+
+    Siitä se olikin kiinni. Nyt xmonad lähtee käyntiin, ja xmobarkin.
+
+*** klo 13:10
+
+    Firefox kääntymään ja meikä lähtee nyt grillailemaan pariksi
+    tunniksi veljen tykö.
+
+*** klo 18:55
+
+    Vierailut on vierailtu. En ajatuksissani hoksannut ottaa
+    =bindist=-useflagia pois. Se on aika kamala flagi, jolla on hyvin
+    vähän käyttöä henkilökohtaisissa asennuksissa.
+
+    Nyt on aika säätää musiikki ja ääni kuntoon. MPD ja sen kaverit
+    kuntoon. Vanhat konffit taitavat mennä sellaisenaan sisään, mutta
+    alsan työkaluja tarvitaan. Millähän nimellä ne taas kulkivatkaan?
+
+*** klo 19:30
+
+    /The music is on./ Vanhat ALSA-konffit saavat jatkaa toiminnassa,
+    ovathan ne niin erinomaiset. MPD ja kaikki oheissälä on kanssa
+    kunnossa. Konffataanpa huvikseen tuo NTP kuntoon. Aiemmin olen
+    käyttänyt ntpdate-klienttiä cronissa, mutta jospa nyt asiat
+    tehdään oikein.
+
+*** klo 20:40
+
+    Videot, katselupäiväkirjat ja kirjastotoiminnallisuus testattu kanssa.
+    Tänään voisi rentoutua elokuvan parissa. Huominenhan on vielä kokonaan
+    konffaamiselle vapaata aikaa!
+
+*** Sunnuntai 23.6.2013, klo 10:23
+
+    Uusi asenneltava alkaa olla ns. kiven takana. SSHd ja Fail2ban ovat
+    jäljellä muistilistallani, sekä useita henkilökohtaisen kustomoinnin
+    asioita. Kursorit esimerkiksi ovat järin oudot.
+
+*** klo 11:50
+
+    Syslog, sshd ja fail2ban konffattu kuntoon. Olen tavannut laittaa
+    =messages=-tiedoston käyttäjäni luettavaksi. Aiemmin permissioilla
+    644, nyt tiukennetusti 640 ja =group==progo=. Edistystä kai.
+
+*** klo 12:30
+
+    Salasanalompakko pitää kai uusia. Olinkin kyllästynyt vanhaan
+    versioon, joka ei tarjoa paljoa käytettävyyttä. (MyPasswordSafe.)
+    Tutkiskelen komentoriviversioita.
+
+*** klo 14:50
+
+    [[http://zx2c4.com/projects/password-store/][Pass]] vaikuttaa täydellisimmältä minun tarpeisiin. Aito
+    salasanamanageri unix-filosofiaan. Salaus GPG:llä, säilytys
+    tiedostojärjestelmässä ja valinnaisesti gitissä. Selaaminen
+    shellin komentorivitäydennyksellä. Muut varmasti tykästyvät
+    KeePassiin. Myös =pwsafe=-niminen viritys tuli tietoisuuteeni: se
+    on vieläpä yhteensopiva MyPasswordSafen kanssa. Vähän on avoinna
+    vielä lopullinen valinta.
+
+*** Loppusanat
+
+    Kaikki sunnuntainen lätinä on käytännössä yhdentekevää itse
+    distron asentamisen kannalta.
+
+    Mutta mitä meille jäi käteen tästä? Eroja vanhaan systeemiin olisi
+    luultavasti erittäin vähän, jos olisin mennyt täsmälleen samalla
+    konfiguraatiolla. Nyt kuitenkin vaihdoin esimerkiksi
+    cron-demoniani ja displaymanageriani, mikäli Qingy sellaiseksi
+    voidaan edes laskea.
+
+    Muutama ratkaisematon ongelma jäi: Logitech MX518 -hiireni
+    peukalotoimiset apunapit eivät suostuneet tunnistautumaan
+    =xbindkeys=-ohjelmalle enää uudessa asennuksessa. Niiden
+    oletustoiminnot ovat mennä nettiselaimessa historiassa eteen- ja
+    taaksepäin, mutta olen itse käyttänyt mainittua ohjelmaa
+    mappaamaan Page Up/Down -toiminnot niihin. No nyt en saanut sitä
+    toimimaan. Imwheelin ja Lomocon asentaminen ei auttanut myöskään:
+    nyt napeista hävisi kaikki toiminnallisuus. Luultavasti kernelin
+    USB-HID -puolelta jäi jokin täppä asettamatta.
+
+    Kursorit ovat hieman vinksinvonksin nyt. Samaa ilmiötä olin nähnyt
+    vanhassa systeemissäni, kun kokeilin display managereita GDM:n
+    ulkopuolelta. Vain GDM antoi "hyvät" kursorit käyttööni, ja
+    hyvillä tarkoitan Xorgin mustia oletuskursoreita /poislukien/
+    ristikkokursori. Tämä asia ei tietenkään ole täysin sidoksissa
+    GDM:n toimintaan, se vain asettaa järkevät oletukset
+    root-ikkunalle. Näihin asioihin löytyy luultavasti jokin erittäin
+    helppo ratkaisu, mutta sopivaa kursorisettiä en ole vielä
+    löytänyt.
+
+** DONE Xen-virtualisointi suoravälitteisellä raudalla        :rauta:pelailu:
+   CLOSED: [2013-07-11 Thu 16:14]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-07-11 Thu 16:14]
+   :END:
+
+   Jostain se vain tuli mieleeni, ja ajattelin irkissä ääneen:
+   "Olisipa se hienoa, jos jonain päivänä virtualisointisovellukset
+   osaisivat antaa vieraskoneelle suorat yhteydet isäntäkoneen
+   rautaan, niin pääsisi pelaamaan sammuttamatta linux-isäntää". Ja
+   yhtä nopeasti tuli vastaus: "se on mahdollista; hyvin, hyvin
+   mahdollista."
+
+   Xen ja PCI-passthrough on taikasanasto, jolla tämä tavoiteltu tila
+   saavutetaan. [[http://www.youtube.com/watch?v=L_g7ZBMWoLk][Youtubessa]] on hyvin vakuuttavia esitelmiä aiheesta.
+   Valitettavasti myös raudalta vaaditaan joitain vähemmän tuettuja
+   kikkoja; Intel on esimerkiksi hyvin ilkeästi jättänyt
+   markkinapoliittisista syistä tarvittavan /VT-d/ -tuen pois
+   tehokäyttäjille myytävistä prosessoreista. VT-d -tuki siis maksaa
+   oleellisesti helpon kellotettavuuden, mutta eihän se loppupeleissä
+   iso menetys ole. Myös emolevyltä vaaditaan jotain, joten molemmat
+   uusista komponenteistani menevät Xen-päivityksien myötä vaihtoon.
+   Ei tapahdu tosin aivan heti: kesää ja työtä on jäljellä vain reilun
+   kuukauden ajan, joten tässä pisteessä on turha enää innostua. Nämä
+   ideat ajattelin haudutella ja ottaa vuoden päästä kesällä käyttöön,
+   jahka gradu on valmistumaan päin. Tai jotain.
+
+   Tämä Xen-vaihtoehto oikein toimiessaan takaisi kaiken halutun
+   Windows/Linux -toiminnallisuuden, josta olen haaveillut aina
+   pelaillessani enemmän. Dualboottaus on työlästä ja nostaa kynnystä
+   niin paljon, että sitä ei tulisi harrastettua kovin usein. Wine on
+   wine: toimii silloin kun toimii. Vaikka tulokset ovat hyviä
+   esimerkiksi Civilization V:n ja Falloutin kanssa, en halua käyttää
+   viihteeseen tarkoitettuja tunteja epävakaaseen pelattavuuteen tai
+   puutteelliseen kokemukseen. Kaikenlainen häslääminen Steamien ja
+   wineprefixien kanssa jää pois, kun alla on oikea Windows.
+
+   Suurin kysymys taitaakin olla: onko Xen-vieraana toimiva Windows
+   sitten oikeasti vakaa ja luotettava peli? Voin ottaa pienet hitit
+   tehokkuudessa, jos vakaus ja yhtenäinen pelikokemus säilyy. Entä
+   isäntäkäyttis? Ottaako Gentoonikin Xenin myötä teho-osuman
+   silloinkin, kun vieraat ovat nukkumassa?
+
+   Edelleen kaunein ajatus olisi hankkia dedikoitu pelitietokone,
+   mutta mikä kamala rahanhukka sekin on. Koska haluan myös
+   linux-käyttöni sujuvan sulavasti. Puhumattakaan ylläpidon määrästä
+   ja niin poispäin. Olin vanhassa blogissani pohtinut sitä ajatusta
+   dualbootista ja erillisestä työpalvelimesta, mutta se ei koskaan
+   ottanut tuulta alleen. Se karsiutui erityisesti huonohkoon koppaan,
+   jonka onnistuin ostamaan. Voisin päästä tässä kaikessa voitolle
+   monella tavalla, ja kenties "fiksuin" tapa olisi jättää Xen omaan
+   arvoonsa: Xen voi tarjota 99-prosenttisen Windows-kokemuksen
+   virtualisoituna, mutta voinko ikinä pelin tiltatessa luottaa
+   siihen, että Xen ei aiheuttanut kaatumista.
+   
+   Sanotaanko näin, että jos saan siirrettyä tietokoneeni
+   keskusyksikön vaatekaappiin hurisemaan, niin potentiaali
+   kunnollisen palvelimen hankkimiselle kasvaa sitten rajusti.
+   Lähiverkkoisen SSH:n yli tehtävällä X-hurjastelulla saa aika paljon
+   aikaan pysyvyyden ja sen sellaisen kanssa. Luultavasti hyötyisin
+   näin eniten. Toisaalta Xen toisi kaiken niin hyvässä paketissa, jos
+   vain uskoo tuon PCI-läpiviennin toimivuuteen. Ja pitäisihän siihen
+   hittolainen uskoa. Xen on iso nimi virtuaalimarkkinoilla ja tuo
+   PCI-läpivientikin on vuosia vanha tekniikka.
+   
+*** Uusia mietteitä hautomosta (kaksi päivää myöhemmin)
+
+    Ensimmäiset ajatukset Xenistä tietysti liikkuivat siellä "liian
+    hyvää ollakseen totta" -linjalla. Dualbootissa on silti se mahtava
+    määrä ongelmia ja sitä rataa. Jos noihin youtubettajiin on mitään
+    luottoa, niin Xen on riittävän vakaa, kunhan raudan valitsee
+    oikein.
+
+    Xenissä on sekin hyvä puoli, että voi hyvillä mielillä panna vähän
+    potkua rautaan. Isompi koppa ja tilaa työskennellä. Uudet 3770-
+    tai 4770-prosessorit tulille ja ehkä näyttikseksikin jotain
+    komeata. Työstä riippuen jopa Extreme-mallit [käytettynä] voisivat
+    olla listalla. Viimeisen päälle kovantasoinen Xen-setti koostuisi
+    kahdesta näytönohjaimesta, jolloin minulla voisi olla
+    samanaikaisesti linuxia ja windowsia ruuduilla. Ei mahdotonta, kun
+    monissa näytöissä on hyvät lähdevalitsimet.
+
+    Mutta nämä asiat jäävät toistaiseksi vain hautomoasteelle. Ennen
+    kuin tulee kunnollisia töitä ilmoille, jään vain hiljalleen
+    vahtimaan hyviä diilejä 3770-prosessoreista ja vastaavista.
+** DONE Semanttisesta versioinnista                             :ohjelmistot:
+   CLOSED: [2013-04-04 Thu 17:49]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-04 Thu 17:49]
+   :END:
+
+   Versionumerointi tuntuu monella olevan hakusessa. Onneksi
+   maailmalla on useita de-facto -standardeja, joista [[http://semver.org/][Semantic
+   Versioning]], tai lyhyesti vain Semver, on hyväksytyin. Mutta ihmiset
+   panevat silti liikaa painoarvoa numeroihin.
+   
+   Kehittäjille suunnatut API-rajapintoja tarjoavat kirjastot
+   tarvitsevat erityisen paljon mainittua semanttista versiointia,
+   koska koodi on (jopa) ihmistä herkempi muutoksille. Siellä on
+   fiksua noudattaa $x.y.z-m$ -kuviota, jossa major-versio $x$ on
+   suuri sovellusversion haara, jota kasvatetaan silloin kun
+   hajotetaan jotain vanhaa toiminnallisuutta. Minor-versioluku $y$
+   kasvaa silloin, kun tehdään lisäyksiä tai pieniä muutoksia, jotka
+   eivät kuitenkaan hajota vanhaa koodia. Pikkupaikkaukset ja
+   bugikorjaukset, eli luku $z$, kattavat sitten kaikki muut
+   korjaukset. Lisämäärettä $m$ saa käyttää halutessaan, vaikka mitään
+   pakottavaa syytä ei tavallisesti ole. Koevedokset,
+   julkaisukandidaatit, betaversiot ja sen sellaiset sinne yleensä
+   tyrkätään.
+
+   Loppukäyttäjille suunnattujen softien kanssa tilanne on eri.
+   Erityisesti Mac- ja Windows-puolen ihmisiä tuntuu kismittävän
+   ohjelmat, joiden versionumero liikkuu heidän mielestään liian
+   alhaalla. Siellä sovellusbisnes on ollut versionumeroista
+   riippuvaista ja päivityksiä ei voi kaupata ilman uutta ja
+   kiiltelevää numeroa. Ihmiset ovat tottuneet aloittamaan laskemisen
+   ykkösestä. Unix-puolella ja muutenkin useissa harrastetason
+   jutuissa ei ole kenenkään pakko myydä mitään, ja numerot jäävät
+   toisarvoisiksi. Numerointi aloitetaan nollasta ja lisäillään hyvin
+   verkkaiseen tapaan. On jopa varsin yleistä skipata numerointi
+   kokonaan: Githubista saa aina uusinta.
+   
+   Ja eihän se numero tosiaan kerro mitään ohjelman kypsyydestä. Niitä
+   numeroita ei myöskään mikään motivoi ylläpitämään, ellei ole
+   jotakuta asiakasta tai käyttäjäryhmää, joka odottaa jonkinlaista
+   virstanpylvästä. En yhtään tiedä, minkä luvun lätkäisisin omiin
+   softiini, koska vaatimukset ovat mitä ovat. Jos joku haluaisi
+   softan tietyillä ominaisuuksilla, voisin siinä tapauksessa
+   ilomielin lätkäistä sen 1.0-lätkän valmistuneen projektin
+   kunniaksi. Nyt ei projekteissani ole edes mitään numeroita. Jos
+   joku tulee vinkumaan numeroista, aloittanen luultavasti
+   versionumerolla 42. Mutta jos saan jonkun windows-juntin päivän
+   pilalle lopullista tuotosta kuvaavalla versionumerolla 0.4.2, niin
+   olen tyytyväinen.
+** DONE Parhaat palat vim-konffeistani                                  :vim:
+   CLOSED: [2013-04-27 Sat 14:56]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-27 Sat 14:56]
+   :END:
+
+   Yksi kirjoitettu sääntö on, että jokaisen blogin tulee jossain
+   vaiheessa esitellä ylläpitäjänsä konffifileet tarkkaan läpi. Jotain
+   taianomaista siinä kai on. Esittelenpä siis minäkin.  Tässä
+   379-rivisessä paukussa on kaikenlaista kivaa. Kertymä on aloitettu
+   vuonna 2007, vaikka en voi varmaksi todeta, onko itse tiedosto
+   sieltä asti säilynyt.
+
+*** Pathogen
+
+    Viime vuosien oleellisin Vim-skripti, joka kaikkien tulisi ottaa
+    pikimmiten käyttöön, on tpopen kirjoittama [[https://github.com/tpope/vim-pathogen][Pathogen]]. Lopetat
+    kertaheitolla kolmansien osapuolien skriptien kanssa häsläämisen,
+    kun voit vain git-kloonata repon =~/.vim/bundle= -hakemistoon ja
+    homma on sillä selvä. Tämä riittää silloin konffiin:
+
+    #+begin_example
+    filetype off
+    call pathogen#runtime_append_all_bundles()
+    call pathogen#helptags()
+    filetype plugin indent on
+    #+end_example
+
+*** Pehmeät tabit: ainoa oikea valinta
+
+    Kovista tabeista luopuminen aikoinaan oli kova paikka (paljon
+    työtä ja turhannäköisiä committeja), mutta on ollut yksi parhaista
+    ratkaisuistani ikinä. Kunnollisten säätöjen tekemisen puute on
+    luultavasti isoin syy siihen, mikseivät ihmiset ole enemmänkin
+    siirtyneet Oikealle Tielle.
+
+    #+begin_example
+    " Softwidth ja tabstop molemmat sopivan pieniksi
+    set tabstop:4
+    set sw:4
+
+    " Tabit välilyöntilöiksi!
+    set expandtab
+    set softtabstop:4
+    set shiftround
+    #+end_example
+
+    Näillä säädöillä tabi tekee 4 väliä ja sen voi kumittaa
+    backspacella aivan kuten kovan tabinkin. Ja nyt voi koodata
+    joitain WS-sensitiivisiä kieliä aivan uudella tavalla.
+
+*** Tekstit
+
+    Oikoluku ja tekstin sopiva katkominen kuuluu proosan kirjailuun
+    oleellisesti.
+    
+    #+begin_example
+    set spellfile="/home/progo/.vim/myspellfile"
+
+    " vimin dokumenteista:
+    " tämä aiheuttaa rivien katkomisen
+    set textwidth:0
+
+    " Laitetaan tämä jotta vim mahduttaa tekstin annetun raamin sisään,
+    " toisin sanoen esteettinen ja käytännöllinen 
+    set linebreak
+
+    " http://www.bioinspired.com/users/ajg112/computing/vim.shtml :
+    " Do not automatically insert a comment leader after an enter
+    set fo-=r
+    #+end_example
+
+    Vimin =linebreak= on perushuttua kaikille. Tämä on siis sitä
+    visuaalista rivienkatkomista, joka ei koske tiedostoihin. Sen
+    sijaan =textwidth=-asetuksen asettaminen asettaa vimin katkomaan
+    rivejä. Nollattuna toiminto on luonnollisesti kytketty pois
+    päältä. Tekstiä kirjoitellessa sitten nopeasti heitetty =set
+    tw=78= antaa tekstin soljua mukavasti eteenpäin.
+
+*** Haku
+
+    Tehokkaan tekstinkäsittelyn oleellinen elementti on päästä
+    paikasta toiseen.
+    
+    #+begin_example
+    " http://www.stripey.com/vim/vimrc.html
+    " make searches case-insensitive, unless they contain upper-case letters:
+    set ignorecase
+    set smartcase
+
+    " very magic searches, easily disabled if needed
+    nnoremap / /\v
+    nnoremap ? ?\v
+    #+end_example
+
+    Ignorecase tietenkin jättää kirjainkoon huomioitta. Smartcase on
+    kehittyneempi versio: kirjainkoko jätetään huomioitta vain jos
+    koko hakuteksti on pienillä kirjaimilla.
+
+    Sen jälkeen on kaksi erittäin oleellista mappausta, jotka
+    paransivat vim-hakujen mukavuutta suunnattomasti. Vimin
+    säännölliset lausekkeet ovat nimittäin sekalainen joukko, jotka
+    jakautuvat peräti neljään eri luokkaan. (=:help pattern=) Kullakin
+    luokalla on omat vaikutussäännöt ja se tuottaa suunnattomia
+    vaikeuksia saada erikoismerkkejä sisältävät hakusanat hakemaan
+    oikeata asiaa. Luokista "tiukin" on nimeltään "very magic", joka
+    tulkitsee /kaikki/ erikoismerkit regex-symboleiksi. Mutta koska
+    kaikki tulkitaan näin, ei tarvitse minun muistaa erikseen, mikä
+    erikoismerkki piti milloinkin eskapettaa: nyt kaikki.
+    Verymagic-asetus on siitä kehno, että sitä ei voi asettaa
+    globaalisti aktiiviseksi. Yksittäisessä patternissa esiintyvä =\v=
+    kuitenkin aktivoi sen, joten näillä mappauksilla asetan sen
+    tavallaan oletukseksi.
+
+    Vim-haut tapaavat oletuksena jättää rumaa merkintää ympäriinsä ja
+    se voi joissain tapauksissa jopa vähentää hakemista. Tähän on
+    kahdenlaista ratkaisua:
+
+    #+begin_example
+    " tyhjentää search hilightin
+    nnoremap <C-l> :nohl<CR><C-l>
+
+    " vielä parempi: ei highlightia
+    " set nohlsearch
+    #+end_example
+
+    Nyt =C-l= hävittää väritykset, kunnes haetaan uudestaan jossain
+    vaiheessa. Vaihtoehtoisesti väritykset voi ottaa kokonaan pois,
+    mutta joissain koodijutuissa olen havainnut mukavaksi jättää
+    hakuja näkyville.
+*** Bufferit
+
+    Vim hallitsee useita avonaisia puskureita, mutta jostain syystä ne
+    pitäisi oletusasetuksilla tallennella aina ennen vaihtoa. Sotii
+    nopeatempoista pyörittelyä vastaan. Nämä asetukset tekevät hyvää:
+
+    #+begin_example
+    " Hidden: älä vaadi puskurien tallentamista 
+    set hidden
+
+    map <C-j> :bprev<CR>
+    map <C-k> :bnext<CR>
+
+    " sulje bufferi ilman ikkunan sulkemista
+    command! BW :bn|:bd#
+    #+end_example
+
+    =C-j= ja =C-k= kelaavat nopeasti puskurit lävitse, ja se on
+    mahtavaa. Erityisesti kun vimiä kuitenkin käytetään pitkälti
+    siten, että kutakin avonaista projektia varten avataan oma vim.
+    Ainakin minä siis.
+
+    Useita ikkunoita käyttävänä haluan joskus sulkea turhat puskurit
+    pois häiritsemästä, ja sitä varten on toki valmis =:bd=, eli buf
+    delete. Se mokoma sulkee kuitenkin aina avonaisen ikkunankin,
+    vaikkei tarvitsisi. Tällä kikalla kirjoitettu uusi komento =:BW=
+    jättää ikkunan rauhaan.
+
+*** Statusbar
+
+    Jotkut vim-oletuskonffit voivat jättää statusbarin piirtämättä
+    tietyissä konteksteissa. Suosin mieluummin sen pitämistä auki
+    kaikissa tilanteissa:
+
+    #+begin_example
+    " statusbar näkymään
+    " ja muotoilu: defaultti rivi on tyhjä ja se esittää tiedoston nimen, rivin ja prosentit yms
+    set laststatus:2
+
+    " syntaksi: help 'statusline'
+    " %F: tiedosto
+    " "%=": align right
+    " http://www.winterdom.com/weblog/CommentView,guid,3372fa1e-966e-4389-b2ba-bb2ce527f52a.aspx
+
+    set statusline:%<%F%m%h%r%w\ (%{&ff})\ %=%l,%v\ of\ %L,\ %p%%
+    #+end_example
+    
+
+    Lisäksi on kiva nähdä, mitä komentoa on vimille antamassa:
+
+    #+begin_example
+    " Näytä kirjoitettava komento 
+    set showcmd
+    #+end_example
+
+    Tavallaan statusbaariin liittyvää on myös ikkunan otsikko:
+
+    #+begin_example
+    set title
+    set titlestring=vim:\ %F
+    #+end_example
+
+*** Värit ja teemat
+
+    Nämä ovat tietysti makuasioita pitkälti, mutta mutta... Taustat
+    ovat terminaalissa aina tummia.
+
+    #+begin_example
+    " väritys oikein
+    set background:dark
+
+    " URXVT: railscast lucius zenburn desert256 jellybeans
+    colorscheme jellybeans
+
+    " Mutta jos ei värejä, vaihdetaan vähävärisemmälle:
+    if &t_Co <= 16 
+      colorscheme default
+    endif
+    #+end_example
+
+    Urxvt:ssä jellybeans vie voiton hillityllä tyylillä.
+
+*** Foldaus
+
+    Vimin foldaus on asia, johon yleensä pitää opetella sisään. Sitten
+    kun oppii, ei malta päästää irti.
+
+    #+begin_example
+    set foldenable
+    nnoremap <space> za
+    #+end_example
+
+    Välilyönnillä saa jatkossa foldit auki tai kiinni.
+*** Sekalaista ja huippuhyödyllistä
+
+    #+begin_example
+    nmap Y y$
+
+    let maplocalleader = ","
+
+    " hyppää samaan hakemistoon, missä tiedosto on
+    command! CD cd %:p:h
+
+    " tiedostoja täydentää helpomminkin!
+    inoremap <C-f> <C-x><C-f>
+
+    " textmatea
+    nnoremap <C-q> gqap
+    #+end_example
+
+    Jos =C= korvaa rivin lopun ja =D= poistaa rivin lopun, miksi
+    oletuksen =Y= yankkaa koko rivin, ei vain loppua?! Fiksataan.
+
+    Komento =:CD= vie vimin cwd:n nyt siihen paikkaan, missä bufferin
+    osoittama tiedosto on. Kiva, jos pitää editoida vähän
+    ympäriltäkin.
+
+    Vähemmän tunnettu lisäystilan täydennysmoottori on =C-x C-f=, eli
+    täydentää tiedostopolkuja ja -nimiä. Heitän tämän suoraan =C-f=:n
+    taakse, ja jo on upeata.
+
+    Ja viimeisenä kappaleen voi muotoilla kivasti kuosiin komentamalla
+    =C-q= sen sisällä.
+
+*** Syntaksi esille
+
+    Erityisesti vim-värityksiä hienosäätäessä on kiva tietää, mitä vim
+    tietää kursorin alla olevasta tekstistä. Seuraava mappaus printtaa
+    kaikki vimin syntaksivärjäysmoottorin väriluokat annetulle
+    tekstille:
+
+    #+begin_example
+    " Show syntax highlighting groups for word under cursor
+    function! <SID>SynStack()
+        if !exists("*synstack")
+            return
+        endif
+        echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+    endfunc
+    nmap <F2> :call <SID>SynStack()<CR>
+    #+end_example
+
+*** Joitain poimintoja =.vim/bundle= -hakemistosta
+
+    Edellä kävin kaiken oleellisen ja ajantasaisen
+    =.vimrc=-tiedostostani. Loppukevennyksenä esittelen joitain
+    plugineita, joita olen asentanut.
+    
+**** BufExplorer
+
+     BufExplorer on huippukiva tapa koluta aukiolevat puskurit ja
+     sulkea joutavat.
+
+**** LocalVimrc
+
+     [[https://github.com/vim-scripts/localvimrc][LocalVimRc]] on vähän käytetty, mutta saattaa olla avuksi. Kullekin
+     hakemistolle voi kirjoittaa oman =.vimrc=-tiedoston, joka luetaan.
+     Projektikohtaisia vim-säätöjä, siis.
+
+**** Vimwiki
+
+     Emacsin MUSE:n (ent. wiki-mode) kilpailija on [[http://code.google.com/p/vimwiki/][VimWiki]] ja se toimii
+     yllättävän upeasti verkkotyylisten tiedostojen ja dokumenttien
+     ylläpitoon. Musea ainakin käytetään paljon kevyenä CMS-moottorina,
+     mikseipä myös Vimwikiä. Minähän tunnetusti koitin saada vimwikistä
+     itselleni tietämyskantaa aikaan, mutta lopulta emacsin [[http://orgmode.org/][org-mode]]
+     voitti.
+     
+     Vimwiki-aiheiset säätöni liittyvät lähinnä hallinnollisiin
+     säätöihin. KamelinVarvas-tekstien automaattisen linkifikaation
+     pudotin pois ja ääkköset saadaan tunnistautumaan linkeissä
+     lisäämällä ne jononjatkoksi.
+     
+     #+begin_example
+     let g:vimwiki_list = [{'path': '~/.vim/wiki/'}]
+     let g:vimwiki_browsers = ['firefox']
+     let g:vimwiki_camel_case = 0
+     let g:vimwiki_upper = "A-ZÄÖ"
+     let g:vimwiki_lower = "a-zäö"
+     let g:vimwiki_folding = 0
+     let g:vimwiki_hl_headers = 0
+     let g:vimwiki_use_mouse = 1
+     #+end_example
+     
+**** Conque
+
+     Conque on alkeellinen terminaaliemulaattori vimin sisään. Pieni
+     palanen emacsia mukaan. Kuvittele kaikkia niitä mahdollisuuksia,
+     kun voit heittää vimin värjäyksiä ja pikanäppäimiä projektin
+     "konsoliin".
+
+**** NERDTree
+
+     Kyllä, NerdTree löytyy käytöstä, vaikka sillä tekee harvinaisen
+     vähän omissa projekteissani. Jos koet tarvitsevasi cwd:n ympärillä
+     pyörivää tiedostolistausta ja "nopeata" navigointia, niin NERDTree
+     on erinomainen valinta.
+
+     #+begin_example
+     nmap <left> :NERDTreeToggle<CR>
+     #+end_example
+
+**** NERDCommenter
+
+     Kommentointia varten NERDCommenter on hyvä. Se tunnistaa
+     tiedostotyypin ja kommentoi siten oikeanlaisia merkkejä.
+     Emacsista tuttu =M-;= on hyvä valinta näppäinyhdistelmälle.
+**** MatchIt
+
+     [[http://www.catonmat.net/blog/vim-plugins-matchit-vim/][MatchIt]] laajentaa vimin =%=-komentoa erityisesti (X)HTML-saralla:
+     nyt voit hypätä sulkevaan HTML-tagiin prosentista. Osaa varmasti
+     jotain muutakin, mutta yksinään tuon takia kantsi asentaa.
+**** SnipMate
+
+     TextMatesin snippet-toimintoa replikoi moni snippet-moottori
+     vimissä. Ehkä nykyään kannattaa suunnata katse UltiSnips-paketin
+     puoleen, mutta minä tulin hyvin toimeen SnipMaten kanssa.
+     
+**** Screen.vim
+
+     Hassu ja pieni skripti mahdollistaa erillisen, mutta nimetyn
+     screen-istunnon käyttämistä "kohteena" vimistä käsin. Luo
+     nimellinen screen-sessio ja avaa haluamasi komentokehote siihen.
+     Vimissä lataa =screen.vim= käyttöön ja maalaa tekstiä. Lähetä
+     tämä teksti screeniin hakkaamalla =C-c C-c=. Yksinkertaista ja
+     tehokasta. Voi käyttää vaikka bash-skriptien kehityksessä.
+
+**** SlimV ja VimClojure
+     
+     Emacsia sanotaan lisp-kehitysympäristöjen kuninkaaksi, eikä aivan
+     perusteetta. Vimilläkin pääsee huisin pitkälle. SlimV on
+     kuuluisan SLIME:n Vim-vastine ja sillä voi hoitaa kaikenlaisia
+     Swank-palvelun tarjoavia lispejä kotiin. Clojurea varten
+     kannattaa katsella VimClojure läpi. Tosin kuluneen vuoden aikana
+     tilalle on tainnut tulla enemmän ylläpidetty Fireplace.
+** DONE Takaisin kolmeen näyttöön                                     :rauta:
+   CLOSED: [2013-04-19 Fri 19:58]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-19 Fri 19:58]
+   :END:
+
+   Oitis kun joku lupailee edes etäisesti ylimääräistä rahaa
+   käytettäväksi, tartuin näyttökauppoihin. On aika vaatia kolmannen
+   näytön valtakunta takaisin voimaan.
+   
+   Olin /niin/ tyytyväinen kahteen näyttööni (yksi 22" ja yksi 17"),
+   kunnes eräs päivä päätin kokeilla ylimääräisen PCI-kortin kanssa
+   sitä kolmen näytön nautintoa. Xinerama teki lopullisesta
+   ratkaisusta mahdottoman, mutta noin kuukauden ajan nautiskelin
+   kolmesta näytöstä (17, 17 ja 22 -tuumaiset). Samalla siirryin
+   Xmonadiin, sillä Fluxbox ei tukenut kolmea Xineraman kautta kovin
+   hyvin.
+
+   Kompromissinä myin molemmat 17-tuumaiset ja ostin 22-tuumaisen
+   tilalle. Paljon hyvää ruutualaa ja NVidian Twinview ja
+   rautakiihdytys. Ei se silti samalta tuntunut. Asia jäi kytemään,
+   sillä rautakiihdytyksestä en tohdi luopua.
+
+*** Pimeät ajat: ATi 
+
+    Hiertävä ongelma, AMD:n kortit osaavat useita näyttöjä ja
+    XRandr-tuet siihen päälle. Rautakiihdyteltyä moninäyttöautuutta,
+    mutta ajurit ovat niin surkeat, ettei mitään tolkkua. Niistä olen
+    kirjoittanut muualla enemmän, mutta osa pelien 3D-renderöinnistä
+    meni roskaksi. Isoin ongelma oli työpöydältä puuttuva vsync, mikä
+    haittaa aika kovasti elokuvien katselua.
+
+*** Uusi toivo: NVidia Kepler
+
+    Ensin taannoiset ajurit päivittivät NVidian feikki-xineramailusta
+    XRandr-maailmaan, ja sitten uusi Kepler-arkkitehtuuri toi Nvidian
+    takaisin peliin moninäyttötuellaan. Uudet Kepler-näyttikset
+    tukevat "Surroundia" niin monesta rei'ästä kuin mitä kortista
+    löytyy.
+
+    Tämän huomasin vain eräs kaunis päivä [[http://superuser.com/q/476012/49046][Superuseria]] lukiessani.
+    Kehitys on viimein saapunut! Kepleriä lähtee joka lähtöön, mutta
+    valitsin kortikseni GTX 650 -mallin. 
+
+*** Näyttö on Eizo
+
+    Sopiva näyttökin tulee tietenkin olla. Hyvällä tuurillani bongasin
+    kävelymatkan päästä Eizon myynnistä. FlexScan S2000 on
+    20-tuumainen ja resoluutio on 1600x1200: enemmän pikseleitä kuin
+    näissä Acereissani. Ei kamalasti valittamista, vaikka värien
+    sovittaminen Acerin kanssa yksiin on vähän tiukassa. Ja näyttöä ei
+    saa järin alas. Joudun totuttelemaan nyt uudenlaiseen
+    katselmukseen.
+    
+*** Sopivan kortin valinnasta
+    
+    Nvidia on perinteiseen tapaan saanut aikaan aika sekavan
+    nimeämisen näiden eri korttien välillä. Wikipediasta koostin
+    seuraavanlaisen taulukon, jota oli käytännössä pakko seurata,
+    jotta sai varmasti TDP:ltään alhaisen kortin.
+
+    | Malli            | Koodi        | Ydin [MHz] | Muisti [MHz] | TDP [W] |
+    |------------------+--------------+------------+--------------+---------|
+    | GTX 650          | GK107-450-A2 |       1058 |         5000 |      64 |
+    | GTX 650 Ti       | GK106-220-A1 |        928 |         5400 |     110 |
+    | GTX 650 Ti Boost | GK106-240-A1 |        980 |         6002 |     134 |
+    
+    Gigabyten GTX 650 N650OC-1GI on verkkokaupan (Serofi) tietojen
+    perusteella 1110-megahertsinen ja muisti on 5 GHz. On vain
+    luotettava, että se asettuu tuohon 64 watin TDP-luokkaan.
+
+    Mokomat vehkeet ovat kaikki aktiivijäähdytteisiä, vaikka tuo TDP
+    ei nyt kamalan suuri olekaan. Nykyisen kortin TDP on Nvidian
+    sivujen perusteella 29 W, vaikka muistelin jotain 39:ää.
+
+    TDP-luvuthan kertovat vain piikkitehon. Eihän asian pitäisi
+    häiritä sitten?! No häiritsee se kyllä: Nvidian linux-ajureissa on
+    nimittäin jonkinlaista ongelmaa moninäyttötuen kanssa. Tehot ovat
+    aina tapissa, kun kiinni ja aktiivisena on useampi näyttö.
+    Jos virransäästötila toimisi kunnolla, niin voisin hyvinkin ostaa
+    vähän tehokkaampaakin korttia satunnaista pelailua varten. Sitä
+    odotellessa.
+** DONE Zsh ja ZLE                                                      :zsh:
+   CLOSED: [2013-02-23 Sat 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-02-23 Sat 20:42]
+   :END:
+   
+   Suuri ja pelottava [[http://zsh.sourceforge.net/][zsh]] on suurilta osin niin lähellä de-facto
+   -standardia, =bashia=, että päällisin puolin eroja ei tunnu olevan.
+   Mutta kun asiat etenevät, on zsh tarpeen tullen paljon notkeampi ja
+   tässä viestissä kerron esimerkin viimeaikaisista keksimisistäni.
+
+*** Readline
+
+   Kuten me kaikki tiedämmekin, bashin salaisuus on aina ollut upea
+   komentorivikokemus. Se irrotettiinkin myöhemmin omaksi
+   =readline=-kirjastokseen kaikkien saataville. Readline osaa
+   useimpien terminaalien näppärät kikat ja lukee näppäinyhdistelmiä
+   hyvin. Tukeepa jopa vi-näppäimiä, vaikka oletuksena käytössä olevat
+   emacs-näppäimet ovat yhdellä rivillä pujotellessa usein riittävät.
+
+   Readlineen tietenkin kirjoitettu ja jätetty auki mahdollisuus
+   lisätä uusia näppäinyhdistelmiä toiminnoille ja tabitäydennystä
+   varten voi sille antaa /callback/-funktion, jolla esimerkiksi
+   saadaan omat älykkäät tabitäydennykset kuntoon.
+   
+   Mutta siihenpä readlinen toiminnot vain riittävätkin. Muutamia
+   puutteita, joita olen vuosien saatossa havainnut:
+
+   - Readline ei esimerkiksi anna kirjoittaa uusia funktioita
+     interaktiiviseen käyttöön.
+   - Vi-moodissa hyödyllistä moodi-indikaattoria lisäystilan ja
+     normaalin tilan välillä saa mitenkään aikaan, koska se vaatisi
+     readlinen ja bashin välistä ylimääräistä kommunikointia.
+   - Komentorivin väritys ei tule kysymykseenkään.
+
+   Toisin kuin valtaosa shelleistä bashin lisäksi, zsh ei käytä
+   readlinea käyttäjäinputin lukemiseen, vaan sillä on aivan oma
+   lukija, ZLE: Zsh (Command) Line Editor. Ja ZLE osaa kaikki
+   edellämainituista toivomuksista puhtain paperein.
+
+*** ZLE
+    
+    (Tänne saatan lisätä hyperlinkit detaljeja sisältäviin
+    postauksiin, jahka kirjoitan tai backporttaan ne vanhasta
+    blogista. Nyt saatte mennä summariikeilla.)
+    
+    Se oli luultavasti tuo Vi-moodi-indikaattori, josta ylipäätään
+    tein hypyn zsh:aan. Olin ymmärtänyt, että päällisin puolin ja
+    peruskäytössä bashin ja zsh:n välillä ei ole /mitään/ eroa. Ja
+    ymmärsin aivan oikein.
+    
+    Ensin otin vi-moodi-indikaattorin tuunauksen alle; lopulta päädyin
+    värilliseen kehotteeseen siten, että vihreä kehote viitaa
+    lisäysmoodiin ja tumma kehote viittaa normaalitilaan.
+    Komentorivillä ei kamalan paljoa ylipäätään tarvitse
+    normaalitilaan siirryskelläkään, eikä ne siirtymät normaalitilaan
+    edes aina kestä niin pitkään, että kehotteen väri ehtisi pieneltä
+    viiveeltään vaihtua. Mutta onpahan kiva, jos joskus jää
+    normaalitila päälle. Tiedän varoa.
+    
+    Sitten luin syntaksivärjäyksestä komentoriville, ja se idea
+    natsasi oitis: vaadimmehan me kaikki syntaksivärjäystä
+    koodieditoreissammekin. Miksei sitten tuossa interaktiivisessa
+    shell-skriptiä syövässä editorissamme? ZLE:n ansiosta näen
+    punaisella komennot, joita zsh ei löydä polulta, vaalealla ne
+    komennot, jotka ovatkin oikeasti shell-aliaksia tai -funktioita ja
+    tärkeämpänä ryhmittelevät sulut ja alishellit. Kaikki tämmöinen
+    onnistuu ja auttaa kirjoittamaan oikeita komentorimpsuja.
+    Koodinvärjäys ei ole pelkkää karkkia tyyliin: "hei, tuossa on =if=
+    ja tuossa =echo=", vaan tällä värjäyksellä voi esimerkiksi laittaa
+    lainattu teksti todella erottumaan muista komennoista: suunnaton
+    etu kun näkee välittömästi, mitä se shell aikoo muuttujalaajentaa
+    ja mitä ei.
+    
+    Ja kolmantena nuo omat funktiot tai /widgetit/, kuten
+    ZLE-terminologiassa puhutaan. Jos olet yhtään readlinea tai zle:tä
+    konffannut käyttäjänä niin tämmöinen funktio tai widget on jollain
+    tavalla interaktiivinen rutiini, jolla käyttäjä toimii
+    komentorivillä. Esimerkiksi funktio =end-of-line= on sekä
+    readlinen että ZLE:n widget, joka vie kursorin rivin loppuun ja on
+    oletuksena kytketty =C-e= -näppäinyhdistelmään.
+    
+    Ja nyt opiskelin hieman, miten kirjoitetaan oma widget ZLE:lle.
+    Taustalle sellainen juttu, että kirjoitettuani alkuperäisen
+    thinktank-systeemini loin luonnollisesti komentoriville sopivan
+    =think=-aliaksen. Alias siksi, jotta voin käyttää asteriskeja ja
+    kysymysmerkkejä ilman shellin vinkumista.
+
+    Lisäsin sille vielä pikanäppäimen, koska olen sellainen ihminen.
+    Tuloksena seuraa tämäntapaista koodia =.zshrc=-tiedostoon:
+    
+    #+begin_src sh
+     alias think='noglob org_capture.sh '
+
+     bindkey -s "^t" "think "
+    #+end_src
+    
+    Kätevää ja tehokasta. Think-systeemini kehittyi hiljalleen ja
+    orgin toimiessa taustalla olisi mukavaa saada TODO-leima
+    välittömästi mukaan toimia vaativaan ajatukseen. Tämän voisi
+    kirjoittaa aina manuaalisesti =think=-komennon perään, mutta onpa
+    se työlästä. Ja oma alias todo-jutulle tuntuu aika kovalta.
+    
+    Paras ratkaisu, ainakin mielestäni, olisi saada samasta
+    näppäimestä ensin paljas =think= ja sitten toisella kerralla
+    TODO:llinen =think=. Pieni googlaus, muutama greppaus zsh:n
+    manpageilta ja pari senttilitraa kylmää hikeä tuotti seuraavan
+    widgetin:
+
+   #+begin_src sh
+     function _-thinktodo()
+     {
+         if [[ "$BUFFER" == "" ]] ;then
+             BUFFER="think "
+         elif
+             [[ "$BUFFER" == "think " ]] ;then
+             BUFFER="think TODO "
+         fi
+         end-of-line
+     }
+     # new widget
+     zle -N thinktodo _-thinktodo
+     bindkey "^t" thinktodo
+   #+end_src
+    
+    Zsh:n dokumentaatio on referenssinä hyvää, mutta siihen on vaikea
+    päästä sisään ulkopuolisen. Onneksi tässä asiassa tuli vastaan
+    onnekas esimerkki monimutkaisemmasta widgetistä, ja nähdessäni
+    =$BUFFER=-nimisen muuttujan kävi sisäinen päättelyni toimiin.
+    Manpagelta greppaamalla varmistuin kyseisen muuttujan käytöstä.
+    
+    Uusi funktio pitää esitellä widgetiksi sisäänrakennetun
+    =zle=-kutsun kanssa ja sitten se onkin valmis bindattavaksi. Ja
+    toimii yllättävän hienosti. Huomattavissa on, että widgettien
+    määrittely ja toiminnallisuus on kovasti samannäköistä kuin
+    Emacsin interaktiivisten funktioiden kanssa.
+    
+    Nämä widgetit voivat olla kovinkin hienoja: StackOverflow'ssa
+    esiteltiin emacs-henkinen, interaktiivinen search-replace
+    -widgetti. Kysyy siis ensin etsittävää patternia ja sitten
+    korvaajaa. Ja tavallisina funktioita widgetit voi vaikka tehdä
+    googlauksen curlin avulla tuossa välissä.
+    
+    Tälle on tulossa toivottavasti isoa käyttöä pian.
+
+*** Pari muuta esimerkkiä ZLE:lle
+
+    [[http://stackoverflow.com/questions/171563/whats-in-your-zshrc][StackOverflow]]'ssa on tietenkin kysymys (nyt lukittu) zsh-kikoista.
+    Monella on esitellä näppäriä zle-widgettejä.
+    
+    Esimerkiksi *alamar* on keksinyt kirjoittaa jotain pientä
+    =sudo=-komenteluihin; =M-s= lisää sudo-tekstin komentorivin alkuun.
+
+    #+begin_src sh
+      insert_sudo () { zle beginning-of-line; zle -U "sudo " }
+      zle -N insert-sudo insert_sudo
+      bindkey "^[s" insert-sudo
+    #+end_src
+    
+    Kysymyksen paras vastaus on *Frew*'n massiivinen konffi.
+    Tuollainen määrä aliaksia ei kyllä tee mielestäni hyvää
+    muistikuormalle tai muutenkaan. Olen pohtimassa jonkin sortin
+    snippet- tai abbr-moodia zsh:lle ja laajennettavat aliakset
+    voisivat olla kova sana.
+
+** DONE Uusi blogi käyttää JavaScriptiä                             :js:blog:
+   CLOSED: [2013-02-09 Sat 18:54]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-02-09 Sat 18:54]
+   :END:
+   
+   Uusi blogi se sitten tulee käyttämään muutamaa JavaScript-kirjastoa
+   apunaan, ja osa teistä lukijoista on varmasti tyrmistyneitä tästä
+   löydöstä. Olenhan aina ollut kovasti JS-sivustoja vastaan, ja hypin
+   jatkossakin seinille, jos jokin sivu vaatii JS:n aktivointia pelkän
+   sisällön lukemiseksi.
+   
+   Javascriptillä tehdään nykyään aivan liikaa asioita. Jotkin
+   kirjastot, kuten Googlen webfontit tai LESS-CSS saavat näkemään
+   punaista, koska ne eivät aina tarjoa kunnollista fallbackia
+   kaikille muille selaimille. Vielä viisi vuotta sitten saattoi
+   käyttää mobiiliselainkortin, mutta nyt niissäkin perkeleissä on
+   kunnolliset JS-toteutukset.
+   
+   Kaikkein vähintä, mitä rikasta ja dynaamista toiminnallisuutta
+   tuova JS-kirjasto voi tehdä, on tarjota toimintonsa
+   destruktiiviseen tyyliin. Ensin tuodaan puhdas HTML näytille,
+   /sitten/ aktivoidaan ladattu JavaScript-kikkare ja se manipuloikoon
+   DOMia niin paljon kuin mielensä tekee. Ei mitään sellaista, että
+   HTML näyttää tyhjää sivua ilman JS-tukea.
+
+*** Mitä tämä blogi sitten tarvitsee?
+
+   Joskus on otettava käytännönläheinen asenne asioihin. Jotta voin
+   pitää blogirakenteen staattisena, pitää minun joko keksiä joitain
+   huonoja kommentointiratkaisuja tai hylätä kommentointi kokonaan
+   pois. [[http://disqus.com][Disqus]] on ehdottomasti huonoista kommentointiratkaisuista
+   vähiten huono, ja se integroituu kivasti systeemiin. Disqus ei
+   edellytä mitään kamalaa JS:ttömiltä käyttäjiltä. Kommentointia ei
+   tosin tule tyhjästä, mutta en koe kommentointia niin oleellisena
+   asiana blogille, että asia huolettaisi. Enkä myöskään koe
+   joustavani liikaa periaatteistani. Sivustoa kyllä luetaan
+   jatkossakin ilman JS-tukea, sen voin taata.
+   
+   Joskus JS tarjoaa ratkaisuja, joita ei yksinkertaisesti voi muuten
+   tehdä, vaikka olisi miten hienoa tekniikkaa takana. Tai, tietysti
+   aina voi, mutta olisi saman pyörän uudelleenrakentaminen
+   palvelinpuolelle likimain järjetön urakka. Puhun nyt suunnattoman
+   laajasta [[http://www.mathjax.org/][MathJax]]-kirjastosta, joka tekee TeX-koodin
+   matikkaosuudesta aika lähelle täydellistä ladontaa. Edellinen blogi
+   käytti DVIPNG-menetelmää oikean LaTeX-systeemin käyttämiseksi,
+   mutta PNG-kuvat eivät ole ainakaan esteettisiä siellä seassa.
+
+   Systeemit olen saanut konfiguroitua siten, että org kirjoittaa
+   vanhanmalliset DVIPNG-kaavat blogiin, ja MathJax korvaa ne
+   png-kuvat dynaamisella koodilla päästyään vauhtiin. Näin olen
+   saanut tyydyttävän fallbackin aikaan tällekin ongelmalle.
+
+*** Loppuhuomioita
+
+    JavaScript ei ole läpeensä turha keksintö, mutta sitä käytetään
+    rikollisen paljon väärin ja tyhmästi. Dynaaminen sisältö ei
+    itsessään ole roskaa, mutta erityisesti Ajaxin tultua kuvioihin
+    sonta on vallannut maailman. Web-design ei ole entisensä. Toivon,
+    että nämä JS-ratkaisut omassa blogissani eivät asetu kenenkään
+    esteeksi, ja jos asettuvat, ilmoitathan minulle vaikka
+    sähköpostitse (oletushan on, että Disqus-lomaketta ei
+    js-rajoitteisille tähän alle ilmaannu) ja voimme katsoa asian
+    läpi.
+** DONE Mathematica 9                                        :matikka:python:
+   CLOSED: [2013-04-01 Mon 00:11]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-01 Mon 00:11]
+   :END:
+   
+   Latasin Mathematica 9:n kokeiluversion käyttööni kuolattuani
+   jostain syystä paljon tätä pientä suurta ohjelmistoa. Minulla ei
+   ole juuri lainkaan mitään käyttöä CAS-systeemeille, mutta
+   kiinnostaa niin kovasti, ja tekisi mieli peräti ostaakin. Ja miksi
+   kaikista CAS-systeemeistä pitäisi valita maksullinen sellainen?!
+   
+   Mathematica on nätti ohjelma, ja kunnolliset dokumentoinnit
+   omaavana se tietää, mitä CAS tarvitsee. Jokaiselle funktiolle on
+   useita konkreettisia esimerkkejä graafisten tulosten kanssa.
+   Javapuoli on kehittynyt sitten viimenäkemän (6. versio) ja kaikki
+   toimi sulavasti tässä Xmonadin päälläkin. Wolframilla on pienoista
+   edelläkävijyyttä näissä asioissa, ja dokumentaatiostakin näkee,
+   että tällä ohjelmalla pääsee pitkälle, kun vain yrittää tarpeeksi.
+
+   Mutta miksi... Miksi valita omituinen syntaksi ja java-pohjainen
+   kankea GUI, kun voisi valita vim/emacs/screen-integroinneilla
+   maustettu IPython-käyttöliittyminen [[http://www.sagemath.org/][Sage]], joka toimii CAS:na ja
+   tutulla Python-syntaksilla. Maplejen ja Mathematicoiden kanssa on
+   aina ollut hankala pitää lukua siitä, että ollaanko milloinkin
+   pyörittelemässä /lauseketta/ vai kokonaista funktiota. Lauseke ei
+   sido muuttujia ja funktio sitoo. Pythonissa asia on selvä.
+   
+   Jos panisin kaikki munani Sage-koriin, saisin kaikenlaista kivaa
+   irti pitkältäkin ajalta. Yksi hyvinkirjoitettu kirja Pythonin
+   numeronmurskauksesta löytyykin ja Sagen dokumentaatio tuntuu olevan
+   hyvää ihan muutenkin -- hittolainen, sehän on mainio! Juuri tänään
+   mietiskelinkin, että Mathematican yksi puoltava valinta on oma
+   [[http://mathematica.stackexchange.com/][StackExchange-osio]], mutta näemmä Sagellakin [[http://ask.sagemath.org/questions/][on omansa]].
+   
+   Ideahan on tainnut aina olla sama: löydettävyys. Mathematicalla on
+   huiman hienot dokumentaatiot ja kaikki on viimeisen päälle
+   sulavaista. Vaikka nyt Sagen dokumentointi on muita avoimia
+   versioita parempaa, niin ei se aivan ykköslaatua ole. Lisäksi
+   graafinen käpistely on kankeata, sillä kuvaajia varten pitää joko
+   jättää IPython syrjään ja siirtyä surkeaan Notebook-tilaan, tai
+   sitten pitää kikkailla GQview'n ja graafien tallentelujen kanssa.
+   Aiemmin olen mennyt tallentelumenetelmällä, mutta mitenköhän
+   pitkään sitä jaksaisi vakavissaan harjoitella. Kunnollinen
+   Emacs-integraatio voisi olla hauska. Tai edes IPythonin
+   QtConsole-integraatio. Sehän osaa näyttää kuviakin syötteiden
+   seassa. (Emacsille on itse asiassa =sage-mode=, jonka saa vieläpä
+   sagen kautta asennettua puolivalmiina sisään. Great!)
+   
+   Ratkaisu on sinänsä helppo: 29 vuorokauden päästä Mathematica ei
+   enää päästä sisään ja ei minulla ole pelkkää hupikäyttöä varten
+   lusikoida 140 euroa sinne. Erityisesti, kun haluan kannattaa
+   avoimia ja kustomoitavia ratkaisuja. Sentään opin juuri nyt tuosta
+   AskSage-palvelusta, että sehän on jo jotain.
+** DONE Blogin takana on mies
+   CLOSED: [2013-04-08 Mon 17:59]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-08 Mon 17:59]
+   :END:
+
+   Minkälainen mies on tämä /progo/, joka kirjoittelee blogia?
+   Jonkinlainen summariikki lienee tarpeen kirjoittaa itsestäni.
+   
+*** Mikael 'progo' Puhakka
+
+    - Asuu ja opiskelee Joensuussa, sitä ennen Outokummussa. Alkujaan
+      lähtöisin Kontiolahdelta.
+
+*** Opinnot
+
+    - Tietojenkäsittelytieteiden ja matematiikan opiskelija Itä-Suomen
+      yliopistossa
+    - Luonnontieteiden kandidaatti
+    - Akateemiset kiinnostukset:
+      - Tietojenkäsittely: algoritmit, kompleksisuusanalyysi ja
+        teoreettinen TKT.
+      - Matematiikka: algebralliset rakenteet.
+
+*** Harrastelee:
+    
+    Harrastuksiin kuuluvat:
+
+    - Elokuvia: kunnolliset draamat ja sen sellaiset. Ei
+      perhe-elokuvia, kauhua tai zombi-/vampyyrielokuvia.
+    - Sarjoja: hyviä sarjoja, jotka käyvät kulttuurista. Ei mitään
+      tositv-roskaa, vaan kunnollista tuotantoa.
+    - [[*progon%20hifit][Hifistelyä]]: kuulokepainotteista äänentoistoa. Muutamien
+      mutkien kautta päädytty AKG K1000 -pohjaiseen settiin.
+    - Tietokoneitakin: editorit, linux, komentorivi ja Xmonad
+      määräävinä taikasanoina.
+** DONE progon hifit                                                   :hifi:
+   CLOSED: [2013-04-08 Mon 18:03]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-08 Mon 18:03]
+   :END:
+   
+   Hifisetistäni lyhyt katsaus ja historiikki.
+   
+*** Kuulokkeilla tähän päivään saakka
+
+    Kaikki alkoi vuonna 2007, kun päädyin siirtymään täysipäiväiseksi
+    linux-käyttäjäksi. Samassa rytäkässä päätin ostaa uutta rautaa,
+    joihin kuului sitten Sennheiser HD595 -kuulokkeet.
+
+    [[http://cdn.head-fi.org/c/c1/c1a84709_vbattach22924.jpg]]
+    
+    Tämä avasi silmäni oitis. Hyvässä äänessä on niin paljon
+    potentiaalia tarjota nautintoa ja elämyksiä kaikelle sille
+    musiikille ja sisällölle, joka on jo ennestäänkin niin kivaa.
+    En ole siitä päivästä alkaen edes katsellutkaan kaiuttimia, sillä
+    kuulokekuuntelussa on useita ilmiömäisen hienoja ominaisuuksia:
+
+    - volat kaakkoon vaikka yöstä, ei varmasti naapurit häiriinny
+    - halvalla saa hyvää ääntä
+    
+*** Ensimmäiset päivitykset
+
+    Nälkä kasvoi syödessä, ja ostin vahvistimen senkkujen kaveriksi
+    miltei oitis. Tämä vahvistin oli Corda Audion Arietta. Ei mennyt
+    montaa kuukautta, kun upgreidasin Sennheiserin HD650
+    -kuulokkeisiin pienen vertailun jälkeen. Vastassa olivat HD600:t,
+    ja HD650 oli melko selvä valinta mukavan pehmeän soundinsa takia.
+
+    Sitten päivitinkin lähdepuolta, eli äänikortti muuttui kehutuksi
+    ESI Juli@ -kortiksi. Linux-puolen ajureissa ei ollut kyllä
+    lainkaan kehumista, joten se vaihtui sitten aikanaan
+    vastaavaspeksiseen M-Audio Delta 192 -korttiin.
+
+*** Kohti unelmia: Stax
+
+    Suurena [[http://www.head-fi.org]] -vierailijana heräsi kiinnostus
+    Stax-kuulokkeita kohtaan, ja ostin silloisen peruspaketin 2020
+    käytettynä Briteistä.
+    
+    Perhana vain, kun tämä Stax 2020 -setti (a.k.a. Stax Basic tai
+    SR-202 -kuulokkeet + SRM-121 -vahvistin) antoi kunnolla kyytiä
+    HD650+Arietta -yhdistelmälle. Senkut tarjosivat tasavahvaa
+    suoritusta, mutta Stax antoi loistaa ilmavuudella ja hyvällä
+    bassolla useammin kuin kerran.
+    
+    Pitkään pyörittelin molempia, mutta olen pohjimmiltaan yhden setin
+    mies. Sennheiserit ja Arietta lähtivät uusiin osoitteisiin.
+
+*** Isoa hifiä: ECD-1 ja K1000
+
+    Kunnollinen lähde tuli seuraavaksi. Amerikasta asti rahdattu
+    Electrocompaniet ECD-1 on mitä esteettisin, kaunissointisin ja
+    hienoin osa hifisettiäni. "Hulvattoman hyvä dacci", sanovat
+    suomalaiset [[http://www.hifiharrastajat.org/foorumi/forum.php][hifiharrastajat]]. Ensimmäinen maailmanluokan hifilaite.
+    
+    Pienen ja nautinnollisen hiljaiselon jälkeen päätin ottaa härkää
+    sarvista ja ostaa maailmanluokan kuulokkeetkin. Valinta ei ollut
+    kamalan vaikea tekemieni ekstrapolointien kanssa. AKG K1000
+    saksasta tuli 860 euron hintaan napsattua.
+
+    Ja voi veljet! Tämä on oikeasti maailmanluokan laite. Se äänikuva.
+    Se tarkkuus. Se luonnollisuus. Se helppous. K1000 vahvistetaan
+    isolla virralla, joten kaiutinvahvistimet tulevat kyseeseen. Niitä
+    saa helpommin ja usein edullisemmin. K1000 antoi oitis kuulla,
+    että nyt ei kuunnella toisarvoisia settejä. Staxeilla ei ollut
+    mitään toivoakaan pärjätä taistelussa. Jopa /hinta-laatu/
+    -suhteessa K1000 vie Staxia.
+
+    Ja vahvistimena oli ensin nurkassa pölyttynyt Technics SA-120
+    -viritinvahvistin. Yllättävän hyvin se puski ääntä pihalle, ei
+    siinä. Ostin kuitenkin Marantz PM-80 -vahvistimen pienen etsinnän
+    jälkeen. Ja tämä setti, eli Electrocompaniet -- Marantz -- K1000,
+    on palvellut siitä lähtien. Ja palvelee tälläkin hetkellä.
+    
+
+*** Sivuraiteita
+
+    Muutama sivuraide on tapahtunut. Electrocompaniet ei voinut hyvin,
+    ja minulla oli melkein vuoden ajan käytössä DIY-mallinen "Audio
+    Labs" -dacci, kunnes kunnostauduin ja postitin rakkaani huoltoon.
+    Tämä Audio Labs oli kyllä todella mainio vekotin äänenlaadultaan,
+    mutta ECD-1 vei.
+
+    Sitten tulin ostaneeksi Bel Canto DAC3 -dacin, joka oli vuosia
+    sitten unelmieni kohteena. Sain testattua sitä Electrocompaniettia
+    vastaan, ja tilanne oli kyllä sikäli ikävä, kun Bel Canto voitti
+    tarkkuudessa ja tyydyttävässä teknisessä suorituksessa. Mutta se
+    oli vastaavasti liian nirso musiikkiani kohtaan. Useat levyt
+    soivat huonommin kuin sopisi. Monet huonosti äänitetyt levyt
+    saivat ikävää, muovista makua sointiin. Joskus pahempaakin. ECD-1
+    toimii orgaanisemmin ja anteeksiantavaisemmin. Se lopullinen
+    kompromissi, kaiketi. Bel Canto sai mennä.
+
+    Myös kuulokkeita on tullut kokeiltua, mutta ei koskaan korvaamaan
+    K1000:tta. Ensin huvikseni kypäräkuulokkeet, Ergo 2:t, joissa on
+    hauska ja supertarkka ääni. Enemmän detaljia kuin K1000:ssani!
+    Yllättävänä sattumana myös maailmanluokan kuulokkeiksi
+    luokiteltava Ergo AMT tuli vastaan, ja ostin senkin sitten
+    kokeiluun. Se oli kerrassaan hykerryttävä kokemus kaiken
+    ongelmansa kanssa. Ei jäänyt taloon.
+
+    Staxeista alkaen tarve perinteiselle kuulokevahvistimelle on
+    hävinnyt, mutta silti ostin Corda Operan, kun sellaisen kerran
+    spottasin edullisesti. Opera ja Grado on aivan uskomaton
+    yhdistelmä hyvää ja dynaamista paukkua, mutta en saanut samaa
+    kokemusta enää replikoitua muutettuani Outokumpuun tai
+    myöhemminkään. Päädyin myymään Operan rahoittaakseni muuttoani
+    Joensuuhun.
+
+*** Mitä tulossa?
+
+    Päivittelyssä on nyt se ongelma, että parannukset systeemiin
+    maksavat todella kovasti. Unelmalaitteet liikkuvat korkeissa
+    lukemissa. Niihin lukemiin pääsee kyllä, kuulokkeista kun
+    puhutaan, reilun vuoden säästäväisellä työskentelyllä. Mutta ei
+    näin opiskelijana -- ei päästä.
+    
+    Vahvistinta olisi kiva uusia. Parhaat K1000-kumppanit ovat
+    ongelmallisia energiatuhlaavaisuuden kanssa. Ei se sähkö niinkään,
+    mutta 170 wattia hukkalämpöä alkaa tuntua yksiössä. Firstwatt F1
+    on kyseinen laite. On muitakin hyväksitodettuja yhdistelmiä, että
+    ehkä joku niistä sitten aikanaan.
+
+    DACcia ei noin vain uusita. Unelmalaitteet, Wadiat, maksavat
+    mansikoita. Sen sijaan kokeilut (kuten tuo Bel Canto) voivat
+    johtaa henkilökohtaisten mieltymysten kanssa yksiinosumista
+    samassa hintaluokassa. Ehkäpä kokeilen sitä Benchmark DAC-1:tä
+    jossain vaiheessa.
+    
+    Ja kuulokkeitakin olisi kiva kokeilla, mutta se on aika kallista
+    puuhaa ostella ja myydä. Lotossa voitettuani voisi Stax SR009
+    -setti tehdä hyvää. Ja Sony MDR-R10.
+
+** DONE Sennheiser HD800 ja AKG K1000                                  :hifi:
+   CLOSED: [2013-09-11 Wed 19:47]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-09-11 Wed 19:47]
+   :END:
+
+   Lainasin Sennheiserin nykyisiä lippulaivakuulokkeita, eli
+   HD800:tta, testatakseni hieman niitä K1000:ttani vastaan. Senkkujen
+   vahvistuksesta huolehtii Musical Fidelity X-Can V3.
+
+   Noin viikko sitten sain postistani haettua tarvittavat vermeet ja
+   aloin kuunnella. Nämä seitsemän päivää olivat senkkujen
+   yksinoikeutta, jonka jälkeen palaan -- nyt -- K1000:een ja teen
+   käänteisiä havaintoja. Paras tapa analysoida eroja
+   pitkäaikaiskäytössä!
+   
+   [[/home/progo/dokumentit/blog/pics/k1000_hd800_1.jpeg]]
+   
+*** HD650 on Steroids
+
+    Sennheiserin dynaamiset lippulaivamallit ovat aina olleet verraten
+    uniikkeja ja mielenkiintoisia tuotteita oudolla tavalla. Ensin
+    HD650 ja nyt HD800 omaavat kumpikin sitä kuuluisaa Sennheiserin
+    verhoa, joka tuntuu peittävän osan keskialueesta ylöspäin. Onko
+    sitä sitten olemassa, tai onko hienoinen vaimenema sitten mistä
+    kiinni, siellä se on ja pysyy. Psykoakustiikka, hieno asia
+    sinänsä, takaa uskolliselle kuuntelijalle tottumisen tähän verhoon
+    parin päivän perästä ja pian kaikki taas kuulostaa ihanan
+    luonnolliselta. Erityisesti HD650 kärsi tästä verhosta (joskin
+    vahvistuskin oli tällöin aika huono) ja mikä se iso etu tästä on,
+    niin se tasoittaa pikkiriikkisen eri levyjen masteroinneista
+    johtuvia säröeroja ja tuottaa vähemmän kuunteluväsymystä.
+
+    Tämä kaikki tarina siksi, kun ensivaikutelmissa HD800 tuotti
+    mieleen pitkälti HD650:n, joka minulla oli ollut reilun vuoden
+    (?!) pari vuotta sitten.
+
+    Mitä muuta ensivaikutelmista? No verhoista [tai vaimentuneesta
+    yläpäästä (tämä on HD650:n ongelmia)] huolimatta detaljia puskee
+    paljon. HD800 tarjoaa paljon hyviä käsiä huonoillakin
+    pelikorteilla. Ehkä se vain johtuu siitä, kun käytän K1000:ttani
+    ääriasennossa, jossa osa hiljaisemmista detaljeista on kai
+    tuomittu kuolemaan. En välttämättä allekirjoittaisi sitä
+    väittämää. Voihan hyvin olla, että K1000 ei ole detaljikas
+    kuulokepari. Ei ole iso miinus kaikkien niiden plussien rinnalla.
+    K1000:n jälkeen tuli ihmeteltyä myös huiman suurta
+    kanavaerottelua, mutta sepä tulee luonnostaan kun kupit ovat
+    kohtuullisen suljetut. Ei luonnollista crossfeediä. Keskimäärin
+    työt kuulostivat hieman etäisemmiltä Senkuilla, ja se on kai
+    pantavissa puutteelliseen vahvistukseen tai muuten vain lievästi
+    vaimentuneeseen diskanttiin / verhoon. David Bowien Starman
+    esimerkiksi kärsi tässä esityksessä jonkin verran.
+
+*** HD800 alun jälkeen
+
+    Viikon aikana ehti tottua verhoon ja kaikki alkoi kuulostaa
+    normaalilta. Psykoakustiikka teki tehtävänsä. Erityisesti panin
+    merkille hulvattoman hyvän stereokuvan ja levittyvän äänen, joka
+    melkein lähentelee K1000:n vastaavaa. Hyvä saavutus saksmanneilta!
+
+    Kuulokkeiden potentiaalista alkaa olla jonkinlaista kuvaa.
+    Annettaisiinpa HD800:lle parasta vahvistusta ja luonnollisinta
+    signaalia, niin johan poika kylpisi loistossa. Toisin kuin HD650:n
+    tapauksessa, en ole lainkaan vakuuttunut HD800:n helposta
+    ajettavuudesta. MuFi X-Can V3 menee säröiksi aivan liian aikaisin.
+    Jahka opettelin kuuntelemaan tavanomaista hiljaisemmalla, alkoivat
+    kaikki taiat aueta.
+
+    Dynamiikkaa ei HD800:sta lähtenyt tällä vahvistuksella koskaan
+    tarpeeksi. Pelikäytössä huomasi kiusallisen hyvin, mutta kyllähän
+    tuo musiikistakin terävimmän kärjen imaisee.
+
+    [[/home/progo/dokumentit/blog/pics/k1000_hd800_2.jpeg]]
+    
+*** Ja takaisin kotiin
+
+    Paluu AKG:hen tuo kaiken hyvä takaisin, mutta aivan kuin kaikki ei
+    olisi ennallaan? Paha sanoa, mutta heti makusteltuani päästiin
+    niihin Wow-elämyksiin, joita en yllättäen Senkuilla saanut. Se
+    ylin piikki diskantissa kai teettää mukavia hetkiä korvaluussa.
+
+    K1000 on kevytääninen ja upearakenteinen, puhumattakaan ulkonäöstä
+    ja tyylistä. Helppoajoinen ja kestävä värkki. Puutteisiin voi
+    laskea ikävät resonaatiot silloin tällöin ja paikoin
+    hienojakoisesta resonaatiosta johtuvan metallisen diskantin.
+    Siihenkin tottuu, kuten Senkkujen verhoon.
+    
+*** Muoto- ja makuseikat
+
+    Sennheiser HD800 on umpiruma muovikuuloke myös livenä. Massiivinen
+    rengastyyny muutenkin suuri läsnäolo päässäollessaan häiritsee
+    jonkin verran. 
+
+    HD650 oli aikoinaan muotoilultaan ja hillityllä tyylillään sekä
+    kauneinta että hyvä-äänisintä, mitä kohtuurahalla saa. Sääli vain,
+    että jopa siinä mallissa mentiin vähän mönkään HD600:hen nähden,
+    kun kuppeja pitävää pantaa kallistettiin kuppien B-akselin
+    suhteen. Sillä ratkaisulla saadaan hieno kuuloke, joka painaa
+    leukaluuta. Jos olisivat pitäytyneet HD600:n suorassa linjassa,
+    niin olisi saatu hieno halausote helpolla säädeltävyydellä.
+    
+    Miten asettelisin HD800:n? Kyse on makuasioista ja todennäköisesti
+    laitteistostakin kiinni. Pidän oikein hyvänä sitä, että korvan
+    ympärys hengittää äänen ohella. Elokuvakäyttöön HD650 ja
+    musiikille K1000. *Minun* tapauksessani HD800 on väliinputoaja,
+    mutta vain koska K1000 tuli minulle ensin.
+
+* Koodi
+  :PROPERTIES:
+  :CATEGORY: koodi
+  :END:
+** DONE Pelisavetukset versiohallintaan                  :pelit:bash:fallout:
+   CLOSED: [2013-06-27 Thu 19:57]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-06-27 Thu 19:57]
+   :END:
+
+   Huolehditko joskus epävakaiden pelien savetuksista? Erityisesti kun
+   savetuksien kanssa voi käydä monenlaista. Joskus vain jää
+   tallentamatta, joskus pelissä esiintyvä bugi pakottaa pelaajan
+   palaamaan reittejään takaisin. Entä jos sekään ei onnistu, ja
+   tallennusta on vain yhtä sorttia? Entä jos peli suoralta kädeltä
+   korruptoi tallennukset hassuissa tilanteissa (Civ 5, Test Drive:
+   Unlimited)?
+
+   Pannaan tietokone asialle: meillä on versiohallintoja, =git=, ja
+   meillä on työkaluja automatisoida versiointi aina tallennuksen
+   yhteydessä: =inotify=.
+
+   Inotify on kuuluisasti kernelin erikoisuus, joten käyttääksemme
+   sitä tyydyttävästi komentoriviltä tarvitsemme parit työkalut.
+   [[https://github.com/rvoicilas/inotify-tools/wiki][Inotify-tools]] on se, mitä tarvitsemme. Vaatimukset pikku
+   demonillemme ovat:
+
+   - pyörii aina taustalla
+   - ei pollaa tiedostoja, vaan käyttää jotain mainittua
+     inotify-rajapintaa
+   - kun muutoksia pelihakemistossa tapahtuu, ajetaan vakiorivi
+     shellissä
+     
+   Inotify ja inotify-tools hoitavat homman kotiin!
+
+   Oleellinen koodinpala lienee tämä näin:
+
+   #+BEGIN_SRC sh
+     #!/bin/bash
+     SAVEDIR="/home/progo/My Games/FalloutNV/Saves/"
+     
+     cd "$SAVEDIR"
+     while true
+     do
+         inotifywait -q -e delete -e close_write --excludei "\.bak$" .
+     
+         # check any FS-removals and do the same in repo
+         git ls-files --deleted -z | xargs -0 git rm >/dev/null 2>&1
+     
+         # add fallout saves ONLY
+         git add *.fos
+     
+         COM_MSG=`date +"Gamesave %F-%H%M%S"`
+         git commit -m "$COM_MSG"   > /dev/null 2>&1
+     done
+     
+   #+END_SRC
+
+   Gitin me konfiguroimme siten, että se tekee "vakiocommitin"
+   päivämääräleimalla. Committia ei joka tapauksessa synny, jos mikään
+   ei hakemistossa muutu.
+
+   Delta-pakkauksen ansiosta levyä ei pala tarpeettomasti, vaikka
+   kommitteja tuleekin rajusti. Vaikka git onkin nopea, savetusten
+   lukumäärä kannattanee pitää vähäisenä. Falloutin tekemät autosavet
+   ja omat pikatallennukseni ulkoselailuissa riittävät omiin
+   tarkoituksiini kohtuullisen hyvin. Steamin ja muun datan
+   perusteella levytilaa palaa noin 20-30 megaa per pelattu tunti.
+   Repositorion voi aina resetoida, jos tuntuu menevän liikaa.
+
+   Nyt voinen pelailla levollisemmin, kun tiedän, että savet saa aina
+   ulos hyvinkin suurella tarkkuudella aina kun syntyy vakava jumi.
+   
+** DONE Tehokas =reduce=                                         :clojure:fp:
+   CLOSED: [2013-02-16 Sat 20:12]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-02-16 Sat 20:12]
+   :END:
+
+   Funktionaalisen ohjelmoinnin kolme keskeisintä työkalua ovat
+   eittämättä korkeamman asteen funktiot =map=, =reduce= ja =filter=,
+   joista kullakin on omanlaisensa tehtävä. Näistä kuitenkin =reduce=
+   voittaa yleisyydessä kevyesti.
+   
+   Esittelen tässä postauksessa funktionaalisten kielten perusteisiin
+   kuuluvana asiana kuinka nämä funktiot voitaisiin kirjoittaa ja
+   sitten, miten =reduce= voi korvata sekä =map=-, että
+   =filter=-funktiot.
+
+*** =map=
+
+    Funktio =map= on niin klassinen työväline listojen käsittelyssä,
+    että se tuntuu uponneen kertaheitolla kaaliin. Matemaattisesti
+    =map= ei ole paljoa muuta kuin funktion soveltaminen kokonaiseen
+    joukkoon, usein kirjoitettuna näin: 
+    $$f(A) := \{ f(a) \mid a \in A \}.$$ 
+    
+    Funktionaaliset kielet pelaavat jonojen, usein listojen parissa.
+    Siispä matemaattinen joukkonotaatio ja joukkojen kanssa
+    puljautuminen siirtyy listoiksi. Clojure osaa toki soveltaa
+    =map=-funktiota joukkoihinkin, koska joukot toteuttavat yleisemmän
+    jonoabstraktion.
+    
+    =map= ottaa siis tavallisesti kaksi argumenttia; ensin käytettävän
+    funktion ja toisena kokoelman alkioita, joihin funktiota
+    sovelletaan. Clojuressa kokoelmia saa toimittaa mielivaltaisen
+    monta. Tällöin kustakin joukosta poimitaan kerralla yksi
+    argumentti annettavaksi funktiolle.
+    
+    Funktionaaliseen tapaan kirjoitamme toteutukset rekursiiviseen
+    tapaan.
+
+    #+begin_src clojure
+      (defn map [fun coll]
+        (loop [fun fun, coll (seq coll), acc ()]
+          (if-let [x (first coll)]
+            (recur fun
+                   (rest coll)
+                   (concat acc (list (fun x))))
+            acc)))
+      
+      (defn map' [fun coll]
+        (if-let [x (first coll)]
+          (cons (fun x)
+                (map' fun (rest coll)))))
+    #+end_src
+    
+    Tässä on kaksi naiivia, perustason esimerkkiä, miten =map=:n voisi
+    toteuttaa. Ensimmäinen käyttää rekursiivisuuteen Clojuren
+    toteuttamaa =loop-recur= -rakennetta, jolla häntärekursio saadaan
+    kuriin. Tuloksena on myös hieman rumempaa koodia.
+    
+    Toinen tapa on perinteisempi funktionaalinen tapa, jota
+    Haskell-ihmiset varmasti muistavat kehua. Rakennamme hyvin
+    perinteisellä =cons=-metodilla saman listan. =cons= eli
+    /construct/ lisää ensimmäisen argumenttinsa toisen argumentin
+    alkuun.
+    
+    Haskellissa on vastaavanlainen listojen rakennusmenetelmä, eli
+    lyhyt oppimäärä: $x : [a, b, c] == [x, a, b, c]$. Kaksoispiste
+    =:= toimii konstruktorina. Tästä sitten rekursiivisesti voimme
+    sanoa, että $1 : 2 : 3 : []$ on sama lista kuin $[1, 2, 3]$.
+    Ylimääräiset sulut voimme näet jättää pois tässä yhteydessä.
+    
+    Yhtä kaikki, JVM ei tue häntärekursiota, eli jälkimmäinen
+    menetelmä kannattaa suosiolla unohtaa. Liian isojen kokoelmien
+    kanssa kutsupino kasvaa ylitse. Clojure valitsi eksplisiittisen
+    merkinnän, =loop--recur=, jolla optimoitavissa oleva rekursio
+    voidaan ilmaista. Clojuren oikea =map=-toteutus käyttää laiskoja
+    listoja ja niiden kanssa käytettävää makrorakennetta, ja se on
+    kokonaan toisennäköinen.
+
+*** =filter=
+    
+    Kokoelman suodatus epäkelvon aineksen pyyhkimiseksi on myös eräs
+    hyvin yleinen probleema. =filter= jättää siis kaikki ne alkiot
+    kokoelmasta jäljelle, joille predikaatti antaa toden.
+    
+    Ohessa seuraa edellistä =map=-koodia mukaileva ratkaisu.
+    Pilkullinen versio on taasen se naivi esitys matemaattisesta
+    ideasta taustalla. Jos alkio täyttää ehdon, otetaan se mukaan ja
+    haetaan sitten loput filtteröidyt alkiot uuden kutsun voimin. Eri kätevää.
+    
+    #+begin_src clojure
+      (defn filter [pred coll]
+        (loop [pred pred, coll coll, acc ()]
+          (if-let [x (first coll)]
+            (if (pred x)
+              (recur pred (rest coll) (concat acc (list x)))
+              (recur pred (rest coll) acc))
+            acc)))
+      
+      (defn filter' [pred coll]
+        (if-let [x (first coll)]
+          (if (pred x)
+            (cons x (filter' pred (rest coll)))
+            (filter' pred (rest coll)))))
+    #+end_src
+
+*** =reduce=
+    
+    Reduktiot kokoelmista yhdeksi skalaariksi. Yleisiä ongelmia.
+    Haskellissa =foldl=, Rubyssä =inject= ja muissa kielissä =reduce=
+    tekee homman.
+    
+    =reduce= tarvitsee kahden muuttujan funktion, jolle se syöttää
+    aina uuden alkion kokoelmasta. Kertymämuuttuja alustetaan yleensä
+    funktiolle ominaisen neutraalialkion kanssa: yhteenlaskun
+    tapauksessa 0 on luonnollinen, tulon kanssa 1, ja sitä rataa.
+    
+    Kun ovelana käytämme alkuarvoa =x0= myös kertymämuuttujana, saamme
+    itse asiassa aikaan kaikkein sievintä koodia:
+
+    #+begin_src clojure
+      (defn reduce [fun x0 coll]
+        (if-let [x (first coll)]
+          (recur fun (fun x0 x) (rest coll))
+          x0))
+    #+end_src
+    
+    Kaikilla näillä funktioilla on määrittelyssä yhteisiä piirteitä:
+    kaikista otetaan ensialkio talteen, ja jos ei saada sellaista niin
+    rekursio lopetetaan (joukko =coll= on selvästi tyhjä siinä
+    pisteessä).
+
+*** =reduce= voittaa
+    
+    Pienellä notkeudella tutkikaamme, miten =map=- ja
+    =filter=-funktiot voisi toteuttaa =reduce=:n avulla. Meidän
+    tarvitsee vain kirjoittaa sopivanlainen funktio ja alkuarvo
+    lähetettäväksi.
+    
+**** =map= =reduce=:n avulla
+    
+     =map= kuvaa funktiolla joukon toisenlaiseksi joukoksi:
+     reduktio-funktiomme voisi olla tämännäköinen:
+     
+     #+begin_src clojure
+      (defn mapr [fun coll]
+        (let [f (fn [xs x]
+                  (concat xs (list (fun x))))]
+          (reduce f () coll)))
+     #+end_src
+     
+     Vaikka =reduce= toimii idealla "kokoelma yhdeksi skalaariksi", on
+     Clojuressa skalaarin käsite hieman häilyvä. Funktiomme palauttaa
+     itse asiassa koko listan *plus* yhden uuden (ja käsitellyn)
+     alkion, täten replikoiden =map=-funktion toiminnallisuuden.
+
+**** =filter= =reduce=:n avulla
+
+     Samalla menettelyllä kirjoitetaan =filter=.
+
+     #+begin_src clojure
+       (defn filterr [pred coll]
+         (let [f (fn [xs x]
+                   (if (pred x)
+                     (concat xs (list x))
+                     xs))]
+           (reduce f () coll)))
+     #+end_src
+     
+     Syntyy tavallaan jopa alkuperäistä sievempää koodia.
+
+*** Mitä tästä opimme?
+    
+    Että nyt kaikki kirjoittamaan reduktioita? Ei. Yksi asia, missä
+    =map= ja =filter= eroavat kovasti tosielämän =reduce=:sta on
+    niiden laiskuus. Laiskuutta en tässä voinut demonstroida, mutta
+    =reduce= on määritelmältään epälaiska funktio. Sen on saatava
+    evaluoitua kaikki annetut argumenttinsa, jotta se pääsee
+    suoriutumaan.
+
+    Tärkeämpää on ottaa opikseen näistä esimerkeistä =reduce=:n voima.
+    Esimerkkinä useiden kuvausten yhdistäminen: ennen tätä oppimäärää
+    olisin luultavasti tyytynyt siihen seikkaan, että clojuren oma
+    =merge=-funktio toimii vain kahden kuvauksen kanssa, ja olisin
+    kirjoittanut =loop-recur=-rakenteen yhdistämään mielivaltaisen
+    monta kuvausta keskenään. Nyt voin kutsua yksinkertaisemmin:
+    =(reduce merge my-maps)=, ja siirtyä muihin ongelmiin.
+    
+    Se, että =reduce=:a aina opetetaan käyttämällä oikeita skalaareja,
+    saattaa hämätä itse kutakin. Kaikki on mahdollista, vaikkapa
+    funktiokompositiokin, saada aikaan =reduce=:n voimin.
+** DONE Näytönsäästäjäskriptit                                   :bash:rauta:
+   CLOSED: [2013-04-27 Sat 00:49]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-04-27 Sat 00:49]
+   :END:
+
+   Tänään (tai eilen) sain uuden korttini ja kaikki on onnellisena ok.
+   Tuunasin illan pimetessä vielä vanhat näytönsäästöskriptini
+   kuntoon. Nyt edes osa wateista säästyy, toivottavasti...
+
+   Kaikki alkoi xlock-ohjelmasta ja mustista ruuduista. Siihen tuli
+   sitten hiiren disablointia ja näyttöjen sammuttelua ajan myötä.
+   Uusin haaste on tosiaan se, että uusi Geforce-korttini ei mene
+   idle-virroille, jos on liian monta näyttöä aktiivisena. Koodasin
+   siis lisää tavaraa mukaan.
+
+   Pidemmittä jaaritteluitta, tässä on 4-osaisen purkan "pääohjelma":
+
+   #+begin_src sh
+     #!/bin/sh
+     BIN=/home/progo/pika/xlockC.d
+     
+     xlock -startCmd "$BIN/xlockC_start" -endCmd "$BIN/xlockC_stop" -mode blank \
+         -echokeys -timeelapsed +usefirst
+   #+end_src
+
+   Aiemmin kaikki oli samassa, mutta nyt refaktoroin =xlockC=-skriptin
+   kaveriksi ihan erilliset apuskriptit ja laitoin ne alihakemistoon,
+   etteivät turhaan sotke =$PATH=:ssani.
+
+   Kun skripti käynnistetään, ajetaan =xlockC_start=:
+
+   #+begin_src sh
+     #!/bin/bash
+     # Suorita toimet, kun näytöt pannaan nukkumaan.
+     
+     ### Hiiri pois käytöstä
+     mouseid=$($(dirname $0)/xlockC_mouseid.sh)
+     xinput --set-prop "$mouseid" "Device Enabled" "0"
+     
+     # näytöt pois virransäästösyistä.
+     xrandr --output DVI-D-1 --off
+     xrandr --output DVI-D-0 --off
+     
+     # loput näytöt nukkumaan
+     xset dpms force off
+   #+end_src
+
+   Vastaavasti näytöt ja hiiret pannaan takaisin päälle.
+
+   #+begin_src sh
+     #!/bin/bash
+     # Suorita toimet, kun näytöt herätetään.
+     
+     # Hiiren herätys.
+     mouseid=$($(dirname $0)/xlockC_mouseid.sh)
+     xinput --set-prop "$mouseid" "Device Enabled" "1"
+     
+     # Näytöt ylös.
+     xrandr --output DVI-D-0 --auto --left-of VGA-0
+     xrandr --output DVI-D-1 --auto --left-of DVI-D-0
+   #+end_src
+
+   Ja hiiren dynaamisen laitekoodin saa oheinen taidonnäyte:
+
+   #+begin_src sh
+     #!/bin/bash
+     # hae hiiren ID
+     
+     awkscript='/Mouse/ {
+     for(i=0; i<=NF; i++) {
+         split($i, ar, "=");
+         if (ar[1] == "id")
+             print ar[2];
+     }}'
+     mouseid=`xinput list | awk "$awkscript"`
+     echo $mouseid
+   #+end_src
+
+   
+*** Testaus
+    
+   Ja näin. Sopivalla loopilla saatiin testattua myös virransäästön
+   toteutuminen:
+
+   #+begin_src sh
+     while `true`; do nvidia-settings -tq GPUCurrentPerfLevel ; sleep 1 ; done
+   #+end_src
+
+   Luvut painuvat kakkosesta ensin ykköseen ja lopulta nollaan. Ja
+   muuten vain tiedoksi: tällä kortilla tasot menevät näin:
+
+   #+begin_example
+   ~ % nvidia-settings -q GPUPerfModes       
+
+   Attribute 'GPUPerfModes' (pihlaja:0.0):
+   perf=0, nvclock=324, memclock=324
+   perf=1, nvclock=540, memclock=810
+   perf=2, nvclock=1110, memclock=2500
+   #+end_example
+   
