@@ -1,0 +1,92 @@
+* DONE Canto on uusi RSS-lukijani                              :softa:python:
+CLOSED: [2013-03-29 Fri 12:20]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-03-29 Fri 12:20]
+:END:
+
+Kun Google hieman odottamatta ilmoitti vetävänsä Readerin pois
+valikoimastaan, alkoi verkkainen etsintä uudelle RSS-aggregaatille.
+Vaikka Reader on käytettävyydeltään ihan kohtuullinen, oli
+pääasiallisena tavoitteena saada jonkinlainen ncurses-ratkaisu
+kuntoon säädettävyyden ja etäkäytön takia. (*Huomio:* tämä juttu ja
+konffausvinkit koskevat vain vanhentunutta Canto 0.7.10 -versiota.
+Suosittelen kokeilemaan [[http://codezen.org/canto-ng/][uudempaa 0.8-sarjaa]] omiin kokeiluihinne.)
+
+[[http://www.newsbeuter.org/][Newsbeuter]] oli ensimmäisenä pinnalla ilmoittaen olevansa
+RSS-lukijoiden "mutt". Asiahan kuulostaa hyvältä, mutta mutt ei ole
+koskaan ollutkaan kovin mieleinen ainakaan omaan makuuni. Siitä
+puuttuu olennainen säätövara ja lisäksi on kovin hidas.
+
+Tämän jälkeen taas pientä hiljaiseloa vietettyäni jaksoin
+googlailla hyvän [[http://tinyapps.org/blog/nix/200708170700_command_line_feed_readers.html][listan]] sopivia ehdokkaita komentoriville ja
+terminaalikäyttöön löytyviä RSS-lukijoita. Listahan on ikivanha,
+mutta näissä softissa ei yleensä ole montaa liikkuvaa osaa ja
+RSS-parserointikin on ulkoistettu. Canto osui silmään
+kuvaruutukaappausten perusteella hyvänä ehdokkaana, ja asentamisen
+jälkeen tämä vaikutelma vahvistui entisestään.
+
+** Puhdasta Pythonia
+
+[[http://codezen.org/canto/][Canto]] konfiguroidaan monien muiden kovien ohjelmien tapaan
+kunnollisella ohjelmointikielellä ja konfiguraatiossa saakin nyt
+kirjoittaa kovaa Pythonia mielinmäärin. Ohjelma tukee täysin
+muokattavia näppäimiä. Värejäkin saa säädellä. Sisäänrakennettu
+lukija on kohtuullinen, vaikka itse keskitynkin ampumaan selaimeen
+niitä osoitteita. Esimerkiksi näin säädetään näppäimiä ja värejä
+asetuksissa:
+
+#+begin_src python
+  never_discard("unread")
+  link_handler("firefox \"%u\"")
+
+  keys['C-h'] = "help"
+  keys['h'] = "prev_tag"
+  keys['\n'] = "goto"
+
+  colors[0] = 15 # default
+  colors[1] = 214 # unread
+  colors[2] = 138 # read
+#+end_src
+
+Canto tarjoaa pari moduulia, jotka voi importata mukaan ja
+kirjoittaa vaikka funktioita uusiksi. Tarjolla on esimerkiksi
+näppäinsarjoja, jotka kirjoitetaan tavallisina python-listoina
+konffiin.
+
+
+
+** Feedit konffissa
+
+Feedit lisätään erityisen =add()=-kutsun avulla, ja halutut tagit
+ja lisäasetukset kutsun valinnaisten argumenttien kanssa. Hieman
+työlästä, ehkä, mutta kirjoitetaan simppelisti muutama
+=for=-silmukka ja homma alkaa sujua. Canto tarjoaa talon puolesta
+OPML- ja tekstitiedostoparsimista.
+
+** Superjoustava
+
+Tageilla voi ryhmitellä feedejä samoihin kuosiin, jolloin
+esimerkiksi kaikki päivittäiset sarjakuvat saa samasta ryhmästä
+noukittua. Kukin feedi voi luonnollisesti kuulua useaan ryhmään.
+Ja ryhmiäkin voi tietenkin filtteröidä ja lajitella omiksi
+näkymikseen. Oletuksena näkymiä ei ole, vaan kaikki -- sekä luetut
+että lukemattomat -- ovat samassa. Vähintäänkin kannattaa lisätä
+=canto.extra.show_unread= -funktio =filters=-listalle, jotta voi
+keskittyä uusiin artikkeleihin. Konfiguraatiota voi jatkaa
+edelleen vieläkin puhtaammalla pythonilla, johon ei ole minulla
+ainakaan välitöntä tarvetta.
+
+** Päivitykset crontabin tai demonin kautta
+
+Unix-hengen mukaisesti päivitykset voi hoitaa erillisen
+=canto-fetch=-ohjelman avulla. Sen voi huoletta laittaa ajamaan
+vaikka minuutin välein, sillä konffissa voi määritellä kullekin
+feedille omat intervallit.
+
+** Tämä on vanha Canto.
+
+Nyt tätä juttua kirjoittaessani huomasin, että asentamani Canto
+0.7.10 on vanhaa sorttia, ja uusi [[http://codezen.org/canto-ng/][Canto-ng]] on syrjäyttänyt vanhan.
+Epäilemättä sen konffiminen sujuu samalla tavalla kuin vanhan,
+mutta en nyt ihan heti aio siirtyä. Tai ehkäpä siirrynkin. Sitten
+palaan muutosten kera tähän juttuun.

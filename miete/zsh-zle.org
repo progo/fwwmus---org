@@ -1,0 +1,164 @@
+* DONE Zsh ja ZLE                                                       :zsh:
+CLOSED: [2013-02-23 Sat 20:42]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-02-23 Sat 20:42]
+:END:
+
+Suuri ja pelottava [[http://zsh.sourceforge.net/][zsh]] on suurilta osin niin lähellä de-facto
+-standardia, =bashia=, että päällisin puolin eroja ei tunnu olevan.
+Mutta kun asiat etenevät, on zsh tarpeen tullen paljon notkeampi ja
+tässä viestissä kerron esimerkin viimeaikaisista keksimisistäni.
+
+** Readline
+
+Kuten me kaikki tiedämmekin, bashin salaisuus on aina ollut upea
+komentorivikokemus. Se irrotettiinkin myöhemmin omaksi
+=readline=-kirjastokseen kaikkien saataville. Readline osaa
+useimpien terminaalien näppärät kikat ja lukee näppäinyhdistelmiä
+hyvin. Tukeepa jopa vi-näppäimiä, vaikka oletuksena käytössä olevat
+emacs-näppäimet ovat yhdellä rivillä pujotellessa usein riittävät.
+
+Readlineen tietenkin kirjoitettu ja jätetty auki mahdollisuus
+lisätä uusia näppäinyhdistelmiä toiminnoille ja tabitäydennystä
+varten voi sille antaa /callback/-funktion, jolla esimerkiksi
+saadaan omat älykkäät tabitäydennykset kuntoon.
+
+Mutta siihenpä readlinen toiminnot vain riittävätkin. Muutamia
+puutteita, joita olen vuosien saatossa havainnut:
+
+- Readline ei esimerkiksi anna kirjoittaa uusia funktioita
+ interaktiiviseen käyttöön.
+- Vi-moodissa hyödyllistä moodi-indikaattoria lisäystilan ja
+ normaalin tilan välillä saa mitenkään aikaan, koska se vaatisi
+ readlinen ja bashin välistä ylimääräistä kommunikointia.
+- Komentorivin väritys ei tule kysymykseenkään.
+
+Toisin kuin valtaosa shelleistä bashin lisäksi, zsh ei käytä
+readlinea käyttäjäinputin lukemiseen, vaan sillä on aivan oma
+lukija, ZLE: Zsh (Command) Line Editor. Ja ZLE osaa kaikki
+edellämainituista toivomuksista puhtain paperein.
+
+** ZLE
+
+(Tänne saatan lisätä hyperlinkit detaljeja sisältäviin
+postauksiin, jahka kirjoitan tai backporttaan ne vanhasta
+blogista. Nyt saatte mennä summariikeilla.)
+
+Se oli luultavasti tuo Vi-moodi-indikaattori, josta ylipäätään
+tein hypyn zsh:aan. Olin ymmärtänyt, että päällisin puolin ja
+peruskäytössä bashin ja zsh:n välillä ei ole /mitään/ eroa. Ja
+ymmärsin aivan oikein.
+
+Ensin otin vi-moodi-indikaattorin tuunauksen alle; lopulta päädyin
+värilliseen kehotteeseen siten, että vihreä kehote viitaa
+lisäysmoodiin ja tumma kehote viittaa normaalitilaan.
+Komentorivillä ei kamalan paljoa ylipäätään tarvitse
+normaalitilaan siirryskelläkään, eikä ne siirtymät normaalitilaan
+edes aina kestä niin pitkään, että kehotteen väri ehtisi pieneltä
+viiveeltään vaihtua. Mutta onpahan kiva, jos joskus jää
+normaalitila päälle. Tiedän varoa.
+
+Sitten luin syntaksivärjäyksestä komentoriville, ja se idea
+natsasi oitis: vaadimmehan me kaikki syntaksivärjäystä
+koodieditoreissammekin. Miksei sitten tuossa interaktiivisessa
+shell-skriptiä syövässä editorissamme? ZLE:n ansiosta näen
+punaisella komennot, joita zsh ei löydä polulta, vaalealla ne
+komennot, jotka ovatkin oikeasti shell-aliaksia tai -funktioita ja
+tärkeämpänä ryhmittelevät sulut ja alishellit. Kaikki tämmöinen
+onnistuu ja auttaa kirjoittamaan oikeita komentorimpsuja.
+Koodinvärjäys ei ole pelkkää karkkia tyyliin: "hei, tuossa on =if=
+ja tuossa =echo=", vaan tällä värjäyksellä voi esimerkiksi laittaa
+lainattu teksti todella erottumaan muista komennoista: suunnaton
+etu kun näkee välittömästi, mitä se shell aikoo muuttujalaajentaa
+ja mitä ei.
+
+Ja kolmantena nuo omat funktiot tai /widgetit/, kuten
+ZLE-terminologiassa puhutaan. Jos olet yhtään readlinea tai zle:tä
+konffannut käyttäjänä niin tämmöinen funktio tai widget on jollain
+tavalla interaktiivinen rutiini, jolla käyttäjä toimii
+komentorivillä. Esimerkiksi funktio =end-of-line= on sekä
+readlinen että ZLE:n widget, joka vie kursorin rivin loppuun ja on
+oletuksena kytketty =C-e= -näppäinyhdistelmään.
+
+Ja nyt opiskelin hieman, miten kirjoitetaan oma widget ZLE:lle.
+Taustalle sellainen juttu, että kirjoitettuani alkuperäisen
+thinktank-systeemini loin luonnollisesti komentoriville sopivan
+=think=-aliaksen. Alias siksi, jotta voin käyttää asteriskeja ja
+kysymysmerkkejä ilman shellin vinkumista.
+
+Lisäsin sille vielä pikanäppäimen, koska olen sellainen ihminen.
+Tuloksena seuraa tämäntapaista koodia =.zshrc=-tiedostoon:
+
+#+begin_src sh
+ alias think='noglob org_capture.sh '
+
+ bindkey -s "^t" "think "
+#+end_src
+
+Kätevää ja tehokasta. Think-systeemini kehittyi hiljalleen ja
+orgin toimiessa taustalla olisi mukavaa saada TODO-leima
+välittömästi mukaan toimia vaativaan ajatukseen. Tämän voisi
+kirjoittaa aina manuaalisesti =think=-komennon perään, mutta onpa
+se työlästä. Ja oma alias todo-jutulle tuntuu aika kovalta.
+
+Paras ratkaisu, ainakin mielestäni, olisi saada samasta
+näppäimestä ensin paljas =think= ja sitten toisella kerralla
+TODO:llinen =think=. Pieni googlaus, muutama greppaus zsh:n
+manpageilta ja pari senttilitraa kylmää hikeä tuotti seuraavan
+widgetin:
+
+#+begin_src sh
+ function _-thinktodo()
+ {
+     if [[ "$BUFFER" == "" ]] ;then
+         BUFFER="think "
+     elif
+         [[ "$BUFFER" == "think " ]] ;then
+         BUFFER="think TODO "
+     fi
+     end-of-line
+ }
+ # new widget
+ zle -N thinktodo _-thinktodo
+ bindkey "^t" thinktodo
+#+end_src
+
+Zsh:n dokumentaatio on referenssinä hyvää, mutta siihen on vaikea
+päästä sisään ulkopuolisen. Onneksi tässä asiassa tuli vastaan
+onnekas esimerkki monimutkaisemmasta widgetistä, ja nähdessäni
+=$BUFFER=-nimisen muuttujan kävi sisäinen päättelyni toimiin.
+Manpagelta greppaamalla varmistuin kyseisen muuttujan käytöstä.
+
+Uusi funktio pitää esitellä widgetiksi sisäänrakennetun
+=zle=-kutsun kanssa ja sitten se onkin valmis bindattavaksi. Ja
+toimii yllättävän hienosti. Huomattavissa on, että widgettien
+määrittely ja toiminnallisuus on kovasti samannäköistä kuin
+Emacsin interaktiivisten funktioiden kanssa.
+
+Nämä widgetit voivat olla kovinkin hienoja: StackOverflow'ssa
+esiteltiin emacs-henkinen, interaktiivinen search-replace
+-widgetti. Kysyy siis ensin etsittävää patternia ja sitten
+korvaajaa. Ja tavallisina funktioita widgetit voi vaikka tehdä
+googlauksen curlin avulla tuossa välissä.
+
+Tälle on tulossa toivottavasti isoa käyttöä pian.
+
+** Pari muuta esimerkkiä ZLE:lle
+
+[[http://stackoverflow.com/questions/171563/whats-in-your-zshrc][StackOverflow]]'ssa on tietenkin kysymys (nyt lukittu) zsh-kikoista.
+Monella on esitellä näppäriä zle-widgettejä.
+
+Esimerkiksi *alamar* on keksinyt kirjoittaa jotain pientä
+=sudo=-komenteluihin; =M-s= lisää sudo-tekstin komentorivin alkuun.
+
+#+begin_src sh
+  insert_sudo () { zle beginning-of-line; zle -U "sudo " }
+  zle -N insert-sudo insert_sudo
+  bindkey "^[s" insert-sudo
+#+end_src
+
+Kysymyksen paras vastaus on *Frew*'n massiivinen konffi.
+Tuollainen määrä aliaksia ei kyllä tee mielestäni hyvää
+muistikuormalle tai muutenkaan. Olen pohtimassa jonkin sortin
+snippet- tai abbr-moodia zsh:lle ja laajennettavat aliakset
+voisivat olla kova sana.

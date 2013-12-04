@@ -1,0 +1,26 @@
+* DONE org 8 hajottaa blogin                                           :blog:
+CLOSED: [2013-11-14 Thu 14:02]
+:LOGBOOK:
+- State "DONE"       from ""           [2013-11-14 Thu 14:02]
+:END:
+
+Ei ole tullut kamalan usein päiviteltyä tätä blogia nyt ainakaan,
+kun on ollut aatteena [[*Tämän blogin refaktorointia][uudistaa koko systeemi]]. Nyt iso ja kenties
+viimeinen pisara on katkaista kamelimme selän, kun org 8:n uusittu
+vientimoottori on uusinut myös ulostulon kokonaan. Hieman
+purkkamaisesti kasattu HTML->Blog -skriptini ei selviä aivan
+kaikista muutoksista triviaalein säädöksin, sillä uusi org-export
+jättää joitain päivämääriin liittyvää pois.
+
+Nämä pari tuoretta blogijuttua julkaisin näppärästi
+fallbackkaamalla versioon org-7.8, ja näin voi tehdä hamaan
+tulevaisuuteen saakka. Kaikki toimii tässä kuten ennenkin, joskin
+syntaksivärjäys on oudosti hävinnyt johonkin. Lienee viisainta
+ruveta tosissaan virittelemään kestävämpää ratkaisua. Olen ollut
+hiljan tulessa erinäisten clojure-projektien kanssa, joten ehkä
+samalla kyydillä repäisen tämän kuntoon.
+
+Kantavana perusideana on ollut tehdä blogista hieman orgaanisempi,
+yksi-postaus-per-tiedosto, ja viritellä git-integraatiota siten,
+että postausten muutoshistoria olisi ainakin päivämäärien osalta
+näkyvillä.

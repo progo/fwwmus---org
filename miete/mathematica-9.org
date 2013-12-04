@@ -1,0 +1,54 @@
+* DONE Mathematica 9                                         :matikka:python:
+CLOSED: [2013-04-01 Mon 00:11]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-01 Mon 00:11]
+:END:
+
+Latasin Mathematica 9:n kokeiluversion käyttööni kuolattuani
+jostain syystä paljon tätä pientä suurta ohjelmistoa. Minulla ei
+ole juuri lainkaan mitään käyttöä CAS-systeemeille, mutta
+kiinnostaa niin kovasti, ja tekisi mieli peräti ostaakin. Ja miksi
+kaikista CAS-systeemeistä pitäisi valita maksullinen sellainen?!
+
+Mathematica on nätti ohjelma, ja kunnolliset dokumentoinnit
+omaavana se tietää, mitä CAS tarvitsee. Jokaiselle funktiolle on
+useita konkreettisia esimerkkejä graafisten tulosten kanssa.
+Javapuoli on kehittynyt sitten viimenäkemän (6. versio) ja kaikki
+toimi sulavasti tässä Xmonadin päälläkin. Wolframilla on pienoista
+edelläkävijyyttä näissä asioissa, ja dokumentaatiostakin näkee,
+että tällä ohjelmalla pääsee pitkälle, kun vain yrittää tarpeeksi.
+
+Mutta miksi... Miksi valita omituinen syntaksi ja java-pohjainen
+kankea GUI, kun voisi valita vim/emacs/screen-integroinneilla
+maustettu IPython-käyttöliittyminen [[http://www.sagemath.org/][Sage]], joka toimii CAS:na ja
+tutulla Python-syntaksilla. Maplejen ja Mathematicoiden kanssa on
+aina ollut hankala pitää lukua siitä, että ollaanko milloinkin
+pyörittelemässä /lauseketta/ vai kokonaista funktiota. Lauseke ei
+sido muuttujia ja funktio sitoo. Pythonissa asia on selvä.
+
+Jos panisin kaikki munani Sage-koriin, saisin kaikenlaista kivaa
+irti pitkältäkin ajalta. Yksi hyvinkirjoitettu kirja Pythonin
+numeronmurskauksesta löytyykin ja Sagen dokumentaatio tuntuu olevan
+hyvää ihan muutenkin -- hittolainen, sehän on mainio! Juuri tänään
+mietiskelinkin, että Mathematican yksi puoltava valinta on oma
+[[http://mathematica.stackexchange.com/][StackExchange-osio]], mutta näemmä Sagellakin [[http://ask.sagemath.org/questions/][on omansa]].
+
+Ideahan on tainnut aina olla sama: löydettävyys. Mathematicalla on
+huiman hienot dokumentaatiot ja kaikki on viimeisen päälle
+sulavaista. Vaikka nyt Sagen dokumentointi on muita avoimia
+versioita parempaa, niin ei se aivan ykköslaatua ole. Lisäksi
+graafinen käpistely on kankeata, sillä kuvaajia varten pitää joko
+jättää IPython syrjään ja siirtyä surkeaan Notebook-tilaan, tai
+sitten pitää kikkailla GQview'n ja graafien tallentelujen kanssa.
+Aiemmin olen mennyt tallentelumenetelmällä, mutta mitenköhän
+pitkään sitä jaksaisi vakavissaan harjoitella. Kunnollinen
+Emacs-integraatio voisi olla hauska. Tai edes IPythonin
+QtConsole-integraatio. Sehän osaa näyttää kuviakin syötteiden
+seassa. (Emacsille on itse asiassa =sage-mode=, jonka saa vieläpä
+sagen kautta asennettua puolivalmiina sisään. Great!)
+
+Ratkaisu on sinänsä helppo: 29 vuorokauden päästä Mathematica ei
+enää päästä sisään ja ei minulla ole pelkkää hupikäyttöä varten
+lusikoida 140 euroa sinne. Erityisesti, kun haluan kannattaa
+avoimia ja kustomoitavia ratkaisuja. Sentään opin juuri nyt tuosta
+AskSage-palvelusta, että sehän on jo jotain.

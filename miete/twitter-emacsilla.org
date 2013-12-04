@@ -1,0 +1,117 @@
+* DONE Twitteröintiä Emacsilla                                :emacs:twitter:
+CLOSED: [2012-10-24 Wed 16:59]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-03 Wed 19:11]
+:END:
+
+Tänään piti viettää kiva päivä käymällä hyvällä luennolla ja sitten
+pakertaa vähän tehtävien kimpussa koululla. Toisin kävi, kun tehtäviä
+ei tullut aamusella näkysälle ja vettäkin satoi. Vietin sitten
+kotipäivän ja miettien itselleni jotain tekemistä. Emacsin Twitter ja
+IRC saivat olla kohteenani.
+
+Irssi on ollut pitkään käytössä, ja sehän on oikein mainio kyllä
+kaikenlaisten täydennysten ja muiden juttujen kanssa. Sille löytyy
+hyvät twitter-integraatiot ([[twirssi.com][Twirssi]] siis) ja kaikenlaista mukavaa.
+Mutta kuten totesin aikoinani, irssi ei ole oikein vimimäinen ja
+twitteröintien seuraaminenkin on vähän nihkeätä.
+
+Tässä on ollut hieman sensuuntaista kehitystä, että ajan yhtä emacsia
+screenissä ja toista sitten demonina. Screeni-Emacs vastaa näistä
+pikaviestinjutuista eikä sotke puskureitaan “työ-Emacsiin”. Toki on
+mahdollista, että demoneita saa käynnistettyä useita rinnakkaisajoon,
+mutta ajattelin toistaiseksi olla kokeilematta sellaista.
+Pikaviestin-Emacsista tulkoon irssin korvaaja, jos kaikki rullaa
+sulavasti. 
+
+** Twitter
+
+Nyt Emacsille saa oikein mojovia Twitter-asiakkaita, jotka eivät veny
+ja pauku perl-pakettien muhiessa, päivitellen epäyhteensopivasti.
+Kokeilin ensimmäistä uudempaa asiakasta, eli [[http://twmode.sourceforge.net/][Twittering-modea]]. Sen
+EmacsWiki-sivulta saa oikein hyvän kuvan [[http://emacswiki.org/emacs/TwitteringMode][käyttöönotosta]] ja ei ollut
+minullakaan mitään ongelmia saada twitter juoksemaan taustalla.
+Asensin git-version paketinhallinnasta ja kaikki lähti rullaamaan
+ensiheitolla.
+
+Twittering-mode avaa uuden puskurin kullekin “näkymälle”, joita ovat
+esimerkiksi jonkun tietyn ihmisen aikajana tai jokin hakutulos, tai
+kotinäkymä. Mikä hienointa, moodin näppäimet ovat erittäin
+vi-henkiset, eikä niihin tarvitse kajota lainkaan. =jk= hyppelee
+twiittien välillä ja =np= kelaa vuorostaan saman lähettäjän twiittien
+välillä. Tabilla pompitaan erilaisten entiteettien välillä ja sitä
+rataa. Enteriä painamalla urlit ja hashtagit aukeavat selaimessa ja
+muuta mukavaa.
+
+Uuden twiitin säveltämiseen saa käyttää compose-modesta vaikutteita
+saaneita työkaluja. Luonnollisesti jäljelläolevien merkkien lukumäärä
+seuraa alapalkissa ja tupla- =C-c= lähettää sirkutuksen maailmalle.
+Tämä oli erityisesti yksi Twirssin heikko kohta.
+
+Twittering-mode korvaa siis Twirssin tyydyttävästi. Puskuria
+päivitetään tasaisesti uusilla viesteillä ja kursori pysyy
+ilahduttavasti siinä, mihin se on jätetty: lukuosoitin toimii siis,
+toisin kuin Twirssissä, mihin piti heittää irssin trackbar-skriptiä
+kaveriksi. Sittenkin on vähän hankala lukea isoa tekstimassaa ja pysyä
+rivillä. 
+
+** IRC
+
+Sitten on se IRC. Twirssi on helppo kellittää, mutta
+irc-keskusteluissa irssi on aika kuningas. Puutteelliset vi-näpit on
+helppo antaa anteeksi suhteellisen hyvin toimivien ominaisuuksien
+takia; erityisesti nyt kun on melko maukkaasti toimiva VimMode-skripti
+olemassa.
+
+Mutta ERC on kova tekijä sekin. Kukin kanava ja tsätti aukeaa omaksi
+puskurikseen (~ ikkuna irssissä) ja näitä puskureita voi tietenkin
+sitten pyöritellä kuin tavallista tekstiä. Tietenkin uuden rivin
+heittääkseen tulee kohdistus ohjata puskurin lopuille: melko helppoa
+vi-näppäinten (EVIL!) avulla. Kaikki emacsin työkalut (ja
+komentorivijuttujen ansiosta kaikki unix-työkalut sen puoleen) ovat
+käytettävissä kun kirjoitat tarinaa kanavalle: thesaurukset,
+sanakirjat, sanatäydennykset, oikoluvut, laskutaulukot,
+LaTeX-lausekkeet (CDLatex), symbolinen matematiikka (Calc). Pretty
+much everything. Spoilerit kääntyvät rot13-salatuksi pienellä
+litanialla. Puskureita voi hajauttaa ikkunoihin tai peräti eri
+kehyksiin (ikkunanhallinta-ikkunoihin), jos ajat demonina tai
+graafisessa ympäristössä.
+
+ERCille saa oleelliset samat lelut kuin irssiinkin, siis. Trackbarin
+vastine on saatu toimimaan, samoin kuin nimimerkkien väritys. (No
+hieman vajavaisella toiminnallisuudella: track toimii jos vaihdetaan
+yhdestä ERC-puskurista toiseen.) Hieman mietityttää vielä minulle
+kohdennettujen huomioiden/mainintojen parempi värjäys, sekä kanavien
+logitus. Logaus on mukavaa, kun se tuo paljon muistoja vuosien päähän,
+joten en haluaisi luopua siitä paheesta.
+
+ERC on ollut toistaiseksi aikalailla erilainen kokemus irssistä, joten
+hieman on totuteltava uuteen kuvioon. Koska tuo twitter-puolisko
+toimii niinkin hyvin kuin toimii, olen ajatellut kokeilla mukautua
+tilanteeseen parhain tavoin.
+
+Irssissähän on aina ollut joitain puutteitakin: ensimmäisenä tulee
+mieleen aika mielivaltaisesti toimiva värjäyssysteemi ja awaylogi. Jos
+haluan värjätä jotain sanoja muuten vain, pitää sitten hyväksyä
+awaylogin täyttyminen tauhkalla tai olla käyttämättä. Ja on ollut
+aikoinaan ongelmia myös nimimerkki-highlightien kanssa: jos halusin
+saada koko rivin keltaiseksi, niin sitten mikään nimimerkkiäni koskeva
+keskustelu ei tallentunut awaylogiin. Nykyisin en käytä awaylogeja kun
+toimii niin satunnaisesti. Lisäksi irssin dokkarit ja perl-rajapinnan
+avaaminen on ollut pitkään perin mystistä puuhaa, mutta siitä olen
+toistaiseksi päässyt yli.
+
+** Emacs-jutut
+
+Näitä saattaa tulla jatkossa enemmänkin. Ja vim-näkökulma tulee
+säilymään Emacs-seikkailuissani. Te hiljaiset lukijat siellä: antakaa
+jonkinlainen huuto, jos haluatte kuulla itse vimistäkin jatkossa. En
+pidä sitä mahdottomana asiana. Työkaluja on hyvä pitää rasvattuna
+vaikka käyttö vähenisikin. Ja kun totta puhutaan: tämä blogiviesti on
+vimillä kirjailtu. Siitä syystä kun skriptini kysyy =$EDITOR=:ia, enkä
+ole hennonut vielä vaihtaa sitä.
+
+** Backport
+
+Tämä on portattu vanhasta [[%20http://progo.viuhka.fi/mietteet/595/twitterointia-emacsilla][blogista]] ihan mielenkiinnosta ja
+sisällön takia.

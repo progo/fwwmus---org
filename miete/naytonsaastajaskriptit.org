@@ -1,0 +1,99 @@
+* DONE Näytönsäästäjäskriptit                                    :bash:rauta:
+CLOSED: [2013-04-27 Sat 00:49]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-27 Sat 00:49]
+:END:
+
+Tänään (tai eilen) sain uuden korttini ja kaikki on onnellisena ok.
+Tuunasin illan pimetessä vielä vanhat näytönsäästöskriptini
+kuntoon. Nyt edes osa wateista säästyy, toivottavasti...
+
+Kaikki alkoi xlock-ohjelmasta ja mustista ruuduista. Siihen tuli
+sitten hiiren disablointia ja näyttöjen sammuttelua ajan myötä.
+Uusin haaste on tosiaan se, että uusi Geforce-korttini ei mene
+idle-virroille, jos on liian monta näyttöä aktiivisena. Koodasin
+siis lisää tavaraa mukaan.
+
+Pidemmittä jaaritteluitta, tässä on 4-osaisen purkan "pääohjelma":
+
+#+begin_src sh
+  #!/bin/sh
+  BIN=/home/progo/pika/xlockC.d
+
+  xlock -startCmd "$BIN/xlockC_start" -endCmd "$BIN/xlockC_stop" -mode blank \
+      -echokeys -timeelapsed +usefirst
+#+end_src
+
+Aiemmin kaikki oli samassa, mutta nyt refaktoroin =xlockC=-skriptin
+kaveriksi ihan erilliset apuskriptit ja laitoin ne alihakemistoon,
+etteivät turhaan sotke =$PATH=:ssani.
+
+Kun skripti käynnistetään, ajetaan =xlockC_start=:
+
+#+begin_src sh
+  #!/bin/bash
+  # Suorita toimet, kun näytöt pannaan nukkumaan.
+
+  ### Hiiri pois käytöstä
+  mouseid=$($(dirname $0)/xlockC_mouseid.sh)
+  xinput --set-prop "$mouseid" "Device Enabled" "0"
+
+  # näytöt pois virransäästösyistä.
+  xrandr --output DVI-D-1 --off
+  xrandr --output DVI-D-0 --off
+
+  # loput näytöt nukkumaan
+  xset dpms force off
+#+end_src
+
+Vastaavasti näytöt ja hiiret pannaan takaisin päälle.
+
+#+begin_src sh
+  #!/bin/bash
+  # Suorita toimet, kun näytöt herätetään.
+
+  # Hiiren herätys.
+  mouseid=$($(dirname $0)/xlockC_mouseid.sh)
+  xinput --set-prop "$mouseid" "Device Enabled" "1"
+
+  # Näytöt ylös.
+  xrandr --output DVI-D-0 --auto --left-of VGA-0
+  xrandr --output DVI-D-1 --auto --left-of DVI-D-0
+#+end_src
+
+Ja hiiren dynaamisen laitekoodin saa oheinen taidonnäyte:
+
+#+begin_src sh
+  #!/bin/bash
+  # hae hiiren ID
+
+  awkscript='/Mouse/ {
+  for(i=0; i<=NF; i++) {
+      split($i, ar, "=");
+      if (ar[1] == "id")
+          print ar[2];
+  }}'
+  mouseid=`xinput list | awk "$awkscript"`
+  echo $mouseid
+#+end_src
+  
+** Testaus
+   
+Ja näin. Sopivalla loopilla saatiin testattua myös virransäästön
+toteutuminen:
+
+#+begin_src sh
+  while `true`; do nvidia-settings -tq GPUCurrentPerfLevel ; sleep 1 ; done
+#+end_src
+
+Luvut painuvat kakkosesta ensin ykköseen ja lopulta nollaan. Ja
+muuten vain tiedoksi: tällä kortilla tasot menevät näin:
+
+#+begin_example
+~ % nvidia-settings -q GPUPerfModes       
+
+Attribute 'GPUPerfModes' (pihlaja:0.0):
+perf=0, nvclock=324, memclock=324
+perf=1, nvclock=540, memclock=810
+perf=2, nvclock=1110, memclock=2500
+#+end_example

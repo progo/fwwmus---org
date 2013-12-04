@@ -1,0 +1,17 @@
+* TODO mu4e: kovatasoista sähköpostia Emacsilla                 :emacs:email:
+
+- Gmailin uusi viestinkirjoitus on sotkuinen paketti HTML:ää -> en
+ voi enää käyttää mukavasti vanhaa vi-tekniikkaa viestien
+ kirjoittamiseen.
+- Pelastus aloitetaan asentamalla offlineimap tai vastaava.
+- synkatessa menee todella pitkään suurien viestienvälisten
+ overheadien takia.
+- Gmailin labelit menevät ristiin imapin kansiosysteemin kanssa. On
+ viisainta kääntää Gmailin asetuksista IMAP-synkattavat kansiot
+ minimiin: Inbox, All Mail, Sent, Drafts. Nopeutuu synkkaaminen
+ huimasti.
+- IMAP-synkkauksen lisäksi mu:n indeksöimiin hakemistoihin
+ kannattaa tehdä rajoituksia duplikaattien varalta.
+- http://wenshanren.org/?p=111 perustason intro
+- https://groups.google.com/d/msg/mu-discuss/wk0hJGVM14Q/k8I9s3lrJ1EJ
+ kertoo tarkemmin hyvistä palasista.

@@ -1,0 +1,41 @@
+* DONE Uusi blogi on nyt /out live/                                    :blog:
+CLOSED: [2013-03-28 Thu 19:31]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-03-28 Thu 19:31]
+:END:
+
+Uusi blogi on nyt "virallisesti" julkistettu, vanha on jäädytetty
+ja selvät linkit uuteen paikkaan on pantu merkille. Kaikki tuntuu
+hieman keskeneräiseltä vielä, mutta se on tavallaan hyväkin merkki.
+
+TextPattern on poistettu. Yksi biohajoava PHP-systeemi vähemmän
+huollettavaksi. Wgetillä crawlasin ja hienosäädin vielä
+sed-taioilla vanhan blogin staattiseen muotoon. Tätä systeemiä
+ehtii tuunata kyllä.
+
+Ulkoasu on mitä on. Tuntui miellyttävän kontrolliryhmää. Tämän --
+miksei mihin tahansa muunkin -- postauksen kommentteihin saa ampua
+palautetta ja ehkäpä peräti ehdotuksiakin.
+
+Käytettävyys saattaa olla huonolaatuista tässä vaiheessa, kun olen
+mietiskellyt asioita vääristä näkökulmista. Jälkeenpäin asiat
+kirkastuvat, mutta huvittaako ryhtyä refaktorointiin noin vain.
+Clojurepohjaisessa koodissa on paljon etuja, mutta sotkuiseksi
+menee ilman hyväksikoettuja rutiineja. Niitä pitää koittaa löytää
+kaiken seasta ja kirjoitella uusiksi.
+
+** Teemasta
+
+Teema on vaihteluksi taas odotushuone tai /black lodge/. Edellinen
+blogini oli tyhjästä taiottu ja (mielestäni) yllättävän raikasta
+vaihtelua. Sitä ennen oli myös odotushuoneteemainen blogi. Sitä
+ennen taisi olla jotain muuta. Blogi ja teema on muuttunut monesti
+sitten vuoden 2007.
+
+Odotushuone-teema oli hyvin odotettavissa, kun domain, fwwm.us,
+oli kuitenkin sidottu jo etukäteen. Omaperäistä tästä ei kyllä saa
+kirveelläkään. Olisin halunnut jatkojalostaa Michael Corleone
+-teemaa, jota olen pyöritellyt TP:tä pidempäänkin avatarina.
+Michael ja Lodge on tottakai yksi potentiaalinen jalostuksen
+kohde. Yhdistäisin ehkä vanhan blogin yläpalkkijuttua ja Michaelia
+ja Odotushuonetta. /We'll see in 25 years!/

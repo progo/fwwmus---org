@@ -1,0 +1,68 @@
+* DONE Pelisavetukset versiohallintaan                   :pelit:bash:fallout:
+CLOSED: [2013-06-27 Thu 19:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-27 Thu 19:57]
+:END:
+
+Huolehditko joskus epävakaiden pelien savetuksista? Erityisesti kun
+savetuksien kanssa voi käydä monenlaista. Joskus vain jää
+tallentamatta, joskus pelissä esiintyvä bugi pakottaa pelaajan
+palaamaan reittejään takaisin. Entä jos sekään ei onnistu, ja
+tallennusta on vain yhtä sorttia? Entä jos peli suoralta kädeltä
+korruptoi tallennukset hassuissa tilanteissa (Civ 5, Test Drive:
+Unlimited)?
+
+Pannaan tietokone asialle: meillä on versiohallintoja, =git=, ja
+meillä on työkaluja automatisoida versiointi aina tallennuksen
+yhteydessä: =inotify=.
+
+Inotify on kuuluisasti kernelin erikoisuus, joten käyttääksemme
+sitä tyydyttävästi komentoriviltä tarvitsemme parit työkalut.
+[[https://github.com/rvoicilas/inotify-tools/wiki][Inotify-tools]] on se, mitä tarvitsemme. Vaatimukset pikku
+demonillemme ovat:
+
+- pyörii aina taustalla
+- ei pollaa tiedostoja, vaan käyttää jotain mainittua
+  inotify-rajapintaa
+- kun muutoksia pelihakemistossa tapahtuu, ajetaan vakiorivi
+  shellissä
+    
+Inotify ja inotify-tools hoitavat homman kotiin!
+
+Oleellinen koodinpala lienee tämä näin:
+
+#+BEGIN_SRC sh
+  #!/bin/bash
+  SAVEDIR="/home/progo/My Games/FalloutNV/Saves/"
+
+  cd "$SAVEDIR"
+  while true
+  do
+      inotifywait -q -e delete -e close_write --excludei "\.bak$" .
+
+      # check any FS-removals and do the same in repo
+      git ls-files --deleted -z | xargs -0 git rm >/dev/null 2>&1
+
+      # add fallout saves ONLY
+      git add *.fos
+
+      COM_MSG=`date +"Gamesave %F-%H%M%S"`
+      git commit -m "$COM_MSG"   > /dev/null 2>&1
+  done
+
+#+END_SRC
+
+Gitin me konfiguroimme siten, että se tekee "vakiocommitin"
+päivämääräleimalla. Committia ei joka tapauksessa synny, jos mikään
+ei hakemistossa muutu.
+
+Delta-pakkauksen ansiosta levyä ei pala tarpeettomasti, vaikka
+kommitteja tuleekin rajusti. Vaikka git onkin nopea, savetusten
+lukumäärä kannattanee pitää vähäisenä. Falloutin tekemät autosavet
+ja omat pikatallennukseni ulkoselailuissa riittävät omiin
+tarkoituksiini kohtuullisen hyvin. Steamin ja muun datan
+perusteella levytilaa palaa noin 20-30 megaa per pelattu tunti.
+Repositorion voi aina resetoida, jos tuntuu menevän liikaa.
+
+Nyt voinen pelailla levollisemmin, kun tiedän, että savet saa aina
+ulos hyvinkin suurella tarkkuudella aina kun syntyy vakava jumi.

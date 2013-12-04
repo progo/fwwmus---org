@@ -1,0 +1,81 @@
+* DONE Takaisin kolmeen näyttöön                                      :rauta:
+CLOSED: [2013-04-19 Fri 19:58]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-19 Fri 19:58]
+:END:
+
+Oitis kun joku lupailee edes etäisesti ylimääräistä rahaa
+käytettäväksi, tartuin näyttökauppoihin. On aika vaatia kolmannen
+näytön valtakunta takaisin voimaan.
+
+Olin /niin/ tyytyväinen kahteen näyttööni (yksi 22" ja yksi 17"),
+kunnes eräs päivä päätin kokeilla ylimääräisen PCI-kortin kanssa
+sitä kolmen näytön nautintoa. Xinerama teki lopullisesta
+ratkaisusta mahdottoman, mutta noin kuukauden ajan nautiskelin
+kolmesta näytöstä (17, 17 ja 22 -tuumaiset). Samalla siirryin
+Xmonadiin, sillä Fluxbox ei tukenut kolmea Xineraman kautta kovin
+hyvin.
+
+Kompromissinä myin molemmat 17-tuumaiset ja ostin 22-tuumaisen
+tilalle. Paljon hyvää ruutualaa ja NVidian Twinview ja
+rautakiihdytys. Ei se silti samalta tuntunut. Asia jäi kytemään,
+sillä rautakiihdytyksestä en tohdi luopua.
+
+** Pimeät ajat: ATi 
+
+Hiertävä ongelma, AMD:n kortit osaavat useita näyttöjä ja
+XRandr-tuet siihen päälle. Rautakiihdyteltyä moninäyttöautuutta,
+mutta ajurit ovat niin surkeat, ettei mitään tolkkua. Niistä olen
+kirjoittanut muualla enemmän, mutta osa pelien 3D-renderöinnistä
+meni roskaksi. Isoin ongelma oli työpöydältä puuttuva vsync, mikä
+haittaa aika kovasti elokuvien katselua.
+
+** Uusi toivo: NVidia Kepler
+
+Ensin taannoiset ajurit päivittivät NVidian feikki-xineramailusta
+XRandr-maailmaan, ja sitten uusi Kepler-arkkitehtuuri toi Nvidian
+takaisin peliin moninäyttötuellaan. Uudet Kepler-näyttikset
+tukevat "Surroundia" niin monesta rei'ästä kuin mitä kortista
+löytyy.
+
+Tämän huomasin vain eräs kaunis päivä [[http://superuser.com/q/476012/49046][Superuseria]] lukiessani.
+Kehitys on viimein saapunut! Kepleriä lähtee joka lähtöön, mutta
+valitsin kortikseni GTX 650 -mallin. 
+
+** Näyttö on Eizo
+
+Sopiva näyttökin tulee tietenkin olla. Hyvällä tuurillani bongasin
+kävelymatkan päästä Eizon myynnistä. FlexScan S2000 on
+20-tuumainen ja resoluutio on 1600x1200: enemmän pikseleitä kuin
+näissä Acereissani. Ei kamalasti valittamista, vaikka värien
+sovittaminen Acerin kanssa yksiin on vähän tiukassa. Ja näyttöä ei
+saa järin alas. Joudun totuttelemaan nyt uudenlaiseen
+katselmukseen.
+
+** Sopivan kortin valinnasta
+
+Nvidia on perinteiseen tapaan saanut aikaan aika sekavan
+nimeämisen näiden eri korttien välillä. Wikipediasta koostin
+seuraavanlaisen taulukon, jota oli käytännössä pakko seurata,
+jotta sai varmasti TDP:ltään alhaisen kortin.
+
+| Malli            | Koodi        | Ydin [MHz] | Muisti [MHz] | TDP [W] |
+|------------------+--------------+------------+--------------+---------|
+| GTX 650          | GK107-450-A2 |       1058 |         5000 |      64 |
+| GTX 650 Ti       | GK106-220-A1 |        928 |         5400 |     110 |
+| GTX 650 Ti Boost | GK106-240-A1 |        980 |         6002 |     134 |
+
+Gigabyten GTX 650 N650OC-1GI on verkkokaupan (Serofi) tietojen
+perusteella 1110-megahertsinen ja muisti on 5 GHz. On vain luotettava,
+että se asettuu tuohon 64 watin TDP-luokkaan.
+
+Mokomat vehkeet ovat kaikki aktiivijäähdytteisiä, vaikka tuo TDP ei
+nyt kamalan suuri olekaan. Nykyisen kortin TDP on Nvidian sivujen
+perusteella 29 W, vaikka muistelin jotain 39:ää.
+
+TDP-luvuthan kertovat vain piikkitehon. Eihän asian pitäisi häiritä
+sitten?! No häiritsee se kyllä: Nvidian linux-ajureissa on nimittäin
+jonkinlaista ongelmaa moninäyttötuen kanssa. Tehot ovat aina tapissa,
+kun kiinni ja aktiivisena on useampi näyttö. Jos virransäästötila
+toimisi kunnolla, niin voisin hyvinkin ostaa vähän tehokkaampaakin
+korttia satunnaista pelailua varten. Sitä odotellessa.

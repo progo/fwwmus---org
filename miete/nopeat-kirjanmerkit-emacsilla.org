@@ -1,0 +1,104 @@
+* DONE Nopeat kirjanmerkit Emacsille                            :emacs:elisp:
+CLOSED: [2013-05-11 Sat 18:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-05-11 Sat 18:06]
+:END:
+
+Tänään aamulla minulle syntyi visio Emacs-skriptistä, joka toisi
+Vimperator-henkiset kirjanmerkit Emacsiin. Panin asiasta merkinnän
+=org=-kalenteriini ja jatkoin sitten päivän pakottavammissa
+askareissa.
+
+Sitten iltapäivästä asia tuli yhä uudestaan ja uudestaan mieleen,
+ja ei siinä muu auttanut kuin aloittaa koodaaminen. Syntyi
+tuloksena [[https://github.com/progo/progomarks][progomarks]]-niminen unix-filosofisella näkemyksellä.
+
+Tässä työssä on paljon kaunista. Ehkä sikäli, kun allapiilevä
+mekanismi on todella yksinkertainen ja toimiva. Erityisesti kaikki
+näyttää kauniilta, kun tunnun tulleen siihen pisteeseen, että
+Emacsia voi lähteä laajentamaan ihan noin vain, jos jotain tuntuu
+puuttuvan. Tähän tilaan pääsy veikin noin 8 kuukautta, mutta kyllä
+se kannatti.
+
+
+** Perusidea
+
+Usein koluttuihin tiedostoihin tahtoisi päästä nopeasti. Emacsin
+olemassaolevat kirjanmerkkiratkaisut eivät näyttäneet äkkiseltään
+katsoen sisältävän muuta kuin nuolinäppäimiä ja
+perusliikkumakomentoja: käytännössä siis suunniteltu isojen
+kirjanmerkkimäärien hallinnointiin, joista haetaan sitten
+hakutoiminnoin.
+
+Minulla oli tausta-ajatuksena saada pari kiperässä paikassa
+lymyävää, mutta usein käytettyä tiedostoa helposti saataville.
+Tiedostoja tulisi olemaan siis kohtuullisen vähän näkyvillä. Ja
+niihin pääsee hyppimään nopeasti Vimperatorista tutuilla
+aakkoslyhenteillä. Ohessa esimerkki ruudulle aukeavasta näkymästä,
+kun =progomarks= aktivoidaan:
+
+#+begin_example
+Progomarks
+----------
+j SPC               /home/progo/.emacs.d/progomarks
+k SPC               /home/progo/kurssit/nyk/oht/oht-s4.org
+l SPC               /home/progo/LoremIpsum.txt
+f SPC               /home/progo/dokumentit/Runo.txt
+a SPC               /home/progo/koodi/mpyd/DB.py
+kj SPC              /home/progo/koodi/progomarks/progomarks.el
+kk SPC              /home/progo/LoremIpsum.txt
+kl SPC              /home/progo/dokumentit/blog/blog.org
+#+end_example
+
+Nyt riittää painaa =j <SPC>=, niin =progomarks=-tiedosto aukeaa.
+Jos tämän =progomarks=-komennon itsensä asettaa nätin
+näppäinyhdistelmän taakse, niin usein haluttuihin tiedostoihin
+pääsee hyppimään nopeasti. Minä heitin sen kokeeksi
+@<code>,fb@</code>-yhdistelmän taakse. 
+
+Toinen tarvittava "julkinen" funktio on
+=progomarks-mark-current-file=, jolla avoinna oleva tiedosto
+ympätään kirjanmerkkilistan perälle. Itse lista säilyy tiedostossa
+ja sisältää äärisimppelisti yhden URI:n per rivi. Sitä tiedostoa
+saa sitten itse editoida ja mukauttaa järjestystä, jos näin
+tahtoo.
+
+** Itse koodi
+
+Koodi on [[https://github.com/progo/progomarks/blob/master/progomarks.el][Githubissa]]. Siitä on paha sanoa mitään tässä kohtaa,
+muuta kuin että se on /todennäköisesti/ melko idiomaattista
+Elispiä suurimmalti osin. Emacs Wikin Elisp-keittokirjaa
+pläränneenä ja tämänkin paketin koodanneena olen tehnyt muutamia
+huomioita:
+
+- Elispissä ja Emacsissa ylipäätään kaikenlainen tiedostojen
+  lukeminen ja kirjoittaminen tehdään lukemalla tiedoston sisältö
+  väliaikaisiin (ja käyttäjältä näkymättömiin) puskureihin, joissa
+  sitten käytetään tavallisia Emacs-komentoja editointiin. Lopuksi
+  tallennetaan koko roska takaisin.
+- Emacs-sovellukset (kuten Viminkin vastaavat) kirjoitetaan
+  luonnollisesti "virtuaalisiksi" puskureiksi, eli puskureiksi,
+  joilla ei ole tiedostoa taustalla. Tässä kohtaa Emacs (ja Vim)
+  todella ovat löytäneet juuri oikean abstraktion. Avonaisten
+  puskurien ei tarvitsekaan kuvata oikeita tiedostoja pohjalla.
+  Riittää vain, että kirjoitellaan tekstiä puskuriin, tehdään
+  sopivat näppäinoikotiet saataville ja paiskataan kaikki
+  käyttäjän naamalle. Kaikki on tekstiä ja temppitiedostoja ei
+  tarvitse pyöritellä systeemissä.
+- Emacsin paketointisysteemi on kevyt ja toimiva. Ei tarvita
+  turhia alkujulistuksia, vain =(provide ...)= -lauseke tiedoston
+  (mielellään) lopussa. Paketti ladataan sitten =(require ...)=
+  -makrolla käyttöön ja Emacs etsii tiedostonimellä
+  latauspoluistaan sopivannimisiä tiedostoja ja lukee niitä.
+- Lispinä Elisp on toki mukavaa ja ilmaisuvoimaista
+  sellaisenaankin, mutta funktionaalista ei missään tapauksessa.
+  Erilaiset silmukat jylläävät pitäjää ja muuttujia päivitellään
+  tuon tuosta. Jopa sulkeumia minun piti etsiä oikein työtä
+  tehden, ja ne lopulta löytyivät uuden Emacsin kokeellisista
+  lisäosista. No, hyvä että löytyivät kuitenkin.
+
+Sulkeumia oli kiva käyttää tässä(kin) ongelmassa: kun määränä oli
+rakentaa lennosta erilaisia näppäinyhdistelmiä bindattavaksi
+samantapaisiin funktioihin, niin rakensin kullekin yhdistelmälle
+sulkeuman avulla nolla-argumenttisen funktion, joka avaa juuri
+halutun tiedoston.

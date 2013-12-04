@@ -1,0 +1,64 @@
+* DONE Moary täyttää vuoden                                 :python:elokuvat:
+CLOSED: [2013-08-15 Thu 11:41]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-08-15 Thu 11:41]
+:END:
+
+On ollut kylmää ja sateista koko tämän pitkän elokuun. Ei ollut
+näin kylmää vuosi sitten. Mistäkö muistan? Tasan vuosi sitten
+tänään elokuvapäivyrini [[https://github.com/progo/moary][Moary]] aloitti vakituisen toiminnan
+katselemieni elokuvien kirjaamiseen. Se oli helteistä aikaa saada
+elokuvat nautittua ilman paikkojen sotkemista.
+
+166 elokuvaa 365 päivässä. Selvemmin ajateltuna kolme elokuvaa
+viikossa. Sehän käy hyvin yksiin sen kanssa, että kesäisin katson
+helposti 6 elokuvaa viikossa ja arkena vain viikonloppuisin, eli
+kaksi viikossa. Uniikkeja enimmäkseen: onkohan listalla ehkä kaksi
+duplikaattia. Olen henkilökohtaisesti hyvin tyytyväinen tähän
+tulokseen. Katsomattomia elokuvia on maailmassa aivan riittämiin,
+eikä ole selvästikään tarvinnut turhaa toistoa katsoa vuoden
+sisään.
+
+Olen myös hyvin tyytyväinen moaryn käyttöasteeseen:
+käyttöliittymän olen saanut pidettyä riittävän simppelinä, että
+kriittinen tiedonlisäyskynnys pysyy matalana. Ohjelma itse on
+vähän paukkunut saumoistaan, erityisesti IMDBpy on huteraa tekoa.
+Tietysti kun IMDB ei tarjoa kunnollista API-rajapintaa, niin tämä
+olikin odotettavissa. Pari kertaa on saanut pähkäillä ongelmien
+kanssa, mutta suurinpiirtein ainut häviö onkin ollut tyhjä
+IMDB-ruutu. Sen saa helposti jälkikäteenkin mukaan.
+
+Moary on ollut aina hyvin vapaamuotoinen rajoitteiltaan: en pakota
+ketään hakemaan IMDB-osoitteita, kirjoittamaan satojen sanojen
+sepustuksia tai edes antamaan numeerista arvosanaa! Otin myös
+periaatteekseni sen, että tässä ohjelmassa tehdään merkintöjä
+katsomiskerroista, ei itse elokuvista. Jos saman elokuvan katsoo
+kuukautta myöhemmin ja tällä katsomiskerralla oivaltaa jotain
+uutta, on lupa antaa parempi arvosana elokuvalle (näin
+halutessaan, jokuhan voisi pitää tätä katsontakertaa muuten
+huonona) eikä ensivaikutelman arvosanaa tarvitse mutiloida tai
+hävittää historiasta.
+
+** Tulevaisuuskuvia
+
+Lokaali tietokantani on pysynyt kevyenä. Oleellisesti ainut
+pakollinen tieto on nimikenttä (joko/tai IMDB), mutta halutessaan
+molemmat voi täyttää. Minä ainakin teen niin.
+
+IMDB:n kautta voi poimia kaiken muun tiedon. Jos Moaryn
+metakykyjä lähtisi virittelemään, niin se olisi helppoa IMDBpy:n
+lokaalin välimuistin ansiosta. Olettaen vain, että käyttäjä on
+pitänyt IMDB-tunnisteet mukana kuvioissa.
+
+Mutta tuskin teen mitään sellaista. Tylsää, hankalaa ja minä
+ainakin henkilökohtaisesti tiedän kaikki katsomani elokuvat.
+Suosituksia jaksan kaivaa nettisivujenkin kautta.
+
+Sen sijaan arvostelujen integraatio esimerkiksi tänne blogiin tai
+Twitteriin on ollut mielessä. Tietysti kirjoittamani kuvaukset
+ovat luokkaa "1--2 virkettä", joten kovin havainnollisia tuskin
+olisivat.
+
+Jonkinlaista pientä on luvassa seuraavan 12 kuukauden aikana, sen
+kyllä voin taata. Githubissa saa laittaa tikettiä pystyyn ja
+potkia vähän persuksillekin.

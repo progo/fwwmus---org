@@ -1,0 +1,59 @@
+* DONE Fallout                                                :pelit:fallout:
+CLOSED: [2013-06-18 Tue 16:04]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-18 Tue 16:04]
+:END:
+
+Uudet 3D-Falloutit jakavat hieman pelikansaa kahteen osaan, mutta minä
+olen valmis julistamaan Fallout 3:n parhaaksi pelaamakseni peliksi.
+Tämä vieläpä konsolilla, jossa kaikki tökki ja jökki. Nyt tilasin
+Fallout: New Vegasin täyden paketin, eli Ultimate Editionin. Siinä on
+luonnollisesti kaikki julkaistut lisäosat samassa paketissa. Ja tämä
+on PC:lle. The way FPS's are meant to be played.
+
+New Vegasia pidetään kaikin puolin kolmosta parempana: on kuulema
+uskollisempi alkuperäisille ja kaikkea sitä. Se voi olla, ja
+pelimekaniikka on ainakin NV:ssä hyvää tasoa. Mutta tunnelman ja
+sellaisen kanssa itärannikolle sijoittuva Fallout 3 vetää omassa
+painotuksessani pidemmän korren. Ero on samanlainen kuin Grand Theft
+Auto -pelisarjan pelien välillä. GTA: San Andreas saattaa olla
+/toistaiseksi/ sarjan monipuolisin peli, mutta Vice City tai GTA IV
+vievät tunnelmassa ja kokemuksessa. Maun mukaan; Vice City ainakin
+henkilökohtaisesti on kutkuttanut runsaasti nämä viime vuodet.
+
+Fallout 3 on sopivan sininen ja radioaktiivinen kokemus, ja pidän sen
+hyvästä musiikkivalikoimasta NV:tä enemmän. Mutta kolmonen on pelattu
+täysin läpi (GOTY (Game Of The Year) Edition), on New Vegasin aika.
+Mikä erinomaisinta, NV:lle on luvattu erinomainen wine-yhteensopivuus.
+Koodi on muutenkin teknisesti parempaa -- jo konsoliversioissa sen
+näin ja haistoin. Kolmonen jumiutuu sangen ikävästi milloin mihinkin.
+New Vegas on aina ollut sulavampi kokemus. Uuden raudan kasattuani
+NV:n pitäisi putkahtaa postiluukusta sisään ja riemu olkoon rajaton.
+
+Joutomaalla kelpaa selailla ja tutkiskella nyt kun pitäisi speksien
+puolesta olla ihan pelikelvollinen elämys luvassa. Ainut oikea tapa
+kerätä tunnelmaa on FPS. Syksyn kuuma odotus, eli Wasteland 2, on
+epäilemättä superhyvä, mutta en valitettavasti kykene odottamaan siitä
+yhtä tunnelmallista kokemusta kuin näistä isommista peleistä. Kyse on
+eläytymisestä: toki top-down -peleissäkin osaan eläytyä, mutta FPS tuo
+sen parhaiten silmille.
+
+Parhaat eläytymiset kyllä tulivat, kun Fallout 3:lla aloittelin
+PS3-konsolilla silloin muinoin. Pelikäyttöliittymän hienot kikat
+olivat pimennossa ja suunnistelin Arefulle sitten ilman kummempia
+ohjeita. Tehtävänä oli suunnistaa itään ja se oli kyllä erinomaisen
+tunnelmallinen päiväretki. Myöhemmin kun opin, että kompassista näkee
+päätehtävää parhaiten edistävän ilmansuunnan, alkoi peli nopeasti
+rutinoitua. Alussa oli selviytyminenkin tyylikkään haastavaa, ja
+jokainen kohtaaminen raiderien kanssa tuotti pientä haastetta. Tämä
+hävisi sekin nopeasti. Ehkä nyt aloitan suoraan pelin vaikealla
+vaikeustasolla.
+
+** Jatkokehityksiä
+
+New Vegas on likipitäen täydellinen peli sekin, mutta tuo /auto
+travel/ on iso tunnelmansyöjä. Täydellinen kokemus olisi ollut tuoda
+Half-Life 2 -henkiset ajoneuvot ja kustomoidut kirput areenalle.
+Niillä olisi päässyt päristeltyä nopeasti, mutta polttomoottori melu
+olisi toisaalta karkottamassa pienempiä elukoita ja houkuttelemassa
+isompia paikalle. Olisi jännitystä matkanteossa sitten.

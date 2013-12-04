@@ -1,0 +1,61 @@
+* DONE Faster Than Light 2                                  :pelit:roguelike:
+CLOSED: [2013-04-02 Tue 12:20]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-02 Tue 12:20]
+:END:
+
+Faster Than Light on hykerryttävän mukavaa avaruuskikkailua, jota
+onpi myös roguelikeksi haukuttu. Tästä arvonimestä on käyty
+keskustelua: onko se aivan paikkansapitävä genre tälle pelille.
+Minulle ainakin tulee avaruus-roguelikesta ensin mieleen jotain
+hieman muuta, mutta kun peliä pelaa tarpeeksi, on myönnyttävä
+antamaan rogueliken arvokas genrelappu tällekin.
+
+** Millä tavoin FTL on roguelike?
+
+Roguelikessä tarvitaan aina yksi ohjattava hahmo. Ensin mietitytti
+se, että mikä on FTL:n tapauksessa se hahmo. Aluksen miehistö
+vaihtuu ja menee, mutta näkymätön kapteeni ja itse alus säilyvät.
+Alus, tai sen näkymätön kapteeni, on tämä hahmo. Muita havaintoja,
+jotka mielestäni kuvaavat roguelikeihin:
+
+- Satunnaiselementit tietenkin.
+- Satunnaisuudesta huolimatta alati kehittyvä taito päästä
+  eteenpäin.
+- Strateginen taktikointi satunnaiselementtien edessä.
+- Hyvien aseiden satunnainen ilmaantuminen.
+- Minitehtävät (lievästi) vapaalla valinnalla.
+- Lopputaistelu kuuluu henkeen.
+
+** Faster Than Light 2
+
+FTL on selvästi suunniteltu raikkaalla ranteella, eikä välttämättä
+poikien ideana ollut koskaan tehdä lopullista Nethack-in-space
+-spektaakkelia. Minä sen sijaan voisin maksaa seuraavat 9 euroa
+hyvin samanhenkisestä pelistä, mutta jossa roguelike-elementtejä
+on viety vielä pidemmälle:
+
+- Avaruudesta kokonainen sektoripohjainen taso, josta mikään
+  vanha paikka ei häviä ja uutta generoidaan entiseen malliin
+  tarvittaessa, kuten nytkin. Lopputaistelun käymällä peli kyllä
+  loppuisi, mutta ei välttämätöntä, tyyliin ADOM.
+- Varastoinnilla uudenlaista merkitystä. Ehkä romumetallin sijaan
+  haaksirikoista löytyisi enemmän sekalaista sorttia roinaa, jolla
+  on massa, ja alus ei jaksa kuljettaa loputtomia määriä.
+  /Scrappi/ voisi silti toimia valuuttana kuten kulta Nethackissa.
+- Kaupankäynti edellisen nojalla hieman oleellisemmaksi: vapaus
+  myydä kaikkea ja suorittaa vaihtokauppaa. Eri kauppiaat
+  tarjoavat eri hintoja ja onnekas pelaaja voi tienata vaikka
+  ohjuskaupalla ylimääräistä taskunpohjalle.
+- Questit kuten ennen, mutta avoimemmin määriteltyjä. Koska
+  pelitaso voi nyt sisältää vapaammin taaksepäin mentäviä alueita,
+  voivat erilaiset tehtävät saada uudenlaista luonnetta.
+- Helppo vaikeustaso veks. Nyt pelaajat tietävät, mitä odottaa.
+  Lisäksi alus voi aina palata aiemmin selatuille vesille, jossa
+  on suhteellisen turvallista korjailla alusta ja odotella
+  parantumisia.
+- Alusta voi myös vaihtaa jollain sopivalla planeetalla toiseen
+  välirahalla tai ilman: riippuu kovasti asennetuista
+  virityksistä.
+- Roguelikeille oleellinen /iron man/ -moodi tulee tietenkin
+  säilyttää, ja satunnaiselementtien suuri varianssi samoiten.

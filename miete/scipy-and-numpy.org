@@ -1,0 +1,41 @@
+* DONE Eli Bressert: Scipy and Numpy (O'Reilly)      :python:kirja:arvostelu:
+CLOSED: [2013-06-06 Thu 18:52]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-06 Thu 18:52]
+:END:
+
+O'Reillyn blogiohjelmasta ilmaiseksi saamani kirja *Scipy and
+Numpy* (Eli Bressert) kuulosti alkuvaiheessa erinomaiselta
+kirjalta, erityisesti kun aloitin niin hienosti sillä Wes McKinneyn
+[[http://progo.viuhka.fi/mietteet/597/wes-mckinney-python-for-data-analysis-oreilly][Python for Data Analysis]] kirjalla aikoinaan. Mutta Scipy and Numpy
+ei toimi jatko-osana, eikä toisaalta myöskään aloittelijoille
+sopivana pakettina.
+
+Hyvät lähtökohdat kirjalle karisivat hyvin nopeasti pois, kun sain
+käsiini ensimmäisen painoksen kirjaa viime joulukuussa. Paketista
+paljastui vain 60-sivuinen paketti hyvin pinnallista esittelyä
+kahdesta mainitusta kirjastosta. Muutenkin pani vähän jäihin koko
+esitys minut. Tässä puolen vuoden aikana on kuitenkin tehty useita
+korjauksia tähän työhön, ja nyt tämä neljäs versio on hionut
+useimmat ongelmat pois.
+
+Monia haasteita esimerkiksi koodiesimerkkien valinnassa tuntuu
+hävinneen -- ja hyvä näin -- mutta työ on edelleen liian
+pinnallinen toimiakseen edes aloittelijoille. Numpylle ja Scipylle
+on molemmille varattu noin 25 sivua ja lopuksi on 10-sivuinen
+näytös SciKit-paketista. SciKit ei ollut ennestään tuttu, mutta ei
+se tämän kirjan myötä sen enempää auennut. Esimerkit ovat kaikessa
+värikkyydessään riittämättömiä avaamaan kirjastojen
+käyttötilanteita, ja Bressert ei ole kyennyt selittämään niitä
+proosassa sen paremmin. Tosin hyvin harva pystyykään 70 sivussa.
+
+Uudistetussa painoksessa on otettu jonkin verran numeeriseen
+laskentaan painottuvaa tavaraa, ja se on tavallaan ihan jees.
+Lopussa esitellään ryhmittelystä ja esimerkkejä avataan tietysti
+jonkin verran. Kirja on painoksissaan hioutunut kyllä hyvään
+suuntaan, mutta se on edelleen oleellisesti vain kokoelma
+annotoituja koodipätkiä. Aloittelijan lähtöteokseksi kamalan huono
+pinnallisuuden takia. Korkeintaan voisi suositella niille
+aloittelijoille, jotka tarvitsevat jonkun isomman kirjan tueksi
+vähän vaihtelevia esimerkkejä. Ei sillä, että ne /vaihtelisivat/
+tämän kirjan puitteissa, mutta johonkin muuhun kirjaan nähden.

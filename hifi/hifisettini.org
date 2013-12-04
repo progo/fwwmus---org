@@ -1,0 +1,137 @@
+* DONE Hifisettini                                                     :hifi:
+CLOSED: [2013-04-08 Mon 18:03]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-08 Mon 18:03]
+:END:
+
+Hifisetistäni lyhyt katsaus ja historiikki.
+
+** Kuulokkeilla tähän päivään saakka
+
+Kaikki alkoi vuonna 2007, kun päädyin siirtymään täysipäiväiseksi
+linux-käyttäjäksi. Samassa rytäkässä päätin ostaa uutta rautaa,
+joihin kuului sitten Sennheiser HD595 -kuulokkeet.
+
+[[http://cdn.head-fi.org/c/c1/c1a84709_vbattach22924.jpg]]
+
+Tämä avasi silmäni oitis. Hyvässä äänessä on niin paljon
+potentiaalia tarjota nautintoa ja elämyksiä kaikelle sille
+musiikille ja sisällölle, joka on jo ennestäänkin niin kivaa.
+En ole siitä päivästä alkaen edes katsellutkaan kaiuttimia, sillä
+kuulokekuuntelussa on useita ilmiömäisen hienoja ominaisuuksia:
+
+- volat kaakkoon vaikka yöstä, ei varmasti naapurit häiriinny
+- halvalla saa hyvää ääntä
+
+** Ensimmäiset päivitykset
+
+Nälkä kasvoi syödessä, ja ostin vahvistimen senkkujen kaveriksi
+miltei oitis. Tämä vahvistin oli Corda Audion Arietta. Ei mennyt
+montaa kuukautta, kun upgreidasin Sennheiserin HD650
+-kuulokkeisiin pienen vertailun jälkeen. Vastassa olivat HD600:t,
+ja HD650 oli melko selvä valinta mukavan pehmeän soundinsa takia.
+
+Sitten päivitinkin lähdepuolta, eli äänikortti muuttui kehutuksi
+ESI Juli@ -kortiksi. Linux-puolen ajureissa ei ollut kyllä
+lainkaan kehumista, joten se vaihtui sitten aikanaan
+vastaavaspeksiseen M-Audio Delta 192 -korttiin.
+
+** Kohti unelmia: Stax
+
+Suurena [[http://www.head-fi.org]] -vierailijana heräsi kiinnostus
+Stax-kuulokkeita kohtaan, ja ostin silloisen peruspaketin 2020
+käytettynä Briteistä.
+
+Perhana vain, kun tämä Stax 2020 -setti (a.k.a. Stax Basic tai
+SR-202 -kuulokkeet + SRM-121 -vahvistin) antoi kunnolla kyytiä
+HD650+Arietta -yhdistelmälle. Senkut tarjosivat tasavahvaa
+suoritusta, mutta Stax antoi loistaa ilmavuudella ja hyvällä
+bassolla useammin kuin kerran.
+
+Pitkään pyörittelin molempia, mutta olen pohjimmiltaan yhden setin
+mies. Sennheiserit ja Arietta lähtivät uusiin osoitteisiin.
+
+** Isoa hifiä: ECD-1 ja K1000
+
+Kunnollinen lähde tuli seuraavaksi. Amerikasta asti rahdattu
+Electrocompaniet ECD-1 on mitä esteettisin, kaunissointisin ja
+hienoin osa hifisettiäni. "Hulvattoman hyvä dacci", sanovat
+suomalaiset [[http://www.hifiharrastajat.org/foorumi/forum.php][hifiharrastajat]]. Ensimmäinen maailmanluokan hifilaite.
+
+Pienen ja nautinnollisen hiljaiselon jälkeen päätin ottaa härkää
+sarvista ja ostaa maailmanluokan kuulokkeetkin. Valinta ei ollut
+kamalan vaikea tekemieni ekstrapolointien kanssa. AKG K1000
+saksasta tuli 860 euron hintaan napsattua.
+
+Ja voi veljet! Tämä on oikeasti maailmanluokan laite. Se äänikuva.
+Se tarkkuus. Se luonnollisuus. Se helppous. K1000 vahvistetaan
+isolla virralla, joten kaiutinvahvistimet tulevat kyseeseen. Niitä
+saa helpommin ja usein edullisemmin. K1000 antoi oitis kuulla,
+että nyt ei kuunnella toisarvoisia settejä. Staxeilla ei ollut
+mitään toivoakaan pärjätä taistelussa. Jopa /hinta-laatu/
+-suhteessa K1000 vie Staxia.
+
+Ja vahvistimena oli ensin nurkassa pölyttynyt Technics SA-120
+-viritinvahvistin. Yllättävän hyvin se puski ääntä pihalle, ei
+siinä. Ostin kuitenkin Marantz PM-80 -vahvistimen pienen etsinnän
+jälkeen. Ja tämä setti, eli Electrocompaniet -- Marantz -- K1000,
+on palvellut siitä lähtien. Ja palvelee tälläkin hetkellä.
+
+
+** Sivuraiteita
+
+Muutama sivuraide on tapahtunut. Electrocompaniet ei voinut hyvin,
+ja minulla oli melkein vuoden ajan käytössä DIY-mallinen "Audio
+Labs" -dacci, kunnes kunnostauduin ja postitin rakkaani huoltoon.
+Tämä Audio Labs oli kyllä todella mainio vekotin äänenlaadultaan,
+mutta ECD-1 vei.
+
+Sitten tulin ostaneeksi Bel Canto DAC3 -dacin, joka oli vuosia
+sitten unelmieni kohteena. Sain testattua sitä Electrocompaniettia
+vastaan, ja tilanne oli kyllä sikäli ikävä, kun Bel Canto voitti
+tarkkuudessa ja tyydyttävässä teknisessä suorituksessa. Mutta se
+oli vastaavasti liian nirso musiikkiani kohtaan. Useat levyt
+soivat huonommin kuin sopisi. Monet huonosti äänitetyt levyt
+saivat ikävää, muovista makua sointiin. Joskus pahempaakin. ECD-1
+toimii orgaanisemmin ja anteeksiantavaisemmin. Se lopullinen
+kompromissi, kaiketi. Bel Canto sai mennä.
+
+Myös kuulokkeita on tullut kokeiltua, mutta ei koskaan korvaamaan
+K1000:tta. Ensin huvikseni kypäräkuulokkeet, Ergo 2:t, joissa on
+hauska ja supertarkka ääni. Enemmän detaljia kuin K1000:ssani!
+Yllättävänä sattumana myös maailmanluokan kuulokkeiksi
+luokiteltava Ergo AMT tuli vastaan, ja ostin senkin sitten
+kokeiluun. Se oli kerrassaan hykerryttävä kokemus kaiken
+ongelmansa kanssa. Ei jäänyt taloon.
+
+Staxeista alkaen tarve perinteiselle kuulokevahvistimelle on
+hävinnyt, mutta silti ostin Corda Operan, kun sellaisen kerran
+spottasin edullisesti. Opera ja Grado on aivan uskomaton
+yhdistelmä hyvää ja dynaamista paukkua, mutta en saanut samaa
+kokemusta enää replikoitua muutettuani Outokumpuun tai
+myöhemminkään. Päädyin myymään Operan rahoittaakseni muuttoani
+Joensuuhun.
+
+** Mitä tulossa?
+
+Päivittelyssä on nyt se ongelma, että parannukset systeemiin
+maksavat todella kovasti. Unelmalaitteet liikkuvat korkeissa
+lukemissa. Niihin lukemiin pääsee kyllä, kuulokkeista kun
+puhutaan, reilun vuoden säästäväisellä työskentelyllä. Mutta ei
+näin opiskelijana -- ei päästä.
+
+Vahvistinta olisi kiva uusia. Parhaat K1000-kumppanit ovat
+ongelmallisia energiatuhlaavaisuuden kanssa. Ei se sähkö niinkään,
+mutta 170 wattia hukkalämpöä alkaa tuntua yksiössä. Firstwatt F1
+on kyseinen laite. On muitakin hyväksitodettuja yhdistelmiä, että
+ehkä joku niistä sitten aikanaan.
+
+DACcia ei noin vain uusita. Unelmalaitteet, Wadiat, maksavat
+mansikoita. Sen sijaan kokeilut (kuten tuo Bel Canto) voivat
+johtaa henkilökohtaisten mieltymysten kanssa yksiinosumista
+samassa hintaluokassa. Ehkäpä kokeilen sitä Benchmark DAC-1:tä
+jossain vaiheessa.
+
+Ja kuulokkeitakin olisi kiva kokeilla, mutta se on aika kallista
+puuhaa ostella ja myydä. Lotossa voitettuani voisi Stax SR009
+-setti tehdä hyvää. Ja Sony MDR-R10.

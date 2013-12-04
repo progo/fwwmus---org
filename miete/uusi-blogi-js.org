@@ -1,0 +1,64 @@
+* DONE Uusi blogi käyttää JavaScriptiä                              :js:blog:
+CLOSED: [2013-02-09 Sat 18:54]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-02-09 Sat 18:54]
+:END:
+
+Uusi blogi se sitten tulee käyttämään muutamaa JavaScript-kirjastoa
+apunaan, ja osa teistä lukijoista on varmasti tyrmistyneitä tästä
+löydöstä. Olenhan aina ollut kovasti JS-sivustoja vastaan, ja hypin
+jatkossakin seinille, jos jokin sivu vaatii JS:n aktivointia pelkän
+sisällön lukemiseksi.
+
+Javascriptillä tehdään nykyään aivan liikaa asioita. Jotkin
+kirjastot, kuten Googlen webfontit tai LESS-CSS saavat näkemään
+punaista, koska ne eivät aina tarjoa kunnollista fallbackia
+kaikille muille selaimille. Vielä viisi vuotta sitten saattoi
+käyttää mobiiliselainkortin, mutta nyt niissäkin perkeleissä on
+kunnolliset JS-toteutukset.
+
+Kaikkein vähintä, mitä rikasta ja dynaamista toiminnallisuutta
+tuova JS-kirjasto voi tehdä, on tarjota toimintonsa
+destruktiiviseen tyyliin. Ensin tuodaan puhdas HTML näytille,
+/sitten/ aktivoidaan ladattu JavaScript-kikkare ja se manipuloikoon
+DOMia niin paljon kuin mielensä tekee. Ei mitään sellaista, että
+HTML näyttää tyhjää sivua ilman JS-tukea.
+
+** Mitä tämä blogi sitten tarvitsee?
+
+Joskus on otettava käytännönläheinen asenne asioihin. Jotta voin
+pitää blogirakenteen staattisena, pitää minun joko keksiä joitain
+huonoja kommentointiratkaisuja tai hylätä kommentointi kokonaan
+pois. [[http://disqus.com][Disqus]] on ehdottomasti huonoista kommentointiratkaisuista
+vähiten huono, ja se integroituu kivasti systeemiin. Disqus ei
+edellytä mitään kamalaa JS:ttömiltä käyttäjiltä. Kommentointia ei
+tosin tule tyhjästä, mutta en koe kommentointia niin oleellisena
+asiana blogille, että asia huolettaisi. Enkä myöskään koe
+joustavani liikaa periaatteistani. Sivustoa kyllä luetaan
+jatkossakin ilman JS-tukea, sen voin taata.
+
+Joskus JS tarjoaa ratkaisuja, joita ei yksinkertaisesti voi muuten
+tehdä, vaikka olisi miten hienoa tekniikkaa takana. Tai, tietysti
+aina voi, mutta olisi saman pyörän uudelleenrakentaminen
+palvelinpuolelle likimain järjetön urakka. Puhun nyt suunnattoman
+laajasta [[http://www.mathjax.org/][MathJax]]-kirjastosta, joka tekee TeX-koodin
+matikkaosuudesta aika lähelle täydellistä ladontaa. Edellinen blogi
+käytti DVIPNG-menetelmää oikean LaTeX-systeemin käyttämiseksi,
+mutta PNG-kuvat eivät ole ainakaan esteettisiä siellä seassa.
+
+Systeemit olen saanut konfiguroitua siten, että org kirjoittaa
+vanhanmalliset DVIPNG-kaavat blogiin, ja MathJax korvaa ne
+png-kuvat dynaamisella koodilla päästyään vauhtiin. Näin olen
+saanut tyydyttävän fallbackin aikaan tällekin ongelmalle.
+
+** Loppuhuomioita
+
+JavaScript ei ole läpeensä turha keksintö, mutta sitä käytetään
+rikollisen paljon väärin ja tyhmästi. Dynaaminen sisältö ei
+itsessään ole roskaa, mutta erityisesti Ajaxin tultua kuvioihin
+sonta on vallannut maailman. Web-design ei ole entisensä. Toivon,
+että nämä JS-ratkaisut omassa blogissani eivät asetu kenenkään
+esteeksi, ja jos asettuvat, ilmoitathan minulle vaikka
+sähköpostitse (oletushan on, että Disqus-lomaketta ei
+js-rajoitteisille tähän alle ilmaannu) ja voimme katsoa asian
+läpi.

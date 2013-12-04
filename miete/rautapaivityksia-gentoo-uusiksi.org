@@ -1,0 +1,64 @@
+* DONE Rautapäivityksiä ja Gentoo uusiksi                      :rauta:gentoo:
+CLOSED: [2013-06-15 Sat 13:10]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-15 Sat 13:10]
+:END:
+
+Sain hyvän tilaisuuden vaihtaa AMD-setistäni takaisin Inteliin.
+Uusi hirviö on tarunhohtoinen *Core i5 2500k*, josta ihmisillä on
+vain hyvää sanottavaa. Siihen kaveriksi 8 gigaa muistia ja Asus
+[[http://www.asus.com/Motherboards/P8Z68V/#specifications][P8Z68-V]]-emolevy. Pitäisi olla kaikki reilassa. AMD-linjalta
+eroamisen ei pitäisi tuottaa ikävää.
+
+** Kivaa rautaa
+
+Intelin tuotteet ovat Sandy Bridgestä lähtien olleet melkoisen
+ylivertaisia AMD:n tuotteisiin nähden. AMD onkin ilmoittanut
+luovuttaneensa high end -prosessorien kanssa kilpailun. Moni
+ongelma vaivaa AMD:tä, ja se näkyy Intelin voittokulussa ja
+hintalapuissa.
+
+Nykypäivän AMD:n huippumallissa olisi peräti 8 hyvää ydintä ja
+sikäli kun käytettävät ohjelmat säikeistyisivät tarpeeksi hyvin,
+saisin nykysettiini noin neljä kertaa paremman suorituskyvyn.
+Intelin vahvuus on todella hulppeassa per-ydin -suorituskyvyssä,
+joka tietenkin näkyy erityisesti peleissä ja muissa
+yksisäikeisissä sovelluksissa. Saan AMD:n prosessorin hinnalla
+käytetyn ja valmiin setin, jossa on kaikenlaista hyvää. Ja
+sähköäkin syö vähemmän, ja 2500k kellottuu julmasti.
+
+Emolevykin on mukava parannus entiseen. USB 3 ja toinen 16x
+PCI-e  -portti auttaa tutkimaan. Intelin piirisarjoissa ei
+pitäisi olla mitään ongelmia.
+
+Näin se tapahtuu. En ole minkään prosessorileirin kannattaja tai
+fani, vaan AMD on ollut aiempina vuosina hinta-laatusuhteeltaan
+niin erinomaista. Suoritinhistoriani (486, Pentium, Athlon XP,
+Athlon X2, Phenom II X2) saa pompun takaisin Intelin puolelle,
+mutta jos uutta tavaraa joutuisin ostamaan, tuskin olisin.
+
+** Gentoo uusiksi 7 vuoden jälkeen
+
+Koska Intelin mikro-optimoinnit eroavat hieman AMD:n vastaavista
+ratkaisuista, on viisainta kääntää Gentoo kokonaan uusiksi. Samalla
+pääsen vaihtamaan 64-bittiseen puoleen. Asia, joka ei ollut kamalan
+ajankohtainen vuonna 2006, kun asentelin tämän nykyisen
+Gentooasennukseni. Kamala, kun tämä pysyykin hyvin pystyssä! Ja
+nyt kaikesta viisastuneena tuleva asennus tulee pysymään entistä
+pidempään pystyssä. Turhat pelleilyt Gnomen ja KDE:n kanssa jäävät
+pois. Suoraan Xmonadiin.
+
+"Ja puhtaalta pöydältä kun lähdetään, miksi Gentoo?", kuulen
+kysyttävän. Kieltämättä, Arch Linux on ollut mielessäni vähän
+aikaa: heillä on erinomainen ja nykyaikainen ote dokumentointiin
+ja käyttäjäyhteisöihin. Mutta hyvät, ellei erinomaiset kokemukset
+Gentoon kanssa pitävät minut täällä leirissä. Oleellisesti Archin
+ja Gentoon välillä ei ole kuin makuasioiksi luokiteltavia eroja,
+joten pysyn samassa maussa toistaiseksi.
+
+Koska Gentoo tuntuu pysyvän hyvin pystyssä, aion panostaa tähän
+puhtaan pöydän asennukseen ja välttelemään olemassaolevia
+konffeja, ainakin näitä eniten systeemiin vaikuttavia sellaisia.
+Tulen luultavasti kirjailemaan jonkinlaista asennuslogia ja nyt on
+paras hetki antaa palautetta ja ehdotuksia asioista, joita
+haluatte logista lukea. Teillä on noin viikko aikaa.

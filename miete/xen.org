@@ -1,0 +1,85 @@
+* DONE Xen-virtualisointi suoravälitteisellä raudalla         :rauta:pelailu:
+CLOSED: [2013-07-11 Thu 16:14]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-07-11 Thu 16:14]
+:END:
+
+Jostain se vain tuli mieleeni, ja ajattelin irkissä ääneen:
+"Olisipa se hienoa, jos jonain päivänä virtualisointisovellukset
+osaisivat antaa vieraskoneelle suorat yhteydet isäntäkoneen
+rautaan, niin pääsisi pelaamaan sammuttamatta linux-isäntää". Ja
+yhtä nopeasti tuli vastaus: "se on mahdollista; hyvin, hyvin
+mahdollista."
+
+Xen ja PCI-passthrough on taikasanasto, jolla tämä tavoiteltu tila
+saavutetaan. [[http://www.youtube.com/watch?v=L_g7ZBMWoLk][Youtubessa]] on hyvin vakuuttavia esitelmiä aiheesta.
+Valitettavasti myös raudalta vaaditaan joitain vähemmän tuettuja
+kikkoja; Intel on esimerkiksi hyvin ilkeästi jättänyt
+markkinapoliittisista syistä tarvittavan /VT-d/ -tuen pois
+tehokäyttäjille myytävistä prosessoreista. VT-d -tuki siis maksaa
+oleellisesti helpon kellotettavuuden, mutta eihän se loppupeleissä
+iso menetys ole. Myös emolevyltä vaaditaan jotain, joten molemmat
+uusista komponenteistani menevät Xen-päivityksien myötä vaihtoon.
+Ei tapahdu tosin aivan heti: kesää ja työtä on jäljellä vain reilun
+kuukauden ajan, joten tässä pisteessä on turha enää innostua. Nämä
+ideat ajattelin haudutella ja ottaa vuoden päästä kesällä käyttöön,
+jahka gradu on valmistumaan päin. Tai jotain.
+
+Tämä Xen-vaihtoehto oikein toimiessaan takaisi kaiken halutun
+Windows/Linux -toiminnallisuuden, josta olen haaveillut aina
+pelaillessani enemmän. Dualboottaus on työlästä ja nostaa kynnystä
+niin paljon, että sitä ei tulisi harrastettua kovin usein. Wine on
+wine: toimii silloin kun toimii. Vaikka tulokset ovat hyviä
+esimerkiksi Civilization V:n ja Falloutin kanssa, en halua käyttää
+viihteeseen tarkoitettuja tunteja epävakaaseen pelattavuuteen tai
+puutteelliseen kokemukseen. Kaikenlainen häslääminen Steamien ja
+wineprefixien kanssa jää pois, kun alla on oikea Windows.
+
+Suurin kysymys taitaakin olla: onko Xen-vieraana toimiva Windows
+sitten oikeasti vakaa ja luotettava peli? Voin ottaa pienet hitit
+tehokkuudessa, jos vakaus ja yhtenäinen pelikokemus säilyy. Entä
+isäntäkäyttis? Ottaako Gentoonikin Xenin myötä teho-osuman
+silloinkin, kun vieraat ovat nukkumassa?
+
+Edelleen kaunein ajatus olisi hankkia dedikoitu pelitietokone,
+mutta mikä kamala rahanhukka sekin on. Koska haluan myös
+linux-käyttöni sujuvan sulavasti. Puhumattakaan ylläpidon määrästä
+ja niin poispäin. Olin vanhassa blogissani pohtinut sitä ajatusta
+dualbootista ja erillisestä työpalvelimesta, mutta se ei koskaan
+ottanut tuulta alleen. Se karsiutui erityisesti huonohkoon koppaan,
+jonka onnistuin ostamaan. Voisin päästä tässä kaikessa voitolle
+monella tavalla, ja kenties "fiksuin" tapa olisi jättää Xen omaan
+arvoonsa: Xen voi tarjota 99-prosenttisen Windows-kokemuksen
+virtualisoituna, mutta voinko ikinä pelin tiltatessa luottaa
+siihen, että Xen ei aiheuttanut kaatumista.
+
+Sanotaanko näin, että jos saan siirrettyä tietokoneeni
+keskusyksikön vaatekaappiin hurisemaan, niin potentiaali
+kunnollisen palvelimen hankkimiselle kasvaa sitten rajusti.
+Lähiverkkoisen SSH:n yli tehtävällä X-hurjastelulla saa aika paljon
+aikaan pysyvyyden ja sen sellaisen kanssa. Luultavasti hyötyisin
+näin eniten. Toisaalta Xen toisi kaiken niin hyvässä paketissa, jos
+vain uskoo tuon PCI-läpiviennin toimivuuteen. Ja pitäisihän siihen
+hittolainen uskoa. Xen on iso nimi virtuaalimarkkinoilla ja tuo
+PCI-läpivientikin on vuosia vanha tekniikka.
+
+** Uusia mietteitä hautomosta (kaksi päivää myöhemmin)
+
+Ensimmäiset ajatukset Xenistä tietysti liikkuivat siellä "liian
+hyvää ollakseen totta" -linjalla. Dualbootissa on silti se mahtava
+määrä ongelmia ja sitä rataa. Jos noihin youtubettajiin on mitään
+luottoa, niin Xen on riittävän vakaa, kunhan raudan valitsee
+oikein.
+
+Xenissä on sekin hyvä puoli, että voi hyvillä mielillä panna vähän
+potkua rautaan. Isompi koppa ja tilaa työskennellä. Uudet 3770-
+tai 4770-prosessorit tulille ja ehkä näyttikseksikin jotain
+komeata. Työstä riippuen jopa Extreme-mallit [käytettynä] voisivat
+olla listalla. Viimeisen päälle kovantasoinen Xen-setti koostuisi
+kahdesta näytönohjaimesta, jolloin minulla voisi olla
+samanaikaisesti linuxia ja windowsia ruuduilla. Ei mahdotonta, kun
+monissa näytöissä on hyvät lähdevalitsimet.
+
+Mutta nämä asiat jäävät toistaiseksi vain hautomoasteelle. Ennen
+kuin tulee kunnollisia töitä ilmoille, jään vain hiljalleen
+vahtimaan hyviä diilejä 3770-prosessoreista ja vastaavista.

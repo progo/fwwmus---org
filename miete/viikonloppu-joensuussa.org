@@ -1,0 +1,78 @@
+* DONE Viikonloppu Joensuussa                                        :asunto:
+CLOSED: [2013-03-17 Sun 21:46]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-03-17 Sun 21:46]
+:END:
+
+Eilen lauantaina sitten muutin Outokummusta Joensuun ruutukaavalle
+ja nyt sitä mietitään teon kaikkia implikaatioita. [[*Joensuuhun hinnalla millä hyvänsä][Edellisessä
+postauksessa]] tuumailin joitakin alkuoletuksia asialle. Ne oletukset
+liittyivät ensinnäkin kovasti joihinkin löytämiini teknisiin
+haasteisiin. Haasteita on muunkinlaisia.
+
+Naapurihäly on nyt pidemmän oleilun perusteella selvinnyt ihan
+kohtuulliseksi. Lauantai-ilta sujui verraten rauhallisissa
+merkeissä. Myös näin sunnuntai on ollut mukava. Naapurien
+kovaääninen jutustelu liittyy nähtävästi huoneiston avonaisiin
+oviin samalla tavalla kuin Outokummussa. Harmi vain, että täällä
+minulla ei ole valtaa sulkea kaikkia ovia -- niitä kun ei ole.
+
+Keskustassa on mukava olla, ja tämä nurkka ruutukaavaa tuntuu
+olevan rauhallisempaa. Pahalta kuulostaa tuossa ruutukaavaa jakavan
+Koski- ja Siltakadun kupeessa. Tämä on rauhallisempaa aluetta ja
+torille on silti huisin lyhyt matka. Bussikorttiakin on reilu
+viikko jäljellä, joka pitänee käyttää lähiliikenteessä.
+
+Jääkaappi (Rosenlew) tuntui levinneen, mutta onneksi äidin
+jääkaappi palvelee 15 minuutin bussimatkan päässä. Ja onpa
+taloyhtiöllä kylmävarastokin, jonka 4 celsiusasteen lämpötila
+riittää oivasti vastaamaan jääkaappioloja. Vuokraisäntään otan toki
+yhteyden heti kun vastaa puhelimeen.
+
+Asunto on Outokummun asuntoa kuivempi ilmaltaan: ehkä täällä
+ilmankierto pelaa tai jotain muuten. Tuntuu ja haisee hyvältä.
+Suihkusta tullessa iho kuivaa todella vauhdikkaasti ja teevesi
+höyryää kovasti. Staattinen sähkö vaivaa paikoittain kovasti.
+
+Ja niin, se suihku. Tässä asunnossahan on ensisijaisesti kylpyamme
+ja suihku tuntuu hieman hankalalta näin kahden suihkuttelukerran
+jälkeen. Kylpyhuoneen seinät ja lattia ovat jonkintapaista muovia
+kaakelin sijaan, ja kaikkien saumojen vedenpitävyydestä en ole
+satavarma. Onko tässä opeteltava kylpemään ammeessa, ettei homeesta
+tarvitse ruveta kärsimään tai maksamaan. Se tuntuu niin kovin
+hitaalta suihkuun verrattuna.
+
+Nettiyhteyttä ei ole vielä asennettu, mutta mokkuloita on
+kokeilussa ja lainassa monella tavalla. Huawein 3xxx-sarjalainen
+(DNA) ei tunnu toimivan VirtualBoxissa eikä vanhassa Lubuntussa,
+mutta Huawein E1820 toimii Lubuntussa. Harmittavasti ei Gentoon
+kautta VirtualBoxissa... Ja Gentoohon itseensä ei huvita lähteä
+konffailemaan kaikkien koulutehtävien ja muiden juttujen lomassa.
+Vaan tosimieshän blogaa vaikka ilman Internetiä.
+
+** Palvelu pelaa (päivitystä seuraavana maanantaina)
+
+Jääkaapista ei tullut kalua, mutta mikä nopeus palvelussa!
+Sunnuntaina en saanut yhteyttä vuokraisäntään, mutta hänellä
+taitaakin olla jonkinlainen sunnuntaimoodi puhelimessaan. Tänään
+maanantaina hän vastasi soittoihini ja puolessa tunnissa paikalle
+järjestyi elektroniikkamies. Ja tämän käynnin jälkeen tunnin
+päästä miehet olivatkin jo kantamassa uutta kaappia sisälle ja
+vanhaa pois. Nopeata!
+
+Edellinen asukas on ilmeisesti naarmutellut kaapin freonit
+pihalle, joten saan uuden kaapin. Lupasivat pyrkiä hoitamaan asian
+vielä tämän keskipäivän aikana. Herroiksi tässä elellään selvästi.
+
+** Rautakaupat ja Clas Ohlson
+
+Outokummun huoneasetelmassa riitti käyttää metrisiä HDMI-johtoja
+ja nyt vaihtelun vuoksi haluan kokeilla vaihtoehtoisia ratkaisuja.
+Ensimmäinen asia on tietenkin hankkia pitkä HDMI-johto
+mahdollistamaan asioita. Verkkokaupoissa piti olla halpaa, mutta
+lopulta taas paikallinen kivijalkaliike Clas Ohlson veti parhaat
+pisteet kotiin. Olisinhan minä voinut säästää pari euroa ja
+odottaa muutaman päivän, tai sitten kävellä viiden minuutin päässä
+olevaan liikkeeseen ja ostaa sieltä edullisia roinia.
+Jatkojohdotkin jakorasioineen lähtevät todella edullisesti. Clas
+Ohlsonista tulee minun /go-to/ -rautakauppani jatkossa.

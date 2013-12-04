@@ -1,0 +1,369 @@
+* DONE Hikinen iltapäivä: Gentoo uusiksi                       :rauta:gentoo:
+CLOSED: [2013-06-23 Sun 16:37]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-23 Sun 16:37]
+:END:
+
+Tämä on se pienimuotoinen asennuspäiväkirja 7-vuotisen
+Gentooasennukseni uudelleenasentamiseksi mahdollisimman puhtaalta
+pöydältä 64-bittiseen Intel-maailmaan. Kirjoitin tästä aiemmin
+[[*Rautapäivityksiä ja Gentoo
+uusiksi][muutaman alkusanan]] ja nyt seuraa puhtaaksi kirjoiteltu näkemys
+asioista.
+
+Tarina on kirjailtu pitkälti sitä mukaa kuin olen asioita tehnyt ja
+jaksanut mounttailla kotiosiot auki. Moni asia paranee
+jälkiviisastuttuaan, joten kirjailen sulkuihin asioita, miten ne
+oikeasti pitäisi tehdä.
+
+Mitähän alkusanoja tähän keksisi? [[http://www.gentoo.org/doc/en/handbook/][Gentoon käsikirja]] on edelleen
+yhtä priimatasoinen ja aloittelijaystävällinen kuin 7 vuotta
+sitten. Se tosin suosittelee tekemään asennuksen käyttäen Gentoon
+omia livekiekkoja, ja tässä kohtaa mielestäni pitäisi painottaa
+sitä vapautta valita asennusmediansa vapaavalintaisesti. En tiedä
+noista nykyisistä Gentoon livekiekoista (vain vuosimallia 2006
+oleva löytyy hyllystä), mutta Lubuntut sun muut sentään tukevat
+pysyvyyttä ja sallivat apuohjelmien asentelun sulavasti.
+
+** Perjantai 21.6. klo 10:21. 
+
+Vielä vanhassa systeemissä sisällä. Kahvia kupissa ja nälkä
+vatsassa. Etukäteen katselin joitain kernelikonffeja Gentoon
+wikistä: Nvidian ajurit esimerkiksi tarvitsevat MTR-tuen. Hyvähän
+se on sitten varmistaa, että tulee käännettyä ensimmäisellä
+kerralla.
+
+Gentoon uudistettu wiki tuntuu olevan ihan hyvässä kunnossa.
+Tavaran kirjoitan kotihakemistoni juureen (=~/LOG.txt= ja
+=~/KERNEL.txt=), koska kotihakemistoni on sentään omana osionaan,
+peräti kovalevynään. Jos ei olisi, kirjoittaisin muistiinpanojani
+sellaiselle osiolle, joka säilyy uudelleenasennusten yli. Jos ei
+sellaistakaan ole, niin luultavasti usb-tikku olisi seuraava
+valinta. Verkkopalvelutkin ovat vähän niin ja näin, jos verkko ei
+ole päällä. Tai X, mutta ssh:n ylitsehän me kaikki teemme.
+
+** klo 10:50
+
+Boottasin lubuntuun sisälle tekemään joitain tarkastuksia.
+Merkintä itselleni: boottiosio siirtyköön sdb2:sta sda2:ksi
+(sdb3:ksi, toim. huom.) ja swappi sda2:sta sda3:ksi. Nämä tietysti
+kannattaisi koodata fstabiin UUID:n avulla, mutta swapista en
+tiedä, onnistuiko se. Kah, pitäisi onnistua. Fstabissa tavara oli
+jo labeloitu "boot":ksi ja "swap":ksi, joten ongelmia ei pitäisi
+tulla. Grub ei tietysti labeleista niin välitä.
+
+Ja Lubuntu toimii hyvin sutjakasti SSD-USB -levylta.
+
+Kello alkaa olla pykälässä, eli 11:00. Pizzapaikka aukeaa ja
+toisaalta K-market on viela tunnin ajan auki. Käyn hakemassa
+margariinia kaupasta ja pizzaa pizzapaikasta. Sitten availlaan
+koppaa ja imuroidaan vähän.
+
+** klo 13:40
+
+Noin kahdentoista aikaan olin saanut ruokani nautittua ja
+aloitettua ruljanssin. Raudan vaihtaminen sujui kivutta, vaikka
+hieman hitaasti teinkin.
+
+Hieman emmin tuon jäähdyttimen kanssa: vakiojäähy vai OCZ
+Gladiator Max. LGA775-kama taisi mennä hyvin uudempien kantojen kanssa
+yhteen (ei mene). Koska minulla ei ole kuin huonoa tahnaa, en sitten
+valinnut vaihtaa sita jäähyä lennosta. Nyt on kuitenkin lubuntuun
+bootattuani luvut aika korkealla (Asus sanoo 97 astetta ja
+Lubuntu/tuore lm-sensors sanoo 60 astetta)... ehkä tahna on
+huonoa, ehka sensorien kalibrointi ei pelaa. Mistähän saisi oikean
+luvun?
+
+** klo 14:05
+
+Pakko todeta, etta myyjä on heittänyt huonot tahnat jäähyn väliin.
+lm-sensorin antavat luvut voivat hyvinkin olla oikeita, sillä ne
+nousevat kovasti Kraken-testeissä. Suljetaan ja tarkastellaan.
+
+** klo 15:40
+
+Aikani tapeltuani jäähyjen kanssa tulin siihen tulokseen, (ja nyt
+myos vahvistan taman googlauksin) että AM2/LGA775-kantaan
+suunniteltu OCZ Gladiator Max ei käy LGA1155:een. Laitoin omat,
+huonot tahnat ja uudelleenkiinnitin vakiojäähyn. Kovin huonohan se
+on kaikin puolin, mutta mita voin tässä vaiheessa tehdä...
+
+** klo 16:07
+
+Tässä vaiheessa on tullut selväksi, että Gladiator Max vaatii joko
+1155-sopivat kasauspalikat (OCZ ei niita valmista) tai sitten
+pitää ostaa uusi hyvä jäähy. CM Hyper on kuulema hyvä ja ihan
+edullinenkin, ja saastyisi tuolta Intelin ruuvikauhulta.
+
+Mutta nyt alkakoon Gentoon asennus.
+
+Roger Watersin "In The Flesh" -kiertueelta koostettu video
+pyörimään ja menoksi. Muita alkuvalmisteluja on tietysti asettaa
+Lubuntuun kaikki näytöt näkysälle ja mapata Caps Lock ESC:ksi.
+Vimistelyä varten. /All set, I guess./ Muutahan ei tarvita kuin
+sopiva versio Gentoo Handbookista (AMD64 viimein). Asennus
+tapahtuu Lubuntu 13.10:n kautta.
+
+** klo 16:30
+
+Käytännössä aloitetaan homma asennusoppaan luvusta 4 alkaen.
+Kaikki sitä aiempi on livekiekon säätöä ja lievästi miettien aika
+turhaa. Lubuntu tai joku muu helppokäyttöinen perusdistro sopii
+hyvin automaattisten verkkokonffien ja muun tauhkan kaveriksi.
+
+Levyosiointikin on kunnossa, pitää vain tyhjätä se. Ext4 vai XFS,
+siinäpä se kysymys. Valittakoon ext4. Alustettu ilman mitään
+erityisempiä flageja ja panin wgetin laulamaan uusimman
+stage3-tarballin kanssa.
+
+[[http://paste.nerv.fi/54154565-asennus.png]]
+
+** klo 17:10
+
+Tarball purettu; oppaan luvussa 5c menossa. Uusi ja tyhjä
+=make.conf= ammottaa edessäni: mitä ihmettä tähänkin nyt keksisi.
+Taidan lukea ajatuksella tuon oppaan suositteleman
+=/usr/share/portage/config/make.conf.example=-tiedoston. En
+tainnut lukea sitä silloin 7 vuotta sitten, enkä ainakaan ole sen
+jälkeen!
+
+No, siellä ei sitten ollut mitään uutta ja mullistavaa.
+=ACCEPT_LICENSE= perinteiseen tapaan tähdelle ja =PORTAGE_NICENESS=
+isolle.
+
+Nyt uskaltaa konsultoida vanhaa make.conffia. Ei mitään uutta ja
+mullistavaa. No, =march=native= on ainut oleellinen lisä
+oletuksiin.
+
+** klo 17:35
+
+Hitaasti edetään, mutta ei olekaan tarkoitus hoppuilla. Nyt
+mentiin chrootin sisään ja portagen synkkaus meneillänsä. Viisi
+lukematonta uutista odottelee. (Vinkiksi uusille asentajille:
+kirjoittakaa oppaassa käytetyt =mount=- ja =umount=-litaniat
+suoraan shell-skripteiksi, sillä kerneli tuskin kääntyy
+täydellisesti ensimmäisellä kerralla. Eikä toisellakaan.)
+
+Ensimmäinen kääntö ei ollut =vi=, vaan =eix=. Sitten =gentoolkit=
+ja =euses=. Nyt seuraavana lähti =vim= tulille.
+
+** klo 17:50
+
+Kerneli 3.8.13 pannaan konffaten ja kääntymään. Olisin mielelläni
+ottanut 3.9-sarjalaista eteen, mutta reboottailla pitää
+lähitulevaisuudessa muutenkin. On siis aikaa päivitellä.
+
+** klo 18:35
+
+Kerneli käännetty; luku 8a alkamassa. Vanhan systeemin =fstab= käy
+vallan hyvin. Pitää toki muistaa vaihtaa xfs-lätkä ext4:ksi. Ja
+sama sitten grubbia asentaessani. Localet varastan vanhasta.
+Toimivat sen verran hyvin siellä. Samoiten lokaalit (suurin osa
+en\_US-lokaaleita, muutama hassu, kuten paperiasetus, suomeksi).
+
+** klo 18:55
+
+Oppaan luku 9 menossa: joitain satunnaisia työkaluja systeemiin.
+=Syslog-ng= on oma valintani loggeriksi. =Dcron= on temppuillut
+vanhassa omituisesti; ehkä koitan vixietä.
+
+** klo 19:10
+
+Oppaan asennusvaiheet on päästy suosiolla loppuun. No, vielä
+toistaiseksi olen skipannut rebootin. Mukavampi käännellä joitakin
+paketteja moninäyttösysteemissä...
+
+** klo 19:50
+
+Jotain häikkää grubin saadoissa ja kernelissäni. Ensimmäinen
+isompi probleema matkassa.
+
+** klo 20:20
+
+Ext4:n mountprobleemasta varmaan kyse... (Ei ole. /Wait for it.../)
+
+** klo 22:00
+
+Viimein asia ratkesi. Kuten tavallista, kyse oli nyyppäongelmasta:
+=TMPFS=-tukea en ollut kääntänyt mukaan kerneliin. Nyt päästään
+takaisin tavallisiin ongelmiin, kuten puuttuvaan
+verkkokorttiajuriin.
+
+** klo 23:00
+
+Verkkoajurit olivat kylla kunnossa, mutta uusi =udev= tai jokin
+vastaava on nimennyt sen =eno1=:ksi vanhan tutun =eth0=:n sijaan.
+Helppo tottua tahan muutokseen.
+
+=Xorg-x11= lahti kääntymään. Koska määrittelin nvidian mukaan jo
+=make.conf=:issa, kaikki tarpeellinen tulee yhdessä lastissa. Ehkä
+tunnin sisaan. Roger Watersin vetämä The Wall Live pyörii
+telkkarissa.
+
+** klo 23:50
+
+Xorg jo toiminnassa. Hieman mietinnässä, että menenkö vanhalla
+GDM:lla, vai Qingylla, vai vaikka LightDM:lla. Eräät tuntuvat
+olevan startx-linjalla, mutta rohkenen olla asiasta eri mieltä.
+
+Alkaa olla talta paivaa tarpeeksi kaantelya ilmassa.
+
+** Lauantai 22.6.2013, klo 10:27
+
+Olen hieman häkeltynyt vielä siitä, miten nopeasti nvidian uuden
+=xrandr=-tuen turvin päästiin moninäyttöiseen X-käyttelyyn. Nyt
+boottasin kuitenkin kaikesta huolimatta Lubuntun puolelle tekemään
+joitain kääntelyitä ja lukemaan LightDM-ohjeita. Olen kahden
+vaiheilla, otanko LightDM:n käyttööni. Qingyn asentaminen vaatii
+framebufferit kerneliin (ei vaadi, jos ei tarvitse silmäkarkkia
+loginiin), mutta olisi sitten aika eliitti.
+
+Tällä hetkellä on GHC:n asentaminen Xmonadia varten meneillään --
+sitten Firefox luvassa. Ei tässä ole onneksi mihinkään kiire.
+
+Nyt oleellisinta olisi kirjoittaa asennuslistaa itselleen ja
+keskittyä kuhunkin osakohtaan kerrallaan: muuten tulee vain
+hädissään paiskottua paketteja sisään ja konffit jäävät
+puutteellisiksi.
+
+** klo 11:04
+
+GHC edelleen kääntymässä. Edelleen kaksiportaisen käännöksensä
+ensimmäisessä vaiheessa, joten hengitystään ei kannata pidätellä.
+
+Päätin siinä ohessa valita Qingyn "loginmanagerikseni". Se on
+todella kevyt, ei dependenssejä ja saa myös ihan nätiksi
+framebufferien kanssa.
+
+Oletus-USE-flageilla on päässyt yllättävän pitkälle! Olen nyt
+kirjaillut joitain yhteisiä nimittäjiä ylös, ja niitä ei ole kovin
+montaa. Yhdessä ikkunassa pidät editorissa sekä =packages.use=-
+että =make.conf=-tiedostoja ja toisessa pyörittelet =emerge -tuvpN
+world= -listausta. Omalla kohdallani huomasin, että:
+
+- X;
+- jpeg, png, gif, alsa, (mp3, ogg, flac, ...);
+- oletuskonffin suosittelemat mmx, sse, sse2;
+- (bindist pois ehdottomasti),
+- (bash-completion, zsh-completion),
+
+riittävät pitkälle. Jos olet aloitteleva Emacsisti, niin älä laita
+=emacs=-flagia ainakaan globaaleihin flageihin. Tuntuu vain
+sotkevan, mutta ehkä se olen vain minä. Sen sijaan vimistelijän
+kannattaa asettaa =vim= globaaleihin. Saa paljon hyvää
+automaattisesti. Esimerkiksi asennat conkyn -> sopiva
+conky-konffin väritys tulee automaattisesti perästä. 
+
+Useflagit voi toki jakaa useaan palaseen tähän malliin:
+
+#+BEGIN_EXAMPLE
+  # general use
+  USE="bindist X vim offensive"
+
+  # optimizations
+  USE="${USE} mmx sse sse2"
+
+  # multimedia etc
+  USE="${USE} jpeg png gif xft alsa"
+#+END_EXAMPLE
+
+Näin vältyt massiiviselta kilotavuluokan onelinerilta.
+
+** klo 12:20
+
+Qingy näyttää asentuneen hyvin ja framebufferitkin ovat taas
+pelissä. Xmonad ei lähtenyt nätisti rullaamaan, mutta taisi johtua
+siitä, että /home on mountattu noexecinä. Älä aseta huvin vuoksi
+"user"-flagia /homen mount-optioihin =fstabissa=.
+
+** klo 12:35
+
+Siitä se olikin kiinni. Nyt xmonad lähtee käyntiin, ja xmobarkin.
+
+** klo 13:10
+
+Firefox kääntymään ja meikä lähtee nyt grillailemaan pariksi
+tunniksi veljen tykö.
+
+** klo 18:55
+
+Vierailut on vierailtu. En ajatuksissani hoksannut ottaa
+=bindist=-useflagia pois. Se on aika kamala flagi, jolla on hyvin
+vähän käyttöä henkilökohtaisissa asennuksissa.
+
+Nyt on aika säätää musiikki ja ääni kuntoon. MPD ja sen kaverit
+kuntoon. Vanhat konffit taitavat mennä sellaisenaan sisään, mutta
+alsan työkaluja tarvitaan. Millähän nimellä ne taas kulkivatkaan?
+
+** klo 19:30
+
+/The music is on./ Vanhat ALSA-konffit saavat jatkaa toiminnassa,
+ovathan ne niin erinomaiset. MPD ja kaikki oheissälä on kanssa
+kunnossa. Konffataanpa huvikseen tuo NTP kuntoon. Aiemmin olen
+käyttänyt ntpdate-klienttiä cronissa, mutta jospa nyt asiat
+tehdään oikein.
+
+** klo 20:40
+
+Videot, katselupäiväkirjat ja kirjastotoiminnallisuus testattu kanssa.
+Tänään voisi rentoutua elokuvan parissa. Huominenhan on vielä kokonaan
+konffaamiselle vapaata aikaa!
+
+** Sunnuntai 23.6.2013, klo 10:23
+
+Uusi asenneltava alkaa olla ns. kiven takana. SSHd ja Fail2ban ovat
+jäljellä muistilistallani, sekä useita henkilökohtaisen kustomoinnin
+asioita. Kursorit esimerkiksi ovat järin oudot.
+
+** klo 11:50
+
+Syslog, sshd ja fail2ban konffattu kuntoon. Olen tavannut laittaa
+=messages=-tiedoston käyttäjäni luettavaksi. Aiemmin permissioilla
+644, nyt tiukennetusti 640 ja =group==progo=. Edistystä kai.
+
+** klo 12:30
+
+Salasanalompakko pitää kai uusia. Olinkin kyllästynyt vanhaan
+versioon, joka ei tarjoa paljoa käytettävyyttä. (MyPasswordSafe.)
+Tutkiskelen komentoriviversioita.
+
+** klo 14:50
+
+[[http://zx2c4.com/projects/password-store/][Pass]] vaikuttaa täydellisimmältä minun tarpeisiin. Aito
+salasanamanageri unix-filosofiaan. Salaus GPG:llä, säilytys
+tiedostojärjestelmässä ja valinnaisesti gitissä. Selaaminen
+shellin komentorivitäydennyksellä. Muut varmasti tykästyvät
+KeePassiin. Myös =pwsafe=-niminen viritys tuli tietoisuuteeni: se
+on vieläpä yhteensopiva MyPasswordSafen kanssa. Vähän on avoinna
+vielä lopullinen valinta.
+
+** Loppusanat
+
+Kaikki sunnuntainen lätinä on käytännössä yhdentekevää itse
+distron asentamisen kannalta.
+
+Mutta mitä meille jäi käteen tästä? Eroja vanhaan systeemiin olisi
+luultavasti erittäin vähän, jos olisin mennyt täsmälleen samalla
+konfiguraatiolla. Nyt kuitenkin vaihdoin esimerkiksi
+cron-demoniani ja displaymanageriani, mikäli Qingy sellaiseksi
+voidaan edes laskea.
+
+Muutama ratkaisematon ongelma jäi: Logitech MX518 -hiireni
+peukalotoimiset apunapit eivät suostuneet tunnistautumaan
+=xbindkeys=-ohjelmalle enää uudessa asennuksessa. Niiden
+oletustoiminnot ovat mennä nettiselaimessa historiassa eteen- ja
+taaksepäin, mutta olen itse käyttänyt mainittua ohjelmaa
+mappaamaan Page Up/Down -toiminnot niihin. No nyt en saanut sitä
+toimimaan. Imwheelin ja Lomocon asentaminen ei auttanut myöskään:
+nyt napeista hävisi kaikki toiminnallisuus. Luultavasti kernelin
+USB-HID -puolelta jäi jokin täppä asettamatta.
+
+Kursorit ovat hieman vinksinvonksin nyt. Samaa ilmiötä olin nähnyt
+vanhassa systeemissäni, kun kokeilin display managereita GDM:n
+ulkopuolelta. Vain GDM antoi "hyvät" kursorit käyttööni, ja
+hyvillä tarkoitan Xorgin mustia oletuskursoreita /poislukien/
+ristikkokursori. Tämä asia ei tietenkään ole täysin sidoksissa
+GDM:n toimintaan, se vain asettaa järkevät oletukset
+root-ikkunalle. Näihin asioihin löytyy luultavasti jokin erittäin
+helppo ratkaisu, mutta sopivaa kursorisettiä en ole vielä
+löytänyt.

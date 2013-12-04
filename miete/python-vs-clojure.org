@@ -1,0 +1,130 @@
+* DONE Python on huonompi kieli kuin Clojure           :koodi:python:clojure:
+CLOSED: [2013-05-18 Sat 20:28]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-05-18 Sat 20:28]
+:END:
+
+Pakko hieman avautua Pythonin puutteista ja miksi Clojure sitten
+voittaa kädenväännössä lopulta. Nämä asiat ovat osittain
+objektiivisia totuuksia, mutta lopputulema on luonnollisesti
+subjektiivinen, oma näkemykseni näiden faktojen kasaantumisesta.
+
+** Pythonin dokumentaatio on sekavaa
+
+Guido ja Python-yhteisö painottaa kovasti hyvää dokumentaatiota,
+ja yhteisö onkin kehitellyt hyviä työkaluja ja käytäntöjä hyvän
+dokumentaation tuottamiseksi.
+
+Mutta loppupeleissä Pythonin omien kirjastojen dokumentit ovat
+aikamoisessa sotkussa. Mistä löytyy se kattava referenssi uuden
+=format=-metodin muotoilukoodeista? Googlellakin saa hakea
+useasta paikasta, ennen kuin tärppää.
+
+Sittenkin dokumentaation löydyttyä niissä ei ole yleensä
+tarpeeksi esimerkkejä, eikä funktioiden standarditoteutuksiin
+löydy suoria linkkejä, vaikka syytä olisi.
+
+[[http://joepie91.wordpress.com/2013/02/19/the-python-documentation-is-bad-and-you-should-feel-bad/][Tämä joepie91:n]] kirjoittama rantti avasi silmäni lopullisesti
+asialle: Python on dokumentaationsa tasolla substandardi. Olen
+myös valmis allekirjoittamaan joepien muut pointit Python-yhteisön
+ominaisuuksista. PHP ja Clojure menevät heittämällä ohi parempien
+dokkariensa kanssa, vaikka ehkä vertailu Clojuren kanssa on
+epäreilua: Clojuren "viralliset" dokkarit ovat kehnot, mutta
+google toisaalta osaa tarjoilla uusia [[http://clojuredocs.org/][ClojureDocs]]-tuloksia
+ensimmäisinä tuloksina.
+
+** Python on hidasta
+
+Python käynnistyy nopeasti, mutta siihen se nopeus jääkin.
+Tavukoodia suorittava moottori ei ole erityisesti tunnettu
+hyvästä just in time -optimoinnista.
+
+Toinen puutteellinen seikka on Pythonin virtuaalikoneen
+säieongelma: säikeet pyörivät vain yhden instanssin alla, joka
+rajoittaa säikeiden etuja tietyissä sovelluksissa kovasti.
+Prosesseihinjakaminen on onneksi olemassa, joten tilanne ei ole
+kokonaan hukassa. Säiepyörittely ja jaettu muisti on kuitenkin
+tehokkaampaa ja joskus helpompaa kuin erillisprosessien käyttämät
+viestinvälitysmekanismit.
+
+Clojure JVM-kielenä tykittää dynaamisten kielien benchmarkeissa
+aika korkealla. JPython saattaisi olla ratkaisu näihin
+mainittuihin ongelmiin, kun saataisiin JVM:n kypsynyt
+JIT-optimointi ja ehkäpä säikeetkin saavat rellestää vapaammin.
+
+** 'Batteries included', or not.
+
+Pythonin suuri hehkutettu etu on ollut kielen hyvä tuki
+kaikenlaiselle hyvälle.
+
+Ensimmäinen totuus on se, että JVM:llä on isompi valmiskirjasto.
+Clojure perii tämän kaiken.
+
+Ja entäs jos jotain Pythonin valmiskirjastoista puuttuu? Toki,
+ongelman kuin ongelman voi suurella todennäköisyydellä ratkaista
+tehokkaasti ja elegantisti Python-kirjastojen työkaluilla. Sitä en
+epäile. Mutta teoreettisen koulutuksen käyneenä minulla saattaa
+olla hyvä ja elegantti ratkaisumalli jo päässäni, ja silloin olisi
+luultavasti kaikkien etu, jos pääsen käyttämään sitä. Näin kävi,
+kun halusin tarkastella järjestettyjen puiden käyttöä
+ongelmassani. Javassa ja Clojuressa on TreeMap näitä varten;
+Pythonissa pitää koodata oma punamustapuu ja toivoa, että se edes
+etäisesti vastaisi CPython-alkuperäisien tietorakenteiden
+tehokkuutta. Eli Pythonin valmiskirjasto ei ole niin suuri kuin
+Javalla.
+
+Muutenkin Pythonin käyttämien tietorakenteiden ominaisuudet
+tuntuvat kelluvan hieman implementaation varassa: voinko luottaa
+listojen aikavaativuuksiin eri implementaatioiden välillä?
+
+** Python 2:n unicode-sotkut
+
+Python 2 sisältää aivan tolkuttoman surkean unicode-tuen. Javassa
+asia on tehty oikein. Python 3 lopulta korjaa kaikki ongelmat
+fiksulla tavalla, mutta /kuka sitä pääsee käyttämään/ -- kaikki
+helvetin hyvät kirjastot toimivat vain kakkosessa.
+
+** Pythonin moduulisysteemi on vaarallinen
+
+Kaikki modernit dynaamiset kielet sisältävät hienot
+"pakettihallinnat", joilla puuttuvat moduulit saadaan asennettua
+kuntoon kertaheitolla ja riippuvuudet huomioiden. Ihan kiva,
+Rubyllä on =gem= ja Pythonilla =pip= ja =easy_install=, mutta
+ovatko ne turvallisia? Näillä systeemeillä pääsee helposti
+asentamaan distron oman pakettihallinnan ohi tavaraa globaalin
+polun alle.
+
+Javassa saattaa olla kamalan verboosinen työkalusetti moduuleihin
+ja paketteihin, mutta se on myös aiheuttanut minulle vähiten
+päänsärkyä kaikista. Clojuren tapauksessa pakettiriippuvuudet ovat
+projektilokaaleja, ja ne hallinnoidaan Javassa tuttujen, hyvin
+kypsyneiden työkalujen avulla kuntoon. Kokonaisuutta voidaan
+sitten tarjoilla yhtenä isona jar-tiedostona, jonka
+suorittamiseen ei tarvitakaan kuin pyörivä JRE. Eikä systeemiin
+koidu tarpeetonta kuonan kertymistä.
+
+** Puutteellinen funktionaalisen paradigman tuki
+
+[[http://www.bestinclass.dk/index.clj/2009/10/python-vs-clojure-evolving.html][Lau Jensen]] on kirjoitellut hyvän introduktion Pythonin ja
+Clojuren eräistä eroista ja funktionaalisuuteen painottuen. Tämä
+"pointti" on hyvin subjektiivista, koska ihmiset kirjoittavat
+isoja ja upeita sovelluksia ilman funktionaalisuuttakin.
+
+Toki Pythonissa on teoriassa kaikki eväät funktionaalisen koodin
+tuottamiseen, mutta silti pienet asiat tekevät asioista hankalia.
+Pythonin peruskirjastossa on vain pieni määrä funktioita listojen
+ja iteroitavien käsittelyyn; usein edellämainittuja kahta joutuu
+käsittelevään ankkatyypityksestä huolimatta erikseen ohjelmissa.
+Clojuren laiskat tietorakenteet käyttäytyvät pinnalla tasan
+samoin kuin kokonaan evaluoidut lajitoverinsa.
+
+Ankkatyypityksen jälkeen Python on muutenkin ulkoistanut loput
+abstraktioajattelunsa OOP:n harteille. Vaikka oliopohjainen
+paradigma onkin erinomainen työkalu abstrahointiin, ovat Haskellin
+ja Scalan /abstraktit tietotyypit/ ja Clojuren vastaavat
+laajennukset protokollineen ja toteutuksineen pidemmällä kuin
+mihin OOP nätisti kykenee.
+
+Python ei huono kieli puutteellisesta funktionaalisuudestaan
+johtuen, vain huonompi kuin Clojure. Ja tämä minun mielipidettäni
+tietenkin!

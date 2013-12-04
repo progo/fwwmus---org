@@ -1,0 +1,79 @@
+* DONE Tämän blogin refaktorointia                                     :blog:
+CLOSED: [2013-10-08 Tue 20:28]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-10-08 Tue 20:28]
+:END:
+
+Eilen sängyssä pyöriessäni eräs asia valkeni minulle: vaikka
+koodasin tämän blogin perinteiseen blogimalliin, niin en itse
+kirjoita kuitenkaan blogia perinteiseen blogimalliin. Tämän
+epäkohdan korjaaminen saattaa tapahtua jossain vaiheessa.
+
+** Blogimalli, perinteinen
+
+Blogien tunnistettava ominaispiirre on olla joukko kirjoituksia
+tai muuta hengentuotetta sekä hakemistolistaus, indeksi
+mainituille hengentuotteille. Lisäksi yleinen lisäoptio on tarjota
+RSS-feedi kanavoimaan muutoksia.
+
+Perinteisessä mallissa hengentuotteet on sidottu kirjoittamis-
+tai julkistamisajankohtaan ja sitten jälkikäteen viesteihin, jos
+on ollut tarvetta, on lisätty metatietoa. Blogi, jossa ajankohta
+on oleellinen, kuten vaikka kontemporaari matkablogi, tarvitsee
+tätä tietoa. 
+
+** Blogimalli, kaavailtu
+
+Sen sijaan, että postausten ensisijainen metatieto on olla
+listana julkaisuajan funktiona jossain, niin miksei vain
+kirjoittaa näitä viestejä ja artikkeleita jaoteltuna ei ajan,
+vaan kantavan idean mukaan.
+
+Follow-up. Foorumeilla on se kiva systeemi, että kukin ketju on
+tavallaan sidottu yhteen aiheeseen, ja kutakin aihetta voi
+päivittää toisia häiritsemättä vapaasti. Vastaavaa ajattelua
+haluan tuoda blogeihin. Se kun tuntuu palvelevan ajatusmaailmaani
+parhaiten.
+
+RSS-feedit saisivat tavaraa kirjoittajalta itseltään sen mukaan
+kun tarinassa on oikeasti jotain kehitystä. Pikkumuutokset eivät
+siis näkyisi feedeissä. Itse asiassa tähän ajattelin
+versiohallinnoista tuttua mallia, eräänlaista commit-viestiä.
+Tämänlainen viesti näkyisi sitten asiaankuuluvien osoitteiden
+kanssa RSS:ssä.
+
+Uusi malli ei ole millään keinoin uusi, mutta sen äkillinen tarve
+minulle on uutta. Samaa koittaa tarjota jokainen wikiin pohjautuva
+blogimoottori (esimerkiksi Emacsin MUSE tai Vimin VimWiki), joista
+olen ollut tietoinen hyvinkin pitkiä aikoja. Lisäksi moni bloggaa
+ihan MediaWikiä tai vastaavaa käyttäen. Pikkumuutokset voi merkitä
+"minoreiksi", jolloin eivät välttämättä näy historiassa. 
+
+** Teknisiä yksityiskohtia
+
+Minulla on tähän single-file -malliin eräänlainen
+viha-rakkaussuhde, Tukholman syndrooma. Tämän systeemin piti
+tarjota niin paljon mukavia ominaisuuksia ja helppoa greppailua
+systeemistä (ikään kuin =grep pat *= olisi sen vaikeampaa), vaan
+toisin tuntui käyneen.
+
+Uusi systeemi tulee olemaan osittainen uudelleenkirjoitus. Ehkä
+peräti hylkään org-moden Markdownin tieltä ja ehkäpä
+unix-henkisesti käytän hakemistoja ja alihakemistoja merkitsemään
+kategorisointeja. Vielä unix-henkisempää olisi käyttää
+symlinkkejä tagailuun.
+
+Blogin tietämyksen kaapiminen offlinenä onnistuu helposti
+tuunatun =ack=-skriptin tai hienonnetun greppailun avulla.
+
+Ja kun aiemmin puhuin versiohallinnan tapaisesta
+commit-meiningistä niin samapa tuo on sitten oikeasti toteuttaa
+niin, siis oikea historia gitin avulla. Skriptein tätä historiaa
+saa sitten näkyville kotisivulle ja sittenpä se on sama puskea
+koko paska vaikka githubiinkin.
+
+Kertokaahan vähän tästä ideasta. Minusta tämä on askel sitä
+kaavailemaani "follow-up" -systeemiä ja että tämä tulee olemaan se
+oikea tapa tehdä asia. [Hassua. Olin varma, että olin kirjoittanut
+kyseisestä follow-up -systeemistä jotain tähän blogiin. Mutta
+näemmä en. Siispä laajensin postaustani tuonne ylemmäksi.]

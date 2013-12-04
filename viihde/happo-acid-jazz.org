@@ -1,0 +1,115 @@
+* DONE Happojatsi ja Acid jazz                                :musiikki:jazz:
+CLOSED: [2013-06-29 Sat 19:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-29 Sat 19:27]
+:END:
+
+Kaksi termiä, joilla on haasteellisesti kovin samantapaiset nimet.
+Mutta itse sisällöt ovat kovasti erilaiset. Koska minä olen
+pääasiallinen /happojatsi/-termin viljelijä, koen eräänlaista tarvetta
+antaa selityksen tapahtuneelle.
+
+** Happojatsi on sitä vapaampaa sorttia
+
+Vaikka jo kultaisella 50-luvulla jazz-skene kuohui Miles Davisin ja
+John Coltranen tapaisilla spektaakkeleilla, todellinen potti avattiin
+1959 ja 1960, kun Ornette Coleman toi vapaan improvisaation kaikkien
+huulille. Colemanin johdolla, erityisesti hänen levynsä /The Shape of
+Jazz to Come/ (1959) ja /Free Jazz/ (1960) julistivat jazz-musiikin
+vapaaksi säännöistä -- mistä, totisesti, genrenkin nimi tulee.
+
+Kaikki eivät Colemanin musiikista niin pitäneet, mutta suurta
+momenttia kerännyt Coltrane näki uudessa tyylissä ja vapaudessa paljon
+hyvää. Kirjaimellisesti LSD-huuruissa hän alkoi siirtyä bopeistaan
+kohti vapaata tyyliä vuonna 1965: suuri happojatsin vuosi.
+
+Coltranen johdolla /free jazzin/ genre levisi hieman ympäriinsä, mutta
+vapaudestaan johtuen kaikkea on kovin hankala luokitella. Käytänkin
+kernaasti sateenvarjotermiä /happojatsi/ merkkaamaan kaikkea
+happopäiseltä kuulostavaa jazzia. Listaan muutamia hyviä levyjä, jotka
+karakterisoivat omaa käsitettäni:
+
+- Ornette Coleman - Free Jazz (1960) :: luonnollisesti se alkuperäinen
+     vapaan jazzin starttaaja. Colemanin /Free Jazz/ on musiikillinen
+     vastine Jackson Pollockin /Number 5/:lle.
+- John Coltrane - A Love Supreme (Live) (ALSL) (1965) :: Coltranen
+     /magnum opus/ oli A Love Supreme vuodelta 1964, ja jo se esitti
+     vahvoja modaalisen bopin elementtejä uudenlaisessa valossa;
+     vapaassa valossa. Myöhemmin ilmeisesti ainut hyvin taltioitu
+     live-esitys tästä jazz-klassikosta on selvästi hapokkaampi ja
+     todellinen taidonnäyte, miten improvisaatiota voi käyttää
+     rakentamaan jotain uutta kaoottisesta, eikä vain luomaan lisää
+     kaaosta.
+- Coltrane - Ascension (1965) :: 'Trane halusi luoda jotain eeppistä
+     happorintamalle, ja tuloksena syntyi koko levyn kattava
+     /Ascension/ -- täynnä happoa kaikilta nimiltä alhaalta. Ehkä
+     'Tranen ALSL oli tarpeeksi meille muille -- minusta ainakin ALSL
+     esittää kaikki parhaat happoelementit, mutta Ascensiota ei sovi
+     siitä huolimatta sivuuttaa. Sanders heittelee varsin hurjat
+     sävelet täällä, ja muutenkin lämmettyään kokonaisuus tekee hyvää
+     kuulla.
+- Pharoah Sanders - Karma (1969) :: Sanders soitti 'Tranen remmissä
+     mestarin kuolemaan asti, ja Sandersin myöhemmät soolotuotokset
+     ovat järin merkittäviä aivan omassa arvossaankin. Sandersin vapaa
+     tyyli on spiritualistista, johon vain sopii hänen erinomainen
+     tenorisaksofonin käyttötaito. Sandersin muut levyt, kuten /Izipho
+     Zam/ ja /Elevation/ ovat omaan korvaani 'Tranen ALSL:n ohella
+     niitä määrittelevimpiä happojazzilevyjä.
+- Archie Shepp - New Thing At Newport (1965) :: Shepp on toinen
+     Coltranen happoajan poppoon vakionimi. Shepp toimi kovasti
+     esimerkiksi /Ascensionin/ parissa. Hieman poikkeuksellisesti
+     Sheppin soolouran levyt eivät ole niin hapokkaita kuin muilla:
+     ehkä hän vain nauttii soittamisesta, oli jazz vapaata tai ei.
+     Hänen taitonsa ei totisesti mene hukkaan /Attica Bluesin/ tai
+     /The Way Aheadin/ kanssa, se on vissi!
+
+Olen itse niin partiaalinen tenorisaksofonille, niin
+Coltrane--Sanders--Shepp on helposti se kolminaisuus, johon hakeudun
+kun tarvitsen happoa korvistani sisään.
+
+Happoilua harrasti moni, moni esittäjä; eivät kaikki saksofonisteja.
+Pianisti Cecil Taylor edustaa hyvin vaihtoehtoista kuvaa vapaasta
+jazzista. En ole itse niin pianojazzin perään, mutta /Looking Ahead/
+ja /Jazz Advance/ ovat erittäin onnistuneita levyjä muistaakseni.
+
+Rockahtava ryhmä, jolla on ripaus reipasta happoa suonissaan: *Les
+Claypool's Frog Brigade* ja erityisesti livekeikka /Live Frogs/ on
+todella hyvä esimerkki enemmän rock-orientoituneelle siitä, mitä vapaa
+jazz tarkoittaa.
+
+Elektronisella puolella meillä on Squarepusher, jolla on oikea tyyli
+vapaaseen suuntaan.
+
+** Acid jazz
+
+Happojatsi on pitkälti minun kehittämä ja käyttämä termi. /Acid jazz/
+on sen sijaan oikea genre, joka yhdistää monesti elektronista
+musiikkia, räppiä ja tanssimusiikkia joihinkin perinteisiin jazzin
+elementteihin. Usein kuulee kyllä, että kyseessä on jazz-levy, mutta
+voi olla hankala osoittaa sormella syyllistä. Acid jazz on mukavaa
+ajanviettomusiikkia, jota voisi kuvitella mukavissa tanssipaikoissa
+soitettavan tanssiväelle. Ehkä ei, mutta saa sitä kai kuvitella.
+
+Vaikka olen tähän genreen tutustunut lähinnä etsiessäni happojatsiin
+liittyvää materiaalia, niin tyyli jäi tavallaan "omakseni". Se toimii
+elektronisen musiikin ohella rentouttamaan, mutta myös tarjoamaan
+satunnaista taustamusiikkia erilaisine kokoelmineen.
+
+Muutama nimi, joita voisin luonnehtia hyvin kivasti acid jazz
+-vaikutteisiksi:
+
+- De-Phazz :: erityisesti levy /Days of Twang/ on hyvin
+              määritteleväinen acid jazz -tuotos, jossa on kaikkea
+              elementtejä.
+- The James Taylor Quartet :: todellinen suunnannäyttäjä ja acid
+     jazzin perikuva. Näiden levyt ovat täynnä viheltelevää meininkiä
+     positiivisemmilta ajoilta.
+- Parov Stelar :: elektronisempaa, mutta silti ah-niin "orgaanista" ja
+                  jazzahtavaa.
+
+Acid jazz on hyvin heterogeenistä musiikkia, mutta silti se on helppoa
+tunnistaa. Hae lähikirjastostasi mikä tahansa acid jazz -kokoelma:
+esimerkiksi /100% Acid Jazz/ tai /Ministry of Sound - Acid Jazz/
+-kokoelmia. Löydät nimiä kuten *Will Downing*, *Brand New Heavies* ja
+*Jamiroquai* niistä. Elektronisen tanssimusiikin ja acid jazzin
+välillä on joskus niin ohut väliseinämä.

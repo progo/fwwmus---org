@@ -1,0 +1,365 @@
+* DONE Parhaat palat vim-konffeistani                                   :vim:
+CLOSED: [2013-04-27 Sat 14:56]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-27 Sat 14:56]
+:END:
+
+Yksi kirjoitettu sääntö on, että jokaisen blogin tulee jossain
+vaiheessa esitellä ylläpitäjänsä konffifileet tarkkaan läpi. Jotain
+taianomaista siinä kai on. Esittelenpä siis minäkin.  Tässä
+379-rivisessä paukussa on kaikenlaista kivaa. Kertymä on aloitettu
+vuonna 2007, vaikka en voi varmaksi todeta, onko itse tiedosto
+sieltä asti säilynyt.
+
+** Pathogen
+
+Viime vuosien oleellisin Vim-skripti, joka kaikkien tulisi ottaa
+pikimmiten käyttöön, on tpopen kirjoittama [[https://github.com/tpope/vim-pathogen][Pathogen]]. Lopetat
+kertaheitolla kolmansien osapuolien skriptien kanssa häsläämisen,
+kun voit vain git-kloonata repon =~/.vim/bundle= -hakemistoon ja
+homma on sillä selvä. Tämä riittää silloin konffiin:
+
+#+begin_example
+filetype off
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+filetype plugin indent on
+#+end_example
+
+** Pehmeät tabit: ainoa oikea valinta
+
+Kovista tabeista luopuminen aikoinaan oli kova paikka (paljon
+työtä ja turhannäköisiä committeja), mutta on ollut yksi parhaista
+ratkaisuistani ikinä. Kunnollisten säätöjen tekemisen puute on
+luultavasti isoin syy siihen, mikseivät ihmiset ole enemmänkin
+siirtyneet Oikealle Tielle.
+
+#+begin_example
+" Softwidth ja tabstop molemmat sopivan pieniksi
+set tabstop:4
+set sw:4
+
+" Tabit välilyöntilöiksi!
+set expandtab
+set softtabstop:4
+set shiftround
+#+end_example
+
+Näillä säädöillä tabi tekee 4 väliä ja sen voi kumittaa
+backspacella aivan kuten kovan tabinkin. Ja nyt voi koodata
+joitain WS-sensitiivisiä kieliä aivan uudella tavalla.
+
+** Tekstit
+
+Oikoluku ja tekstin sopiva katkominen kuuluu proosan kirjailuun
+oleellisesti.
+
+#+begin_example
+set spellfile="/home/progo/.vim/myspellfile"
+
+" vimin dokumenteista:
+" tämä aiheuttaa rivien katkomisen
+set textwidth:0
+
+" Laitetaan tämä jotta vim mahduttaa tekstin annetun raamin sisään,
+" toisin sanoen esteettinen ja käytännöllinen 
+set linebreak
+
+" http://www.bioinspired.com/users/ajg112/computing/vim.shtml :
+" Do not automatically insert a comment leader after an enter
+set fo-=r
+#+end_example
+
+Vimin =linebreak= on perushuttua kaikille. Tämä on siis sitä
+visuaalista rivienkatkomista, joka ei koske tiedostoihin. Sen
+sijaan =textwidth=-asetuksen asettaminen asettaa vimin katkomaan
+rivejä. Nollattuna toiminto on luonnollisesti kytketty pois
+päältä. Tekstiä kirjoitellessa sitten nopeasti heitetty =set
+tw=78= antaa tekstin soljua mukavasti eteenpäin.
+
+** Haku
+
+Tehokkaan tekstinkäsittelyn oleellinen elementti on päästä
+paikasta toiseen.
+
+#+begin_example
+" http://www.stripey.com/vim/vimrc.html
+" make searches case-insensitive, unless they contain upper-case letters:
+set ignorecase
+set smartcase
+
+" very magic searches, easily disabled if needed
+nnoremap / /\v
+nnoremap ? ?\v
+#+end_example
+
+Ignorecase tietenkin jättää kirjainkoon huomioitta. Smartcase on
+kehittyneempi versio: kirjainkoko jätetään huomioitta vain jos
+koko hakuteksti on pienillä kirjaimilla.
+
+Sen jälkeen on kaksi erittäin oleellista mappausta, jotka
+paransivat vim-hakujen mukavuutta suunnattomasti. Vimin
+säännölliset lausekkeet ovat nimittäin sekalainen joukko, jotka
+jakautuvat peräti neljään eri luokkaan. (=:help pattern=) Kullakin
+luokalla on omat vaikutussäännöt ja se tuottaa suunnattomia
+vaikeuksia saada erikoismerkkejä sisältävät hakusanat hakemaan
+oikeata asiaa. Luokista "tiukin" on nimeltään "very magic", joka
+tulkitsee /kaikki/ erikoismerkit regex-symboleiksi. Mutta koska
+kaikki tulkitaan näin, ei tarvitse minun muistaa erikseen, mikä
+erikoismerkki piti milloinkin eskapettaa: nyt kaikki.
+Verymagic-asetus on siitä kehno, että sitä ei voi asettaa
+globaalisti aktiiviseksi. Yksittäisessä patternissa esiintyvä =\v=
+kuitenkin aktivoi sen, joten näillä mappauksilla asetan sen
+tavallaan oletukseksi.
+
+Vim-haut tapaavat oletuksena jättää rumaa merkintää ympäriinsä ja
+se voi joissain tapauksissa jopa vähentää hakemista. Tähän on
+kahdenlaista ratkaisua:
+
+#+begin_example
+" tyhjentää search hilightin
+nnoremap <C-l> :nohl<CR><C-l>
+
+" vielä parempi: ei highlightia
+" set nohlsearch
+#+end_example
+
+Nyt =C-l= hävittää väritykset, kunnes haetaan uudestaan jossain
+vaiheessa. Vaihtoehtoisesti väritykset voi ottaa kokonaan pois,
+mutta joissain koodijutuissa olen havainnut mukavaksi jättää
+hakuja näkyville.
+** Bufferit
+
+Vim hallitsee useita avonaisia puskureita, mutta jostain syystä ne
+pitäisi oletusasetuksilla tallennella aina ennen vaihtoa. Sotii
+nopeatempoista pyörittelyä vastaan. Nämä asetukset tekevät hyvää:
+
+#+begin_example
+" Hidden: älä vaadi puskurien tallentamista 
+set hidden
+
+map <C-j> :bprev<CR>
+map <C-k> :bnext<CR>
+
+" sulje bufferi ilman ikkunan sulkemista
+command! BW :bn|:bd#
+#+end_example
+
+=C-j= ja =C-k= kelaavat nopeasti puskurit lävitse, ja se on
+mahtavaa. Erityisesti kun vimiä kuitenkin käytetään pitkälti
+siten, että kutakin avonaista projektia varten avataan oma vim.
+Ainakin minä siis.
+
+Useita ikkunoita käyttävänä haluan joskus sulkea turhat puskurit
+pois häiritsemästä, ja sitä varten on toki valmis =:bd=, eli buf
+delete. Se mokoma sulkee kuitenkin aina avonaisen ikkunankin,
+vaikkei tarvitsisi. Tällä kikalla kirjoitettu uusi komento =:BW=
+jättää ikkunan rauhaan.
+
+** Statusbar
+
+Jotkut vim-oletuskonffit voivat jättää statusbarin piirtämättä
+tietyissä konteksteissa. Suosin mieluummin sen pitämistä auki
+kaikissa tilanteissa:
+
+#+begin_example
+" statusbar näkymään
+" ja muotoilu: defaultti rivi on tyhjä ja se esittää tiedoston nimen, rivin ja prosentit yms
+set laststatus:2
+
+" syntaksi: help 'statusline'
+" %F: tiedosto
+" "%=": align right
+" http://www.winterdom.com/weblog/CommentView,guid,3372fa1e-966e-4389-b2ba-bb2ce527f52a.aspx
+
+set statusline:%<%F%m%h%r%w\ (%{&ff})\ %=%l,%v\ of\ %L,\ %p%%
+#+end_example
+
+
+Lisäksi on kiva nähdä, mitä komentoa on vimille antamassa:
+
+#+begin_example
+" Näytä kirjoitettava komento 
+set showcmd
+#+end_example
+
+Tavallaan statusbaariin liittyvää on myös ikkunan otsikko:
+
+#+begin_example
+set title
+set titlestring=vim:\ %F
+#+end_example
+
+** Värit ja teemat
+
+Nämä ovat tietysti makuasioita pitkälti, mutta mutta... Taustat
+ovat terminaalissa aina tummia.
+
+#+begin_example
+" väritys oikein
+set background:dark
+
+" URXVT: railscast lucius zenburn desert256 jellybeans
+colorscheme jellybeans
+
+" Mutta jos ei värejä, vaihdetaan vähävärisemmälle:
+if &t_Co <= 16 
+  colorscheme default
+endif
+#+end_example
+
+Urxvt:ssä jellybeans vie voiton hillityllä tyylillä.
+
+** Foldaus
+
+Vimin foldaus on asia, johon yleensä pitää opetella sisään. Sitten
+kun oppii, ei malta päästää irti.
+
+#+begin_example
+set foldenable
+nnoremap <space> za
+#+end_example
+
+Välilyönnillä saa jatkossa foldit auki tai kiinni.
+** Sekalaista ja huippuhyödyllistä
+
+#+begin_example
+nmap Y y$
+
+let maplocalleader = ","
+
+" hyppää samaan hakemistoon, missä tiedosto on
+command! CD cd %:p:h
+
+" tiedostoja täydentää helpomminkin!
+inoremap <C-f> <C-x><C-f>
+
+" textmatea
+nnoremap <C-q> gqap
+#+end_example
+
+Jos =C= korvaa rivin lopun ja =D= poistaa rivin lopun, miksi
+oletuksen =Y= yankkaa koko rivin, ei vain loppua?! Fiksataan.
+
+Komento =:CD= vie vimin cwd:n nyt siihen paikkaan, missä bufferin
+osoittama tiedosto on. Kiva, jos pitää editoida vähän
+ympäriltäkin.
+
+Vähemmän tunnettu lisäystilan täydennysmoottori on =C-x C-f=, eli
+täydentää tiedostopolkuja ja -nimiä. Heitän tämän suoraan =C-f=:n
+taakse, ja jo on upeata.
+
+Ja viimeisenä kappaleen voi muotoilla kivasti kuosiin komentamalla
+=C-q= sen sisällä.
+
+** Syntaksi esille
+
+Erityisesti vim-värityksiä hienosäätäessä on kiva tietää, mitä vim
+tietää kursorin alla olevasta tekstistä. Seuraava mappaus printtaa
+kaikki vimin syntaksivärjäysmoottorin väriluokat annetulle
+tekstille:
+
+#+begin_example
+" Show syntax highlighting groups for word under cursor
+function! <SID>SynStack()
+    if !exists("*synstack")
+        return
+    endif
+    echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+endfunc
+nmap <F2> :call <SID>SynStack()<CR>
+#+end_example
+
+** Joitain poimintoja =.vim/bundle= -hakemistosta
+
+Edellä kävin kaiken oleellisen ja ajantasaisen
+=.vimrc=-tiedostostani. Loppukevennyksenä esittelen joitain
+plugineita, joita olen asentanut.
+
+*** BufExplorer
+
+ BufExplorer on huippukiva tapa koluta aukiolevat puskurit ja
+ sulkea joutavat.
+
+*** LocalVimrc
+
+ [[https://github.com/vim-scripts/localvimrc][LocalVimRc]] on vähän käytetty, mutta saattaa olla avuksi. Kullekin
+ hakemistolle voi kirjoittaa oman =.vimrc=-tiedoston, joka luetaan.
+ Projektikohtaisia vim-säätöjä, siis.
+
+*** Vimwiki
+
+ Emacsin MUSE:n (ent. wiki-mode) kilpailija on [[http://code.google.com/p/vimwiki/][VimWiki]] ja se toimii
+ yllättävän upeasti verkkotyylisten tiedostojen ja dokumenttien
+ ylläpitoon. Musea ainakin käytetään paljon kevyenä CMS-moottorina,
+ mikseipä myös Vimwikiä. Minähän tunnetusti koitin saada vimwikistä
+ itselleni tietämyskantaa aikaan, mutta lopulta emacsin [[http://orgmode.org/][org-mode]]
+ voitti.
+
+ Vimwiki-aiheiset säätöni liittyvät lähinnä hallinnollisiin
+ säätöihin. KamelinVarvas-tekstien automaattisen linkifikaation
+ pudotin pois ja ääkköset saadaan tunnistautumaan linkeissä
+ lisäämällä ne jononjatkoksi.
+
+ #+begin_example
+ let g:vimwiki_list = [{'path': '~/.vim/wiki/'}]
+ let g:vimwiki_browsers = ['firefox']
+ let g:vimwiki_camel_case = 0
+ let g:vimwiki_upper = "A-ZÄÖ"
+ let g:vimwiki_lower = "a-zäö"
+ let g:vimwiki_folding = 0
+ let g:vimwiki_hl_headers = 0
+ let g:vimwiki_use_mouse = 1
+ #+end_example
+
+*** Conque
+
+ Conque on alkeellinen terminaaliemulaattori vimin sisään. Pieni
+ palanen emacsia mukaan. Kuvittele kaikkia niitä mahdollisuuksia,
+ kun voit heittää vimin värjäyksiä ja pikanäppäimiä projektin
+ "konsoliin".
+
+*** NERDTree
+
+ Kyllä, NerdTree löytyy käytöstä, vaikka sillä tekee harvinaisen
+ vähän omissa projekteissani. Jos koet tarvitsevasi cwd:n ympärillä
+ pyörivää tiedostolistausta ja "nopeata" navigointia, niin NERDTree
+ on erinomainen valinta.
+
+ #+begin_example
+ nmap <left> :NERDTreeToggle<CR>
+ #+end_example
+
+*** NERDCommenter
+
+ Kommentointia varten NERDCommenter on hyvä. Se tunnistaa
+ tiedostotyypin ja kommentoi siten oikeanlaisia merkkejä.
+ Emacsista tuttu =M-;= on hyvä valinta näppäinyhdistelmälle.
+*** MatchIt
+
+ [[http://www.catonmat.net/blog/vim-plugins-matchit-vim/][MatchIt]] laajentaa vimin =%=-komentoa erityisesti (X)HTML-saralla:
+ nyt voit hypätä sulkevaan HTML-tagiin prosentista. Osaa varmasti
+ jotain muutakin, mutta yksinään tuon takia kantsi asentaa.
+*** SnipMate
+
+ TextMatesin snippet-toimintoa replikoi moni snippet-moottori
+ vimissä. Ehkä nykyään kannattaa suunnata katse UltiSnips-paketin
+ puoleen, mutta minä tulin hyvin toimeen SnipMaten kanssa.
+
+*** Screen.vim
+
+ Hassu ja pieni skripti mahdollistaa erillisen, mutta nimetyn
+ screen-istunnon käyttämistä "kohteena" vimistä käsin. Luo
+ nimellinen screen-sessio ja avaa haluamasi komentokehote siihen.
+ Vimissä lataa =screen.vim= käyttöön ja maalaa tekstiä. Lähetä
+ tämä teksti screeniin hakkaamalla =C-c C-c=. Yksinkertaista ja
+ tehokasta. Voi käyttää vaikka bash-skriptien kehityksessä.
+
+*** SlimV ja VimClojure
+
+ Emacsia sanotaan lisp-kehitysympäristöjen kuninkaaksi, eikä aivan
+ perusteetta. Vimilläkin pääsee huisin pitkälle. SlimV on
+ kuuluisan SLIME:n Vim-vastine ja sillä voi hoitaa kaikenlaisia
+ Swank-palvelun tarjoavia lispejä kotiin. Clojurea varten
+ kannattaa katsella VimClojure läpi. Tosin kuluneen vuoden aikana
+ tilalle on tainnut tulla enemmän ylläpidetty Fireplace.

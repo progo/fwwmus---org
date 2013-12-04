@@ -1,0 +1,46 @@
+* DONE Semanttisesta versioinnista                              :ohjelmistot:
+CLOSED: [2013-04-04 Thu 17:49]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-04 Thu 17:49]
+:END:
+
+Versionumerointi tuntuu monella olevan hakusessa. Onneksi maailmalla
+on useita de-facto -standardeja, joista [[http://semver.org/][Semantic Versioning]], tai
+lyhyesti vain Semver, on hyväksytyin. Mutta ihmiset panevat silti
+liikaa painoarvoa numeroihin.
+
+Kehittäjille suunnatut API-rajapintoja tarjoavat kirjastot tarvitsevat
+erityisen paljon mainittua semanttista versiointia, koska koodi on
+(jopa) ihmistä herkempi muutoksille. Siellä on fiksua noudattaa
+$x.y.z-m$ -kuviota, jossa major-versio $x$ on suuri sovellusversion
+haara, jota kasvatetaan silloin kun hajotetaan jotain vanhaa
+toiminnallisuutta. Minor-versioluku $y$ kasvaa silloin, kun tehdään
+lisäyksiä tai pieniä muutoksia, jotka eivät kuitenkaan hajota vanhaa
+koodia. Pikkupaikkaukset ja bugikorjaukset, eli luku $z$, kattavat
+sitten kaikki muut korjaukset. Lisämäärettä $m$ saa käyttää
+halutessaan, vaikka mitään pakottavaa syytä ei tavallisesti ole.
+Koevedokset, julkaisukandidaatit, betaversiot ja sen sellaiset sinne
+yleensä tyrkätään.
+
+Loppukäyttäjille suunnattujen softien kanssa tilanne on eri.
+Erityisesti Mac- ja Windows-puolen ihmisiä tuntuu kismittävän
+ohjelmat, joiden versionumero liikkuu heidän mielestään liian
+alhaalla. Siellä sovellusbisnes on ollut versionumeroista riippuvaista
+ja päivityksiä ei voi kaupata ilman uutta ja kiiltelevää numeroa.
+Ihmiset ovat tottuneet aloittamaan laskemisen ykkösestä. Unix-puolella
+ja muutenkin useissa harrastetason jutuissa ei ole kenenkään pakko
+myydä mitään, ja numerot jäävät toisarvoisiksi. Numerointi aloitetaan
+nollasta ja lisäillään hyvin verkkaiseen tapaan. On jopa varsin
+yleistä skipata numerointi kokonaan: Githubista saa aina uusinta.
+
+Ja eihän se numero tosiaan kerro mitään ohjelman kypsyydestä. Niitä
+numeroita ei myöskään mikään motivoi ylläpitämään, ellei ole jotakuta
+asiakasta tai käyttäjäryhmää, joka odottaa jonkinlaista
+virstanpylvästä. En yhtään tiedä, minkä luvun lätkäisisin omiin
+softiini, koska vaatimukset ovat mitä ovat. Jos joku haluaisi softan
+tietyillä ominaisuuksilla, voisin siinä tapauksessa ilomielin
+lätkäistä sen 1.0-lätkän valmistuneen projektin kunniaksi. Nyt ei
+projekteissani ole edes mitään numeroita. Jos joku tulee vinkumaan
+numeroista, aloittanen luultavasti versionumerolla 42. Mutta jos saan
+jonkun windows-juntin päivän pilalle lopullista tuotosta kuvaavalla
+versionumerolla 0.4.2, niin olen tyytyväinen.

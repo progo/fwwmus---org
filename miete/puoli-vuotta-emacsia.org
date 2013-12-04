@@ -1,0 +1,58 @@
+* DONE Puoli vuotta Emacsia                             :emacs:editorit:blog:
+CLOSED: [2013-03-29 Fri 19:36]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-03-29 Fri 19:36]
+:END:
+
+Emacs on ollut käytössä noin puoli vuotta likipitäen pääeditorina
+(vakituisena, mutta ei yksinomaan ainoana) ja se on tehnyt oman
+osansa uuden ajatusmaailman rakentamisessa.
+
+Viime syyskuussa minä otin org-moden parempaan käsittelyyn ensin
+VimOrganizerin kautta. VimOrganizer käyttää Emacsia
+taustaprosesseissaan, joten konffasin sen Emacsin sinne. Vuosien
+piskuinen Emacs-käyttö näkyi niissä konffauksissa nyt
+kumuloituneena peruskäyttötaitona: ymmärsin hyvin kaikki ideat
+suunnittelun taustalla.
+
+VimOrganizer oli kiva, mutta täyttä potentiaalia sillä ei mitenkään
+saa. Ja kun kuulin uudesta ja parhaasta vi-näppäintasosta,
+Evil-moodista, tuntui asia selvältä. Tätäkin kirjoittelen Emacsin
+org-moodin hellästä huomasta.
+
+** Emacsin borgimainen olemus
+
+Olin aiemmin täysin tyytyväinen siihen malliin, että blogaan
+vimillä yhdestä paikkaa ja python-purkalla siirrän ja käpistelen
+tavaraa eteenpäin. Samalla ajatusmallilla monet muut asiat. Ja nyt
+on ollut "pakko" siirtyä blogaamaan uuden blogimoottorin ja
+org-moden kanssa, koska täällä moni asia sujuu niin joustavasti.
+Emacsilla on jonkinlainen vetovoima saada kaikki saman prosessin
+sisälle.
+
+Ehkä se on vain tämä org-moodi. Org tekee kaiken sulavasti.
+Dokumentitkin: nyt on pitänyt kirjoitella harjoitustehtäviä
+puhtaaksi PDF-muotoon koulua varten, ja org on palvellut tässä
+erittäin hyvin. LaTeXin huippunätti jälki ja orgin verrattaen
+kevyt syntaksi. Kirjoittelin valmiit tiedostopohjatkin
+"dokumentteja" varten. Org totisesti on Emacsin
+toimisto-ohjelmistopaketti.
+
+** Mutta en ole aivan siirtynyt
+
+On joitakin kohteita, joissa ammun mieluummin vanhan Vimin tulille
+kuin heitän (hieman nopeammin avautuvan) emacsclient-kutsua
+menemään. Syynä on pääasiassa se, ettei huvita lähteä
+konfiguroimaan puuttuvia tiedostoformaatteja aivan satunnaisten
+asioiden takia. Cronjobit, Haskell, Ledger ja sen sellaista.
+Joskus ihan piruuttani editoin sellaisiakin asioita vimillä, jotka
+onnistuvat emacsilla hyvin. Onhan minulla siellä tavallaan hyvin
+viimeistelty käyttöympäristö: pitäisikö se sitten väistämättä
+heittää pois noin vain.
+
+Näistä seikoista johtuen siirtymä tuskin koskaan tulee olemaan
+täydellinen. Vim ja Gvim ovat nopeavasteisia, joten välillä ihan
+naputtelunautinnostakin johtuen on mukava palailla vanhaan. Emacs
+on totisesti kuitenkin se laajennettavampi systeemi, eli jos vain
+panisin kaikki munat samaan koriin, voisin päästä aika hulluun
+tilanteeseen nopeasti säätöjen kanssa. Elisp rules the world.

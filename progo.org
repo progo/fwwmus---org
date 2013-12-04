@@ -1,0 +1,36 @@
+* DONE Blogin takana on mies
+CLOSED: [2013-04-08 Mon 17:59]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-04-08 Mon 17:59]
+:END:
+
+Minkälainen mies on tämä /progo/, joka kirjoittelee blogia?
+Jonkinlainen summariikki lienee tarpeen kirjoittaa itsestäni.
+
+** Mikael 'progo' Puhakka
+
+- Asuu ja opiskelee Joensuussa, sitä ennen Outokummussa. Alkujaan
+  lähtöisin Kontiolahdelta.
+
+** Opinnot
+
+- Tietojenkäsittelytieteiden ja matematiikan opiskelija Itä-Suomen
+  yliopistossa
+- Luonnontieteiden kandidaatti
+- Akateemiset kiinnostukset:
+  - Tietojenkäsittely: algoritmit, kompleksisuusanalyysi ja
+    teoreettinen TKT.
+  - Matematiikka: algebralliset rakenteet.
+
+** Harrastelee:
+
+Harrastuksiin kuuluvat:
+
+- Elokuvia: kunnolliset draamat ja sen sellaiset. Ei
+  perhe-elokuvia, kauhua tai zombi-/vampyyrielokuvia.
+- Sarjoja: hyviä sarjoja, jotka käyvät kulttuurista. Ei mitään
+  tositv-roskaa, vaan kunnollista tuotantoa.
+- [[*progon%20hifit][Hifistelyä]]: kuulokepainotteista äänentoistoa. Muutamien
+  mutkien kautta päädytty AKG K1000 -pohjaiseen settiin.
+- Tietokoneitakin: editorit, linux, komentorivi ja Xmonad
+  määräävinä taikasanoina.

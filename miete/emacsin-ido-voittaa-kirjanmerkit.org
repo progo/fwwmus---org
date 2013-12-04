@@ -1,0 +1,29 @@
+* DONE Emacsin IDO trumppaa kirjanmerkit                              :emacs:
+CLOSED: [2013-06-06 Thu 18:32]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-06-06 Thu 18:32]
+:END:
+
+Aiemmin [[*Nopeat kirjanmerkit Emacsille][kirjoittamani kirjanmerkkisysteemi]] on tavallaan erittäin
+kiva ja kohtuullisen toimiva, vaan se on yksinkertaisesti tarpeeton
+omassa Emacs-käytössäni.
+
+IDO, eli Interactively DO on kyselyihin erikoistunut
+Emacs-kirjasto, jonka erityinen voitto piilee sumean haun
+toimivuudessa ja yleisessä sulavuudessa. Avaa tiedostoja
+kovalevyltä tai hae avoimia puskureita näytölle vain muutamalla
+näppäilyllä, kun kirjaimia ei tarvitse tapailla perätysten saati
+alusta alkaen. 
+
+IDO ja Emacsin [[*Emacs rokkaa][demonimoodi]] yhdessä tuottavat sen tilanteen, että
+kirjanmerkit tosiaan jäävät toissijaisiksi: huomaan avaavani
+tiedoston kerran per emacs-istunto (ja tämäkin istunto on
+=emacs-uptime= -funktion perusteella 21 päivää vanha) ja sitten
+voin avata avoimet puskurit hyvin nopeasti sumealla haulla
+näkyville. Erityisesti muutamat usein käytetyt portage-konffit
+=etc=-hakemistojen alla aukeavat usein kolmea aakkosta painamalla.
+Tämä blogitiedosto samoiten löytyy aina avoimena hakusanalla
+=blog=.
+
+Ihan kivaa harjoitusta, mutta ultimaattisesti tarpeettoman
+kirjaston minä kirjoitin.

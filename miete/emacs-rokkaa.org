@@ -1,0 +1,55 @@
+* DONE Emacs rokkaa                                          :editorit:emacs:
+CLOSED: [2013-02-06 Wed 18:13]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-02-06 Wed 18:13]
+:END:
+
+Emacsin palvelinmalli on mitä erinomaisin lahja liikkuvalle
+koodaajalle. Asiakasohjelman nopean käynnistymisen johdosta myös
+perinteisempi hyökkäys komentorivillä on tuhottoman nopeata.
+
+** Eshell
+
+Eshell on näitä Emacsin väärinymmärrettyjä hienouksia. Kyseessä ei
+ole =shell=-moodista jatkokehitelty versio, vaan se on
+POSIX-näköisen bourne-shellin imitaatio kirjoitettuna Elispillä.
+Yksi ilmeinen etu on Eshellin komentojen integrointi
+elisp-systeemiin. Tämä tietenkin tarkoittaa asioita kuten
+=find-file=:n käyttöä komentoriviltä avaamaan samaan instanssiin.
+
+Myös huomioitavaa on, että Windows-käyttäjät saavat nauttia tällä
+tavoin perustason elisp/posix-komentokehotteesta ilman Cygwinin
+asentamista. [[http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/][Mastering Emacs]] -blogi on käsitellyt tätä
+laajemmalti.
+
+** Emacsin demonimoodi
+
+Emacsin palvelinmoodi on toiminut versiosta 23 alkaen
+sisäänrakennettuna herkkuna, ja rypyt ovat silinneet vuosien
+saatossa. Tämä on erinomainen systeemi, jolla voi korvata
+esimerkiksi *GNU Screenin* ja vastaavat työkalut kokonaan. Kaikki
+emacs-prosessin aloittamat lapsiprosessit kulkeutuvat vaivatta
+asiakkaille. Ja kun Emacsin kääntää ilman GTK-tukea, niin se on
+myös vakaa.
+
+Emacsclient käynnistyy suunnattoman nopeasti ja kaikki raskaat
+konfiguroinnit seuraavat perässä. Muistiakaan tämä ei syö sen
+kummemmin: tämä nykyinen Emacs-instanssi on ollut pystyssä 73
+vuorokautta ja kantaa isoja org- ja clojure-buffereita liittyvine
+lapsiprosesseineen. Ja syö vain 60 megaa. Se on noin puolentoista
+vim-istunnon verran.
+
+Työskentely on täten erittäin sulavaa. Oli ikkunat kiinni tai
+auki, olipa X käynnistetty uudelleen tai ei, voin avata uuden
+asiakasohjelman ja valita kaikista avoimista puskureista hyvin
+pienellä vaivalla haluamani. Palvelinmalli kannattaa ja toteuttaa
+eräänlaista työpoolia, josta voi poimia helposti kohteen. Tämä
+blogi-org aukeaisi noin kolmella painalluksella mistä tahansa
+palvelimeen kytkeytyneestä asiakkaasta. Siitä kiitos osittain
+=Iswitchb=-komennolle, joka käyttää IDO-moodin sumeata hakua
+avointen puskurien välillä.
+
+Ja kaikki tietenkin myös kotikoneen ulkopuolella: voin koodata
+vaikka Pythonia ja pitää Python-REPLiä kakkosikkunassa auki, ja
+pääsen samoihin puskureihin käsiksi SSH:n ylitse. Tämä on
+erinomainen voimavara.

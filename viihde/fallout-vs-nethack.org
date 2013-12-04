@@ -1,0 +1,113 @@
+* DONE Jos Fallout olisi kuten Nethack                :pelit:fallout:nethack:
+CLOSED: [2013-07-09 Tue 12:40]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-07-09 Tue 12:40]
+:END:
+
+Fallout New Vegas tuo pöydälle kiintoisan Hardcore-moodin, jonka
+myötä ammuksilla on massa (ei enää satojen ohjusten kantelua
+selkärepussa noin vain), syödä ja juoda pitää kun on nälkä ja jano,
+ja untakin pitäisi saada. Kaikki on varmasti hyvin hc:ta, mutta
+Nethackia pelanneelle nämä ominaisuudet kuulostavat aika tutuilta.
+Minkälaisia eroja pelaamisessa noin muuten olisi?
+
+Ensimmäinen huomio varmasti olisi, että syödä pitäisi, ja vieläpä
+ravitsevasti niin. Siihen päälle vielä ns. /iron man/ -pelitila,
+eli tallennettaessa peliä peli lopetetaan ja ladatessa peli savetus
+poistetaan. Kuoleman koittaessa ei auta hötkyily. Jotta tämä nyt
+olisi kunnolla hyvä valinta, pitäisi pelin toimia kaatumatta hyvin.
+Kaatuilipa Nethackikin aikoinaan, mutta siellä oli hyvät
+palautustoiminnot onneksi mukana.
+
+Kuolema on tietysti ikävä, mutta apuna on
+hengenpelastus-onnenamuletit, teleportaatio pakokeinona ja maahan
+kaiverrettava tai poltettava *Elbereth* -teksti, jota kaikki
+eläimet pelkäävät ja kunnioittavat, eivätkä käy kiinni.
+Ihmisvihulaiset ja kaukaa ampuvat eivät välitä.
+
+Jotta asiat eivät mene liian helpoksi, korkeamman tason
+vihulaisilla on heilläkin teleportaatio apuvälineenä. Lähinnä
+pakenevat pelaajan ulottumattomiin parantelemaan itseään.
+
+** Kaikella on massa
+
+Jopa korkeilla on oma, pieni massansa, joka alkaa tuntua siinä
+vaiheessa kun massia on kymppitonneittain repussa. Kudit ja muut
+luonnollisesti painavat jotain.
+
+Lisälystiä saadaan, kun pääasialliseen inventaarioon mahtuu vain
+55 eri esinettä tai asiaa: loput joutuu jemmaamaan joko pussukkaan
+tai ulkopuoliseen kirstuun. Toisaalta plus-puolena onkin, että
+lukitut kirstut pitävät tavaransa säilössä ja omia jemmojaan voi
+tehdä minne vain joutomaalla.
+
+** Taidot ja kokemustasot
+
+Erilaiset taidot kehittyvät käytön myötä, ei suinkaan
+kokemustasojen perästä. Aluksi unskilled-tasolla aseen ampuminen
+tai miekan huitominen tuottaa runsaasti huteja, mutta sitten se
+taito kehittyy. Kun harjoittelua on tehty tarpeeksi, voi tämän
+uuden taidon "unlockata" skill-ruudussa, mutta kokemustaso
+vaikuttaa avattavien taitojen määrää.
+
+Eri tehtäviä varten tarvitsisit tietyn kokemustason päästäksesi
+suorittamaan sitä. Perksejä ei ole, eli kokemustaso vaikuttaa vain
+taitojen avaamiseen ja tehtävien tekemiseen. Kokemusta saa vain
+vihulaisten tappamisesta ja sopivista kemikaaleista, joita voi
+itsekin leiritulella kokkailla. Sekä koiranruoasta.
+
+Satunnaisesti arvottujen vihulaisten vaikeusaste on keskiarvo
+pelaajan kokemustasosta ja fyysisestä etäisyydestä
+aloituspaikkaan. Ehkä ei toimi tasossa niin hyvin kuin Nethackin
+kerrospohjaisessa luolastossa.
+
+SPECIAL muuttuu D&D-henkiseksi /Strength -- Constitution --
+Dexterity -- Intelligence -- Wisdom -- Charisma/ -yhdistelmäksi.
+Onnea ei saa itse säätää, mutta sopiva onnenkivi taskussa riittää
+muuttamaan asiat omaksi edukseen. Nämäkin ominaisuudet kehittyvät
+käytön myötä, paitsi karisma ja älykkyys, joihin pitää puuttua
+sitten implantein tai taikaesinein.
+
+** Seuralaiset
+
+Falloutissa on seuralaisia ja matkakumppaneita; Nethackissa on
+eläimiä. Älykkäitä eläimiä ei voi valjastaa lemmikeikseen, mutta
+seassa on aika tiukkoja elukoita, joilla saa hyvää tuhoa aikaan.
+Nethackin lemmikit voivat tietenkin kuolla omistajansa tapaan,
+mutta jos ruumis jää lojumaan maahan, aina voi kokeilla elvyttää
+sopivalla sauvalla.
+
+Lemmikeillä voi esimerkiksi varastaa kaupasta ilman "karman"
+(Nethackissa "alignment") menettämistä.
+
+** Tavaroiden parantelu ja valmistaminen
+
+Falloutissa, erityisesti New Vegasissa, on hyvät välineet ja
+mahdollisuudet tehdä kaikenlaista pientä resepteistä ja
+raaka-aineista. Nethackissa aseita voi vain parannella kääröin.
+Juomia voi tietyin varauksin tehdä sekoittelemalla pullojen
+sisältöjä keskenään. Tämä toimii tietyissä tilanteissa todella
+edullisesti pelaajan kannalta.
+
+Nethackissa voi myös keräillä roskatavaraa ja polymorfailla sitä
+paremman tavaran toivossa. Menetelmä tuottaa erityisesti
+loitsukirjojen tapauksessa hyviä tuloksia. Taikaesineitä
+polymorfaamalla saa hieman tavallista paremmalla
+todennäköisyydellä uusia taikaesineitä.
+
+Ja Nethackissa voi tietenkin onnekas sielu päästä tekemään
+toivomuksen: mikä tahansa on vapaata riistaa, mutta artifakteja
+toivoessa todennäköisyydet pienenevät generoitujen artifaktien
+myötä: /make it count/.
+
+** Ja mitä muuta?
+
+Aseita voi parannella ja modailla entiseen malliin, mutta nyt ne
+voi siunata tai joku voi ne kirota. Kirottu ase toimii vähän miten
+sattuu; kirottua haarniskaa ei voi riisua. Ikävämpi juttu, jos
+kokeilee jotain legionaalaisen hametta, joka onkin kirottu.
+
+Nethackissa on varsin suoraviivainen pelimalli, jonka ansiosta
+ylipäänsä nämä pelimekaaniset seikat ovat mahdollisia ja hyvinkin
+toimivia. Eihän näistä monikaan toimi sellaisenaan Falloutin
+kaltaisessa pelissä, kuten olemme varmaan nähneet tässä.

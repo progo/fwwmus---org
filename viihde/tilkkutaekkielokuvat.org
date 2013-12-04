@@ -1,0 +1,34 @@
+* DONE Tilkkutäkkielokuvat                                  :elokuvat:listat:
+CLOSED: [2013-02-06 Wed 12:34]
+
+Tilkkutäkkejä vai palapelejä?
+
+Tilkkutäkkielokuvien karakteristinen piirre on sisältää monia
+pieniä tarinoita samalta alueelta ja joiden henkilöillä on joitakin
+pieniä yhteyksiä. Ei siis mitään juontamuuttavaa pärähdystä
+konnektioiden takia, vaan lähinnä kuriositeetteja. Pääasia ei ole
+hahmojen määrässä, eikä sinänsä siis konnektioissakaan, vaan
+hienovaraisissa yhteyksissä. Katsoja nauttii pienistä
+kuriositeeteista siinä missä isommistakin.
+
+Yleensä hahmoja on paljon ja näiden välillä lomitellaan tiuhaan.
+Elokuville tyypillistä on myös pituus -- alle kahden tunnin ei
+ehditä kokemaan niin paljoa. Näissä elokuvissa rakennetaan suhteita
+katsojan ja kaikkien kytkösten välille.
+
+** Esimerkkejä
+
+- [[http://www.imdb.com/title/tt0108122][Short Cuts]] (1993) on suuren Bobby Altmanin näkemys
+  tilkkutäkkeilystä LA:n seudulla. Hyönteismyrkyt, juopot
+  limusiinikuskit, poliisit ja monet muut saavat kyytiä keskenään
+  hyvin löyhänläisessä kytköksessä.
+- [[http://www.imdb.com/title/tt0175880][Magnolia]] (1999) on erittäin suuren Paul Thomas Andersonin
+  /magnum opus/, jossa LA:han sijoittuvat ihmiset keräilevät
+  voimiaan ja ihmissuhteita. Lopussa tapahtuu suuri
+  luonnonmullistus.
+- [[http://www.imdb.com/title/tt0449467][Babel]] (2006) kertoo marokkolaisesta vuohifarmarista,
+  japanilaisesta koulutytöstä, amerikkalaisesta pariskunnasta ja
+  meksikolaisesta lapsenlikasta. Erittäin kiinnostava esitys tähän
+  genreen.
+
+Sinä annat kommenttina lisää ehdokkaita, jos tiedät.

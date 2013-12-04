@@ -1,0 +1,30 @@
+* DONE Kopiointia seurannan kanssa                                      :cli:
+CLOSED: [2013-05-18 Sat 17:55]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-05-18 Sat 17:55]
+:END:
+
+Jonkin verran manuaalista synkkaamista tehneenä osaa arvostaa
+kopioinnin tai siirtämisen edistymisen seurantaa. Koska unixien
+=cp= ja =mv= eivät tätä taida omasta takaa, on yleisin peruskikka
+ollut käyttää yhtä yleistä =rsync=-ohjelmaa =--progress=-option
+kanssa. Se toimii hyvin, mutta kaipasin kanssa graafisista
+kopiointilomakkeista tuttua kokonaistilanteen kehittymistäkin, jos
+siis tiedostoja tai hakemistoja on useampi työn alla.
+
+Nopea googlailu paljastaa ensin aika näppäriä vinkkejä [[https://bbs.archlinux.org/viewtopic.php?pid=937445#p937445][Arch Linuxin]]
+foorumilta asiaan liittyen. Erityisesti ovela on =strace=-ohjelman
+yhteenkytkeminen cp:n kanssa ja siitä sitten awk:n kautta
+ihmislukuisiin tuloksiin. Myös =pv=:n käyttöä demotaan. Nämä eivät
+kuitenkaan ole rsync-ratkaisua sen kummoisempia.
+
+[[http://www.beatex.org/web/advancedcopy.html][Advanced copy]] on sitten se ratkaisu, johon päädyin. Vaikka
+manuaalista työtä onkin luvassa, käännöstä varten on tehty oikein
+ystävälliset ohjeet, joita noudattamalla jokainen kyllä osaa tehdä
+omat versiot. Toisin kuin mitä ohjeet suosittelevat, siirsin
+lopulliset käännökset uusille nimille, enkä korvaa alkuperäisiä
+ohjelmia. Jos vaikka tulee sössittyä tai jotain.
+
+Koodasin vielä progressbarit aina näkyville ja siirsin
+henkilökohtaiseen binäärihakemistooni nimille =cpprog= ja
+=mvprog=. Tämä ratkaisu toimii hyvin. Tämä on hyvä.

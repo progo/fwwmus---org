@@ -1,0 +1,55 @@
+* DONE Java + JavaScript, paras pelialusta?             :pelit:clojure:koodi:
+CLOSED: [2013-07-12 Fri 13:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2013-07-12 Fri 13:27]
+:END:
+
+Nykypäivän web-työkalut tuntuvat johtavan väistämättä tilanteeseen,
+jossa Javascript on riittävän tehokasta moneen tarkoitukseen ja on
+pysyvää: selaimet tukevat jatkossakin. Lisäksi tarjolla on
+kaikenlaista kivaa: on Audio-API:a ja on Websockettia. Peräti
+3D-kiihdyteltyä GL:ää, jos oikein riehaannutaan. Javascript, eikä
+Java sen puoleen, ei ole menossa minnekään, vaan tarjoaisi hyvän
+tavan toimittaa käyttöjärjestelmäriippumattoman pelikokemuksen
+aistikkaasti kaikille ja niin, että peli toimii tulevaisuudessakin.
+
+Jokin Java-moottori, erityisesti Clojure, voisi tarjota todella
+hulppean, läskin palvelinpään ja toteuttaisin käyttöliittymän
+Javascriptinä, /thin client/ -mallin mukaisesti. Tällä tavalla
+valitsen sen kompromissin, että palvelimen oletetaan olevan
+nollalatenssien päässä lokaalina ja vastineeksi saan vähemmän
+JS-purkkaa jauhettavaksi. Thin client tarkoittaisi siis
+oleellisesti sitä, että asiakas, eli selain, kuuntelee korvat
+höröllä web-sokettiamme ja uskollisesti piirtää annetun tavaran
+juuri niihin koordinaatteihin, jotka palvelin antaa. Selain
+vastaavasti lähettää paluuputkessa kaikki käyttäjän toimet
+palvelimelle. Palvelin siis huolehtii esimerkiksi kartan tilasta ja
+pelaajan toimista. Minimoimalla JS-logiikka minimoidaan ketutus.
+
+Tietenkin Clojuren sijaan voi käydä mikä tahansa tehokas ja hyvä
+minimaalisen web-palvelimen toteuttava kieli. Grails, Django taikka
+Ruby on Rails vaikkapa. Ihan mikä sopii itselleen parhaiten.
+Java/JVM on mielestäni hyvä valinta peleille, koska parin sekunnin
+käynnistysajan pystyy sietämään ja pyörähdettyään käyntiin JVM on
+varsin nopea.
+
+Jos taasen monipuolistaisin asiakaskoodia, voisin saada aikaan
+tilanteen, jossa tavalliset 100-millisekuntiset viipeet eivät
+häiritse pelaamista (peliksi ei sitten kannata mitään toiminta-FPS
+-räimintää suunnitella) ja voin ulkoistaa pelipalvelimen vaikka
+Google App Engineen (GAE) tai vastaavaan. Haittapuolena on
+luonnollisesti turhauttava määrä JS-tappelua. Puhumattakaan siitä,
+että kaikki muutokset pelissä heijastuvat enemmän tai vähemmän sekä
+palvelimen että asiakkaan koodissa. Tuskin CoffeeScript tai edes
+ClojureScript ratkaisisi kaikkia ongelmiani.
+
+GAE:n ja vastaavien kanssa tulee myös se ongelma, että he haluavat
+sitoa esimerkiksi tietokantaratkaisut omiin viritelmiinsä:
+onnistuisiko sitten lokaali pelaaminen lainkaan?! Eli
+henkilökohtaisesti lähtisin kehittämään lokaalia peliä, joka tulisi
+käyttäjien ladata ennen pelaamista. Demomielessä voisi tietysti
+laittaa yhden instanssin pyörimään verkkoonkin, mikä ettei.
+
+Seppo Suorsan [[https://arena-6.appspot.com/][Areena 6]] menikin jo "pilveen", mikä on hyvä esimerkki
+tästä mallista. Seppo tuskin koodasi Clojurella, mutta ajatus on jo
+melkein oikein.
