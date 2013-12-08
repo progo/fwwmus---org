@@ -1,3 +1,5 @@
+#+TITLE: Hikinen iltapäivä: Gentoo uusiksi
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Hikinen iltapäivä: Gentoo uusiksi                       :rauta:gentoo:
 CLOSED: [2013-06-23 Sun 16:37]
 :LOGBOOK:

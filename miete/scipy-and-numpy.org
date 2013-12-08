@@ -1,3 +1,5 @@
+#+TITLE: Eli Bressert: Scipy and Numpy (O'Reilly)
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Eli Bressert: Scipy and Numpy (O'Reilly)      :python:kirja:arvostelu:
 CLOSED: [2013-06-06 Thu 18:52]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: Emacsin IDO trumppaa kirjanmerkit
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Emacsin IDO trumppaa kirjanmerkit                              :emacs:
 CLOSED: [2013-06-06 Thu 18:32]
 :LOGBOOK:

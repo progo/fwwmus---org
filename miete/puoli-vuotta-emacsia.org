@@ -1,3 +1,5 @@
+#+TITLE: Puoli vuotta Emacsia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Puoli vuotta Emacsia                             :emacs:editorit:blog:
 CLOSED: [2013-03-29 Fri 19:36]
 :LOGBOOK:

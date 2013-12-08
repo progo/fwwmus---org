@@ -1,3 +1,5 @@
+#+TITLE: Happojatsi ja Acid jazz
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Happojatsi ja Acid jazz                                :musiikki:jazz:
 CLOSED: [2013-06-29 Sat 19:27]
 :LOGBOOK:

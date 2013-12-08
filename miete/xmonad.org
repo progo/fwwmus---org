@@ -1,3 +1,5 @@
+#+TITLE: Xmonad ja dynaamiset työpöydät
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Xmonad ja dynaamiset työpöydät                        :xmonad:haskell:
 CLOSED: [2013-11-14 Thu 12:53]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: Tilkkutäkkielokuvat
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Tilkkutäkkielokuvat                                  :elokuvat:listat:
 CLOSED: [2013-02-06 Wed 12:34]
 

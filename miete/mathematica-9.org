@@ -1,3 +1,5 @@
+#+TITLE: Mathematica 9
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Mathematica 9                                         :matikka:python:
 CLOSED: [2013-04-01 Mon 00:11]
 :LOGBOOK:

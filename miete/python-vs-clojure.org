@@ -1,3 +1,5 @@
+#+TITLE: Python on huonompi kieli kuin Clojure
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Python on huonompi kieli kuin Clojure           :koodi:python:clojure:
 CLOSED: [2013-05-18 Sat 20:28]
 :LOGBOOK:

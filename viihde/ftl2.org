@@ -1,3 +1,5 @@
+#+TITLE: Faster Than Light 2
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Faster Than Light 2                                  :pelit:roguelike:
 CLOSED: [2013-04-02 Tue 12:20]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: Illuminatukseni
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * TODO Illuminatukseni                                           :peli:koodi:
 
 Haaveita saa miehellä olla. Suuriakin.

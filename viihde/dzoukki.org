@@ -1,3 +1,5 @@
+#+TITLE: Jyrki Kivimäki ja Dzoukki-kirjat
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Jyrki Kivimäki ja Dzoukki-kirjat                      :kirjat:huumori:
 CLOSED: [2013-04-16 Tue 14:51]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: org 8 hajottaa blogin
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE org 8 hajottaa blogin                                           :blog:
 CLOSED: [2013-11-14 Thu 14:02]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: Zsh ja ZLE
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Zsh ja ZLE                                                       :zsh:
 CLOSED: [2013-02-23 Sat 20:42]
 :LOGBOOK:

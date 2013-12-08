@@ -1,3 +1,5 @@
+#+TITLE: Kopiointia seurannan kanssa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Kopiointia seurannan kanssa                                      :cli:
 CLOSED: [2013-05-18 Sat 17:55]
 :LOGBOOK:

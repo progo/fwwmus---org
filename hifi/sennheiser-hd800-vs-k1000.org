@@ -1,3 +1,5 @@
+#+TITLE: Sennheiser HD800 ja AKG K1000
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Sennheiser HD800 ja AKG K1000                                   :hifi:
 CLOSED: [2013-09-11 Wed 19:47]
 :LOGBOOK:

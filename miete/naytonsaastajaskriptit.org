@@ -1,3 +1,5 @@
+#+TITLE: Näytönsäästäjäskriptit
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Näytönsäästäjäskriptit                                    :bash:rauta:
 CLOSED: [2013-04-27 Sat 00:49]
 :LOGBOOK:

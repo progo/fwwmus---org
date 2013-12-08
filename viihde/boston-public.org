@@ -1,3 +1,5 @@
+#+TITLE: Boston Public
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Boston Public                                  :sarjat:david_e_kelley:
 CLOSED: [2013-02-22 Fri 20:18]
 :LOGBOOK:

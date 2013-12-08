@@ -1,3 +1,5 @@
+#+TITLE: The Newsroom
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE The Newsroom                                                  :sarjat:
 CLOSED: [2013-02-07 Thu 11:07]
 

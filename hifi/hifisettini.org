@@ -1,3 +1,5 @@
+#+TITLE: Hifisettini
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Hifisettini                                                     :hifi:
 CLOSED: [2013-04-08 Mon 18:03]
 :LOGBOOK:

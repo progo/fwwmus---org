@@ -1,3 +1,5 @@
+#+TITLE: Rautapäivityksiä ja Gentoo uusiksi
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Rautapäivityksiä ja Gentoo uusiksi                      :rauta:gentoo:
 CLOSED: [2013-06-15 Sat 13:10]
 :LOGBOOK:

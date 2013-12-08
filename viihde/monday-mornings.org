@@ -1,3 +1,5 @@
+#+TITLE: Monday Mornings
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Monday Mornings                                :sarjat:david_e_kelley:
 CLOSED: [2013-06-15 Sat 13:24]
 :LOGBOOK:

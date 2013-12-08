@@ -1,3 +1,5 @@
+#+TITLE: Tehokas =reduce=
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Tehokas =reduce=                                          :clojure:fp:
 CLOSED: [2013-02-16 Sat 20:12]
 :LOGBOOK:

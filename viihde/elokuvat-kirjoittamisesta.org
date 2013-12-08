@@ -1,3 +1,5 @@
+#+TITLE: Elokuvat kirjoittamisesta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * TODO Elokuvat kirjoittamisesta                            :elokuvat:listat:
   
   - Martian Child

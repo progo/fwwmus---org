@@ -1,3 +1,5 @@
+#+TITLE: House MD
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE House MD                                                      :sarjat:
 CLOSED: [2013-02-04 Wed 18:20]
 :LOGBOOK:

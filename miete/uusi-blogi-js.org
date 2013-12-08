@@ -1,3 +1,5 @@
+#+TITLE: Uusi blogi käyttää JavaScriptiä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Uusi blogi käyttää JavaScriptiä                              :js:blog:
 CLOSED: [2013-02-09 Sat 18:54]
 :LOGBOOK:

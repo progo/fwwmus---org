@@ -1,3 +1,5 @@
+#+TITLE: mu4e: kovatasoista sähköpostia Emacsilla
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * TODO mu4e: kovatasoista sähköpostia Emacsilla                 :emacs:email:
 
 - Gmailin uusi viestinkirjoitus on sotkuinen paketti HTML:ää -> en

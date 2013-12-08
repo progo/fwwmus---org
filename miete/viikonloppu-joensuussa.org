@@ -1,3 +1,5 @@
+#+TITLE: Viikonloppu Joensuussa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Viikonloppu Joensuussa                                        :asunto:
 CLOSED: [2013-03-17 Sun 21:46]
 :LOGBOOK:

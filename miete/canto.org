@@ -1,3 +1,5 @@
+#+TITLE: Canto on uusi RSS-lukijani
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Canto on uusi RSS-lukijani                              :softa:python:
 CLOSED: [2013-03-29 Fri 12:20]
 :LOGBOOK:

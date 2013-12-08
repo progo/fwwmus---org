@@ -1,3 +1,5 @@
+#+TITLE: Nopeat kirjanmerkit Emacsille
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Nopeat kirjanmerkit Emacsille                            :emacs:elisp:
 CLOSED: [2013-05-11 Sat 18:06]
 :LOGBOOK:

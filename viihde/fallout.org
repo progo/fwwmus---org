@@ -1,3 +1,5 @@
+#+TITLE: Fallout
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Fallout                                                :pelit:fallout:
 CLOSED: [2013-06-18 Tue 16:04]
 :LOGBOOK:

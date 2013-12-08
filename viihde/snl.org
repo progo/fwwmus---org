@@ -1,3 +1,5 @@
+#+TITLE: It's Saturday Night!
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE It's Saturday Night!                                          :sarjat:
 CLOSED: [2013-09-05 Thu 18:43]
 :LOGBOOK:

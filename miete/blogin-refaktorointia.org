@@ -1,3 +1,5 @@
+#+TITLE: Tämän blogin refaktorointia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Tämän blogin refaktorointia                                     :blog:
 CLOSED: [2013-10-08 Tue 20:28]
 :LOGBOOK:

@@ -1,3 +1,5 @@
+#+TITLE: Java + JavaScript, paras pelialusta?
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Java + JavaScript, paras pelialusta?             :pelit:clojure:koodi:
 CLOSED: [2013-07-12 Fri 13:27]
 :LOGBOOK:

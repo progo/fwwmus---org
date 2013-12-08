@@ -1,3 +1,5 @@
+#+TITLE: Naapuriongelmat ratkaistu
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Naapuriongelmat ratkaistu                                     :asunto:
 CLOSED: [2013-05-28 Tue 11:04]
 :LOGBOOK:

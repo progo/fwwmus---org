@@ -1,3 +1,5 @@
+#+TITLE: Takaisin kolmeen näyttöön
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Takaisin kolmeen näyttöön                                      :rauta:
 CLOSED: [2013-04-19 Fri 19:58]
 :LOGBOOK:

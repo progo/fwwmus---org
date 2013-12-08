@@ -1,3 +1,5 @@
+#+TITLE: Uusi blogi on nyt /out live/
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Uusi blogi on nyt /out live/                                    :blog:
 CLOSED: [2013-03-28 Thu 19:31]
 :LOGBOOK:

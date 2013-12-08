@@ -1,3 +1,5 @@
+#+TITLE: Xen-virtualisointi suoravälitteisellä raudalla
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Xen-virtualisointi suoravälitteisellä raudalla         :rauta:pelailu:
 CLOSED: [2013-07-11 Thu 16:14]
 :LOGBOOK:

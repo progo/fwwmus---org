@@ -1,3 +1,5 @@
+#+TITLE: Twitteröintiä Emacsilla
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Twitteröintiä Emacsilla                                :emacs:twitter:
 CLOSED: [2012-10-24 Wed 16:59]
 :LOGBOOK:

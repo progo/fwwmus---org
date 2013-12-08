@@ -1,3 +1,5 @@
+#+TITLE: Semanttisesta versioinnista
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Semanttisesta versioinnista                              :ohjelmistot:
 CLOSED: [2013-04-04 Thu 17:49]
 :LOGBOOK:
