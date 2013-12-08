@@ -24,4 +24,4 @@ def dofile(filename):
 for root,dir_,files_ in os.walk('.'):
     for file_ in files_:
         if file_.endswith(".org"):
-            dofile(os.path.join(root, file_))
+            # dofile(os.path.join(root, file_))
