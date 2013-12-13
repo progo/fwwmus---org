@@ -9,8 +9,7 @@ CLOSED: [2013-06-23 Sun 16:37]
 Tämä on se pienimuotoinen asennuspäiväkirja 7-vuotisen
 Gentooasennukseni uudelleenasentamiseksi mahdollisimman puhtaalta
 pöydältä 64-bittiseen Intel-maailmaan. Kirjoitin tästä aiemmin
-[[*Rautapäivityksiä ja Gentoo
-uusiksi][muutaman alkusanan]] ja nyt seuraa puhtaaksi kirjoiteltu näkemys
+[[file:rautapaivityksia-gentoo-uusiksi.org][muutaman alkusanan]] ja nyt seuraa puhtaaksi kirjoiteltu näkemys
 asioista.
 
 Tarina on kirjailtu pitkälti sitä mukaa kuin olen asioita tehnyt ja

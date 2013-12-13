@@ -32,7 +32,7 @@ Harrastuksiin kuuluvat:
   perhe-elokuvia, kauhua tai zombi-/vampyyrielokuvia.
 - Sarjoja: hyviä sarjoja, jotka käyvät kulttuurista. Ei mitään
   tositv-roskaa, vaan kunnollista tuotantoa.
-- [[*progon%20hifit][Hifistelyä]]: kuulokepainotteista äänentoistoa. Muutamien
+- [[file:hifi/hifisettini.org][Hifistelyä]]: kuulokepainotteista äänentoistoa. Muutamien
   mutkien kautta päädytty AKG K1000 -pohjaiseen settiin.
 - Tietokoneitakin: editorit, linux, komentorivi ja Xmonad
   määräävinä taikasanoina.

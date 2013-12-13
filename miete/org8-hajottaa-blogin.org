@@ -7,7 +7,7 @@ CLOSED: [2013-11-14 Thu 14:02]
 :END:
 
 Ei ole tullut kamalan usein päiviteltyä tätä blogia nyt ainakaan,
-kun on ollut aatteena [[*Tämän blogin refaktorointia][uudistaa koko systeemi]]. Nyt iso ja kenties
+kun on ollut aatteena [[file:blogin-refaktorointia.org][uudistaa koko systeemi]]. Nyt iso ja kenties
 viimeinen pisara on katkaista kamelimme selän, kun org 8:n uusittu
 vientimoottori on uusinut myös ulostulon kokonaan. Hieman
 purkkamaisesti kasattu HTML->Blog -skriptini ei selviä aivan

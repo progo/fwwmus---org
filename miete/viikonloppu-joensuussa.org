@@ -7,7 +7,7 @@ CLOSED: [2013-03-17 Sun 21:46]
 :END:
 
 Eilen lauantaina sitten muutin Outokummusta Joensuun ruutukaavalle
-ja nyt sitä mietitään teon kaikkia implikaatioita. [[*Joensuuhun hinnalla millä hyvänsä][Edellisessä
+ja nyt sitä mietitään teon kaikkia implikaatioita. [[file:joensuuhun-hinnalla-milla-hyvansa.org][Edellisessä
 postauksessa]] tuumailin joitakin alkuoletuksia asialle. Ne oletukset
 liittyivät ensinnäkin kovasti joihinkin löytämiini teknisiin
 haasteisiin. Haasteita on muunkinlaisia.
