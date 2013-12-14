@@ -25,9 +25,9 @@ sitten lopulta siihenkin jotain: heitetään tavallinen ajastinratkaisu
 hitaasti syttyvän ESL-valon perään. Tulee yllättävän hyvää jälkeä
 näin.
 
-[[/home/progo/dokumentit/blog/pics/laehi.jpeg]]
+[[../pics/laehi.jpeg]]
 
-[[/home/progo/dokumentit/blog/pics/yleis.jpeg]]
+[[../pics/yleis.jpeg]]
 
 No joo, laitoin lukuvalona toimivan loisteputken siihen perään, toimii
 ihan yhtä hyvin. Erityisesti kun rasiassa on se ajastimen ohituksen

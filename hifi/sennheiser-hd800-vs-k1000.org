@@ -16,7 +16,7 @@ yksinoikeutta, jonka jälkeen palaan -- nyt -- K1000:een ja teen
 käänteisiä havaintoja. Paras tapa analysoida eroja
 pitkäaikaiskäytössä!
 
-[[/home/progo/dokumentit/blog/pics/k1000_hd800_1.jpeg]]
+[[../pics/k1000_hd800_1.jpeg]]
 
 ** HD650 on Steroids
 
@@ -72,7 +72,7 @@ Dynamiikkaa ei HD800:sta lähtenyt tällä vahvistuksella koskaan
 tarpeeksi. Pelikäytössä huomasi kiusallisen hyvin, mutta kyllähän
 tuo musiikistakin terävimmän kärjen imaisee.
 
-[[/home/progo/dokumentit/blog/pics/k1000_hd800_2.jpeg]]
+[[../pics/k1000_hd800_2.jpeg]]
 
 ** Ja takaisin kotiin
 
