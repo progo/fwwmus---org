@@ -1,4 +1,5 @@
 #+TITLE: Käyttämäni MPD-asiakkaat
+#+OPTIONS: ^:{}
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
 * DONE Käyttämäni MPD-asiakkaat                                         :mpd:
 CLOSED: [2013-05-17 Fri 14:29]
@@ -10,11 +11,11 @@ Kerron, mitä MPD-asiakasohjelmia käytän. Tässä ne tulevat
 käyttöjärjestyksessä, ja sitten elaboroin, jos näen tarvetta.
 
 1. [[http://pms.sourceforge.net/][PMS]], eli Practical Music Search
-2. [[https://github.com/progo/jazz_up][jazz\_up]] on omakirjoittamani bash-kikkare
+2. [[https://github.com/progo/jazz_up][=jazz_up=]] on omakirjoittamani bash-kikkare
 3. [[http://www.musicpd.org/clients/mpc/][MPC]] loppuihin kikkailuihin
 4. (mpp: C-kikkare, joka tulostaa soittolistan terminaaliin)
-5. (mpp\_length.sh: awk-kikkare, jolla katson soittolistan
-  kokonaispituuden)
+5. (=mpp_length.sh=: awk-kikkare, jolla katson soittolistan
+   kokonaispituuden)
 
 Kunniamaininta annetaan [[http://mpd.wikia.com/wiki/Client:Mpdscribble][MPDScribblelle]], joka on myös klientti ja
 teknisesti ottaen täten eniten käyttämäni klientti. MPDScribble
@@ -31,9 +32,9 @@ vastaavasti lisää albumin ja aloittaa soittamisen siitä
 välittömästi. En ole osannut kaivata ylimääräistä joustavuutta,
 joten PMS:stä tuli vähitellen pääasiallinen klienttini.
 
-** Jazz\_up nopeita arvontoja varten
+** Jazz_up nopeita arvontoja varten
 
-Jazz\_up ottaa argumenttinaan minuuttilukeman ja mpd-soittolistan
+Jazz_up ottaa argumenttinaan minuuttilukeman ja mpd-soittolistan
 nimen. Sieltä se sitten alkeellisesti arpoo listalta sellaisia
 kappaleita listalle, että minuuttilukema tulee suurinpiirtein
 täyteen. Toimii, kun haluaa nopeasti syödä nuudelinsa jonkun
