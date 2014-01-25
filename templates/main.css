@@ -1,0 +1,109 @@
+body {
+    background-color: #feffcc;
+    margin: 0;
+    width: 100%;
+}
+
+#main {
+    margin-right: 40%;
+    margin-left: 3em;
+    font-family: "Georgia", "Times New Roman", Times, Serif;
+}
+
+#main p {
+    line-height: 150%;
+}
+
+/*** Listings ***/
+
+#newest-changes {
+}
+
+#newest-changes ul li {
+    padding: 0.6em;
+    margin-bottom: 0.4em;
+    background-color: yellow;
+}
+
+/*** CODE ***/
+
+#main code {
+    background-color: lightgray;
+}
+
+pre.src {
+    background-color: lightgray;
+}
+
+pre.src .code-keyword { color: red; }
+pre.src .code-builtin { color: green; }
+pre.src .code-variable-name { color: black; }
+pre.src .code-function-name { color: yellow; }
+pre.src .code-comment-delimiter { color: gray; }
+pre.src .code-comment { color: gray; }
+pre.src .code-string { color: green; }
+pre.src .code-sh-quoted-exec { color: purple; }
+pre.src .code-sh-escaped-newline { }
+
+/***  HEADER  ***************************************/
+
+#header {
+    margin: 0;
+    padding: 0.4em;
+    background-color: #444;
+    color: #ddd;
+}
+
+#header h1 {
+    margin: 0;
+}
+
+/***  FOOTER  ***************************************/
+
+#footer {
+    margin: 0;
+    margin-top: 1em;
+    background-color: #333;
+    color: #ddd;
+    padding: 10px;
+}
+
+
+/***  SIDEBAR  ***************************************/
+
+#sidebar {
+    float: right;
+    width: 35%;
+    /* background-color: cyan; */
+}
+
+#sidebar ul {
+    list-style-type: none;
+    list-style-position: inside;
+    width: 12em;
+    width: 70%;
+    margin-right: 25px;
+    padding: 0;
+}
+
+#sidebar ul li {
+    padding: 10px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: smaller;
+    /* height: 2em; */
+    background-color: yellow;
+    margin: 4px;
+}
+
+#sidebar .value {
+    text-weight: bold;
+}
+#sidebar .key {
+    float: right;
+    color: #b5b500;
+    text-transform: uppercase;
+    /* position: absolute; */
+    /* bottom: 0; */
+    /* right: 0; */
+}
