@@ -25,22 +25,6 @@ body {
     background-color: yellow;
 }
 
-/*** Tag lists ***/
-
-.tag-list-oneline {
-    color: red;
-    padding-left: 0;
-}
-.tag-list-oneline li {
-    padding: 0;
-    margin: 0;
-    display: inline;
-    background-color: #fff888;
-    padding-left: 2px;
-    padding-right: 2px;
-    margin-right: .5em;
-}
-
 /*** CODE ***/
 
 #main code {
@@ -108,13 +92,20 @@ pre.src .code-sh-escaped-newline { }
     padding-bottom: 1em;
     font-size: smaller;
     /* height: 2em; */
-    background-color: yellow;
     margin: 4px;
+}
+
+#sidebar ul.info-list li {
+    background-color: #ccc;
+}
+#sidebar ul.navi-list li {
+    background-color: #ccc;
 }
 
 #sidebar .value {
     text-weight: bold;
 }
+
 #sidebar .key {
     float: right;
     color: #b5b500;
@@ -123,3 +114,29 @@ pre.src .code-sh-escaped-newline { }
     /* bottom: 0; */
     /* right: 0; */
 }
+
+/*** Tag lists ***/
+
+.tag-list-oneline {
+    color: red;
+    padding-left: 0;
+}
+
+.tag-list-oneline li {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    background-color: #fff888;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-right: .5em;
+}
+
+/* Small usage */
+.tag-list li.tag-0 { background-color: #fff888; }
+/* Medium usage */
+.tag-list li.tag-1 { background-color: #ffec88; }
+/* Good usage */
+.tag-list li.tag-2 { background-color: #ffd288; }
+/* Heavy usage */
+.tag-list li.tag-3 { background-color: #ffaf88; }
