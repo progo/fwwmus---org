@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700);
+
 body {
     background-color: #feffcc;
     margin: 0;
@@ -7,7 +9,8 @@ body {
 #main {
     margin-right: 40%;
     margin-left: 3em;
-    font-family: "Georgia", "Times New Roman", Times, Serif;
+    /* font-family: "Georgia", "Times New Roman", Times, Serif; */
+    font-family: /*"Georgia",*/ "PT Serif", "Georgia", "Times New Roman", serif;
 }
 
 #main p {
