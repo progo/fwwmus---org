@@ -28,6 +28,24 @@ body {
     background-color: yellow;
 }
 
+/*** All posts list ***/
+
+ul.all-posts-list li .post-rev {
+    color: gray;
+    float: right;
+    /* display: table-cell; */
+}
+
+ul.all-posts-list li .post-created {
+    color: purple;
+    float: right;
+}
+
+ul.all-posts-list li {
+    margin-bottom: .5em;
+    list-style-type: none;
+}
+
 /*** CODE ***/
 
 #main code {
