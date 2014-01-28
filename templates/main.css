@@ -9,8 +9,7 @@ body {
 #main {
     margin-right: 40%;
     margin-left: 3em;
-    /* font-family: "Georgia", "Times New Roman", Times, Serif; */
-    font-family: /*"Georgia",*/ "PT Serif", "Georgia", "Times New Roman", serif;
+    font-family: "PT Serif", "Georgia", "Times New Roman", serif;
 }
 
 #main p {
@@ -95,46 +94,39 @@ pre.src .code-sh-escaped-newline { }
 #sidebar {
     float: right;
     width: 35%;
-    /* background-color: cyan; */
 }
 
 #sidebar ul {
     list-style-type: none;
     list-style-position: inside;
-    width: 12em;
     width: 70%;
-    margin-right: 25px;
+    margin-right: 10%;
     padding: 0;
 }
 
 #sidebar ul li {
-    padding: 10px;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    margin-bottom: 6px;
     font-size: smaller;
-    /* height: 2em; */
-    margin: 4px;
 }
 
-#sidebar ul.info-list li {
+/** Navigational items */
+#sidebar ul.navi-list li > * {
     background-color: #ccc;
 }
 
-#sidebar ul.navi-list li {
+/** Information items  */
+#sidebar ul.info-list li > * {
     background-color: #ccc;
 }
 
-#sidebar .value {
+#sidebar ul.info-list .value {
     text-weight: bold;
 }
 
-#sidebar .key {
+#sidebar ul.info-list .key {
     float: right;
     color: #b5b500;
     text-transform: uppercase;
-    /* position: absolute; */
-    /* bottom: 0; */
-    /* right: 0; */
 }
 
 /*** Tag lists ***/
@@ -148,17 +140,31 @@ pre.src .code-sh-escaped-newline { }
     padding: 0;
     margin: 0;
     display: inline;
+}
+
+.tag-list-oneline li > * {
     background-color: #fff888;
-    padding-left: 2px;
-    padding-right: 2px;
-    margin-right: .5em;
+}
+
+#sidebar li > * {
+    display: block;
+    width: 93%;
+    height: 100%;
+    padding-left: .7em;
+    padding-right: .5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#sidebar li > a:hover {
+    background-color: yellow;
 }
 
 /* Small usage */
-.tag-list li.tag-0 { background-color: #fff888; }
+.tag-list li.tag-0 > * { background-color: #fff888; }
 /* Medium usage */
-.tag-list li.tag-1 { background-color: #ffec88; }
+.tag-list li.tag-1 > * { background-color: #ffec88; }
 /* Good usage */
-.tag-list li.tag-2 { background-color: #ffd288; }
+.tag-list li.tag-2 > * { background-color: #ffd288; }
 /* Heavy usage */
-.tag-list li.tag-3 { background-color: #ffaf88; }
+.tag-list li.tag-3 > * { background-color: #ffaf88; }
