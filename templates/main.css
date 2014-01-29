@@ -72,6 +72,10 @@ a:hover {
     float: right;
 }
 
+#article-list .post-rev {
+    float: right;
+}
+
 /*** All posts list ***/
 
 ul.all-posts-list li .post-rev {
