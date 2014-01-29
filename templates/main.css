@@ -68,6 +68,10 @@ a:hover {
     margin-bottom: 0.4em;
 }
 
+#newest-changes .post-date-status {
+    float: right;
+}
+
 /*** All posts list ***/
 
 ul.all-posts-list li .post-rev {
