@@ -1,6 +1,6 @@
 #+TITLE: Pelisavetukset versiohallintaan
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Pelisavetukset versiohallintaan                   :pelit:bash:fallout:
+* DONE Pelisavetukset versiohallintaan             :pelit:bash:fallout:koodi:
 CLOSED: [2013-06-27 Thu 19:57]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2013-06-27 Thu 19:57]
