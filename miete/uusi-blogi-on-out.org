@@ -41,3 +41,30 @@ kirveelläkään. Olisin halunnut jatkojalostaa Michael Corleone
 Michael ja Lodge on tottakai yksi potentiaalinen jalostuksen
 kohde. Yhdistäisin ehkä vanhan blogin yläpalkkijuttua ja Michaelia
 ja Odotushuonetta. /We'll see in 25 years!/
+
+** Uusi blogi on uudemman kerran ulkona
+
+Vanha systeemi [[file:blogin-refaktorointia.org][ei kestänyt]] pitkään, kun jo [[file:org8-hajottaa-blogin.org][antoi periksi]]. Korjaukset
+olisivat olleet tietenkin tehtävissä vanhaan moottoriin, mutta päädyin
+nyt kirjoittamaan uuden. Mukana on uusia ja hienoja juttuja, kuten
+gitin kautta tehtävä versiointi. Diffejäkin pääsette tarkastelemaan
+ehkä jossain vaiheessa. Nyt kukin postaus on omana tiedostonaan.
+Päällepäin näkyviä uusia ominaisuuksia:
+
+- Luontipäivämäärien lisäksi myös viimeisin muokkauspäivämäärä.
+- RSS-feedit näyttävät uusien postausten lisäksi kaikki /isot/
+  revisiot vanhoihin postauksiin. Tämä on sitä follow-up -henkeä, jota
+  koitan viljellä.
+- Postausten urlit ovat nyt yksinkertaistuneet; hävitin pois tuota
+  temporaalista elementtiä osoitteista. Joissakin jutuissa ei ole niin
+  kamalasti väliä, milloin sen julkaistu ensivedos on tapahtunut.
+- Samaan syssyyn postausten kategoriat ovat hävinneet. Käytän tageja
+  vapaammin täst'edespäin.
+- Ja tagit ovat nyt tietoisempia toisistaan, ja järjestän ne sivuille
+  aina yleisyysjärjestyksessä. Pientä värikoodausta on kaverina
+  kanssa.
+
+Näillä muutoksilla toivon, että systeemi muuttuu kohti julkaistua ja
+aukikirjoitettua tietämyskantaa. Tavanomaista blogia tai
+verkkopäiväkirjaa en ole kamalasti harrastanut.
+
