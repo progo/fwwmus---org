@@ -1,38 +1,99 @@
-#+TITLE: Blogin takana on mies
+#+TITLE: Mikael 'progo' Puhakka, tiivistetty haastattelu
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Blogin takana on mies
+* DONE Blogin takana on mies                                    :haastattelu:
 CLOSED: [2013-04-08 Mon 17:59]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2013-04-08 Mon 17:59]
 :END:
 
-Minkälainen mies on tämä /progo/, joka kirjoittelee blogia?
-Jonkinlainen summariikki lienee tarpeen kirjoittaa itsestäni.
+Jos koko [[file:henkilot/mike.org][haastattelua]] ette jaksa lukea, niin tässä tulee toivottavasti
+parhaat poiminnat. Asiaankuuluvat henkilöt löydät esiteltynä ison
+haastattelun alusta.
 
-** Mikael 'progo' Puhakka
+- nokkela :: kerrohan vähän itsestäsi, ne perustiedot. Syntynyt?
+- progo :: Kyllä olen. 23 vuotta sitten.
+           
+           [Asun Joensuussa.]
+- Hetsku :: Mitä olet opiskellut?
+- progo :: Matematiikkaa ja tietojenkäsittelytieteitä (TKT) pääosin.
+           Matikasta olin jo alakoulussa innostunut ja lukiossa kävin
+           tietenkin pitkän matematiikan.
 
-- Asuu ja opiskelee Joensuussa, sitä ennen Outokummussa. Alkujaan
-  lähtöisin Kontiolahdelta.
+           [Opiskelen] entisessä Joensuun yliopistossa, nykyisessä
+           Itä-Suomen yliopistossa (UEF).
+- Hetsku :: Mainitsit jo hifiharrastuksen ja valokuvauksen, onko muita
+            mainittavia nautinnonlähteitä? Luokittelen valokuvaamisen
+            nautinnoksi.
+- progo :: Saan nautintoa myös tietokoneharrastuksistani ja
+           funktionaalisilla kielillä näpräämisestä. Jos nautinnolla
+           tarkoitat nyt harrastuksia suurempaa joukkoa, niin olen
+           erilaisten taiteiden perässä ja nautin sellaisesta. Vaikka
+           ehkäpä elokuvien ja musiikin kuluttaminen on
+           luokiteltavissa harrastukseksi sekin.
 
-** Opinnot
+           Ja tähdennän vielä, että en yhdistä --- en ainakaan halua
+           yhdistää taiteellista ja tieteellistä puoltani. Ammentaisin
+           alitajunnasta mieluusti.
+- nokkela :: Suosit siis alitajuista intuitiota? Annat
+             tiedostamattomien prosessien hämmentää eri syötteistä
+             syntyvää soppaa?
+- progo :: Kyllä, näin voisin tilannetta tulkita.
 
-- Tietojenkäsittelytieteiden ja matematiikan opiskelija Itä-Suomen
-  yliopistossa
-- Luonnontieteiden kandidaatti
-- Akateemiset kiinnostukset:
-  - Tietojenkäsittely: algoritmit, kompleksisuusanalyysi ja
-    teoreettinen TKT.
-  - Matematiikka: algebralliset rakenteet.
+- Hetsku :: En muuten kysynyt heti alkuun tätä. fwwm.us-nimellä on varmasti
+            tarina?
+- progo :: Domainin nimi tulee Twin Peaks: Fire Walk With Me -fraasin
+           ja -elokuvan lyhenteestä.
+- nokkela :: Kerrohan vähän Twin Peaksistä.
+- progo :: Twin Peaks kertoo nuoren tytön murhasta pienessä metsäläiskylässä
+           perä-Amerikassa.
 
-** Harrastelee:
 
-Harrastuksiin kuuluvat:
+- nokkela :: Mitä Mr. P lukee? Genrejä, kirjailijoita, milloin, missä
+             ja kuinka usein? Faktaa, fiktiota, papereita?
+- progo :: En lue paljoa, se täytyy todeta. Jos luen, ne yleensä
+           kuvastuvat elokuvamakuni kanssa pitkälti: haluan
+           kirjoiltani samaa kuin elokuvilta. Draamaa.
 
-- Elokuvia: kunnolliset draamat ja sen sellaiset. Ei
-  perhe-elokuvia, kauhua tai zombi-/vampyyrielokuvia.
-- Sarjoja: hyviä sarjoja, jotka käyvät kulttuurista. Ei mitään
-  tositv-roskaa, vaan kunnollista tuotantoa.
-- [[file:hifi/hifisettini.org][Hifistelyä]]: kuulokepainotteista äänentoistoa. Muutamien
-  mutkien kautta päädytty AKG K1000 -pohjaiseen settiin.
-- Tietokoneitakin: editorit, linux, komentorivi ja Xmonad
-  määräävinä taikasanoina.
+
+- nokkela :: Kulttuuritarjonnasta siis. Minkälaisissa tapahtumissa
+             kävisit? Minkälaisia tapahtumia toivoisit mm.
+             kotikaupunkiisi tai Suomen kaupunkeihin yleensä?
+- progo :: Jazz-keikat, standup, elokuvissa käyminen... Hyviä elokuvia
+           ei näytä kuin muutama hassu teatteri, etunenässä Helsingin
+           Orion.
+
+- nokkela :: Food is, mainly, sustenance for the body, not a pleasure?
+- progo :: Kyllä, syön ensitilassa elääkseni. Joskus on hyvä kuitenkin
+           herkutella. En anna asian näkyä budjetissani.
+
+- nokkela :: Sinullahan oli jotkin kuulokkeetkin ja vahvistin?
+- progo :: Hifistelen hieman. Settini on puhtaasti kuulokepohjainen:
+           Vahvistimena Marantz PM80 ja kuulokkeina (tai
+           korvakaiuttimina) AKG K1000.
+
+- progo :: Pelailen toki vähän. Se on eräs tapa nauttia vapaa-ajasta.
+           Peleissä ei aina aktiivisen roolin takia pääse miettimään
+           taiteellisia asioita samalla tavalla kuin elokuvissa ja
+           sarjoissa. Otan pelini siis toisella tavalla, tunnelmina ja
+           tunnelmanluojina.
+
+           Ei ole selkeätä suosikkipeliä. Mutta kärkikaksikkoon voi
+           laskea GTA: Vice Cityn ja Fallout 3:n. Kummassakin
+           tapauksessa tunnelma on kova.
+- Hetsku :: Pidätkö peleissä tarkkaan skriptatuista, lineaarisista
+            juonista ja radoista? Tai oikeammin, häiritsevätkö ne?
+            Viittaan esim. Half Life 2:een.
+- nokkela :: Vai miltä Fallout >=3:n monipolkuinen ja mahdollisesti
+             epälineaarinen open world -setting tuntuu?
+- progo :: Lineaarisuus ja sen häiritsevyys riippuu kovasti
+           kontekstista. HL ja HL2 ovat luonteeltaan putkijuoksuja,
+           joten lineaarisuus ei häiritse. Sen sijaan jos Falloutissa
+           yksikin asia tapahtuu vähänkin putkimaisesti, menee usein
+           ilta --- tai ainakin tehtävä --- pilalle.
+
+- Hetsku :: Jos pitäisi valita: Pelit vai Elokuvat?
+- progo :: Elokuvat.
+
+           Kulutuksen kannalta siis. Itsensäilmaisussa pelit.
+- progo :: (Teen itse itselleni kysymyksen:) Taide vai tiede?
+- progo :: Vastaan: taide.
