@@ -12,16 +12,10 @@
     font-family: "PT Serif", "Georgia", "Times New Roman", serif;
 }
 
-#header .title {
-    margin: 0;
-    padding: 0;
+#site-title {
     color: white;
-}
-
-#header .subtitle {
-    margin: 0;
-    padding: 0;
-    color: #efda00;
+    font-size: 30pt;
+    margin: .6em;
 }
 
 /*** BODY + main things **/
