@@ -6,10 +6,10 @@ CLOSED: [2014-01-30 Thu 11:17]
 - State "DONE"       from ""           [2014-01-30 Thu 11:17]
 :END:
 
-Alla on täysimääräinen minun haastattelu, joka tehtiin kolmen ihmisen
-kesken IRC-kanavalla neljän tunnin aikana. Ehdittiin jakaa yksi jos
-toinenkin ajatus! Lue subjektiivinen (itsekoostamani) [[file:../progo.org][lyhytversio]], jos
-ei aika riitä tähän.
+Alla on täysimääräinen minun haastatteluni, joka tehtiin kolmen
+ihmisen voimin IRC-kanavalla joulukuussa 2013 parina iltana yhteensä
+neljän tunnin aikana. Ehdittiin jakaa yksi jos toinenkin ajatus! Lue
+subjektiivinen (itsekoostamani) [[file:../progo.org][lyhytversio]], jos ei aika riitä tähän.
 
 ** Henkilöiden esittely
 
