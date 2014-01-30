@@ -1,4 +1,5 @@
 #+OPTIONS: tex:dvipng
+#+OPTIONS: indent
 
 # Note: don't edit the #+TAGS below directly. Use collect_tags.sh.
-#+TAGS: arvostelu asunto bash blog cli clojure david_e_kelley editorit elisp elokuvat emacs email fallout fp gentoo haskell hifi huumori jazz js kirja kirjat koodi listat matikka mpd musiikki nethack ohjelmistot pelailu peli pelit python rauta roguelike sarjat softa twitter vim xmonad zsh
+#+TAGS: arvostelu asunto bash blog cli clojure david_e_kelley editorit elisp elokuvat emacs email fallout fp gentoo haastattelu haskell hifi huumori jazz js kirja kirjat koodi listat matikka mpd musiikki nethack ohjelmistot pelailu peli pelit python rauta roguelike sarjat softa twitter vim xmonad zsh
