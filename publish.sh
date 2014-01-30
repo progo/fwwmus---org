@@ -3,7 +3,7 @@
 # Meant for org to call after its part of the process.
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-TEMPDIR='/home/progo/temp/blog/'
+TEMPDIR='/home/progo/temp/blog_out/'
 CODEDIR='/home/progo/koodi/blogen/'
 GITREPO='/home/progo/dokumentit/fwwm.us/'
 
