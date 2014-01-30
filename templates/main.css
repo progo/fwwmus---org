@@ -57,6 +57,16 @@ a:hover {
     background-color: #dedb73;
 }
 
+
+.org-dl dt {
+    font-weight: bold;
+    color: white;
+}
+
+.org-dl dd {
+}
+
+
 /*** Listings ***/
 
 #newest-changes li {
