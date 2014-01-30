@@ -1,0 +1,957 @@
+#+TITLE: Mikael 'progo' Puhakka, koko haastattelu
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Haastattelu                                              :haastattelu:
+CLOSED: [2014-01-30 Thu 11:17]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-01-30 Thu 11:17]
+:END:
+
+Alla on täysimääräinen minun haastattelu, joka tehtiin kolmen ihmisen
+kesken IRC-kanavalla neljän tunnin aikana. Ehdittiin jakaa yksi jos
+toinenkin ajatus! Lue subjektiivinen (itsekoostamani) [[file:../progo.org][lyhytversio]], jos
+ei aika riitä tähän.
+
+** Henkilöiden esittely
+
+- progo :: Päähenkilömme, eli minä.
+- Hetsku :: Pirkanmaan poikia, nykyisin porilainen opiskelija.
+- nokkela :: Satakunnan poikia, nykyisin helsinkiläinen
+             vapaa-ajattelija.
+
+** Alkujutut ja opiskelu
+
+- nokkela :: Aloitetaan.
+- progo :: Heippa.
+- Hetsku :: Iltaa.
+- nokkela :: Hei, Mr. Progo. Tervetuloa.
+- progo :: Kiitän.
+- nokkela :: kerrohan vähän itsestäsi, ne perustiedot. Syntynyt?
+- progo :: Kyllä olen. 23 vuotta sitten.
+- Hetsku :: Mitä olet opiskellut?
+- progo :: Matematiikkaa ja tietojenkäsittelytieteitä (TKT) pääosin.
+           Matikasta olin jo alakoulussa innostunut ja lukiossa kävin
+           tietenkin pitkän matematiikan.
+- nokkela :: Oletettavasti hyvällä menestyksellä? Mikä matematiikassa sinua
+             eniten nappaa, kiehtoo?
+- progo :: TKT lähti opiskelutasolla vasta yliopistossa kunnolla liikkeelle,
+           mutta olinhan itseoppinut sitä ennen.
+- progo :: Niin, matematiikassa on paljon filosofiaa ja täsmällisyyttä. Kun
+           koululaskennosta pääsee eroon, paljastuu abstrakti taivas.
+- Hetsku :: Oliko opiskelupaikka helppo tai selvä valinta?
+- progo :: Kaikki opiskelupaikat olivat helppoja ja selviä valintoja.
+           Lukio simppelisti läheisyyden takia ja yliopisto samoin.
+- nokkela :: Jos sinun pitäisi luonnehtia Joensuun yliopiston mat. &
+             luonnontieteiden tiedekuntaa muutamalla sanalla, mitkä ne
+             olisivat? Oletko tyytyväinen opetuksen ja tieteen tasoon
+             ko. paikassa?
+- progo :: Entisessä Joensuun yliopistossa, nykyisessä Itä-Suomen
+           yliopistossa (UEF) on hyvä, mutta pieni matematiikan
+           laitos. TKT-laitos on sen sijaan huonohko, mutta ... no,
+           sekin on vähän pieni.
+
+           Pienessä paikassa on erikoistuttava ja täällä on
+           erikoistuttu minua epäkiinnostaviin aiheisiin (optinen
+           tutkimus, kompleksianalyysi, värianalyysi).
+- nokkela :: Vaihtosuunnitelmia ei kuitenkaan ole näköpiirissä? Mitkä
+             aiheet olisivat eniten omaan mieleesi? Matematiikkahan
+             käsittää varsin muhkeasti erilaisia osa-alueita.
+- progo :: Nyt kun täällä on töitä, niin vaihtosuunnitelmia ei ole.
+           Kuopion yhtymisen jälkeen saa gradunkin tehtyä haluamallaan
+           aiheella (funktionaaliset kielet, clojure).
+
+           Matematiikassa minua on eniten hykerryttäneet algebralliset
+           rakenteet, logiikka ja nyt tuoreelti topologia, mutta
+           niihin ei ole paljoa peruskurssien päälle tarjolla.
+
+           Vastaavasti TKT:ssä laskennallisuuden teoria, $P = NP$
+           -kysymykset ja algoritmiteoria olisivat mieluisia.
+
+** Clojure ja kielet
+
+- nokkela :: Kerrohan hieman tuosta Clojuresta ja funktionaalisista kielistä;
+             minkälaisia eroavaisuuksia ja paremmuuksia niillä verrattuna ns.
+             perinteisiin ohjelmointikieliin?
+
+             Vaikkapa näin nyt siihen C++:aan, joka lienee kovin
+             monelle tuttu. PHP:stä puhumattakaan.
+- progo :: Nykyisin valtavirrassa toimivat /imperatiiviset/ kielet toimivat
+           vanhalla 50-lukulaisella ajatusmallilla, että ohjelmoijan tulisi
+           opastaa tietokonetta joka asiassa; että muisti- ja kovalevytila
+           olisivat hyvin rajallisia.
+
+           Imperatiivisissa kielissä pääpaino on kirjaimellisesti eri
+           muistipaikkojen hallinnassa ja muistamisessa, pitkälti
+           ohjelmoijan harteille jätettynä!
+
+           Funktionaaliset kielet painottavat muuttumatonta dataa, jolloin datan
+           paikalla ei olekaan niin paljoa väliä. Tämä muuttaa myös monia
+           asioita, miten asioihin on tavattu lähestyä.
+
+           Clojure on sitten vielä hieman oma tapauksensa funktionaalisten
+           kielten joukossa. Clojure painottaa datan roolia sovelluksissa.
+- nokkela :: Laiskat listat, ja, esimerkiksi, kaikki reaaliluvut samassa nipussa?
+             Ja se Lisp, eikös se ollut sellainen vanhan hyvän ajan kieli?
+- progo :: Heh, muutama funktionaalinen kieli tosiaan osaa näitä
+           kikkoja. Mainitsemasi laiskuus ei esimerkiksi onnistu
+           yleisissä imperatiivisissa kielissä muuten kuin
+           erityistapauksissa ja sittenkin ohjelmoijan eksplisiittistä
+           huolellisuutta vaatien (generaattorit, iteraattorit
+           Pythonissa ja C++:ssa).
+- progo :: Clojure on Lisp, mutta Lisp ei kuolekaan koskaan.
+  
+           "If you give someone Fortran, he has Fortran.
+            If you give someone Lisp, he has any language he pleases."
+                -- Guy L. Steele Jr.
+
+           Lisp on kirjaimellisesti paluuta tulevaisuuteen. Monia
+           50-70-luvuilla lispeihin tulleita kikkoja löydetään näinä
+           päivinä uudelleen ja toteutetaan nykyajan trendikieliin.
+- nokkela :: Mainitsehan näin esimerkin vuoksi muutamia vielä.
+             Lispistä on siis moneksi ja siitä voi siis rakentaa
+             lukemattomasti, lähes ja melkein - ellei nyt suinkaan
+             ylinumeroituvasti - mitä vain?
+- progo :: Alkuperäisiä ominaisuuksia 50-luvulta ovat esimerkiksi dynaaminen
+           tyypitys, nimettömät funktiot ja roskienkeruu.
+
+           Lispien tärkein ominaisuus on olla omien tietorakenteidensa näköisiä,
+           ja se mahdollistaa umpitehokkaiden /makrojen/ kirjoittamisen.
+- nokkela :: Eikös sinulla ollut jopa funktionaalisella kielellä toteutettu
+             ikkunamanageri?
+- progo :: [[http://xmonad.org][Xmonad]], kyllä on. Se on Haskellilla
+           kirjoitettu forkkaus (tai rewrite pikemminkin)
+           dwm-nimisestä minimalistisesta ikkunamanagerista.
+
+           Sen konffaaminen tapahtuu suoraan ohjelmakoodin sisään, ja laiskan
+           funktionaalisen kielen, kuten Haskellin, edut tulevat todella hyvin
+           esille. On kuin kirjoittaisi dynaamista kieltä, vaikka kaikki on
+           erittäin vahvasti tyypitettyä tavaraa ja kovin formaaliakin.
+
+** Eksaktius ja rahankäyttö
+
+- nokkela :: Matemaattisuutesi, loogisuus ja eksaktius, pyrkimys siihen, näkyy
+             siis mm. tietokoneessasi - ainakin rakenteissa. Miten muuten se näkyy
+             arkielämässäsi? Kuinka järjestelmällinen olet?
+- progo :: Hyvä yksi. Olen ollut toistaiseksi kohtuullisen
+           järjestelmällinen kyllä. Pidän esimerkiksi kirjanpitoa
+           rahankäytöstäni ([[ledger-cli.org]]) ja se on tapa on
+           pysynyt jo kaksi vuotta.
+- progo :: Pidän myös ajatuksistani kirjaa Emacsin org-tiedostossa, eräänlaisena
+           tietämyskantana. Se ei ole niin kamalan hyvin tarttunut, mutta siellä
+           kannassa on kyllä kaikenlaista, johon aina palaan myöhemmin.
+- Hetsku :: Pakko kysyä, millä tarkkuudella kirjaat rahankäytön?
+- progo :: Kaikki tileillä pyörivä raha on kirjattuna. Jos nostan
+           tililtä rahaa lompakkoon, siis fyysistä käteistä, en seuraa.
+
+           Olen myös pakottanut itseäni maksamaan ruokaostoksia yms. kortilla,
+           jotta ne tulisi sitten myös tosiaan kirjattua ylös. Otan kuitit aina
+           talteen ja siitä on helppo naputella luvut talteen.
+- nokkela :: Rahankäyttö lienee pysynyt hanskassa?
+- progo :: No se on. Ei ole vielä oikein, mistä tuhlata. Toisin kuin
+           useimmat meistä, elän kitsastellen arjet ja "juhlin pyhät".
+           En käytä paljoa rahaa ruokaan tai vaatteisiin, mutta tonnin
+           kameraostokset ja vastaavat on sitten sitäkin helpommin
+           tehtyjä.
+- nokkela :: Panostat siis laatuun ja/tai suosit ennemmin
+             pitkäkestoisia ja tuntuvia(?) nautintoja?
+- progo :: Näin juuri. Sisäinen kitupiikkini myös pitää ajatuksesta,
+           että nauttimalla vaikkapa hifiharrastuksesta harrastettavan
+           tavaran arvo säilyy ja siitä voi saada hyvän palautuksen
+           myydessäkin. Samaa ei voi sanoa vaikkapa hieman
+           kalliimmasta pihvistä ravintolassa tai laatumuroista halvan
+           pirkka-sellaisen sijaan.
+- nokkela :: Tässäkin näkyy siis hyvin matemaattisuutesi ja loogisuutesi.
+
+** Harrastukset; valokuvaus
+
+- Hetsku :: Mainitsit jo hifiharrastuksen ja valokuvauksen, onko muita
+            mainittavia nautinnonlähteitä? Luokittelen valokuvaamisen
+            nautinnoksi.
+- progo :: Saan nautintoa myös tietokoneharrastuksistani ja
+           funktionaalisilla kielillä näpräämisestä. Jos nautinnolla
+           tarkoitat nyt harrastuksia suurempaa joukkoa, niin olen
+           erilaisten taiteiden perässä ja nautin sellaisesta. Vaikka
+           ehkäpä elokuvien ja musiikin kuluttaminen on
+           luokiteltavissa harrastukseksi sekin.
+- nokkela :: Mainitsit kamerat jo aiemmin; kameroilla kuvataan usein
+             --- vain muistiintallennuksen lisäksi --- taidetta.
+             Kuvailetko paljonkin? Minkälaisia kohteita? Näkyykö
+             matematiikka näissä? Kultaisia leikkauksia, kotiloita,
+             kaarteita? Fibonaccin luvut?
+- progo :: Tämä on kiintoisa kysymys kyllä. Valokuvissani on varmasti
+           jotain matemaattista; pidän toki fraktaaleista ja
+           vastaavista. Sen sijaan en allekirjoita useiden
+           valokuvaajien käsitystä kultaisen leikkauksen tai kolmen
+           sääntöjen tarpeellisuudesta. Kuvaan realismia.
+
+           Ja tähdennän vielä, että en yhdistä --- en ainakaan halua
+           yhdistää taiteellista ja tieteellistä puoltani. Ammentaisin
+           alitajunnasta mieluusti.
+- nokkela :: Suosit siis alitajuista intuitiota? Annat
+             tiedostamattomien prosessien hämmentää eri syötteistä
+             syntyvää soppaa? Jos tiede ja taide kuitenkin yhdistyvät,
+             yhdistykööt metodeina ja luokoot jo suurempaa kuin
+             summansa?
+- progo :: Kyllä, näin voisin tilannetta tulkita. Fyysisessä
+           valokuvaamisen aktissa en ole koskaan pysähtynyt hakemaan
+           tiedettä tai matematiikkaa kuviini. Kuvaan sitä, mistä
+           silmä on tykännyt.
+- nokkela :: Minkälainen oli viimeisin kuvausreissusi? Minkälaisia
+             tunnelmia se jätti ja otti?
+- progo :: Jäiset näpit jäivät. Muistan toivoneeni ottaneeni lompakon mukaan,
+           että olisin pysähtynyt kahvilla puolivälissä kuvausmatkaa.
+           Itse asiassa en tarkalleen muista, mikä oli viimeisin kuvausreissuni
+           ja minne. Tässä on ollut ainakin pari kertaa, kun kamera on ollut
+           mukana ja ei ole mikään napannut. Ja on ollut pari kertaa, kun olen
+           mennyt ilman kameraa. Eikä ole sen puoleen ollut murphymäisiä
+           tilanteita, että olisi ollut suurta tarvetta.
+- Hetsku :: Osaatko arvoida millaisella tahdilla saat hyviä kuvia aikaan? Itselläni
+            on suunnilleen 1 kuva/h joista olen ollut oikeasti ylpeä.
+- progo :: Tuo luku kuulostaa sopivan minullekin.
+- Hetsku :: Kysytään vielä, kannatko usein kameraa mukanasi vai otatko sen
+            matkaan vain kun menet erityisesti valokuvaamaan?
+- progo :: Minulla ei ole vielä toistaiseksi kameralaukkua tai
+           -reppua, joten kuljettaisin sitä joko epäoptimaalisesti
+           kaulassa tai epäoptimaalisesti repussa. Otan kuvausreissuni
+           siis dedikoidusti. Erityisesti kun tuo settini painaa kuin
+           synti.
+- nokkela :: Miten luonnehtisit väitettä: "Taidetta ei voi tehdä
+             tekemällä, sitä vain tulee jos sitä on tullakseen."?
+- progo :: Siinä on tiettyä oivallusta, mutta se on osittain valheellinenkin.
+           Sikäli kun taide tulee (ainakin omanlaiseni taide) alitajunnoista ja
+           arkielämästä, niin se tulee äkkiä ja yllättäen. Mutta jos näistä
+           kokemuksista ja visioista haluaa saada jotain pysyvää talteen, tulee
+           kirjaniekkailua harjoittaa. Vetreä mieli omaksuu enemmän ja tuottaa
+           notkeammin.
+- nokkela :: Tämä ja myös mainitsemasi ajatusten tallennus org-tiedostoon autanee
+             paljonkin; satunnaisgeneraattorille - tai joskus vaikka
+             deterministiselle funktiollekin generaattorilta - aina välillä lisää
+             syötettä?
+- progo :: Erityisesti vuonna 2009 --- kun kuljin koulumatkaani
+           bussilla Joensuu-Kontiolahti -välillä, sai bussissa
+           kuunnella jos jonkinmoista, ja se oli myös erinomainen
+           taiteiden vuosi. Sattumaako? Taiteiden eteen on ilmeisesti
+           kärsittävä vaikka sitten kuuntelemalla huonoja juttuja
+           oikeiden ihmisten suista.
+
+** Joensuu ja liikenne
+
+- nokkela :: Linja-autoissa on tunnelmaa. Allekirjoitat?
+- progo :: Kyllä allekirjoitan. Joskus se tunnelma ei ole kovin hyvää,
+           mutta aina sitä löytyy.
+- nokkela :: Liikennevälineistä yleensä. Oma-auto vai julkinen? Junat?
+- Hetsku :: Vaiko polkupyörä?
+- progo :: Täällä Joensuussa ehdottomasti oma auto olisi paras. Paikallisjunia
+           täällä ei kulje, eikä olisi mitään hyötyäkään. Helsingissä olen aina
+           vaikuttunut HSL:n toiminnasta, joten siellä preferoisin kausikorttia.
+
+           Polkupyöräilyä en ole harrastanut moneen, moneen vuoteen. En tiedä
+           tarkalleen, miksi näin on.
+- nokkela :: Joensuussahan on tämä HL2:n rautatieosuuden esitys. Muistanet?
+             Oletko käynyt kuvaamassa? Joensuus. Onko mesta paikka, kaunis,
+             paikkana mukava elää ja yrittää?
+- progo :: Nyt täytyy sanoa, että HL2:n rautatieosuuden tarkka sijainti
+           Joensuussa karkaa mielestä.
+
+           Outokummussa oli vanhan kaivoksen ympärillä paljon mukavaa
+           industrialismia ja HL2-vaikutteisia rakenteita. Siellä en ole vielä
+           käyttänyt kameraani. Joku sopiva lauantai sinne on pitänyt veljen
+           kanssa suunnata.
+
+           Niin, Joensuusta. Paikka on ihan ok, mutta kamalan ylihinnoiteltu.
+           Arkkitehtuuriin tottuu ja funkkistyylistä voisi jopa pitää.
+- nokkela :: Outokumpu, Kontiolahti, Joensuu. Jos Kontiolahtea voisi luonnehtia
+             Suomen Twin Peaksiksi, miten luonnehtisit noita kahta muuta?
+             Mieluisin asuinpaikka?
+- progo :: Mieluisin tähän mennessä on ollut Oku kaikesta huolimatta. Yllättävää,
+           mutta totta.
+
+           Okulle on hankala löytää vastinetta maailmalta, kun tämä on niin
+           kaivoskaupunkimainen kuin olla ja voi. Ja kaivoskaupungit ovat usein
+           aika nimettömiä.
+
+** Blogista ja Twin Peaksista
+
+- Hetsku :: En muuten kysynyt heti alkuun tätä. fwwm.us-nimellä on varmasti
+            tarina?
+- nokkela :: Niin, sinulla oli joku blogikin?
+- progo :: Blogi on, kyllä. Jonkinlainen saippualaatikko on aina ollut tarpeen,
+           ja internetissä sellaisen pitäminen on helppoa. Olen pitänyt sitä
+           milloin missäkin ja nyt nykyisin se on osoitteessa fwwm.us.
+
+           Domainin nimi tulee Twin Peaks: Fire Walk With Me -fraasin ja
+           -elokuvan lyhenteestä. Olin perin yllättynyt, että kyseinen yksilö oli
+           vapaana. Suunnitteilla on pitää tämä loppuikäni.
+- nokkela :: Kerrohan vähän Twin Peaksistä. Mikä siinä viehättää eniten? Lienee
+             syytä olettaa sen olevan kuuluvan lempien joukkoon.
+- progo :: Twin Peaks eli TP on eräs kulttisarja 90-luvun alusta. Supersuosittu
+           kulttisarja, joka lopetettiin liian aikaisin ja sisälsi todellista
+           tunnelmaa, jota on vain yritetty matkia myöhemmissä sarjoissa, siinä
+           onnistumatta.
+
+           Likipitäen kaikki tässä saippuasarjaksi maskeeratussa mysteerissä on
+           kultaa, mikä on todella hämmentävää kaikkien näiden nykyaikaisten,
+           teknisesti upeiden tv-sarja-suoritusten aikana. Mikään muu ei pääse
+           kokonaispisteissä TP:n ohi.
+
+           TP on helppo ja supermukava harrastus tai "pakkomielle".
+- nokkela :: Voitko mainita joitain erityisen onnistuneita kohtauksia tai tapoja,
+             joilla TP luo tunnelmaa, minkälaisissa tunnelmissa sarja pyörii? Pieni
+             tv-guide -tyylinen kuvaus?
+- progo :: Twin Peaks kertoo nuoren tytön murhasta pienessä metsäläiskylässä
+           perä-Amerikassa.
+
+           Sarjaa eivät tee niinkään viimeiseen hiottu käsikirjoitus
+           tai mullistavimmat juonenkuviot taikka suurimmat
+           mindfuckit. Suurin taika on erinomaisen 'quirky-natured'
+           hahmoissa ja musiikissa ja yleisessä tunnelmasta: ilmassa
+           on musiikkia ja douglaskuusten tuoksua.
+
+           Sarja ei pysähdy itkemään Lauran, murhatun tytön, kohtaloa
+           kokonaisuutena, vaikka jotkut hahmoista jäävätkin. Sen sijaan se vie
+           meitä tilkkutäkkimäisesti FBI-agentti Cooperin johdolla kohti
+           rikostutkimusta ja ihmismieliä.
+
+           Hollywood on ehdollistanut meidät tietynlaisen normaaliuden sisään,
+           vaikka tavallisia ihmisiä katsoessa epänormaali on se oikea normaali.
+           David Lynch tuo tämän selvästi TP:ssä esille tekemästä lähes kaikista
+           "epänormaaleja" tavallisen Hollywood-sarjan mittapuulla mitattuna.
+- nokkela :: Kuka on sarjan musiikkien takana? Korreloiko musiikkimakusi
+             yleisestikin sarjassa esitetyn tyylin kanssa? Kuinka tärkeä musiikki
+             on TP:ssä hyvän sarjan tekijänä?
+- progo :: Tyypillisesti hyvän musiikin tunnistaa siitä, että sitä ei
+           huomaa lainkaan. Sarjan skorettanut Angelo Badalamenti
+           tekee komean poikkeuksen tässä suhteessa. Hänen erilaisista
+           vellovista jazzeista koostuva soundtrack on kuin piste iin
+           päälle sarjalle.
+
+           Musiikkimakuni ei tosin suorassa suhteessa korreloi
+           Badalamentin musiikkien kanssa, vaikka tilastot last.fm:ssä
+           voisivat tulkita toista. Pidän kovasti tunnelmajazzista,
+           mutta sitä ei ole niin paljoa liikenteessä kuin toivoisi.
+
+           Twin Peaksin tapauksessa musiikki on ehdottomasti suuri tekijä. Asiaa
+           on hankala nyt luonnehtia, koska joissain muissa huippusarjoissa
+           musiikilla on selvästi pienempi rooli ja sitä on vähän. Eikä se siellä
+           menoa haittaa. TP:tä olisi silti hyvin hankala kuvitella ilman
+           Badalamentin musiikkia taustalla.
+- nokkela :: Monelle sarjan hahmollehan on jopa oma kappaleensa? Dance of the
+             Dream Man, jne. Sarjassa lienee siis paljon mielenkiintoisia hahmoja
+             ja variaatioita? Haluatko mainita muutamia? Mitkä hahmot tai hahmojen
+             luonteiden ja mielten osat huomaat kuuluvan tai olevan kuulumatta
+             omaan itseesi? Lynchin tuotannosta myös: onko kyseessä ihan jopa oma
+             genrensä? David Lynch on käsittääkseni jonkinlainen taiteen
+             monilahjakkuus; mistä muista hänen töistään pidät?
+- progo :: Sarjassa on aikakaudelle tyypilliseen tapaan kuhunkin
+           juoniketjuun tai tapahtumapaikkaan sidottua teemamusiikkia.
+
+           Sarjan lukuisista supermielenkiintoisista hahmoista voisin mainita
+           muutaman satunnaisen:
+
+           Phillip Gerard, One-Armed Man. Erinomainen hahmo kirjoitettu sisään
+           vain, koska David halusi tehdä alkupään jaksoon pienen tribuutin
+           Fugitive-tv-sarjalle.
+- Hetsku :: One-Armed man kuitenkin istuu juoneen kauniisti?
+- progo :: Lynchillä ja Frostilla on taika näpeissään. Varmasti
+           kolmasosa TP:n hahmoista on tullut mukaan hetken
+           mielijohteesta, mutta kaikille tuntuu löytyvän paikkansa.
+
+           ...Twin Peaksin lainvalvonnan laitoksen sihteeri Lucy on
+           kanssa yksi perin mielenkiintoinen hahmo. Lucyllä on
+           vaikeuksia päättää yksityiselämästään saippuasarjamaisin
+           juonenkääntein ja tulkitsee asioita omalla tavallaan.
+
+           Siihen en osaa nyt ottaa kantaa, miten ja kuka hahmoista
+           istuisi juuri minun luonteeseen parhaiten. En ole
+           luultavasti samaistunut kehenkään TP:n maailmassa.
+
+           Hahmoissa on nimittäin sitä kirsikkapiirakka-taikapuolta
+           sen verran, että ehkä samaistuminen on hankalampaa kuin
+           tavallisesti. Mutta mitä tulee logiikankäyttöön ja
+           järkeilyyn, niin Cooper on ehdottomasti puolellani.
+
+           Ja sitten siihen David Lynchiin. TP oli ponnahduslauta
+           Lynchin töihin; elokuviin pääosin. Lynch tekee synkkää
+           maalaustaidetta kanssa, josta en niin ole perillä. Lynch
+           säveltää hyvää elektronisvaikutteista rock-musiikkia, jota
+           on yhteistyössä Mobyn kanssa väännetty, ja todella hyvää
+           tavaraa on ollut.
+
+** Muita hyviä sarjoja
+ 
+- Hetsku :: Twin Peaks on eittämättä kultaa, onko jotain muita mainitsemisen
+            arvoisia TV-sarjoja?
+- progo :: No toinen 90-luvun kultainen kulttisarja on tietysti X-Files, josta
+           pidän kovasti. Sopivassa suhteessa salaliittoteorioita ja ... no,
+           lähinnä jo niiden salaliittoteorioiden takia.
+- Hetsku :: Joka epäilemättä tuo juoneen mielenkiintoisen lisän.
+- nokkela :: Onko salaliittoja? Lienee epätodennäköistä että nitä
+             olisi X-Filesin mittakaavassa, mutta kyllähän nyt kaikkea
+             pientä aina on? 
+- progo :: Salaliitot olivat mukana alusta alkaen, kun X-Files nojaa
+           paljon velkaa All The President's Men -elokuvalle.
+
+           Uudemmista sarjoista erityisesti
+           [[file:../house.org][House]] on pitänyt itsepintaisesti
+           päänsä huippusarjojen joukossa. Tämä kai johtuu hulppean
+           hyvästä henkilökirjoituksesta ja -hahmoista.
+- nokkela :: House; mikä hänen henkilössään on parasta?
+- progo :: Housen sarjan tapauksessa on paljon kiintoisia
+           yksityiskohtia. Itse sarja tapahtumina on kovin
+           yksitoikkoista ja itseääntoistavaa vääntöä potilaiden
+           kanssa. Ja toistoa tekee myös Housen omat sosiaaliset
+           juttunsa. Mutta hahmot on kirjoitettu sellaisella
+           tarkkuudella, että ihan puistattaa. Ja tämä seikka tekee
+           siitä tavallaan huiman realistista ja läheistä
+           reaalielämään.
+
+           Henkilönä House on erinomainen tapaus. Kaikki ihmisyyden
+           elementit ovat hänessä mukana; painokertoimet vain ovat
+           hieman tavallisesta poikkeavat. Housesta henkilönä ei voi
+           puhua kokonaisvaltaisesti ilman, että pitäisi puhua
+           kaikista Housen lähellä työskentelevistä ihmisistä.
+           Kaikilla on syynsä ja tekosyynsä toimia Housen alisteessa
+           viikosta toiseen.
+
+           Toinen TP:n tapaan monikultainen tapaus on tämä Alan Ballin
+           luoma Six Feet Under, jonka erinomaisuutta olen todistanut
+           toisella katsomiskierroksella tässä hiljan. SFU saattaa
+           lähes kaikki muut HBO:n sarjat häpeään.
+
+           Suosikkisarjat tuli jo mainittua, ainakin ne "favor of the monthit":
+           Twin Peaks, X-Files, Six Feet Under, House. Mad Men.
+- nokkela :: Ja se House persoonana: tarvitsisiko maailma enemmän Houseja?
+             Tekisikö pieni nihilismi kaikille ihan hyvää?
+- progo :: Houseja maailma todellakin kaipaa enemmän. House on suuri idolini. Jos
+           osaisin olla, olisin oman toimialani House.
+- nokkela :: House siis korreloinee vahviten, tai ainakin potentiaalisesti
+             vahviten, eri sarjojen hahmoista itseesi?
+- progo :: Ainakin samaistun eniten Houseen, jos ei nyt ihan korrelaatioista
+           voida puhua. Housen tapa lähestyä ongelmia ilman ihmisvälikäsiä on
+           esimerkillistä toimimista.
+
+           Omaan joskus hieman samanlaisia draamakuninkaan elkeitä
+           kuin mr. /Huge Ego, Sorry/. Vastaavasti Mike Corleone
+           Kummisedistä on aina ollut suuri tekijä tavoitteissani. En
+           ehkä koskaan saavuta (taikka ole syytä saavuttaa) niitä
+           tavoitteita, mihin Corleone pääsi. Mutta samaistuminen on
+           selvää.
+- Hetsku :: Kerrohan joitain suosikkelokuviasi. Mitä voisit suositella kaikille?
+- progo :: Suosikkielokuvia on kovasti niitäkin. Mutta elokuvia, joita
+           voisi suositella /kaikille/, jaa'a. Hankala paikka.
+
+           Elokuvia on hankala mitata sopivan objektiivisesti, että niitä voisi
+           suositella kaikille. Esimerkiksi Lynchin /Blue Velvet/ on kai
+           suositeltavissa kaikille, mutta Mulholland Driveä ei taasen.
+           Universaalisti hienoja elokuvia ovat tietysti Kummisedät, Casablanca,
+           kaikki nämä. Uudemmista elokuvista Inception iski kovasti.
+           
+** Omasta taiteesta
+
+- Hetsku :: Kerrohan omasta taiteen tekemisestä. Ja nimenomaan muusta
+            kuin valokuvataiteesta.
+- nokkela :: Niin, kamerallahan voi ottaa kuvia myös melko korkealla
+             ottotaajuudella. Mitenkäs ne videoiden kuvaamiset ja ko. taiteenala?
+- progo :: Niin, taide. Valokuvaaminen on yksi asia, sillä se on lavastamatonta
+           taidetta. Olen kiinnostunut myös elokuvista ja niiden tekemisestä.
+
+           Elokuvassa yhdistyvät monet korkeataiteelliset seikat ja on usein
+           helppoakin. Yksin on kuitenkin hankala tehdä ja sopivan kuvanlaadun
+           saaminen kamerasta on sekin hieman rajoitteita asettavaa.
+
+           Tällä hetkellä siis asia on ajatuksen asteella. Jos mitään taidetta,
+           niin pöytälaatikkokirjallisuutta se olisi.
+- nokkela :: Kirjoitatko paljonkin pöytälaatikkoon? Käsikirjoituksia, proosaa,
+             novelleja, runoja, aforismeja, mitä kaikkea?
+- Hetsku :: Videokuvaamisessa tekniset rajoitteet tulevat hyvin nopeasti esiin.
+            Palaan hieman valokuvaamiseen, miten koit siinä kaluston vaikuttavan
+            taiteelliseen ilmaisuun?
+- progo :: Hetsku: kun kalusto on Canon 5Dm2 ja f/1.4 Sigma, ei siinä
+           synny kamalia rajoituksia kuvanottoon.
+
+           Mutta sikäli kun kuvia otetaan pääsääntöisin ulkona, olisi hyvälle
+           telepäälle tarvetta. Olenkin suunnitellut vaihtavani tämän kiinteän 35
+           mm -Sigmani Canonin 24-105 L f/4 -putkeen, johon moni vannoo.  Ehkä
+           teknisesti ottaen Sigman ja 5D2:n autofocus on ollut hieman hitaampi
+           kuin olen toivonut. Veljen L-putki on toiminut huippunopeasti.
+
+           Tarkennettakoon siis vielä, että riittävän teleulottuvuuden
+           puuttuminen on hieman rajoittanut taiteellista ilmaisua. Ulkona ei
+           aina pääse tarpeeksi lähelle kohteita. Eikä introvertti kehtaakaan
+           aina.
+- nokkela :: Entäs se blogi? Mitä kaikkea se käsittelee? Eroavatko siinä esillä
+             olevat aihealueet vahvasti ns. pöytälaatikkokirjoituksistasi?
+
+             # TP:ssä on vahvana ainakin tämä kontrasti loogisen,
+             # deduktiivisen ja reaalimailman sekä intuitiivisen,
+             # satunnaisen ja tunteellisen ideamaailman; onko tämä
+             # mielestäsi tärkeä kontrasti, vastakkainasettelu?
+             # Helpottaako se, että joskus vaihtaa ajattelumallejaan
+             # näiden kahden välillä? Oskilloi kahden kiintopisteen
+             # ympäri?
+- progo :: Pöytälaatikkoon ei ole kertynyt kamalasti. Maku lähti pari
+           vuotta sitten silloisista töistä ja siihen tyssäsi
+           kirjoittelu. Nyt pieniä pätkiä orgiin on kertynyt ja paine
+           luovan padon takana kasvaa. Jotain on sidottu tapahtumaan.
+
+           Blogi on sikäli ei-pöytälaatikkokirjallisuutta, kun en kirjoita
+           fiktiota täällä (paitsi joskus mutuillessani)
+
+           Täytyy sanoa, että tämä jatkuva vuodattelu ircissä on korvannut
+           varmasti suuren osan tarpeesta vuodatella pöytälaatikkoon. Eräs
+           tärkeitä syitä irc-lakoille.
+** Kirjat
+
+- nokkela :: Koska puhe "taukohuoneessa" oli scifistä ja kirjallisuudesta,
+             aloitan aihepiirillä: lukemisella. Mitä Mr. P lukee? Genrejä,
+             kirjailijoita, milloin, missä ja kuinka usein?
+             Faktaa, fiktiota, papereita?
+- progo :: En lue paljoa, se täytyy todeta. Jos luen, ne yleensä kuvastuvat
+           elokuvamakuni kanssa pitkälti: haluan kirjoiltani samaa kuin
+           elokuvilta. Draamaa.
+
+           Nick Hornby ja Douglas Adams ovat olleet viimeksi luennassa, vaikka
+           tiedän kovin hyvin, mitä kaikkea hyvää siellä olisi. Jos vain
+           jaksaisin aloittaa.
+
+           Faktaa luen hieman enemmän. Erilaisia TKT-alan kirjoja
+           tulee selailtua ja luettua. Papereita nyt hieman vähemmän.
+- Hetsku :: Luetko lukemisesi paperiversiosta vai jollain laitteella?
+            Ja miten suhtaudut näytöltä lukemiseen yleisestikin?
+- progo :: Pyrkisin paperiseen, mutta kustannussyistä minulla on lahjaksi saatu
+           Kindle. Kindlellä on oiva lukea proosaa, siihen se näyttö riittää.
+           ATK-jutuissa usein koodirivitysten takia tulee ongelmia.
+
+           Sitten taas pöytäkoneeni ääressä ei tule kamalasti luettua
+           noita "paperisia töitä", eli pääasiassa PDF-muotoisia
+           juttuja, koska siinä on hankala keskittyä työhön. No, sama
+           pätee kyllä blogeihinkin, eli ei se noista PDF:stä johdu.
+
+** Visuaalisuus ja ajattelu
+
+- nokkela :: Henkilökuvausta: luonnehtisit siis itseäsi ehkäpä enemmän
+             visuaaliseksi kuin kielelliseksi aivojenkäyttäjäksi? Ajatteletko
+             sanoin vai kuvin?
+- progo :: Tämä on hankala kysymys. Ajattelen aika paljon kyllä sanoin ja
+           dialogein asioita. Mutta pidän toki elokuvaframen sommittelustakin
+           ajatuksissani. Jos on pakko valita yhteen luokkaan, olisin silti
+           enemmän kielellinen ajattelija.
+- nokkela :: Tätä tietysti vaadittaneenkin abstraktin logiikan ja matematiikan
+             hahmottamisessa. Millaiset paikat ja hetket ovat parhaita ajattelulle?
+             Milloin syntyy parhaiten uusia ajatuksia, visioita? Long walks on the
+             beach on starry nights?
+- progo :: Itse asiassa matematiikassa, jopa näissä abstraktimmeissakin yksissä,
+           olisi hyvästä visualisoinnista apua. Joskus ei taivu, ja siitä on
+           ollut hieman haittaa.
+
+           Jos tietäisin parhaat paikat ja hetket hedelmällisen ajattelun
+           syntymiselle, viihtyisin niissä varmaan pidempiä jaksoja. Usein kovan
+           keskustelun siivittämän illan jälkeen se iltasuihku on ollut hyvä
+           paikka koota ajatuksia.
+
+           Ulkona tulee myös hyviä ajatuksia, mutta aika harvoin tuolla on
+           sellainen keli, että ajatteluun voi keskittyä kunnolla. Usein on liian
+           kylmä, liian sateista tai liian liukasta.
+- nokkela :: Aivan ne aamuiset paraabelit, mahtavien lukujoukkojen
+             visualisointeja? Niin, ja käytkö säännöllisesti lenkeillä, pidätkö
+             kunnosta huolta?
+- progo :: Käyn kävelemässä usein. Ulkona kaikenlaiset asiat saavat paremmin
+           kontekstia itseensä, mutta ehkä Joensuu ei ole paras paikka
+           taiteelliselle ajattelulle.
+
+** Paras asuinpaikka
+
+- Hetsku :: Mainitsit huonosta säästä. Onko Suomen ilmasto mielestäsi
+            epäsuotuisa? Asuisitko mieluummin jossain muualla, missä?
+- nokkela :: Mikä Suomen kaupunki on kokonaisuutenaan eniten mieleesi?
+- progo :: Nykyisin nauttisin kovasti ympärivuotisesta lämmöstä. Ruokavalioni on
+           hävittänyt pakkaskestävyyden aika hyvin. LA olisi varmasti oiva
+           sijainti siinä mielessä. Muuten se on aika kökkö kaupunki.
+
+           Mitä Suomen kaupunkeihin tulee, moni on esteettinen ja siten
+           asuttavanoloinen.
+
+           Olen ollut Kotkan kannalla monesti, ja Hanko on toinen
+           mukavahko paikka. Kokonaisuutena siis. Helsinki kerää
+           kasvavana kaupunkina jo isompien kaupunkien ongelmia
+           itseensä. Arkkitehtuurisesti se on kuitenkin myös hieno.
+
+           Näistä lähikaupungeista Kuopio miellyttää.
+- Hetsku :: Mitä muuta visioisit optimaalisesta asumisesta? Kerrostalo?
+            Omakotitalo? Kenties maatila?
+- progo :: Elän ristiriidassa, sillä talooni tai asuntooni sisään
+           astuessani haluaisin täydellisen alhaisen melutason.
+           Toisaalta ulos poiketessani haluan nähdä ja kuulla ison
+           kaupungin vilinää ja ihmisiä.
+
+           Tämä ei toistaiseksi taida olla mahdollista, ellei sitten
+           sinne Manhattanin korkeimpaan penthouseen muuttaisi ja
+           remontoisi kunnon äänieristeet.
+
+           Pitäisin kovasti metsänreunalla sijaitsevasta
+           omakotitalosta, jossa naapureista ei kuulisi aina paljoa.
+           Mutta en ole kovin ahkera missään pihatöissä, joten olisin
+           aika hukassa talvella ensimmäisten puiden kaaduttua
+           sähkölinjoille.
+
+           Optimaalinen, mutta utopistinen ratkaisu olisi siis
+           kerrostalopenthouse keskellä suurkaupunkia.
+- nokkela :: Kieltämättä muutamia ongelmallisia aspekteja, mutta,
+             Manhattanin, joka kertoo jo olennaisen fyysisestä ja
+             henkisestä lokaatiosta, lisäksi --- villi skenaario ---
+             jos sinulla olisi avain kaikkiin Suomen asuntoihin, mihin
+             pesiytyisit?
+- progo :: Ehkäpä tällä hetkellä Joensuun korkeimman kerrostalon, eli
+           Tähtihovin ylimpiin kerroksiin. Varaisin vähintään kolme
+           kerrosta itselleni, jotta jäisi hajurakoa lähimpiin
+           naapureihin.
+- nokkela :: Naapurit ovatkin usein se varsin painokas tekijä
+             valittaessa asuntoa tai jopa asuinaluetta. EI siis
+             missään nimessä mihinkään 70-luvun commie-block-lähiöön?
+- progo :: Lähiöt lähtökohtaisesti... no, jos ei asuta keskustassa niin ei se
+           naapurusto yksinään vielä ongelmaa tee. Kunhan on jollain tavalla
+           rauhallista ja "tuulipukuisaa" naapurustoa. Itse talo on pitkälti
+           äänieristeistään kiinni, onko siinä kiva asua.
+
+           En minä naapureiden kanssa seurustele, joten se on kohtalaisen sama,
+           ketä siellä asustelee.
+- Hetsku :: Eli kunhan naapurit eivät häiritse, niin talo on melko varmasti
+            pätevä?
+- nokkela :: I'll leave you alone and you leave me alone; we didn't see nothing?
+- progo :: Täydet pisteet molemmille. Helsingin lähiöissä tulee ehkä
+           väestökanta myös osittain ongelmaksi. Julkisilla
+           liikuttaessa näkee kaikenlaista. Täällä Joensuussa voisi
+           asua hieman huonommassakin paikassa, sillä omalla autolla
+           voi aina liikkua paikasta toiseen. Tai voisi, jos sellainen
+           tulisi hankittua. Tahdon siis sanoa, että omaa rauhaa
+           arvostan hyvin kovasti.
+- nokkela :: Kuinka oma rauha toteutuu nykyisessä asunnossasi?
+- progo :: Nykyinen asunto on supisurkea äänieristeiltään. Mutta jo puoli vuotta
+           korvatulpilla nukkumista, se on lievittänyt ongelmia todella kovasti.
+
+           Outokummussa ongelmana olivat viereisen huoltoaseman autot, täällä
+           taas naapuriopiskelijat.  Vastaavasti Okussa oli hiljaiset naapurit ja
+           täällä on vähän autoliikennettä.
+- nokkela :: Blade Runner -nimisessä elokuvassa kuvataan varsin
+             kattavasti kyberpunk-teemalla eräänlaista
+             keskusta-asumista. Tunnelmallista? Ympäristöhän ja sen
+             vaihtelu luo myös syötettä aivoille prosessoitavaksi? Jos
+             olisit rikas, omistaisitko useampia asuntoja Manhattanin
+             päätukikohdan lisäksi, joiden välillä vaihtelisit
+             asuinpaikkaasi aina tarpeen mukaan?
+- progo :: Blade Runnerissa on hekumallisen täydellinen tunnelma. Selvästi
+           osittain saanut vaikutteita villiintyneestä 80-luvun Manhattanista.
+           Samanlaista meininkiä olisi varmaan nykypäivän Hongkongissa.
+
+           Jos puhutaan useiden asuntojen omistamisesta Manhattanilla siten, että
+           on varaa vielä pitää asuntoja tyhjillään, niin sitten puhutaan jo
+           sikamaisesta rikkaudesta. Ehkä minulla siis olisi.
+
+           Aivot ja luova mieli kaipaa uutta virikettä jatkuvasti. En
+           tiedä, haluaisinko hyvän luukun löydettyäni kokeilla
+           "seedata satunnaisgeneraattoriani" uusilla asunnoilla
+           niinkään kuin kokemalla manhattanilaista
+           kulttuuritarjontaa.
+
+** Kulttuurista
+
+- nokkela :: Kulttuuritarjonnasta siis. Minkälaisissa tapahtumissa
+             kävisit? Minkälaisia tapahtumia toivoisit mm.
+             kotikaupunkiisi tai Suomen kaupunkeihin yleensä?
+             Minkälainen kulttuuritarjonta Manhattanilla on
+             mielestäsi? Entäpä Suomessa?
+- progo :: Jazz-keikat, standup, elokuvissa käyminen... kaikki ovat Manhattanilla
+           aika hyvin. Suomessa ei niinkään. Hyviä elokuvia ei näytä kuin muutama
+           hassu teatteri, etunenässä Helsingin Orion.
+
+           Jazzia tulee toki täällä Suomessakin jonkin verran, ja täällä
+           Joensuussa on pienimuotoinen jazz-skene erilaisten järjestöjen
+           siivittämänä. Saisi olla enemmänkin ja hapokkaampaa.
+
+           Amerikoissa on lisäksi se filmifriikin mukavuus, että moni nimekäs
+           filmitähti tekee usein Broadwayta välihomminaan. Olisi aito elämys
+           päästä näkemään tai joskus nähdä vaikka Al Pacino livenä muutaman
+           metrin päässä.
+- Hetsku :: Toisiko ulkomailla asuminen sinulle kulinaristisia nautintoja?
+- progo :: Ei toisi.
+- progo :: Erityisesti kun New Yorkin kehutut pizzat eivät olekaan
+           kuulema kovin hyviä. "Fine dining" ei ole minun juttujani.
+           Täällä Joensuussakin on nepalilaista ja kiinalaista ja
+           intialaista ravintolaa, kaikissa käymättä. Vaikka mieli
+           oikeastaan tekisi.
+- nokkela :: Food is, mainly, sustenance for the body, not a pleasure?
+- progo :: Kyllä, syön ensitilassa elääkseni. Joskus on hyvä kuitenkin
+           herkutella. En anna asian näkyä budjetissani.
+- nokkela :: Eerikin pippuri Joensuuhun?
+- progo :: Joensuu kaipaisi kunnollista kebabbilaa, kyllä. Jos ei
+           lähempää saa, niin Eerikin pippuri sitten.
+- nokkela :: Kunnon savuklubi siis olisi sellainen paikka, josta sinut
+             parhaiten löytäisi, punaisten teatterin penkkirivien
+             lisäksi? Myös se, että USA:ssa kaupungit eivät sulkeudu
+             yöksi byrokraattien oikkujen vuoksi, vaan koko
+             yhteiskunta elää 24/7, olisi mieleesi? Oletko enemmän yö-
+             kuin päiväeläjä? Öisiä kävelyretkiä Manhattanilla?
+             Sopiiko yö kaupunkiin ja päivä maalle?
+- progo :: Asiantilojen vallitessa voisin hyvinkin olla yöeläjä, mutta
+           päivällä täytyy kuitenkin istua töissä ja koulussa. Jos
+           täällä olisi kunnollinen savuklubi, missä asiat osuisivat
+           nappiin, voisin toimia jopa kantaistujana.
+
+           24/7 -yhteiskunta ei pelkästään olisi mieleeni, se olisi
+           itsestäänselvyys. Siitä huolimatta, että tuskin koskaan
+           kävisin ilta-aikaan missään. Ainakaan kun työpäivärytmistä
+           pitäisi kiinni.
+
+** Musiikista
+
+- Hetsku :: Puhuimme jo jazzklubeista, mutta emme musiikista muuten.
+            Millaista, miten ja missä? [Muualla kuin jazzklubilla.]
+- progo :: Nautiskelen musiikkeja aika laajasti. Ehkä tilastot
+           osoittaisivat elokuva-soundtrackeja ja progea
+           päägenreikseni. Lisätään siihen kaikenlainen mukava
+           funkkaava jazzi ja sen sellainen. Metalliakin vähän.
+           Konemusiikkia myös.
+
+           Pink Floyd ja johdannaiset ovat kovaa kamaa edelleen.
+           Howard Shore ja Don Davis ja vastaavat OST-puolella.
+           Mastodonia ja Moonsorrow'ta metallinnälkään ja Judas
+           Priestiä yleiseen hyvään fiilistelyyn. Nyt on soimassa
+           Angelo Badalamentin Mulholland Drive -soundtrack.
+- nokkela :: Sinullahan oli jotkin kuulokkeetkin ja vahvistin?
+- progo :: Hifistelen hieman. Settini on puhtaasti kuulokepohjainen:
+           Vahvistimena Marantz PM80 ja kuulokkeina (tai
+           korvakaiuttimina) AKG K1000.
+- nokkela :: Minkälaisissa äänissä K1000 ja Marantz näyttävät
+             potentiaalinsa parhaimmillaan?
+- progo :: Kaikenlaisissa. Heh, no. Ehkä ei. Kuten kaikki hifikuulokkeet, K1000
+           näyttää terävimmät kyntensä hyvin äänitetyn akustisen musiikin kanssa.
+           Tavaraa, jota ei kamalasti ole liikenteessä. K1000 on kuitenkin
+           uskomaton all-arounder pitkälti esitystapansa ansiosta; kuin oikeat
+           kaiuttimet.
+
+           Voisin kuvitella, että heikoin lenkki on kovasti bassokkaissa töissä,
+           joissa basso merkitsee työn seuraamisen kannalta paljon.
+- Hetsku :: Onko nykyinen hifikokoonpano vakiintunut vai oletko
+            harkinnut jotain muuta kokoonpanoa?
+- nokkela :: Olisiko elämää ilman musiikkia? Paljonko musiikki ja hyvä
+             äänentoisto merkitsevät? Minkälainen musiikki sopii mielestäsi
+             mihinkin arki- tai pyhäpäivän toimeen?
+- progo :: Nykyinen hifikokoonpano on palvellut noin about sellaisenaan,
+           muuttumatta, kolmen vuoden ajan. Päivityksiä olisi luvassa, mutta
+           budjettikysymykset tulevat esille. Seuraavat päivitykset koskevat
+           pitkälti hienosäätöä; puhutaanhan hifissä paljon niistä "pienenevistä
+           palautuksista", miten ne haluaakaan suomentaa.
+
+           Musiikki on tuikitärkeätä minulle ja arjelleni. Sillä
+           paikkaa niin paljon, ja tässä asunnossa lisäksi peittää
+           naapurien hälyääniä. Ja hyvä äänentoisto on tietysti hyvän
+           elämyksen aikaansaantia varten. Eihän ihmiset katso
+           elokuviakaan 19-tuumaisilta näytöiltä.
+
+           Arki- ja pyhämusiikkia en erittele. Joinain päivinä tuntuu
+           hyvältä laittaa Diane Krall pyörimään ja toisena Fatboy
+           Slim. Perjantaisin tosin on usein lautasella jotain
+           elektronista ja juhlistavaa.
+- nokkela :: Muistelenkin, että katselimme kesällä Fergusonia, K1000:n
+             toimiessa kaiuttimina molemmille. Paras puheohjelma
+             lienee Fergin, mutta onko muita katsottavia? Mikä tekee
+             Fergusonista hyvän isännän?
+- progo :: Katselen paljon illan päätteeksi talk-show -ohjelmia.
+           Aikoinaan katsoin paljon NBC-aikaista Conania. Ohjelmien ja
+           isäntien vaihtuessa tuli pieni tyhjiö ja löysin Fergusonin
+           sitten eräs kerta. Hitto kun mies osaa puhua! Ei sen
+           jälkeen mikään muu tunnu miltään.
+
+** Yhteiskunnasta
+
+- nokkela :: Mainitse jokin elokuva, kirja, visio tai peli, jossa
+             mielestäsi on hyvä yhteiskunta tai hyvä maailma, ja
+             vastaavasti taas joku sellainen, jossa tilanne on
+             päinvastoin. Jos tällaista ei löydy, kuvaa
+             yhteiskunnallista tai poliitista filosofiaasi parilla
+             avainsanalla.
+- progo :: Vai jokin taiteellinen hengentuote, jossa on mielestäni
+           hyvä yhteiskunta. Huonojahan on helppo keksiä pilvin
+           pimein. 1984, Half-Life 2, Brazil, ...
+
+           Sen enempiä ajattelematta, vastaan ensimmäisen hyvän, mikä
+           tuli mieleen: Lost in Translation. En japanilaisten
+           kulttuurista tiedä paljoa. Sen, että tekevät hulluna töitä.
+           Mutta elokuvassa kaikki tuntui sopusuhtaiselta ja hyvältä.
+
+           Termejä, kuten "oikeudenmukainen" ja "reilu" ja "tasa-arvoinen" on
+           hankala käyttää omissa luonnehdinnoissani, koska niillä on erittäin
+           värittyneitä uusiomääritelmiä, poliittisesti katsottuna.
+           Ehkäpä tämä kertoo jonkin verran.
+- nokkela :: Kyllähän tuo. Mutta kun ajatellaan noita termejä suhteessa
+             matemaattiseen ja loogiseen taustaasi, tulee ko. termien alkuperäinen
+             ja puhdas merkitys esille. Splendid indeed. Kiinnostaako politiikka?
+             Seuraatko mm. sitä? Uutislähteesi?
+- progo :: Uutisia ja politiikkaa haluan seurata mahdollisimman vähän.
+           Mahdollisimman vähän. Uutiset ovat valtaosin huonoja ja
+           politiikassakin on ihan väärät ihmiset vallassa. Politiikka
+           myrkyttää taiteen.
+
+** Peleistä
+
+- Hetsku :: Käsittelemme pelejä seuraavaksi. Millaista asioista nautit
+            peleissä? Kerro jostain erityisestä suosikista.
+- nokkela :: Niin, ne pelit. Kerrohan.
+- progo :: Pelailen toki vähän. Se on eräs tapa nauttia vapaa-ajasta.
+           Peleissä ei aina aktiivisen roolin takia pääse miettimään
+           taiteellisia asioita samalla tavalla kuin elokuvissa ja
+           sarjoissa. Otan pelini siis toisella tavalla, tunnelmina ja
+           tunnelmanluojina.
+
+           Ei ole selkeätä suosikkipeliä. Mutta kärkikaksikkoon voi
+           laskea GTA: Vice Cityn ja Fallout 3:n. Kummassakin
+           tapauksessa tunnelma on kova.
+
+           FPS-pelit ovat tästä syystä parhaita. Hattua nostan
+           Half-Life 2:lle ja kolmiulotteisille Fallout-peleille
+           upeista tunnelmista ja pelitunneista.
+
+           En pelaa kuitenkaan määrällisesti paljoa. Ajallisesti
+           eniten on varmasti mennyt tetriksen kanssa. Tetriksen
+           parhaisiin puoliin kuuluu oman taustamusiikin valinta.
+           Pelatessa tulee aina se ongelma eteen, että haluaisin
+           kuunnella levyjonoani tyhjemmäksi.
+
+           Täydellinen peli on osittain ajantappoa ja kosolti
+           tunnelmaa. Hyvä musiikki ei myöskään häiritse.
+- Hetsku :: Pidätkö peleissä tarkkaan skriptatuista, lineaarisista
+            juonista ja radoista? Tai oikeammin, häiritsevätkö ne?
+            Viittaan esim. Half Life 2:een.
+- nokkela :: Vai miltä Fallout >=3:n monipolkuinen ja mahdollisesti
+             epälineaarinen open world -setting tuntuu?
+- progo :: Lineaarisuus ja sen häiritsevyys riippuu kovasti
+           kontekstista. HL ja HL2 ovat luonteeltaan putkijuoksuja,
+           joten lineaarisuus ei häiritse. Sen sijaan jos Falloutissa
+           yksikin asia tapahtuu vähänkin putkimaisesti, menee usein
+           ilta --- tai ainakin tehtävä --- pilalle.
+
+           Sanoisin, että avointa maailmaa on tullut rajusti suosittua, mitä
+           pelivalintoihin tulee. Mutta se ei takaa mitään lopullisista
+           tunnelmista ja tuomiosta. Putkijuoksuinen HL3 voi aivan hyvin voittaa
+           Fallout 4:n, sikäli kun mitään tietoa kummastakaan ei tässä vaiheessa
+           ole.
+
+           Aito vapaus, jota ehkä parhaiten on sovellettu GTA 3:ssa, olisi
+           parasta mahdollista. Tehtävät saisi todellakin suorittaa haluamallaan
+           tavalla. Falloutit siinä mielessä jäävät taakse. Enkä näe oikeastaan
+           syytä, miksei Falloutteja voisi jatkossa tehdä vapaammiksi. Pelaajille
+           pitäisi tehdä joitain parempia tai "realistisempia" apuja kuin
+           automaattisia kompasseja näyttämässä tehtävän seuraavan etapin
+           sijaintia.
+
+           Tähän liittyen: Fallout 3:n ensitunnit olivat totisesti
+           kaikkein tunnelmaisimpia koskaan. Ennen kuin ymmärsin pelin
+           kompassin toimintaa. Samalla tavalla liittyen HL2:n
+           ensimmäinen läpipeluukerta, kun en osannut käyttää
+           raketinheitintä oikein. Ne lentelevät torakat olivat
+           todella elämyksellisiä.
+- nokkela :: HL:thän ovat FPS:iä, Falloutit kolmosesta ylöspäin eräänlaisia
+             FPS-RPG-yhdistelmiä. Kumpi on parempi, HL2 vai FO3? Minkälaisista
+             pelimaailmoista pidät? Ajatellaan vaikkapa tunnelmaa, itse maailmaa
+             tai mekaniikkaa, joka tulikin jo käsiteltyä osittain. Pitääkö pelissä
+             olla suolaisuutta, huumoria, synkkyyttä vaiko mitä?
+             Another sunny day in Postapocalyptia?
+- progo :: Noista kahdesta FO3 voittaa kokonaisuutena. Se yksityiskohtien määrä
+           ja Capital Wasteland. Pienet grillikodat metroverkkojen uumenissa ja
+           grillattua geckoa kepinnokassa. Musiikki.
+
+           Pelimaailmassa on hyvä olla draamaa. Draama ennen komediaa. Pelissä on
+           oltava suolaisuutta ja synkkyyttä. Huumori, kuten Fallouteissa on, on
+           juuri sopivasti mustaa. Muunlaista ei oikein pysty kuvittelemaan.
+- nokkela :: Oletko enemmän SciFiin kallellasi kuin ns. perinteisiin maailmoihin?
+- progo :: Enemmän perinteisiin, mutta valinta on vaikea, jos scifi ei
+           ole ylettömän utopistista. Verrataan vaikka siihen Blade
+           Runneriin, josta soisi jonkinlaisen action-RPG:n tehtävän!
+           Eli tähtien sota -tyylinen scifi ei oikein pärjää
+           verrattuna vaikka Book of Eli -tyyppiseen scifiin.
+           Perinteisten maailmojen miljöisiin perustuvia pelejä ei
+           taida kamalasti edes olla.
+- nokkela :: Roolipelit ovat monipuolisempia ja antavat enemmän ajatuksia,
+             eräänlaista tunteellisuutta, FPS:t sopivat hyvin rentoutumiseen ja
+             hupailuun, ns. koviin tunteisiin; Fallout yhdistää nämä kaksi asiaa
+             toimivalla tavalla. Allekirjoitatko? Mitä muut, kuin RPG:t tai
+             action-RPG:t ovat mieleesi? OpenTTD? Age of Empires?
+- progo :: Roolipeleistä tai "roolipeleistä" on vähän hankala puhua, kun
+           tietokoneella pelatessa hahmosta saa tehdän omanlaisensa. Eli ei
+           varsinaista roolissa pelaamista. Sopiva yhdistelmä hahmonkehitystä on
+           kuitenkin pelimekaanisesti toimiva juttu, eli allekirjoitan.
+           Pelailen strategioita vähän. Sid Meier's Alpha Centauri on eräs
+           parhaista, ja Civilization V on hyvä myös.
+
+           Reaaliaikanaksutteluista en välitä. Sen verran fyysistä hommaa, että
+           olisi sama lähteä potkimaan palloa ulos.
+- nokkela :: Onko pelaaminen parasta yksin tai vain tekoälyn seurassa, vai
+             voisitko kuvitella pelaavasi verkkopelejä? Good old HL2DM, Elder
+             Scrolls Online, WoW?
+- progo :: Verkkopelejä olen pelannut vähän, jopa tuntemattomien kanssa. Voisin
+           kuvitella, että suljetuissa piireissä pelattavat setit voisivat olla
+           todella hienoja kokemuksia.
+
+           Ennen kuin kysytte, niin CS:S -otteluita olen joskus
+           satunnaisesti pelannut. Ja muutaman kierroksen HL2:DM:ääkin
+           olen saattanut dokumentoidusti ottaa. Pelaajat ovat
+           kuitenkin mitä ovat, joten ei niitä ole nyt jaksanut.
+
+** Oma unelmapeli
+
+- nokkela :: Jos lähtisit tekemään peliä, millainen siitä tulisi? Genre,
+             mekaniikka, lajityyppi, maailma, juoni? Ei tarvitse kovin tarkkaan
+             antaa kuvausta, pääpiirteittäin riittää. Olisiko kiinnostusta tehdä
+             omaa peliä?
+- progo :: Olisi kiinnostusta tehdä, mutta unelmapelini olisi niin
+           käsittämättömän laaja, ettei sen suunnitelmia edes voisi aloittaa
+           tekemään. Enkä sen puoleen edes pidä suunnitelmista.
+
+           Unelmapeli olisi kooste Jagged Alliancea ja NetHackia.
+           Tunnelmavetoinen.
+
+           Utopistinen unelmapeli olisi sitten tietysti 3D FPS ehkäpä
+           Source-moottorilla kun en minä nykyajan huippugrafiikoista niin
+           välitä. GTA V:ssä on paljon pointtereita, joita ottaisin mukaan
+           unelmapeliini.
+- nokkela :: Nothing like the smell of hot plasma in the morning?
+- progo :: Smells like victory.
+- nokkela :: Pelit taidemuotona voivat parhaimmilaan yhdistää
+             elokuvan, kirjan, maalauksen ja musiikin
+             tajunnanräjäyttäväksi kokonaisuudeksi? Ovatko pelit se
+             korkein taso, näiden kaikkien parhaiden aspektien
+             yhdistäjä? Ts. ovatko pelit samalla tasolla, vaiko jotain
+             korkeampaa?
+- progo :: Taidemuotona pelit kiinnostavat juuri erityisesti itsensäilmaisun
+           avulla. Ammattimaisia ja hyviä elokuvia on hankala tehdä introverttinä
+           kotisohvalta käsin. Musiikkiin ei ole rahkeita ja maalaukset eivät
+           kamalasti kiinnosta. Hyvän pelin tekemiseen ainakin pitäisi olla
+           teoria kunnossa, joten se on vain viitseliäisyydestä kiinni.
+
+           Minulla on peleihin vaikka minkälaisia ideoita ja visioita, mutta mitä
+           enemmän tavaraa on odottamassa suunnittelua, sen korkeampi kynnys
+           aloittaa.
+
+           URW on eräs huippuesimerkki mainitsemastasi medioiden yhdisteestä.
+
+** Pelit vs. elokuvat
+
+- Hetsku :: Jos pitäisi valita: Pelit vai Elokuvat?
+- progo :: Elokuvat.
+
+           Kulutuksen kannalta siis. Itsensäilmaisussa pelit.
+- progo :: (Teen itse itselleni kysymyksen:) Taide vai tiede?
+- progo :: Vastaan: taide.
+- nokkela :: Matemaattisesti orientoituneelta tietojenkäsittelijältä melkoisen
+             epäortodoksinen vastaus. Hieno vastaus. Pidän.
+- progo :: Hyvä taiteellinen näkemys auttaa jaksamaan elämässä pidemmälle kuin
+           joskus kylmäksi luokiteltava, systemaattinen ja tieteellinen
+           näkemyskanta.
+
+           Nettiyhteisöissä näkee paljon näitä lyttääjiä, jotka
+           perustelevat asioiden huonoutta liiaksi puhtaan tieteen
+           keinoin. Asioilla saa olla irrationaalinen puoli. Jotain,
+           mitä näkee vain aivojen vasen puolisko.
+           Vai oliko se oikea?
+- nokkela :: Nyt on kyllä paha sanoa, sillä se on vähän molemmissa.
+             ehkä enemmän se vasen kuitenkin, mutta oikea taas on
+             enemmän visuaalinen ja sanaton.
