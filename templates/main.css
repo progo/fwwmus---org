@@ -246,3 +246,23 @@ li.tag-1 > * { background-color: #762A00; }
 li.tag-2 > * { background-color: #a23900; }
 /* Heavy usage */
 li.tag-3 > * { background-color: #d04a00; }
+
+
+
+/***** Responsive design stuff ****/
+
+@media screen and (max-width: 800px) {
+    #main {
+        width: 85%;
+    }
+    #sidebar {
+        float: none;
+        margin-left: 20%;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    #main {
+        width: 33%;
+    }
+}
