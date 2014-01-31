@@ -31,7 +31,7 @@ body {
 /** Need a separate div for other backgrounds */
 #backgrounds {
     background: url(/templates/up-band.png) repeat-x,
-                url(/templates/curtain.png) right top no-repeat;
+                url(/templates/curtain2.png) right top no-repeat;
 }
 
 
