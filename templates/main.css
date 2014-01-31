@@ -21,16 +21,20 @@
 /*** BODY + main things **/
 
 body {
-    background-image: url(/templates/curtain.png), url(/templates/up-band.png);;
-    background-repeat: no-repeat, repeat-x;
-    background-position: right top;
-
+    background: url(/templates/floor_isometric.png) left bottom no-repeat fixed;
     background-color: #501111;
     color: #ffdfbb;
-
     margin: 0;
     width: 100%;
 }
+
+/** Need a separate div for other backgrounds */
+#backgrounds {
+    background: url(/templates/up-band.png) repeat-x,
+                url(/templates/curtain.png) right top no-repeat;
+}
+
+
 
 #main {
     margin-right: 40%;
@@ -261,8 +265,9 @@ li.tag-3 > * { background-color: #d04a00; }
     }
 }
 
-@media screen and (min-width: 1600px) {
-    #main {
-        width: 33%;
+@media screen and (min-width: 1416px) {
+    body {
+        /** This is cool */
+        background-size: 100%;
     }
 }
