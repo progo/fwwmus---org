@@ -189,7 +189,7 @@ pre.src .code-sh-escaped-newline { }
     text-transform: uppercase;
 }
 
-#related-posts-title {
+#sidebar h2 {
     width: 70%;
     text-align: right;
     font-size: smaller;
