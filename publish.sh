@@ -5,15 +5,25 @@
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 TEMPDIR='/home/progo/temp/blog_out/'
 CODEDIR='/home/progo/koodi/blogen/'
+ORG_DIR='/home/progo/dokumentit/blog/'
 GITREPO='/home/progo/dokumentit/fwwm.us/'
 
 #SERVER_PATH='/www/'
 #CONFIG='/home/progo/dokumentit/blog/fwwm.clj'
 #BLOGDIR='/home/progo/dokumentit/blog/out/'
 
-# Don't have to build uberjars for this. Although, could speed up.
+##### LEIN
 cd "$CODEDIR"
-lein run
+lein run &
+
+    # while lein does its job, push changes of blogen.
+    git push origin master
+
+    # and the blog as well
+    cd "$ORG_DIR"
+    git push origin master
+
+wait
 
 # Fix dvipng formulas for dark backgrounds by negating their colours
 # from black to white.
