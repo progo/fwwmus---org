@@ -20,16 +20,22 @@
 
 /*** BODY + main things **/
 
+html {
+    height: 100%;
+}
+
 body {
     background: url(/templates/floor_isometric.png) left bottom no-repeat fixed;
     background-color: #501111;
     color: #ffdfbb;
     margin: 0;
     width: 100%;
+    height: 100%;
 }
 
 /** Need a separate div for other backgrounds */
 #backgrounds {
+    height: 100%;
     background: url(/templates/up-band.png) repeat-x,
                 url(/templates/curtain2.png) right top no-repeat;
 }
