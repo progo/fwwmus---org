@@ -1,6 +1,9 @@
 #!/bin/bash
 # Small script to rebuild blog and upload it.
 # Meant for org to call after its part of the process.
+#
+# Use first position argument `--noup' to skip all uploading to the
+# servers.
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 TEMPDIR='/home/progo/temp/blog_out/'
@@ -15,6 +18,13 @@ GITREPO='/home/progo/dokumentit/fwwm.us/'
 ##### LEIN
 cd "$CODEDIR"
 lein run &
+
+if [ "--noup" = "$1" ] ;
+then
+    echo "Only running the local updates!"
+    wait
+    exit 0
+fi
 
     # while lein does its job, push changes of blogen.
     git push origin master
