@@ -1,0 +1,197 @@
+#+TITLE: Kirjanpidosta: Ledger
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* Ledger ja kirjanpito                             :cli:ohjelmistot:editorit:
+
+[[http://www.ledger-cli.org/][Ledger]] on John Wiegleyn visioima ja toteuttama kahdenkertainen
+talouskirjanpitosovellus komentoriviympäristöihin. Koska Ledger toimii
+kääntäjämallisesti pelkän puhtaan tekstin kanssa, voi sitä täydennellä
+ja käsitellä millä tahansa editorilla haluaa. Ja sai viimein minutkin
+pitämään kirjaa. Tässä jutussa kerron hieman Ledgeristä ja omasta
+kirjanpidostani, jos vaikka joku innostuu mukaan.
+
+Huomio ja disklaimeri: opiskelin taloustaitoa ja kirjanpitoa viimeksi
+yläkoulussa. Vaikka osasin tehdä koulukioskiprojektimme
+kahdenkertaisen kirjanpidon suurinpiirtein oikein, niin kirjanpidossa
+vakiintuneita käytäntöjä en muista juuri lainkaan, enkä myöskään
+erityisesti kirjanpitosanaston suomennoksiakaan. Eli joskus puhun
+asioista joillain termeillä, jotka tuskin esiintyvät sellaisenaan alan
+oppikirjoissa. Ehkä minunkin pitäisi joskus käydä kirjastossa.
+
+** Kirjanpidon peruskäsitteitä
+
+Kahdenkertainen kirjanpito hämää ihmisiä, eikä ihan syyttä. En väitä
+osaavani kaikkia sopukoita superhyvin, joten tässä tulee pedagogisesti
+puutteellinen esitelmä asiasta.
+
+Kahdenkertaisessa kirjanpidossa (siis siinä kirjanpidossa, josta
+puhumme tässä nyt) jokaisella tapahtumalla on "vastatapahtuma" siten,
+että kaikki summat menevät aina lopuksi nollaan. Jos ostan kympillä
+perunoita, niin lompakostani *hävisi* kymppi, mutta perunakuluihin
+tuli kymppi *lisää*.
+
+Kahdenkertaisessa kirjanpidossa on kaikki kiinni niinsanotuissa
+tileissä. Nämä tilit eivät ole sama asia kuin pankkitilisi, vaan
+kirjanpidollisia tilejä voi tehdä lennosta sitä mukaan kun syntyy
+tarvetta. Kirjanpitotilit ovat vain nimettyjä "lokeroita", joihin
+erilaiset tulot ja menot on luonteva järjestellä. Ja mikä on luontevaa
+kullekin, sen saa aivan itse päättää. Tilejä on viittä erilaista
+tyyppiä ja kunkin tyypin alle saa nimetä uusia alatilejä. Viisi
+perustiliä ovat:
+
+- Equity (Pääoma) :: Lähtötilanne, eli oikeiden tilien ja velkojen
+     määrät siinä vaiheessa kun kirjanpito aloitetaan. Ei tarvita
+     muuhun kuin alkunumeroihin.
+- Income (Tulot) :: Kaikki raha, joka tulee systeemiin, *otetaan pois*
+                    tulotileiltä.
+- Expenses (Menot) :: Kaikki raha, joka lähtee systeemistä, *lisätään*
+     menotileille.
+- Liabilities (Velat) :: Jos raha tulee siten, että se pitää joskus
+     kuitata (esimerkiksi luottokortit ja lainat), se tulee pois
+     velkatileiltä.
+- Assets (Omaisuus) :: Ostat jotain omistaaksesi, omaisuustili on
+     oikea paikka. Myös käteisvarat (kuten oikein pankkitilien saldot)
+     ja osakkeet ja sen sellainen on hyvä pitää täällä.
+
+Onko riittävän epäselvää nyt? Tehdään konkreettinen [[Esimerkki][esimerkki]] kun
+ensiksi tutustutaan Ledgerin käyttämään merkintätapaan.
+
+** Ledgerin tilikirjojen merkkaus
+
+Ledger on siis arkkitehtuuriltaan [[http://www.catb.org/esr/writings/taoup/html/ch11s06.html#id2958199][kääntäjä]], vaikka mitään
+binäärimössöä se ei tuotakaan ulos. Tai filtteri, jos halutaan tulkita
+ESR:n määritelmiä edelläolevasta toisin. Ledger lukee tilikirjan
+annetusta tiedostosta muistiin ja parsii siitä kaikenlaista pientä
+informaatiota. Sitten käyttäjä tekee kyselyitä tästä informaatiosta,
+kuten vaikka tilinsä saldon. Ledgeriä voi käyttää eräajossa suoraan
+komentoriviltä, tai sen voi käynnistää omassa tulkissaan, jolloin
+samalla syötteiden parsimisella voi tehdä monet kyselyt.
+
+Ja tämä tilikirjaformaatti, jota Ledger lukee, on tosiaan hyvin
+yksinkertainen tekstimuotoinen formaatti, kuten odottaa saattaisi.
+Ohessa on mukailtu esimerkki ohjelman [[http://www.ledger-cli.org/][sivuilta]]. Tässä on siis pätkä
+tekstitiedostosta, joita kutsun tilikirjoiksi nyt tässä artikkelissa:
+
+#+BEGIN_EXAMPLE
+2006-10-15 Exxon
+    Expenses:Auto:Gas         $10.00
+    Liabilities:MasterCard   $-10.00
+#+END_EXAMPLE
+
+On siis ostettu bensaa 15.10.2006 ja tälle tapahtumalle on annettu
+/kuvaus/ (ledgerin jargonissa /note/ tai /description/) "Exxon".
+Sitten sisennettynä on lista eri /tileistä/ ja muutoksista niille
+tileille. Tilille =Expenses:Auto:Gas= on tullut kympin verran lisää
+rahaa ja vastaavasti =Liabilities:MasterCard= -nimiseltä tililtä on
+hävinnyt samaisen kympin verran. Tilien nimet ovat täysin
+vapaavalintaisia ja niissä koulutusta saaneet käyttävät tietynnimisiä
+etunimiä ihan perinnesyistä. Niistä oli edellisessä kohdassa.
+
+Nyt tämän esimerkkitiedoston luettuaan Ledger osaa sanoa, että bensaan
+on mennyt kymppi ja että MasterCardin luottoa on vingutettu kympillä.
+Parempi maksaa jossain vaiheessa pois. Ledger osaa myös tarvittaessa
+laskea yhteen puuttuvat numerot, jos yhdestä tapahtuman tileistä
+puuttuu rahamäärä. 
+
+** Kattavahko esimerkki
+<<Esimerkki>>
+
+Tehdään nyt toivottavasti selkeyttävä esimerkki tähän kaikkeen. Olkoon
+meillä avattuna Nordeassa yksi käyttötili ja yksi säästötili. Ja
+tileillä on vaikka 1204,45 euroa ja 930 euroa vastaavasti. Ja Nordeaan
+avatulla Visa Credit -kortilla on pari kymppiä ostoksia. Ja tällä
+skenaariolla aloitamme kahdenkertaisen kirjanpidon ledgerissä.
+
+Tilinavaus tapahtuu pääomatiliä käyttämällä ja lähinnä siitä syystä,
+että kahdenkertaisuuden tasapaino säilyy.
+
+#+BEGIN_EXAMPLE
+2014-01-01 Kirjanpidon aloittaminen
+        Assets:Tilit:Nordea             1204,45 €
+        Assets:Tilit:Säästötili         930 €
+        Liabilities:Visa                -32,40 €
+        Equity:Tilit
+#+END_EXAMPLE
+
+Nyt tämä meidän kuvitteellinen tili =Equity:Tilit= on pahasti
+pakkasella, mutta se saakin olla. Sen kuuluukin olla. Nyt meillä on
+kirjat kunnossa. =Liabilities:Visa= on pakkasella kanssa, ja senkin
+kuuluu olla näin. Kuten fysiikassa meillä on jokaiselle voimalle
+vastavoima, niin taloustieteessä kullekin tilitapahtumalle on
+vastatapahtuma.
+
+Jotta asia valottuu paremmin, päätämmekin vaikka lyhentää tämän
+visalaskun oitis nollille. Kun on nettipankissa tehty asianmukainen
+siirto, niin kirjataan heti ylös, ettei unohdu:
+
+#+BEGIN_EXAMPLE
+2014-01-01 Visan lyhennys
+        Assets:Tilit:Nordea             -32,40 €
+        Liabilities:Visa                32,40 €
+#+END_EXAMPLE
+
+Eli kuten oikeassakin maailmassa tapahtuu, velan lyhentämiseen menee
+perhana oikeata käteistä rahaa. Nyt ledger tietää sanoa, että tili
+=Liabilities:Visa= on nollilla, mikä on hyvä asia. Ledger
+todennäköisesti jättää tämmöisen nollatun tilin ylipäänsä näyttämättä.
+
+Jos käydään kaupassa ja maksetaan Visan Debit-puolella (vähennetään
+suoraan korttiin kytketyltä tililtä), niin tapahtuma näyttäisi vaikka
+tältä:
+
+#+BEGIN_EXAMPLE
+2014-01-05 Ruokaa
+        Assets:Tilit:Nordea             -59,30 €
+        Expenses:Ruokamenot
+#+END_EXAMPLE
+
+Meillä ei ollut tyhjässä tilissä mitään "ruokamenot"-tiliä, mutta
+ledger luo kaikenlaiset tilit aina tyhjästä, jos samannimistä ei ole
+aiemmin tiedostossa lukenut. Meillä on kaikki valta nimetä asioita
+kuten haluamme. Eikä ole pakko kirjoitella puolienglanniksi, minä vain
+tapaan tehdä asiat noin. Kaksoispisteet ovat tavallaan kyllä
+pakollisia, mutta vain jos haluat että ledger laskeskelee alatilien
+saldoja yhteen puolestasi. Asialla ei ole muuta kuin informatiivista
+merkitystä. Näkisit esimerkiksi suoraan kaikkien eri tiliesi
+kokonaisrahamäärän.
+
+Huomataan myös, että nyt jätin kirjoittamatta vastatapahtuman numerot
+ylös. Ledger on sen verran taitava poika, että se laittaa oikean luvun
+tuohon puuttuvaan kohtaan. Yhdessä transaktiossa voi olla muutoksia
+useampaankin kuin kahteen tiliin, mutta vain yhdestä tilistä saa
+jättää numerot pois. Ledger ei osaa tällöin päätellä, mistä ja miten
+paljon pitäisi siirtää. Se myös kielii siitä, että Ledgerillä ei voi
+tehdä yhdenkertaista kirjanpitoa, vaikka haluaisi. Vain yksinkertaiset
+käyttävät yhdenkertaista kirjanpitoa, ja siihen välttää Excelin
+tapaiset kikkareet!
+
+Tämä ruokaostos on myös kirjattu menoihin sen takia, että sitä rahaa
+ei tulla näkemään uudestaan noin vain. Raha on lähtenyt systeemistä.
+Kulutustavarat, kuten ruoka ja polttoaine ja netflix-kuukausimaksut
+laitetaan menoihin. Sen sijaan jos ostat kultaa tai bitcoineja tai
+jotain arvonsa säilyttävää, kuten asunnon tai auton, ne yleensä
+merkitään omaisuudeksi.
+
+Tässä vastineeksi yleinen tapaus, jossa rahaa tulee systeemiin:
+
+#+BEGIN_EXAMPLE
+2014-01-16 Palkka
+        Assets:Tilit:Nordea             1890,90 €
+        Income:Palkka
+#+END_EXAMPLE
+
+Raha tulee kirjanpitoon ikään kuin tyhjästä, joten merkitsemme rahan
+lähtevän tuloista. Tulotilit ovat /aina miinuksella/, menotilit /aina
+plussalla/. Velat aina miinuksella. Omaisuustilit toivottavasti aina
+plussalla ja pääomatilit alkutilanteen omaisuuden mukaan joko
+miinuksella (hyvä tapaus) tai plussalla.
+
+** Ledgerin peruskäyttö
+
+Hyödynnetään edellisessä luvussa kehiteltyjä tapahtumia ja tutkitaan,
+mitä itse ohjelmalla voi nyt tehdä.
+
+** Omia käytäntöjäni
+
+** Niksejä
+
+
