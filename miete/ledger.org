@@ -447,6 +447,30 @@ Huomaa ero ruokaostosten ja ruokailujen maksamisten välillä.
 =Ruoka=-tilille merkitsen elintarvikeostokset ja =Ruokailut=-tili on
 sitten sitä kun syödään tai juodaan "ulkona".
 
+*** Tilikirjan muokkaaminen editorilla
+
+Koska tilikirja on puhdasta tekstiä, on kaikki mahdollista. Isoin syy
+ylipäänsä käyttää Ledgeriä jonkun graafisen ja "helppokäyttöisen"
+kirjanpidon, kuten GnuCashin, sijaan.
+
+Ledger lukee aina kaikki kirjat alusta loppuun joka käynnistyksellä.
+Se ei siis jää muistelemaan virheitä edellisajokerralta tai mitään
+sellaista. Voit surutta korjailla ja muokkailla kirjoja (sikäli kun
+nyt puhutaan yksityishenkilöistä, jotka tekevät kirjanpitoa
+jo-verotetuista hyödykkeistä) suosikkieditorisi "search-and-replace"
+-toiminnolla.
+
+Voit tehdä valmiita tapahtumapohjia (TextMaten snippet-toiminto, Vimin
+snipMate tai Emacsin yasnippet ja niin edelleen) tai voit vain pitää
+toisessa tiedostossa valmiita pätkiä valmiina kopioitavaksi ja
+liitettäväksi. Ledgerillä on myös oma =xact=-komento, johon kannattaa
+tutustua tehosyistä. Kaikki on mahdollista. Ja jos ei editorimakrot,
+niin vaikka pienet shell-skriptit tai Python-ohjelma, joka parsii
+jotain tietoa ulos. Myös Ledgerin ulostulosta saa paljon iloa irti.
+Minulla on esimerkiksi pieni ohjelmantynkä, joka hakee käyttötilini
+saldot ja pitää ne työpöydällä ajantasaisesti näkyvillä. Se kannustaa
+pitämään kirjat kunnossa.
+
 *** Omaisuutta vai menoja?
 
 Kun ostat ruokaa, niin se on aika selvästi menoja. Tai jos tilaat
