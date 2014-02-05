@@ -1,6 +1,10 @@
 #+TITLE: Kirjanpidosta: Ledger
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* Ledger ja kirjanpito                             :cli:ohjelmistot:editorit:
+* DONE Ledger ja kirjanpito                        :cli:ohjelmistot:editorit:
+CLOSED: [2014-02-05 Wed 12:56]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-02-05 Wed 12:56]
+:END:
 
 [[http://www.ledger-cli.org/][Ledger]] on John Wiegleyn visioima ja toteuttama kahdenkertainen
 talouskirjanpitosovellus komentoriviympäristöihin. Koska Ledger toimii
@@ -188,10 +192,318 @@ miinuksella (hyvä tapaus) tai plussalla.
 ** Ledgerin peruskäyttö
 
 Hyödynnetään edellisessä luvussa kehiteltyjä tapahtumia ja tutkitaan,
-mitä itse ohjelmalla voi nyt tehdä.
+mitä itse ohjelmalla voi nyt tehdä. Jahka Ledger on asennettu tavalla
+tai toisella, niin sitä voi lähteä kokeilemaan ylläolevien tapahtumien
+avulla. Summa summarum, olkoon tässä koosteena tiedosto =~/tilit=:
 
-** Omia käytäntöjäni
+#+BEGIN_EXAMPLE
+  2014-01-01 Kirjanpidon aloittaminen
+          Assets:Tilit:Nordea             1204,45 €
+          Assets:Tilit:Säästötili         930 €
+          Liabilities:Visa                -32,40 €
+          Equity:Tilit
+  2014-01-05 Ruokaa
+          Assets:Tilit:Nordea             -59,30 €
+          Expenses:Ruokamenot
+  2014-01-01 Visan lyhennys
+          Assets:Tilit:Nordea             -32,40 €
+          Liabilities:Visa                32,40 €
+  2014-01-16 Palkka
+          Assets:Tilit:Nordea             1890,90 €
+          Income:Palkka
+#+END_EXAMPLE
 
-** Niksejä
+Sekoitin hieman tapahtumien järjestystä, sillä Ledger ei välitä muusta
+kuin päivämääristä.
 
+*** Saldot
 
+Katsoaksemme saldot voimme komentaa Ledgerille =balance= tai lyhyesti
+=bal=:
+
+#+BEGIN_SRC sh :results output
+ledger -f ~/tilit balance
+#+END_SRC
+
+:            3933,65 €  Assets:Tilit
+:            3003,65 €    Nordea
+:             930,00 €    Säästötili
+:           -2102,05 €  Equity:Tilit
+:              59,30 €  Expenses:Ruokamenot
+:           -1890,90 €  Income:Palkka
+: --------------------
+:                    0
+
+Ledgerin mielestä tilit on siis tasapainotettu oikein, koska viivan
+alle jää nolla, summa on siis nolla. Tässä nähdään myös paremmin, mikä
+on näiden tilien ja alitilien merkitys. =Assets= on tili kyllä, mutta
+siihen summataan kaikkien samalla alulla nimetyt muut tilit omaksi
+tiedoksemme. Sama käy tilille =Assets:Tilit=. Tästä on helppo lukea,
+että erilaisilla pankkitileillämme on 3933 euroa ja että ruokaan on
+mennyt kaikkinensa melkein 60 euroa.
+
+Kun kirjanpitoa on tehnyt vähän aikaa, voi erilaisia tilejä olla
+helposti satakunta erilaista, ja koko saldolistaus voi olla aika
+pitkä. Komennolla =bal= voi antaa tarkentavan lisämääreen
+tarkasteltavista tileistä:
+
+#+BEGIN_SRC sh :results output
+ledger -f ~/tilit bal Assets:Tilit
+#+END_SRC
+
+:            3933,65 €  Assets:Tilit
+:            3003,65 €    Nordea
+:             930,00 €    Säästötili
+: --------------------
+:            3933,65 €
+
+Kun laitat laskuja maksuun, niiden eräpäivän voi pitää siellä
+tulevaisuudessa ihan piruuttaan. Kirjanpidossa tapahtuman päivämäärä
+laitetaan tulevaisuuteen, siihen eräpäivään. Valitettavasti se näkyy
+Ledgerissä saldoissa kuitenkin jo oitis. Käyttämällä optiota
+=--current= tai lyhyemmin =-c= voidaan Ledger kuitenkin laittaa
+laskemaan vain /jo tapahtuneita/ tapahtumia (tämä päivä mukaanlukien).
+Tilinsä tilannetta voi täten vähän ennakoida vertaamalla saldoja
+c-option kanssa (pitäisi olla sama lukema kuin mitä nettipankki
+ilmoittaa) ja ilman (mitä oikean saldon pitäisi olla, jahka
+viimeinenkin lasku on mennyt veloitukseen).
+
+*** Tapahtumat
+
+Saldot ovat toki usein käytetty toiminto, mutta toinen tärkeä Ledgerin
+komento on =register= tai lyhennettynä =reg=.
+
+#+BEGIN_SRC sh :results output
+ledger -f ~/tilit reg
+#+END_SRC
+
+#+begin_example
+14-Jan-01 Kirjanpidon aloitta.. Assets:Tilit:Nordea       1204,45 €    1204,45 €
+                                Asset:Tilit:Säästötili     930,00 €    2134,45 €
+                                Liabilities:Visa           -32,40 €    2102,05 €
+                                Equity:Tilit             -2102,05 €            0
+14-Jan-05 Ruokaa                Assets:Tilit:Nordea        -59,30 €     -59,30 €
+                                Expenses:Ruokamenot         59,30 €            0
+14-Jan-01 Visan lyhennys        Assets:Tilit:Nordea        -32,40 €     -32,40 €
+                                Liabilities:Visa            32,40 €            0
+14-Jan-16 Palkka                Assets:Tilit:Nordea       1890,90 €    1890,90 €
+                                Income:Palkka            -1890,90 €            0
+#+end_example
+
+Tämä ei nyt kamalasti hyödytä näin pienen tilikirjan kanssa, mutta
+edut alkavat tulla esille, kun tapahtumia on satoja ja pitäisi tutkia
+vain viimeisimmän kuukauden juttuja. Tai jos vaikka haluaa katsoa
+päivämäärän mukaan lajiteltuna näitä:
+
+#+BEGIN_SRC sh
+ledger -f ~/tilit reg --sort date
+#+END_SRC
+
+Tapahtumia voi myös suodattaa sopivasti, jos olet etsimässä vain
+tiettyjä tapahtumia. Esimerkiksi tapahtuman kuvauksella tai
+tapahtumaan liittyvillä tileillä voi rajata vaikka tutkiaksesi vain
+ruokaostoksia. Näistä löytyy enemmän ledgerin [[http://www.ledger-cli.org/3.0/doc/ledger3.html][manuaalista]].
+
+Yhden tärkeän voisin ottaa tähän, eli päivämäärien mukaan tehtäviä
+rajoitelmia. Optiot =--begin= ja =--end= rajoittavat tapahtumat
+annettujen päivämäärien väliin päätepisteet mukaanluettuna. Tässä on
+esimerkkinä tapahtumakysely vuoden ensimmäiseltä viikolta. Palkka ei
+ole ehtinyt tulla:
+
+#+BEGIN_SRC sh :results output 
+ledger -f ~/tilit --begin 2014-01-01 --end 2014-01-07 reg
+#+END_SRC
+
+#+RESULTS:
+: 14-Jan-01 Kirjanpidon aloitta.. Assets:Tilit:Nordea       1204,45 €    1204,45 €
+:                                 Asset:Tilit:Säästötili     930,00 €    2134,45 €
+:                                 Liabilities:Visa           -32,40 €    2102,05 €
+:                                 Equity:Tilit             -2102,05 €            0
+: 14-Jan-05 Ruokaa                Assets:Tilit:Nordea        -59,30 €     -59,30 €
+:                                 Expenses:Ruokamenot         59,30 €            0
+: 14-Jan-01 Visan lyhennys        Assets:Tilit:Nordea        -32,40 €     -32,40 €
+:                                 Liabilities:Visa            32,40 €            0
+
+Muutama erikoistermikin löytyy, jolla säästyy vähän naputtelua.
+Nykyisen kalenterikuukauden aikana (eli ensimmäisestä päivästä alkaen)
+tehdyt tapahtumat:
+
+#+BEGIN_SRC sh
+ledger -f ~/tilit --begin 'this month' reg
+#+END_SRC
+
+Ja viimeisimmän kuukauden eli 30 päivän tapahtumat:
+
+#+BEGIN_SRC sh
+ledger -f ~/tilit --begin 'last month' reg
+#+END_SRC
+
+Mainitut asetukset käyvät kaikki niin saldoihin kuin
+tapahtumakyselyihin. Erityisesti edellä mainitut =--current= ja
+=--begin= ja =--end= -optiot toimivat hyvin.
+
+*** Ledger on täynnä toimintoja
+
+[[http://www.ledger-cli.org/3.0/doc/ledger3.html][Ledgerin dokumentaatio]] on iso ja kattava pakkaus kaikenlaista, ja
+onneksi kaikkea ei tarvitse osata heti. Nämä ovat asioita, joilla
+pääsee alkuun ja ainoa vaikeus Ledgerin käytössä on etsiä oikeat
+komentoriviliput saadakseen haluamaansa tietoa ulos haluamassaan
+muodossa. Esimerkiksi riittävästi kikkailemalla =-W=- tai
+=-M=-optioiden kanssa tapahtumakyselyistä saa ulos sopivaa dataa,
+josta voi tehdä vaikka Excelillä kuukausikäppyröitä.
+
+Ledger on täysin valuutta-agnostinen. Se ei välitä, lukeeko
+rahasummien lopussa tai alussa $, €, USD, BTC tai vaikka *orava*.
+Yksiköiden on täsmättävä kyllä keskenään, jotta tileiltä tehtävät
+vähennykset ja lisäykset menevät oikein. Mutta samalla tilillä voi
+olla vaikka euroja ja dollareita, Ledger ei sitä estä. Ja mikä tahansa
+kvantifioitavissa oleva asia voi olla kirjoilla Ledgerissä. Oikein
+tarkan markan mies pitää vaikka jääkaappinsa sisältöä kirjanpidossa.
+Seuraava rivi on täysin laillinen Ledger-merkintä:
+
+#+BEGIN_EXAMPLE
+2014-02-05 Välipala
+        Jääkaappi                       -1 omena
+        Jääkaappi:Maito                 -2 dl
+        Syönnit
+#+END_EXAMPLE
+
+Jos samassa tapahtumassa yhdeltä tililtä vähennetään yhtä valuuttaa ja
+toiselle tulee toista, Ledger ymmärtää välissä tapahtuneen
+valuutanvaihdon ja että käyttäjä on antanut oikeat numerot tiedostoon.
+Samalla systeemillä onnistuisi vaikka tuntikirjanpitokin!
+
+Ledger osaa myös tehdä kuukausittaisia automaattitapahtumia ja
+budjetointia, mutta niihin en ole lainkaan paneutunut. Ledger tuntee
+myös erilaisia maksajaliitteitä ja muuta metatietoa, jos haluaa olla
+oikein tarkka asioiden kanssa. Monet näistä hienouksista voi myös
+tehdä pelkillä alitileillä.
+
+** Omia käytäntöjäni ja niksejä
+
+Nyt kun kahdenkertainen kirjanpito ja Ledger on jotenkuten selvillä,
+on aika hävittää hieman epäselvyyksiä kertoilemalla omia käytäntöjäni
+parin vuoden säännöllisen kirjanpidon jälkeen.
+
+*** Lompakon käteinen
+
+Kirjanpitohan on vaivalloista! Aina kun heitän 50-senttisen
+keräyslippaaseen tai ostan pullakahvit yliopistolla, joudun tekemään
+monta riviä tekstiä tiedostoon.
+
+No ei ihan. Kannattaa vetää itselleen joku raja johonkin, jonka ali
+kirjanpitoa ei tehdä. Fyysinen käteinen on yksi hyvä nyrkkisääntö: se
+fyysinen käteinen, mitä sinulla on lompakossa tai sukanvarressa on
+sellaista, että ei tarvitse pitää kirjaa. Toisin sanoen minä *pidän
+kirjaa vain niistä rahoista, jotka joskus näkyvät nettipankissani*.
+
+Jos nostan käteistä automaatilta, niin kirjaan sen tilille
+=Expenses:Siirrot= eli tavallaan siirrän tililtä käteen. Vastaavasti
+jos käyn pankissa tekemässä talletuksen, niin se tulee tililtä
+=Income:Siirrot=.
+
+Tällä systeemillä on myös se sivuvaikutus, että lompakossa lojuvat
+pikkurahat käytän huolettomammin, tietäen että niistä ei synny
+henkistä krapulaa viimeistään siinä vaiheessa kun naputtelen tilit
+tasalle. Ehkä jonkinlainen "roskatili" myös huolettomille
+korttiostoksille voi sopia jonkun tyyliin.
+
+*** Ison kauppakuitin pilkkominen
+
+Ruokakaupassakin käydessä harvemmin ostetaan pelkkää ruokaa. Joskus on
+joku pesuaine tai deodorantti loppunut, joten sekin menee samalla
+matkalla. Ja kotona kädessäsi on yksi kuitti, jossa on yksi
+loppusumma. Tämän voi jakaa yhden tapahtuman sisällä erilaisiin
+tilisiirtoihin:
+
+#+BEGIN_EXAMPLE
+2014-02-05 Ruokaa ja muuta
+        Assets:Tilit:OP                 -15 €
+        Expenses:Ruoka                  12 €
+        Expenses:Koti                   3 €
+#+END_EXAMPLE
+
+Ja näin on tili taas tasattuna, eikä ruokaostokset hämärry liiaksi
+muista ostoksista. Jos tämmöinen nirhaaminen ei kiinnosta, niin tilin
+nimeksi voi harkita jotain yleisempää, vaikka "Elintarvike".
+
+*** Tilien avulla voi tehdä mikrotilastointia
+
+Riippuen vapaa-ajan määrästä ja viettämisestä voi olla "kiinnostavaa"
+vaikka erotella kahvi- tai alkoholiostokset erilleen kaikesta ruoasta.
+Näin näkee sitten vuosien saatossa, missä suhteessa tulee mitäkin
+ostettua, ja kuinka usein! Alitilejä voi rakennella niin listauksista
+saa aina ulos myös kokonaiset summat. Minulla on esimerkiksi tämmöisiä
+tilejä omassa kirjanpidossani:
+
+#+BEGIN_EXAMPLE
+Expenses:Ruoka
+Expenses:Ruoka:Kahvi
+Expenses:Ruoka:Makeiset
+Expenses:Ruokailut
+#+END_EXAMPLE
+
+Huomaa ero ruokaostosten ja ruokailujen maksamisten välillä.
+=Ruoka=-tilille merkitsen elintarvikeostokset ja =Ruokailut=-tili on
+sitten sitä kun syödään tai juodaan "ulkona".
+
+*** Omaisuutta vai menoja?
+
+Kun ostat ruokaa, niin se on aika selvästi menoja. Tai jos tilaat
+kahvilassa kahvin. Niitä rahoja ei saa enää takaisin. Helppoja
+päätöksiä. Vastaavasti jos ostaa osakkeita tai kultaa, niin ne on
+helppo merkitä omaisuudeksi. Joskus ne voi taas realisoida euroiksi
+--- toivottavasti voitolla.
+
+Mutta miten pitäisi toimia, kun ostat CD-levyjä? Uuden näppäimistön
+tietokoneeseesi? Nopeasti arvonsa menettävän keskitason älypuhelimen?
+Auton? Ovatko nämä menoja vai omaisuutta?
+
+Tähän varmasti kaikkein alkeellisin taloustieteen ykköskurssin
+oppikirja ottaa hyvin kantaa, mutta minä lähdin siitä liikkeelle, että
+kaikki, joka on jollain tavalla jälleenmyytävissä, on omaisuutta.
+/Paitsi että/ avaamattomat ruokajutut voivat vaikka mennä kaverille
+pikkurahalla ja että älypuhelimesta ei saa parin vuoden päästä kuin
+murto-osan hinnasta takaisin. Eli tämä on vahvasti sellaista oman maun
+mukaan tehtävää rajanvetoa. Ehkä viisainta olisi pitää omaisuustilit
+mahdollisimman tyhjinä, pitää vain pankkitilit ja mahdolliset osakkeet
+siellä.
+
+Jos sattuu myymään jotain, joka ei ole omaisuudessa, niin sen voi
+merkitä itselleen tuloksi. Jos myy jotain omaisuudesta pois, niin se
+pitää tietysti vähentää omaisuudesta. Tässäkin tulee pieni dilemma
+eteen:
+
+#+BEGIN_EXAMPLE
+2010-02-05 Corolla
+        Assets:Tilit:OP                 -956 €
+        Assets:Auto
+; ...
+2012-01-05 Corolla myyty
+        Assets:Tilit:OP                 700 €
+        Assets:Auto
+#+END_EXAMPLE
+
+Onko meillä nyt olevinaan vielä 250 euron edestä autoa jossain
+tallessa? Ei, jotenkin =Auto=-tili pitää nollata. Tämä on about paras
+ratkaisu, jonka olen itse löytänyt:
+
+#+BEGIN_EXAMPLE
+2012-01-05 Corolla myyty oikein
+        Assets:Tilit:OP                 700 €
+        Assets:Auto                     -956 €
+        Expenses:Auto
+#+END_EXAMPLE
+
+Tässä on se ongelma, että myydessä jotain pitäisi olla tiedossa se
+vanha ostohinta, mahdollisesti postikulut vähennettynä. Eikä ole
+todellakaan aina mahdollista, kuten kirjanpidon alussa tehtävästä
+pääomajutusta tiedämme.
+
+Joten jos joku tietää paremmin oikean tavan tai keksii muuten vain
+jotain, niin please, ehdotelkaa. Muuten joudun jonain vuonna vielä
+käymään kirjastossa tutustumassa aiheeseen ja sitten muokkailla
+vanhoja tapahtumia päivätolkulla.
+
+Ehkä se oikea tapa on vain merkitä kaikki ostettu irtain menoiksi ja
+olla sitten autuaan tietämätön hifisettinsä "arvosta".
