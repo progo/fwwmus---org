@@ -1,0 +1,73 @@
+#+TITLE: 30 Rock
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE 30 Rock                                            :sarjat:fey:sitcom:
+CLOSED: [2014-02-06 Thu 18:51]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-02-06 Thu 18:51]
+:END:
+
+Uuden polven (nauruttomat) tilannekomedioista omaksi suosikikseni on
+muodostunut Tina Feyn luoma [[http://www.imdb.com/title/tt0496424/][30 Rock]]. Lämpenin sarjalle hitaasti, mutta
+toisen tuotantokauden myötä kaikki odotukset ja lupaukset on
+lunastettu. Ainut murhe on se, että bluray-julkaisuja ei nähdä ihan
+heti ja että kausia pyöriteltiin vain 7.
+
+Sarja kertoo NBC:lle jokaperjantaista liveshow'ta tekevän tiimin
+toimia. Homma nytkähtää tyylikkäästi käyntiin, kun hyvä ja vakiintunut
+sarja saa uudet ohjaimet ja ohjaajan. Lisäksi sarjan imago pannaan
+kokonaan uusiksi, ja kaikilla on kurjaa. Hyvin totutaan kuitenkin.
+Suurimmat edesottamukset kuuluvat sarjan pääkirjoittajalle, Liz
+Lemonille (Tina Fey), jolla tuntuu olevan kaikenlaista omituista
+meneillään. Uusi pamppu Jack Donaghy (Alec Baldwin) vetää omaa
+minishow'taan parodioimalla NBC:tä ja korporalismia milloin milläkin
+tavalla. Itse asiassa usein liian hullua ollakseen keksittyä!
+
+30 Rock juontaa paljon [[file:snl.org][Saturday Night Livestä]], ja olihan Fey
+SNL-kirjoittaja aikanaan. Samanlainen kaoottinen tyyli välittyy
+taustalta ja sikäli kun Fey kirjoittaa itsensä tavallaan
+totuudenmukaisesti, hahmoissa on tietynlaista aitoutta. Ainakin
+kaikilla hahmoilla on persoonallisuutta yllin kyllin.
+
+Sarjan paras antihan ovat tosiaan nämä hahmot, jotka käyttäytyvät
+hulluuden rajoilla, ollen silti marginaalisesti vielä /mahdollisia
+ihmisiä/, uskottavia hahmoja. Miljöö mahdollistaa paljon erilaisia
+ideoita ja onkin ollut erinomainen ympäristö antaa hahmojen rellestää.
+Kaikki puhuvat niin hienovaraisesti aivan uskomattomimpia juttuja, ja
+katsojalla on aina sellainen "wait, what" -fiilis päällä.
+Puhumattakaan siitä, että kaikki puhuvat niin nopeasti ja kasuaalisti,
+"deadpan". Voitte hyvin kuvitella tämmöisten helmien (napattu
+IMDB:stä) pulpahtavan ylös tavallisen keskustelun siivittämänä:
+
+#+BEGIN_VERSE
+Dr. Leo Spaceman: Boy, it's crazy to think we used to settle questions
+        of paternity by dunking a woman in water until she admitted
+        she made it all up. Different time, the '60s.
+#+END_VERSE
+
+#+BEGIN_VERSE
+Jack: Lemon, I'm impressed. You're beginning to think like a businessman.
+Liz Lemon: A businesswoman.
+Jack: I don't think that's a word. 
+#+END_VERSE
+
+#+BEGIN_VERSE
+Jack: Look how Greenzo's testing! They love him in every demographic:
+    colored people, broads, fairies, commies. Gosh, we gotta update
+    these forms.
+#+END_VERSE
+
+Liz Lemon erityisesti on suuri poikkeus. Liz kyseenalaistaa monet
+perinteiset naisiin kohdistuvat asetelmat ja muokkaa paljon sitä, mitä
+naiselliselta ihmiseltä odotetaan. Ollen melkein kuin yksi jätkistä.
+Ja siihen kuitenkin nerokkaasti osataan kietoa aina niin
+totuudenmukainen ja hyvin kirjoitettu viimeinen detalji, ettei vaaka
+kiepsahda väärälle puolelle, ja että mikään sanoma ei peitä
+mahdollista vitsiä. Liz voisi vallan hyvin olla joku oikea ihminen,
+jossain tuolla. Henkilökirjoitus on niin hullua -- ja toimivaa.
+
+Huumori on myös poliittisesti korrektin aikakautemme viidakossa varsin
+teräväkielinen, ottaen kantaa kaikkiin epäkorrekteihinkin asioihin.
+Hyvä maku säilyy tyylikkäästi vuorosanasta toiseen, eikä mitään turhaa
+syyllistämistäkään tapahdu. Sarja on todellakin varsin uniikki esitys
+kaiken seassa, ja sai minut taas vakuuttuneeksi sitcomien tasosta.
+Hyviä on joukossamme.
