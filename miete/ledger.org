@@ -1,5 +1,6 @@
 #+TITLE: Kirjanpidosta: Ledger
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
+#+OPTIONS: toc:t
 * DONE Ledger ja kirjanpito                        :cli:ohjelmistot:editorit:
 CLOSED: [2014-02-05 Wed 12:56]
 :LOGBOOK:
