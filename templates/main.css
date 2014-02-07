@@ -21,7 +21,7 @@
 /*** BODY + main things **/
 
 html {
-    height: 100%;
+    height: 700px;              /* by curtain. */
 }
 
 body {
@@ -30,12 +30,12 @@ body {
     color: #ffdfbb;
     margin: 0;
     width: 100%;
-    height: 100%;
+    height: 700px;              /* by curtain. */
 }
 
 /** Need a separate div for other backgrounds */
 #backgrounds {
-    height: 100%;
+    height: 700px;              /* by curtain. */
     background: url(/templates/up-band.png) repeat-x,
                 url(/templates/curtain2.png) right top no-repeat;
 }
