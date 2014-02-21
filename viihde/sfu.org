@@ -1,0 +1,39 @@
+#+TITLE: Six Feet Under
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Six Feet Under                                                :sarjat:
+CLOSED: [2014-02-21 Fri 17:06]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-02-21 Fri 17:06]
+:END:
+
+Alan Ballin luoma [[http://www.imdb.com/title/tt0248654/][Six Feet Under]] on todellinen merkkiteos ja uniikisti
+eniten HBO:n tuotantoja karakterisoinut sarja. Mikään muu TV:ssä ei
+ole samanlaista kuin Six Feet Under.
+
+Six Feet Under kertoo Fisherien perheestä, jotka kaikki enemmän tai
+vähemmän asuvat saman, ison talon katon alla. Hautajaisyrittäjäperheen
+siirtymä sukupolvelta eteenpäin tuo poismuuttaneen veljen takaisin
+perheeseen ja bisnes kukoistaa. Sikäli kun sitä ei joku yritä ostaa
+tai tuhota.
+
+Sarjan sisältö koostuu homoveljen, heteroveljen ja taiteilijasiskon,
+näiden äidin ja työapuna toimivan hautajaisurakoitsijan Ricon
+edesottamuksista. Ja näiden seuralaisista, mm. Brendasta ja Keithistä.
+Kaikilla on omat, realistiset mausteensa arkeen ja ongelmiin. SFU:ssa
+ei koskaan pääse arki unohtumaan juhlankaan keskeltä.
+
+Sarjan tyyli on pikimusta. Kukin jakso alkaa juhlallisesti yhden tai
+useamman satunnaisen ihmisen kuolemilla. Jostainhan ne
+hautajaistoimistot saavat asiakkaansa. Potilaat pannaan koreaksi ja
+toimitetaan mullan alle omien demonien riivatessa taustalla.
+Puhumattakaan kaikista muista tapahtumista taustalla.
+
+Todella musta ja synkkä sarja ei koskaan heikkene: tuotannon taso on
+koko ajan luokkaa "minisarja", vaikka jaksoja tehtiin vajaat 70 viiden
+kauden mittaan. Tämä sarja ei voita minun kirjoissani
+kokonaisuudessaan Twin Peaksia, ja joskus hieman ihmettelen omaa
+valintaani. Tämä on niin paljon erillään kaikista tv-maailman
+mittareista, että tätä ei voi rankata samoilla ansioilla. Täydet
+kunniamaininnat on annettava. Sarja on alusta loppuun niin täyteläisen
+tasalaatuinen ja varma tapaus. Lopetuskin on niin sarjan henkeen
+sopiva ja kunniakas, että ei voi kuin hattua nostaa.
