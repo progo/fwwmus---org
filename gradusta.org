@@ -1,0 +1,69 @@
+#+TITLE: Gradusta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Gradusta.                                                   :opiskelu:
+CLOSED: [2014-02-25 Tue 15:34]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-02-25 Tue 15:34]
+:END:
+
+Ostin tuossa kannettavan, kun halvalla sai. Hieman epäilytti, että
+mihin ihmeeseen oikein tarvitsen sellaista. Ja toisaalta meinaako se
+sitten syödä graduani varten ajastettua aikaa; tarjoaako se
+erinomaisen kohteen prokrastinointiin. Mutta nyt syntyi hyvä oivallus
+liittyen osittain [etä]työskentelymotivaatioon ja sen sellaiseen.
+Ehkäpä tämä kannettava on juuri se avain hyvään ja tehokkaaseen
+graduajankäyttöön.
+
+** Uusi mobiili työjuhtani
+
+Läpsytin on mallia [[http://www.laptopmag.com/review/laptops/hp-elitebook-8440p.aspx][HP Elitebook 8440p]]. Siinä on kiva näyttö ja
+nykyaikainen rauta. Langaton pelittää ja akku kestää. Näppäimistö on
+uutta chiclet-mallia, mutta perin hyvätuntuinen kaikin puolin. Jopa
+oikea Ctrl-näppi on käytettävissä samalla tavalla kuin isoissa
+näppäimistöissä (painettavissa pikkusormen "kulmalla"). Tuntuma on
+kovahko (aina on, kun vertaa MX-kytkimellisiin näppäimistöihin), mutta
+näpsäkkä.
+
+Itse asiassa niin näpsäkkä, että se voi kuulua jo luokkaan "/good
+enough/". Ja tuli sellainen mieleen, että ainakin [[Raptitude.com]]-blogin
+kirjoittaja David on puhunut hieman tylsän työn tekemisestä erilaisin
+fyysisin [[http://www.raptitude.com/2014/02/procrastinate-later/][houkuttimin ja rutiinein]]. Kerran olen kuullut sanottavan
+etätyöstä, että parhaiten työn makuun kotoa käsin pääsee, kun pukee
+tavalliset, toimistossa pidettävät vaatteet päälle. Toivottavasti
+jotain muuta kuin mitä pitää kotonaan.
+
+** Gradu käyntiin uusilla rutiineilla
+
+Ja niin voi olla, että gradu lähtee kunnolla liikkeelle kun kehitän
+itselleni rutiinin siirtyä pois tästä pääasiallisesta
+komentokeskuksestani tuohon ruokapöydän ääreen läppärin kanssa. Tai
+peräti tuohon nojatuoliin, kuka tietää! Tänään tuli kanssa koululla
+hieman flashbackia vanhoista ajoista (l. edellisestä syksystä) kun
+vielä istuin matematiikan kursseilla. Tehtävät ovat vanhoja kunnon
+kynä-paperi -tehtäviä, joihin ei tietokoneet auta. Ne tuli tehtyä
+sitten yllättävän kiltisti tuossa 1,5 metrin päässä. Työnsarkaa sai
+jaettua ja hommat tuli tehtyä. Helposti saa noin tunnin verran
+keskittynyttä työtä aikaiseksi, kun ei ole aivan omassa elementissään
+siinä. Tai ainakin nettiselain on vähän kauempana kuin tavallisesti.
+
+Joten ehkäpä tämä kaikki käynnistyy tällä tavalla parhaiten. Ja
+erityisplussaa tulee siitä, että kannettava liikkuu näppärästi
+yliopistolle, jos oikein haluaa maksimaalista työskentelyhenkeä.
+
+Gradun heitin yksityiseen bitbucket-repoon kaikkine
+lähdemateriaaleineen. Emacsin konffit siirtyivät kivuttomasti
+pääkoneesta kannettavan tuoreestiasennetulle distrolle ja sen
+Emacsille. Tästä voi tulla oikein kaunis systeemi.
+
+** Gradusta.
+
+Aihehan on Clojure ja pyrkimys on esitellä tieteellisesti perusteltuja
+osia siitä gospelista, jota blogosfäärit ovat Clojuresta täynnä.
+Clojuren erinomaiset työkalut hallita kompleksisuutta ja sitä rataa.
+
+Gradun kanssa minulla ei ole virallisesti mikään kiire.
+Opinto-oikeuksia riittää vielä pariksi vuodeksi. Ehkä töissä voisi
+mennä kuitenkin paremmin, jos saisin rakenneltua opintoni kasaan
+kevään aikana. Henkilökohtainen tavoitteeni on saada selvä pääosa
+kasaan kesäkuuhun mennessä. Siihen on kutakuinkin kolme kuukautta nyt.
+Hienosäädöt ja viralliset valmistumiset sitten syksyllä.
