@@ -1,6 +1,6 @@
 #+TITLE: Keskeytettyjä sarjoja
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Sarjat, jotka olen keskeyttänyt                               :sarjat:
+* DONE Sarjat, jotka olen keskeyttänyt                :sarjat:david_e_kelley:
 CLOSED: [2014-03-14 Fri 19:14]
 :LOGBOOK:
 - State "DONE"       from ""           [2014-03-14 Fri 19:14]
