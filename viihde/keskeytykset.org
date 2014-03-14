@@ -1,0 +1,54 @@
+#+TITLE: Keskeytettyjä sarjoja
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sarjat, jotka olen keskeyttänyt                               :sarjat:
+CLOSED: [2014-03-14 Fri 19:14]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-03-14 Fri 19:14]
+:END:
+
+Listaan tähän viestiin sarjat, jotka olen joskus aloittanut ja jotka
+olen sitten lopettanut kesken. Puhun vain niistä sarjoista, jotka ovat
+ensin innostaneet enemmän ja sitten keskeyttänyt. Ehkäpä sekaan
+mahdutan joitain perustelujakin.
+
+- Ally McBeal :: David E. Kelleyn vapaastihengittävä draamaseikkailu
+                 sijoittuu asianajajien keskelle, ja tässä oli paljon
+                 potentiaalia. 
+                 
+                 Kuitenkin ensimmäisellä kaudella rakennettu raikas
+                 ote oikeussalijuttuihin alkaa tasaisella tahdilla
+                 menettää hohtoaan, kun ote ei meinaa pysyä
+                 mieleisenä. Ja kolmannen kauden alkuvaiheella oli
+                 pakko luovuttaa. Ensimmäinen kausi oli ihan hyvä,
+                 mutta sitten ei kyllä enää lainkaan.
+- Stargåte SG-1 :: Tätä sarjaa vaivaa vahva käsiksen naiivius. Olen
+                   osia katsellut eri kausilta, ensin junnuna
+                   television tahtiin ja myöhemmin DVD-bokseilta
+                   alusta alkaen. Kiinnostus lopahti kolmannen kauden
+                   paikkeille sitten. Tarinat eivät oikein jaksa
+                   kantaa mielenkiintoani loppuun saakka.
+- Monk :: Tätä meni varmaan viisi kautta tai jotain. Ei ole ollut
+          mielenkiintoa seurata tarinoita loppuun saakka. Sama
+          naiiviusaspekti kuin Tähtiportissa.
+
+** Sarjoja, jotka tyssähtivät heti ensimetreillä
+
+Katsotaanpas, muistanko monia.
+
+- Picket Fences :: David E. Kelleyn ensimmäinen "oma" sarja on
+                   sekoitelma Twin Peaksia ja pientä lisäsaippuaa
+                   osittain X-Filesmäisten elementtien kanssa (vaikka
+                   X-Files alkoi vuotta myöhemmin!). Katsoin kaksi
+                   ensimmäistä jaksoa, ja totesin että tämä on
+                   oleellisesti kaikki Twin Peaksin ja X-Filesin
+                   huonommat elementit koostettuna yhteen.
+
+** Potentiaalisia lopettamisehdokkaita
+
+Tällä hetkellä (2014-03-14) katsonnassa olevista sarjoista tuo /Orange
+is the New Black/ horjuu hieman mitäänsanomattomuudessaan, että ellei
+kauden päätöksessä tapahdu jotain kunnollista, niin jää sitten
+viimeiseksi kaudekseni. Tämä ei myöskään lupaa hyvää tuottaja Jenji
+Kohanin muiden töiden kiinnostukselle. /Weeds/ on ollut pitkään
+mietinnän alla, mutta ei kyllä, jos se on samanlaista
+nönnönnöö-meininkiä.
