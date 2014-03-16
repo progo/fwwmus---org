@@ -56,6 +56,10 @@ on viety vielä pidemmälle:
   Lisäksi alus voi aina palata aiemmin selatuille vesille, jossa
   on suhteellisen turvallista korjailla alusta ja odotella
   parantumisia.
+- Aluksen komponentin korjaus vie yhden scrapin per korjaussessio. Eli
+  kannattavaa olisi korjata aina alusta loppuun asti. Ja joskus ei
+  kannata tuhlata scrappia, jos pyssyistä on naarmuuntunut yksi lohko
+  pois.
 - Alusta voi myös vaihtaa jollain sopivalla planeetalla toiseen
   välirahalla tai ilman: riippuu kovasti asennetuista
   virityksistä.
