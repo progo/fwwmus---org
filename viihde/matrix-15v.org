@@ -1,0 +1,75 @@
+#+TITLE: The Matrix täyttää 15
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE The Matrix täyttää 15                                       :elokuvat:
+CLOSED: [2014-03-22 Sat 15:03]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-03-22 Sat 15:03]
+:END:
+
+Maaliskuussa 1999 sai ensi-iltansa historiaa pärisyttänyt
+scifitoiminta The Matrix. Se tietää, että reilun viikon päästä
+kyseinen spektaakkeli täyttää pyöreät 15 vuotta. Kyllä se aika osaa
+rientää!
+
+Matrixista ei puutu mitään. Se käärii taidokkaat kung fu
+-koreografiat, aserymistelyt, tappohyvän ja /lainattavan/ dialogin,
+filosofisia poimintoja ja kyvykkään tiimin nautittavaksi
+kaksituntiseksi, jonka audiovisuaalisuus on edelleen hienoimpia
+saavutuksia.
+
+Don Davisin teknorealistinen sinfoniamusiikki ja vihreänsävyiset
+maisemat tekevät hyvin edistyneen vaikutelman, ja sitä se kyllä onkin.
+Minkä määrän vaikutteita Matrix ampuikin ulos 2000-luvulle tultaessa!
+Hidastukset ja aistikkaat, ei liian täyteenahdetut kohtaukset saivat
+taas jalansijaa.
+
+Hugo Weavingin esittämä Agent Smith on mustine Desert Eagleineen
+hienoimpia pahiksia vähään aikaan. Weavingin sanallinen ote on vahva
+ja määräävä, ja taidokkaasti sovellettuna hieman jäykkään
+tietokoneohjelmaan koko hahmo on täynnä hyviä ja viimeisteltyä
+ratkaisuja. Jopa Keanulla on hetkensä, ja ainakin mies yrittää
+kovasti. Viimeinen metrotunnelitaistelu kruunaa koko työn.
+
+Matrixin filosofia on pitkälti kirjallisuuskatsaus edellisiin
+ideoihin, joita on tehty varmasti vuosisatojen ajan. Ihmismielen
+sähköinen stimulointi ja sitä kautta syntyvien todellisuuksien
+simulointi on asia, joka kutkuttaa. Elokuvassa näimme varsin hyvän
+vaihtoehdon tulevaisuudellemme. Ehkä koneet orjuuttavat, ehkä
+korporaatiot. Teknologia kun on sellaista, että kaikki on mahdollista
+hyvinkin pian. Sähköisiä signaaleja osaa nykyihminenkin tehdä. Suurin
+työ on kuvata tarkasti liittyvät aivoprosessit ja niiden lokaatiot,
+jotta saamme kunnollisen Second Life -systeemin pyörimään.
+
+Todellisuusvaikutelmiin liittyvä filosofia tehdään sopivasti
+tarjoiltavaksi, jotta nuori junnu kuten minäkin sai ideasta hyvän
+kuvan, kun aikoinaan elokuvan osto-VHS:ltä katsoin.
+
+** Henkilökohtainen matriisi?
+
+Kun aika koittaa, pelit ja elokuvat siirtyvät pois TV-ruuduilta ja
+virtuaalikypäristä, suoraan käyttäjänsä aivoihin kytketyllä
+USB-johdolla.
+
+Ensimmäiset tuotteet pyörivät varmasti valveunien vahvistamisessa ja
+Constructorin ympärillä. Verkkomoninpelejä tulee sitten seuraavaksi ja
+tuskinpa ennen pitkää ensimmäiset yksilöt jo luopuvat ensimmäisestä
+elämästään ja siirtyvät vapaaehtoisesti jonkin palvelimen 24/7
+-asiakkaaksi.
+
+Ja hyysäysvaltiot ovat kaikki kilvan asettamassa rajoituksia ja
+säännöstelemässä, mitä virtuaalimaailmoissa saa ajatella -- siis
+tehdä. Ehkä koko bisnes monopolisoidaan ja oikea kehitys jatkuu
+avointen lähdekoodien bugisissa toteutuksissa, kunnes jonain päivänä
+ne lähtevät toimimaan. Rakennetaan verkko salattujen kanavien
+ympärille ja meillä on kiintoisa "villi länsi" -skenaario edessämme.
+Missä ihmiset toteuttavat palvelimenpitäjän tahtoa ja verkkoihin
+soluttautuneet valtiovaltojen virkavallat koittavat katselmoida ja
+löytää kansalaisiaan rangaistavaksi.
+
+Kaikenlaiset DDOS-hyökkäykset ja virukset tuovat tietysti nekin oman
+mausteensa mukaan.
+
+Minulle riittäisi nyt ensihätään edes se yksinpeli-Constructor ja sen
+avulla vahvistetut tai ennaltakirjoitetut valveunet.
+
+/Don Davis - Anything is Possible/
