@@ -1,0 +1,64 @@
+#+TITLE: Motorola Moto G tilattu
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Motorola Moto G tilattu                                      :puhelin:
+CLOSED: [2014-03-30 Sun 20:10]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-03-30 Sun 20:10]
+:END:
+
+Taloudelliset lahjoitukset ja muut tekijät saivat sitten viimein
+ajamaan minutkin nykyaikaisten älypuhelinten tielle. Valintani on noin
+160 euroa maksanut *Motorola Moto G*, jonka isoveljestä olin jo
+aiemmin lukenut hyviä sanoja. Mitä sitten onkaan luvassa
+tyhmäpuhelinmiehelle, jää nähtäväksi parin seuraavan viikon aikana.
+
+Nykyinen puhelin on Nokian joku Symbian-roju, jonka sain edullisesti
+aikoinaan paukahtaneen Nokian, ei-Symbian, tilalle. Enkä ole pahemmin
+haikaillut kosketusluurien päälle. Ei ole oikeata tarvetta ja hyvä
+niin. Kunnon fyysiselle näppäimistölle olisi ollut kiva naputella,
+mutta sellaisten aikakaudet ovat puhelimissa ohitse. Olisi valittava
+rajoitetusta valikoimasta sellaisen perässä. Mutta nyt sitten
+erilaiset tekijät kumuloituvat ja katkoivat kamelin selkää:
+
+- Nykyinen MP3-soittimeni on surkea, ja puhtaiden MP3-soitinten hinnat
+  ovat aika tyyriit: markkinat ovat ajaneet ohi näistä. Kohtuullisen
+  soittimen hinnalla saa alkeellisen älypuhelimen.
+- Nykyisen puhelimen akku lahoaa hitaasti, mutta tekee välillä
+  yllättäviä temppuja. Lisäksi vanhan Nokian laturi on mallia "tyhmä",
+  eli rahastaan tarkan on revittävä vehjettä pois seinästä. Uusissa
+  USB-väylään nojautuvissa ratkaisuissa on automaattinen katkaisu
+  sisäänrakennettua toimintaa.
+- Sanelu- ja muistiinpanotoiminnot ovat kiinnostaneet kotvan aikaa.
+  Androidille voi aina koodata vaikka itse omaa sanelusoftaa, joka
+  pitäisi viestit ja mietteet hyvin synkassa.
+- Saunalahdella on keskimäärin parhaat liittymät minun käytölleni,
+  /vaikka/ nyt pakottavatkin kiinteähintaista datapakettia hintaan 2
+  euroa kuukaudessa. Vanhalla Nokialla tästä ei saa oikein mitään
+  hyötyä irti.
+- Kamera ja QR-koodinluku voi olla eduksi.
+  
+Motorola G voitti lyhyen kilpailutuksen, joka tehtiin joistakin
+Muropaketin keskusteluissa ilmenneistä halpispuhelimista. Samsung
+Galaxy Trendistä lähdin liikkeelle, mutta olin varma, että pitää
+löytyä jotain fiksumpaakin kohtuuhinnalla. Motorola G oli murojen
+suosikki, ja pienen vertailun jälkeen olin minäkin vakuuttunut.
+
+Vaikka töissä olen hieman pyöritellyt Lumia-pohjaista puhelinta, ja
+hyvin vakuuttunut niiden puhelinten laadusta, niin Androidin valinta
+on aika selviö minulle. Paras linux-yhteensopivuus, koska
+valmistajilla on vähiten intressejä sitoa sekasikiöisiä puhelimia
+tiettyyn alustaan. Lisäksi aina voi kokeilla pientä mobiilikehitystä,
+jos vaikka edellämainittua sanelinta ei sellaisenaan löydy.
+
+Hieman tätä tilannetta nakersi uutinen, että perinteinen
+USB-tallennustilakytkentä on tuoreista Androideista riisuttu pois.
+Vaihtoehtoja skriptattavaan synkronointiin ja tiedostojenvaihtoon on
+mm. FTP-palvelimen pitäminen langattoman klientin päässä. Hyvä ja
+nopea idea, mutta pitäisi sitten investoida uuteen reitittimeen. Ja
+sitten on viimeisenä kelvollisena vaihtoehtona hitaaksi haukuttu
+MTP-protokolla, jonka kanssa pitää kai kärvistellä. Ja sitten on toki
+kaikenlaiset verkon yli tapahtuvat pilvisynkkaukset, kuten DropBox tai
+Googlen Drive. Viimekädessä vaikka roottaus, jos ei mikään toimi.
+
+Tulevissa postauksissa saman tagin alla palaan sitten asiaan, kun
+puhelin on täällä ja alkuhässäköitä mietitty.
