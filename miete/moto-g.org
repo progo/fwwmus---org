@@ -1,6 +1,6 @@
-#+TITLE: Motorola Moto G tilattu
+#+TITLE: Motorola Moto G
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Motorola Moto G tilattu                                      :puhelin:
+* DONE Motorola Moto G                                              :puhelin:
 CLOSED: [2014-03-30 Sun 20:10]
 :LOGBOOK:
 - State "DONE"       from ""           [2014-03-30 Sun 20:10]
@@ -10,7 +10,9 @@ Taloudelliset lahjoitukset ja muut tekijät saivat sitten viimein
 ajamaan minutkin nykyaikaisten älypuhelinten tielle. Valintani on noin
 160 euroa maksanut *Motorola Moto G*, jonka isoveljestä olin jo
 aiemmin lukenut hyviä sanoja. Mitä sitten onkaan luvassa
-tyhmäpuhelinmiehelle, jää nähtäväksi parin seuraavan viikon aikana.
+tyhmäpuhelinmiehelle, jää teille luettavaksi.
+
+** Nykytilanne ja uuden puhelimen edut
 
 Nykyinen puhelin on Nokian joku Symbian-roju, jonka sain edullisesti
 aikoinaan paukahtaneen Nokian, ei-Symbian, tilalle. Enkä ole pahemmin
@@ -60,5 +62,54 @@ MTP-protokolla, jonka kanssa pitää kai kärvistellä. Ja sitten on toki
 kaikenlaiset verkon yli tapahtuvat pilvisynkkaukset, kuten DropBox tai
 Googlen Drive. Viimekädessä vaikka roottaus, jos ei mikään toimi.
 
-Tulevissa postauksissa saman tagin alla palaan sitten asiaan, kun
-puhelin on täällä ja alkuhässäköitä mietitty.
+** Motorola Moto G on talossa
+
+Moto G on nyt ollut täällä reilun vuorokauden ajan. Kaikenlaista kivaa
+siitäkin löytyy. Puhelin on hyvin jämäkkä ja aistikkaasti muotoiltu.
+Ohuempi on kuin Nokia, kulkee hienommin taskussa kuin edellinen.
+
+Alkuasettelujen, jotka piti laiskuuttani skippailla ja tehdä
+manuaalisesti jälkikäteen, kädessä on kohtuullisen kevytkäyttöinen
+käyttöliittymä vähällä crapwarella. Ainakin jos Googlen juttuja ei
+laske crapwareksi. Alistuin ja linkitin Google-tunnukseni puhelimeen
+varmuuskopioetujen takia, ja vaatiihan se Play-kauppakin sitä
+linkitystä. GMail-sovellus alkoikin pyöritellä heti tuloksia ulos, ja
+sähköposti-ilmoitukset tulevat reaaliaikaisesti verrattuna selaimessa
+olevaan välilehteen tai erilliseen, määräajoin tsekkaavaan ohjelmaan
+nähden. Ihan kiva sekin.
+
+Aluksi pelkäsin, että kielien ja lokalisaation kanssa saa tapella
+liikaa. Onneksi näin ei ole. Softat pysyvät englanninkielisinä ja
+näppäimistön saa suomeksi tai amerikaksi vähillä toimenpiteillä.
+Sanastosta on apua kirjoittelussa vähän, joten ehkä pitää vielä hakea
+erillinen suomisanasto niitä harvoja tekstiviestejä varten.
+
+Akku on tietysti uusi, ja kestää aika hyvin käyttöäni. Illalla otin
+pois latausvirrasta ja nyt työpäivän jälkeen se on ollut akulla 18
+tuntia, ja varausaste on pudonnut enintään 12 prosenttia täydestä.
+Ihan hyvä tulos sikäli kun räpläsin vähän ja annoin datan laulaa
+testiksi. Sen suurempaa käyttöä tyypillinen päiväni ei sitten tulekaan
+sisältämään. Ehkä se MP3-soittelu tulee mukaan, ehkä ei. Hyvältä
+näyttää kuitenkin tällä hetkellä.
+
+Muutamalla puhelullakin siunattiin, joista kaupustelijoita varmasti
+kaksi kolmasosaa. Mihinkään en ehtinyt vastata, joten mikrofonin ja
+kaiuttimen tasot ovat vielä mysteeri. Asensinkin sitten muistaessani
+puoli-ilmaisen Fonecta Caller -sovelluksen. 25 sentin
+kertarekisteröitymisellä saa 100 ilmaista numerotiedustelua kuussa, ja
+Caller luonnollisesti tarkastaa numerot aina kun joku uusi soittaa.
+Pakettiin kuuluu myös tunnettujen mainostajien numerotietokantoja.
+Saunalahden datapakotuksesta on heti kivaa hyötyä.
+
+Hieman tuo kiinteä 8 gigan tallennustila tekee tiukkaa, kun käyttis jo
+imaisee kolme gigaa itse. Loppuun viiteen ei mahdu kamalasti
+MP3-musiikkia soiteltavaksi. Toisaalta testasinkin jo, että
+MTP-protokollan mukainen tiedonsiirtoyhteys gentooni välillä onnistuu
+ja on kohtalaisen nopea. Ehkä se hidastuu tiedostojen lukumäärän
+suhteen, ehkä ei.
+
+Toistaiseksi kaikki näyttää superhyvältä. Koska kosketusnäytölliset
+vehkeet ovat pääasiassa leluja minun kirjoissani, en pidä laitetta
+minään muunakaan. Odotukseni ovat alhaiset ja Moto G lunasti kaiken
+hienosti. Ja mitä muihin internetin arvosteluihin tulee, ovat he myös
+kokeneet samaa, ja vielä korkeammilla odotuksilla.
