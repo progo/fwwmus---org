@@ -1,6 +1,10 @@
 #+TITLE: Parks & Recreation
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* Parks & Recreation                                          :sarjat:sitcom:
+* DONE Parks & Recreation                                     :sarjat:sitcom:
+CLOSED: [2014-04-17 Thu 17:54]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-04-17 Thu 17:54]
+:END:
 
 Pienen indianalaiskaupungin kunnallinen puisto-osasto suunnittelee
 yhtä jos toista virkaintoisen Leslie Knopen johdolla. Tämä sarja on
