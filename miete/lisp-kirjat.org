@@ -1,0 +1,87 @@
+#+TITLE: Lisp-kirjoja
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+#+OPTIONS: toc:t
+* DONE Lisp-kirjoja                      :koodi:lisp:clojure:kirja:arvostelu:
+CLOSED: [2014-04-21 Mon 12:28]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-04-21 Mon 12:28]
+:END:
+
+Listataanpa lukemiani Lisp-aiheisia kirjoja koosteeksi.
+
+** Michael Fogus, Chris Houser: The Joy of Clojure (2011)
+
+Vaikka tämä ei olekaan yleinen konsensus, /Joy of Clojure/ sopii hyvin
+kielen oikkujen oppimiseen. Etenkin jos Clojuresta on jo pientä
+kokemusta web-tutoriaalien pohjalta. JoC on kirjoitettu osittain
+teoreettisesta näkökulmasta ja osittain käytännönläheisestä
+Clojure-hakkailusta. Totisesti, tässä kirjassa on laaja paketti
+erilaisia sovelluksia, ja antaa hyvät maistiaiset siihen, mitä
+lisp-kielellä voi oikein tehdä.
+
+** Amit Rathore: Clojure in Action (2011)
+
+Rathoren Clojure-kirja saattoi olla vuonna 2011 hyvä katsaus Clojuren
+käytännöllisempään puoleen, mutta kirjoitustyyli ja koodi oli hieman
+puuduttavaa omaan makuuni. Emerickin /Clojure Programming/ kuittaa
+likipitäen tämän kirjan kokonaan.
+
+** Chas Emerick et al: Clojure Programming (2012)
+
+Tämä kirja on taasen vahva yleisteos, suorastaan referenssi kaikkiin
+Clojure-asioihin. Python-maailmassa Lutzin /Programming Python/ toimii
+vastaavana järkäleenä. Referenssi, joka toimii ihan taidokkaasti
+kirjoitettuna oppikirjana. Paljon asiaa on kyllä, joten kaikkea ei
+ehdi nauttia yhden lukukerran aikana.
+
+** Peter Seibel: Practical Common Lisp (2005)
+
+Common Lisp tuntuu Clojuren jälkeen hieman vanhalta, ja onhan se
+tietysti sitäkin. Ainakin pari vuotta sitten vielä kuitenkin
+keskusteltiin paljon siitä, onko Clojuren säkissä yhtäkään oikeasti
+uutta ideaa, jota ei CL:ssä olisi ainakin joskus nähty. Siitä syystä
+nyt aloitin hiljan tutustumisen CL:n maailmaan. Seibelin kirja on
+[[http://gigamonkeys.com/book/][ilmaisessa verkkojakelussa]], ja ainakin suosittelen ensipuoliskoa
+yleistason CL-kirjoitteluun. Luvun 9 nopea, funktionaalinen
+testiympäristö on erinomainen tapa näyttää makrojen taika.
+
+Jälkimmäisellä puolella Seibel kuitenkin siirtyy enemmän ja enemmän
+oliopohjaisiin ajatuksiin. Introduktio Common Lispin
+olio-ominaisuuksiin (CLOS) on toisaalta erittäin tervetullut, ja
+valaisevakin. Kaikki ideat, mitä Alan Kay teki oikein Smalltalkissa ja
+mitkä tehtiin Javassa ja C#:ssa väärin, ovat esillä. Common Lisp antaa
+vapaat kädet tehdä likipitäen sitä, mitä haluaa olioiden kanssa.
+
+Mutta loput esimerkit ovat sitten liiaksi oliokeskeisiä. Tämä tietysti
+käy niille, ketkä nauttivat olioista. Funktionaalista ohjelmointia PCL
+ei opeta, eikä sen tarvitsekaan. Onhan Common Lisp enemmän
+moniparadigmainen kuin funktionaalinen kieli.
+
+** Conrad Barski: Land of Lisp (2010)
+
+Barskin LoL on vähiten akateeminen kirja näistä kaikista, ja muutamia
+pieniä virheitä tai epätäsmällisyyksiäkin olen huomannut. Tämä kirja
+on todella hulvaton, kuitenkin, ja opastaa nätisti Common Lispin
+saloihin satunnaisten peliprojektien ja teoriaosuuksien lomitellessa
+toisiaan.
+
+Land of Lisp on tuore tapaus Common Lisp -kirjallisuuden maailmassa,
+ja ihan taidokas työ. Makrot ja kaikki sellainen käydään riittävällä
+tasolla ja selkeästi havainnollistettuna. Seibelin kirjaan nähden
+Barski ottaa funktionaalisen lähestymistavan kirjan loppupuolella
+käyttöön, ja tekee sillä ihan mukavia teknisiä algoritmeja.
+Minimax-algoritmeja ja \alpha-\beta-pruunausta. Barski esittelee myös
+muita Common Lisp -idiomeja, ja kirja on ollut kaikkinensa oiva
+luenta. Tulikin ahmittua aikamoista vauhtia.
+
+** Mitä muuta tulossa?
+
+Näillä näkymin CL saa riittää, mutta Paul Grahamin [[http://www.paulgraham.com/onlisp.html][On Lisp]] (vapaasti
+luettavissa tämäkin) kiinnostaisi lukea. Kyseessä on nimestään
+huolimatta vahvasti makropainotteinen paketti, ja makroilla tekee
+kaikissa lispeissä jotain. DSL-maailma riippuu makroista.
+
+Clojure-puolella on ainakin Hallowayn "Programming Clojure" ja sitten
+on Stuart Sierran "Practical Clojure", joita en ole lukenut/silmäillyt
+kannesta kanteen. En välttämättä luekaan, koska ovat aika vanhoja
+kirjoja ja vähän on kuultu mitään kehujakaan.
