@@ -74,14 +74,46 @@ Minimax-algoritmeja ja \alpha-\beta-pruunausta. Barski esittelee myös
 muita Common Lisp -idiomeja, ja kirja on ollut kaikkinensa oiva
 luenta. Tulikin ahmittua aikamoista vauhtia.
 
+** Paul Graham: On Lisp (1994)
+
+Paul Grahamin [[http://www.paulgraham.com/onlisp.html][On Lisp]] (vapaasti luettavissa linkin takaa) on syventävä
+työ Common Lispillä tehtäviin ratkaisuihin. Kirjassa Graham esittelee
+case-pohjaisia ongelmia, ja idiomaattisia tapoja toteuttaa ne CL:llä.
+Tutustutaan esimerkiksi hahmonmätsäykseen, epädeterministisiin
+mekanismeihin ja oliohierarkioiden luomiseen. Sivussa syntyy
+esimerkiksi täysin toimiva Prolog-klooni. Graham kannustaa tekemään
+funktionaalista koodia, mutta toisaalta käytetyt tekniikat ovat
+vahvasti makropohjaisia, joita on hankalampi yhdistellä.
+
+Makroilla tehdään paljon. Kaksikymmentä vuotta sitten tietokoneet
+olivat hitaampia, joten makrojen esikääntöominaisuuksille oli varmasti
+enemmän käyttöä silloin. Clojuressa ei lainkaan painoteta makroja näin
+paljoa, ja syynä tähän on varmasti ensinnäkin yhdisteltävyyden
+ylläpito ja yhtenäisyys siltä osin. Ja nykykääntäjät (clojuren
+tapauksessa) osaavat toki tehdä JIT-kääntöä, mikä nopeuttaa.
+
+Tiiviissä luvuissa ehditään tehdä kyllä paljon. Kontinuaatioita,
+laiskaa suoritusta ja takaisinkelaavaa suorituspolun etsintää. Graham
+perustelee kyllä syitä makrojen käytölle (ja lisäksi esittää tehokkaan
+makron makrojen yhdistelyä helpottamaan). Makroraamatuksi tituleerattu
+työ ei petä tältä osin.
+
 ** Mitä muuta tulossa?
 
-Näillä näkymin CL saa riittää, mutta Paul Grahamin [[http://www.paulgraham.com/onlisp.html][On Lisp]] (vapaasti
-luettavissa tämäkin) kiinnostaisi lukea. Kyseessä on nimestään
-huolimatta vahvasti makropainotteinen paketti, ja makroilla tekee
-kaikissa lispeissä jotain. DSL-maailma riippuu makroista.
+Näillä näkymin Common Lisp saa riittää. Clojure-puolella on ainakin
+Hallowayn "Programming Clojure" ja sitten on Stuart Sierran "Practical
+Clojure", joita en ole lukenut/silmäillyt kannesta kanteen. En
+välttämättä luekaan, koska ovat aika vanhoja kirjoja ja vähän on
+kuultu mitään kehujakaan. Uusia Clojure-kirjojakin on, kuten "Clojure
+Cookbook" ja joku tilastojuttuja tekevä kirjanen on myös. Nämä eivät
+ole kamalan kehuttuja opuksia, enkä usko, että opin kamalasti niistä
+enää.
 
-Clojure-puolella on ainakin Hallowayn "Programming Clojure" ja sitten
-on Stuart Sierran "Practical Clojure", joita en ole lukenut/silmäillyt
-kannesta kanteen. En välttämättä luekaan, koska ovat aika vanhoja
-kirjoja ja vähän on kuultu mitään kehujakaan.
+Jonkinlainen "On Clojure" voisi olla varteenotettava tässä vaiheessa:
+kirja, jossa paneudutaan tosissaan suuren järjestelmän ylläpitoon
+Clojurella. DSL:t ja makrot ja funktionaalinen ote. Hickeyn tapaan
+painopiste saisi olla yksinkertaisen systeemin rakentamisessa.
+
+SICP:tä olen lukenut ensimmäisen neljänneksen verran. Ehkäpä jatkan
+sitä sitten schemennälkääni. Toisaalta SICP:stä ei ole tyydyttävää
+Kindle-versiota olemassa, ja katkotut koodirivit ovat perin ikäviä.
