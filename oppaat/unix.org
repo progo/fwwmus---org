@@ -594,8 +594,10 @@ tässäkin taisi olla jo tuhti annos ah niin vaikeata kielioppia.
                    Tähti vastaa myös nollaa merkkiä, mikä voi
                    kuulostaa ihmeelliseltä:
 
+                   #+BEGIN_EXAMPLE
                     $ ls karvinen*
                     karvinen
+                   #+END_EXAMPLE
 
 Summariikkina:
 
@@ -611,11 +613,11 @@ Summariikkina:
                    kotihakemiston käsite. Nykyisin on tämä helpompaa
                    selittää, kun koti-Windowsit ovat päässeet samalle
                    tasolle. Samalla tavalla kuin teillä on
-                   Windowseissa =C:\\Users\\= -polun takana omat
+                   Windowseissa =C:\Users\= -polun takana omat
                    tavaranne, joihin muut eivät pääse käsiksi, niin
                    Unixeissa on vastaava hakemisto =/home/=.
 - Ville ::         En nyt käsitä...
-- Hemmo-Joachim :: Jokaisella on se oma *"Omat tiedostot"* -hakemisto,
+- Hemmo-Joachim :: Jokaisella on se oma "Omat tiedostot" -hakemisto,
                    johon ei yleensä pääse katselemaan muut kuin sen
                    hakemiston omistaja itse.
 - Ville ::         Niin.
@@ -634,7 +636,7 @@ Summariikkina:
                    mitään kuin omassa hakemistossasi.
 
                    Siksi sille on annettu näppärä lyhenne kaikissa shelleissä:
-                   =~=, eli *tilde* tai matomerkki.
+                   =~=, eli /tilde/ tai matomerkki.
 - Ville ::         Miten sitä lyhennettä pääsee käyttämään?
 - Hemmo-Joachim :: No kaikkialla, missä voi antaa hakemistopolkua, voi
                    käyttää tätä tildeä merkkaamaan omaa
