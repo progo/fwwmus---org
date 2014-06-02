@@ -1,0 +1,87 @@
+#+TITLE: Pelit ja elokuvat
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Pelit ja elokuvat                      :pelit:sarjat:elokuvat:fallout:
+CLOSED: [2014-06-02 Mon 13:30]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-06-02 Mon 13:30]
+:END:
+
+Pelejä on aktiivisena ajanvietteenä pidetty passiivista TV:tä ja
+elokuvia parempana tapana kuluttaa aikaansa. "TV:tä" yleisesti vastaan
+varmasti, mutta en allekirjoita varauksitta pelien paremmuutta
+parempaa viihdettä vasten.
+
+** Määritelmiä
+
+Muutamia selvennyksiä on hyvä tehdä:
+
+- TV :: TV:llä minä tarkoitan ennaltaohjelmoituja videolähetyksiä,
+        joihin kuuluu mm. mainoksia, elokuvia, sarjoja ja uutisia.
+        Katsoja antautuu budjettisyistä ennaltapäätettyyn sisältöön,
+        joka on ajallisesti sidottua.
+- TV-sarjat :: TV-sarjat tai lyhyesti /sarjat/ ovat TV:tä varten
+               tehtyjä sarjoja. (Vertaa käsitteeseen /TV-elokuva/.)
+               TV-sarjan seuraaminen ei implikoi TV:n katsomista
+               lainkaan.
+               
+Vastaavasti elokuvat käsittävät sekä TV-elokuvat että hopeakankaalle
+tarkoitetut tuotannot. Pelit ovat tässä yhteydessä videopelejä, vaikka
+luen mukaan myös sellaiset tekstiseikkailupelit, joissa on
+puhesyntetisoinnin mahdollisuus sokeita varten. Näiden pelien
+pääasiallinen yleisö pelaa kuitenkin pelejä vähintään visuaalisesti.
+
+Puhun taiteellisuudesta ja epätaiteellisuudesta, mutta en osaa sitä
+nyt sen paremmin määritellä ilman sen kummempaa
+kirjallisuustuntemusta. Tämän epäkohdan saa ottaa esille kommenteissa.
+Kun puhun "hyvin kirjoitetusta" pelistä, niin puhun omasta mielestäni
+taiteellisia ansioita omaavasta tekstistä.
+
+** Pelit eivät välttämättä ole sarjoja tai elokuvia parempi tapa kuluttaa viihdettä
+
+Kaikki mainitut tyypit voidaan luokitella taiteeksi, mutta pelit ovat
+vähemmän taiteellisia kuin sarjat ja elokuvat. Sarjoilla ja elokuvilla
+on ehtaa käsikirjoitusta ja ehtaa ohjausta taustalla.
+
+Se on totta, että kaikissa tapauksissa taustalla on "käsikirjoitus" ja
+taiteellinen ohjaaja. Pienten pelien tapauksessa pääkoodari tekee nämä
+suhteessa pienet päätökset itse ja isoissa pelituotannoissa
+taiteellinen hierarkia on kuin suoraan Hollywoodista. Ja tämäkin
+kaikki riippuu kovasti pelityypistä. Modernit seikkailu- ja
+toimintapelit ovat hyvin elokuvamaisia myös hyvässä, taiteellisessa
+mielessä. Toisaalta jotkut kohtuuisotkin pelituotannot ovat aika
+hataria. Se on totta, että mitä enemmän pelaajalle annetaan
+pelivapautta, sen vaikeampi kaikkea on ohjata kehittäjien mielensä
+mukaan.
+
+Tämähän on hyvä, jopa tavoiteltu asia. Ja samalla se syö töiden
+"taiteellisia ansioita". Tässähän ei siis ole mitään vikaa. On kunkin
+oma makuasia, kuinka parhaiten nauttii vapaa-ajastaan. Taiteellisten
+tekijöiden sijaan peleissä voidaan parhaan mukaan panostaa tunnelmaan
+ja tunnelmiin. Esimerkiksi kolmiulotteisissa [[file:fallout.org][Fallouteissa]] on päästy
+varsin uskomattomiin suorituksiin aina välistä.
+
+** Onko tilanne korjattavissa?
+
+Ehkä kysymys kuuluukin: onko tässä mitään ongelmaa? Jos meillä on
+juonettomia räiskintäelokuvia ja meillä on älykkäästi kirjoitettuja
+seikkailupelejä, niin mistä kuristaa?
+
+Pelit ovat määritelmällisesti pelaajan kontrolloitavissa, joten
+formaatti vaatii mukautumista. Peleissä hyvin kirjoitettua tarinaa
+viedään eteenpäin palasissa, jonka ympärillä on Hitchcockin sanojen
+mukaan niitä "tylsiä palasia". Sama pätee sekä putkijuoksuissa
+(esimerkiksi Portalin mainiosti kirjoitettu pienieleinen tarina) että
+avoimissa pelimaailmoissa (/main quest/ -menetelmä).
+
+Tätä asiaa ei voi korjata mitenkään. Tuloksena olisi ... elokuva.
+Pystyisikö edes resursseja lisäämällä tuomaan riittävästi
+vaihtoehtoisia ratkaisuja kaikille toimille, että vaikutelma olisi
+riittävän hyvä? Teoriassa ei, käytännössä... ei. En ole ainakaan vielä
+törmännyt niin hyvään työhön.
+
+Olisi ehkä myös mahdollista, jonkin nerokkaan pelimekaanisen keksinnön
+avulla, kirjoittaa ja toteuttaa sellainen putkijuoksentelu, joka
+toimii tiiviisti hyvin kirjoitetun juonen kanssa, mutta ei ole suoraan
+elokuvamainen. Jonkinlainen juonellinen peli, jossa "tylsät palat"
+voidaan leikata pois ja silti saada kaikki tavalliset pelielementit
+kasaan nätisti.
