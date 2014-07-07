@@ -1,0 +1,73 @@
+#+TITLE: Korkokertymiä 
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Korkokertymiä                                   :python:clojure:koodi:
+CLOSED: [2014-07-07 Mon 17:25]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-07-07 Mon 17:25]
+:END:
+
+Jos voittaisi lotossa yhden miljoonan, miten hyvin sillä eläisi
+perushyvää elämää? Lyhyt vertailu Pythonin ja Clojuren välisistä
+ratkaisumalleista.
+
+** Alkuoletukset
+
+Voitto $V$ on tasan miljoonan. Sopivilla rahastosijoituksilla tekee
+annetulle sijoitukselle kahden prosentin vuosituoton (aika vähän,
+koska inflaatio luultavasti jatkuu tulevaisuudessakin melko
+korkealla).
+
+Perushyvää elämää on aika maltillinen 2500 euroa kuukaudessa. Nettona
+tuota tehdessä ainakin minä jäisin jo työelämästä pois.
+
+Ja viimeisenä on hyvä huomata, että tämä laskentamalli on epätarkka.
+Koko vuoden menoja ei yleensä varata vuoden alussa, vaan niitä syntyy
+hiljalleen. Tästä syystä vuosia kertyy enemmän.
+
+** Pythonilla
+
+Pythonin ollessa imperatiivinen kieli, lähdin sillä huvikseni
+laskemaan konkreettisia lukuja.
+
+#+BEGIN_SRC python
+  In [2]: vuosituotto = 1.02
+  In [38]: V = 1e6
+  
+  In [39]: vuosia = 0
+  
+  In [40]: while V > 0:
+     ....:     V = V - (2500*12) ; V = V * vuosituotto
+     ....:     vuosia += 1
+     ....:     
+  
+  In [41]: vuosia
+  Out[41]: 54
+#+END_SRC
+
+Semmoisen numeron sylkäisi ulos. Koska monirivisten lohkojen käsittely
+sisennyssääntöjen takia on tympeätä Python-kuorissa (IPython käytössä
+kuitenkin), siirryin kielten kieleen seuraavaksi.
+
+** Clojurella
+
+Tietysti osittain omaa tottumista ja muita seurauksia syyttäen tämä
+tulos on huomattavasti dataorienteisempi oitis. Funktionaalinen
+funktio =+year= ottaa alkupääoman ja palauttaa vuoden lopussa
+tilin uuden saldon.
+
+#+BEGIN_SRC clojure
+  user=> (def V 1e6)
+  #'user/V
+  user=> (def interest 1.02)
+  #'user/interest
+  user=> (def monthly 2500)
+  #'user/monthly
+  user=> (defn +year [v] (* (- v (* 12 monthly)) interest))
+  #'user/+year
+  user=> (+year V)
+  989400.0
+  user=> (take-while pos? (iterate +year V))
+  (1000000.0 989400.0 978588.0 ...snip... 45826.06171246591 16142.582946715229)
+  user=> (count *1)
+  54
+#+END_SRC
