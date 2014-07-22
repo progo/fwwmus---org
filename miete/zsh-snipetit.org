@@ -1,0 +1,129 @@
+#+TITLE: Yksinkertainen snipettijärjestelmä ZSH:lle
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Yksinkertainen snipettijärjestelmä ZSH:lle                 :zsh:koodi:
+CLOSED: [2014-07-22 Tue 17:23]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-07-22 Tue 17:23]
+:END:
+
+Tuli tuossa sunnuntaina yks-kaks mieleen, että [[file:zsh-zle.org][ZLE:n ansiosta]] ZSH:lle
+olisi aika helppoa kirjoittaa kunnollinen snipettijärjestelmä.
+Snipetithän ovat TextMatesta kaikkialle kopioitu fiksu systeemi, jolla
+aliakset ja tekstieditoreissa käytetyt "lyhenteet" (abbreviations)
+saadaan vuorovaikutteisiksi. Snipetit toimivat pääsääntöisesti siten,
+että tietyn aktivointitekstin kirjoitettuaan painetaan pikanäppäintä
+-- aika usein tabia -- ja aktivoiva teksti käännetään laajennettuun
+muotoonsa. Emacsissa on esimerkiksi paketti nimeltä /yasnippets/ ja
+vimille on ainakin /SnipMate/ ja modernimpi /UltiSnips/.
+
+Komentoriveillä on näitä lyhenteitä ja erityisemmin aliaksia jo
+tarjolla, mutta ne eivät aina tarjoa parasta käytettävyyttä. Joskus
+aliakset puretaan auki vasta kun rivi on hyväksytty suoritettavaksi.
+Jos aliaksen laajennusta ei satu muistamaan, tai sitä haluaisi muokata
+pikkuisen, voi olla hieman haasteellista. (ZSH tosin saattaa tarjota
+tabista tehtävää laajennusta ns. inline-aliaksille, mutta tähän en
+jaksanut perehtyä.)
+
+Koska simppeleitä ZLE-funktioita on tullut kirjoiteltua jo useita, oli
+pohjaratkaisu jo visualisoituna mielessä. Tällä snipettisysteemillä
+pystyn lisäksi siivoamaan muita interaktiivisia aliaksia pois
+konffeistani. Turhaa sotkua ja hankala muistaa kaikkia lisäksi. Koska
+shell-skriptaus on ikävää, ja ZSH-skriptaus vielä erityisen huonoa,
+päätin ulkoistaa ison työn pythonille. Tuloksena syntyi tämmöinen
+ulkoisesti funktionaalinen ilmestys:
+
+#+BEGIN_SRC python
+  #!/usr/bin/env python3
+  import sys
+  
+  SNIPPETS = {
+      'j': ('j ""',
+            ('end-of-line', 'backward-char')),
+      'ww': ('WatchNext;WatchNext',
+             ('end-of-line',)),
+      'wd': ('WatchNext -d',)
+  }
+  
+  def main(argv):
+      if not argv: return
+      buffer = argv[-1].split(' ') # spaces intact
+      evals = ''
+      match = SNIPPETS.get(buffer[-1])
+      if match:
+          buffer[-1] = match[0]
+          try:
+              evals = ';'.join(match[1])
+          except IndexError:
+              pass
+      buffer = ' '.join(buffer)
+      print (buffer + "\0" + evals)
+  
+  if __name__ == '__main__':
+      main(sys.argv[1:])
+#+END_SRC
+
+Tämä skripti on sellaisenaan testattavissa komentoriviltä. Se odottaa
+yhtä argumenttia, komentokehotteen koko sisältöä. Simppelin
+ensivedoksen nimissä oletan, että snipettejä halutaan laajentaa vain
+rivin lopussa. Jatkoversio voisi ottaa myös kursorin paikan
+informaation talteen ja laajentaa snipettejä halutusta kohdasta.
+
+Syötteet ovat siis kovakoodattuna tässä kuvauksessa =SNIPPETS=, ja
+kukin snipetti sisältää sekä laajennetun muotonsa että mahdollisia
+lisäkäskyjä komentoriville annettavaksi. Jos esimerkiksi komentoa
+=end-of-line= ei anna, kursori säilyy alkuperäisessä paikassaan.
+Ensimmäisessä esimerkissä käytän lisäksi komentoa =backward-char=,
+jotta kursori liikkuu automaagisesti laajennetun tekstin
+lainausmerkkien sisään. Käytettävyys!
+
+Jatkokehittelyä voisivat olla kutsuttavat (callable) laajennukset, eli
+snipetin laajennus olisi dynaamista sisältöä funktiokutsun laskemana.
+Tällä tavalla saisi aikaan erään suosikkisnipettini vimistä ja
+emacsista: =date= laajenee tämänpäiväiseen ISO-muotoiltuun
+päivämäärään. Samalla tavalla voisi kirjoittaa snipetin =nfile=, joka
+laajenee hakemiston tuoreimman tiedoston nimeen.
+
+Ja tämä skripti palauttaa kaksi arvoa takaisin: ensimmäinen on
+mahdollisesti muokattu versio komentokehotteen sisällöstä ja
+jälkimmäinen arvo on lista ZSH/ZLE-komentoja, jotka shelli saisi
+suorittaa makunsa mukaan käyttäjäkokemuksen maksimoimiseksi. Erotan
+nämä palautteet toisistaan erotinmerkeistä parhaimmalla, eli
+nollatavulla.
+
+Tämä skripti on minulla tallennettuna omaan paikkaani
+kotihakemistossa. Ja sitten vielä lisätään sopiva koodi ZSH:n
+konfiguraatioihin:
+
+#+BEGIN_SRC sh
+  function _expand_snippet() {
+      IFS=$'\0' output=(`/home/progo/pika/__zsh_snippets.py "$BUFFER"`)
+      BUFFER="$output[1]"
+      if [[ -n "$output[2]" ]] ;then
+          # extra commands to eval!
+          eval "$output[2]"
+      fi
+  }
+  zle -N expand_snippet _expand_snippet
+  bindkey "^E" expand_snippet
+#+END_SRC
+
+Funktio =_expand_snippet= on nyt ZLE-funktio, jossa toimii kaikki
+shell-skriptaus sellaisenaan. Erityisesti siellä on käytettävissä
+=BUFFER=-niminen muuttuja, jossa on komentokehotteen nykysisältö. Sitä
+saa vapaasti muokata ja muutokset näkyvät suoraan rivillä. Kutsun
+oitis pythonia ja otan vastaustavaran taulukkoon. Käytän tyylikkäästi
+=eval=-kutsua suorittaakseni lisäkomennot vähällä vaivalla. Nämä
+lisäkomennot voivat käytännössä olla mitä tahansa shell-koodausta,
+mutta ZLE-funktioissa saa myös käyttää ZLE-funktioita, kuten
+edellämainittuja kursorinliikekomentoja =end-of-line=, =forward-char=
+ja niin edespäin. Konsultoi näppäinkarttojasi saadaksesi selville
+täydet listat mahdollisista komennoista.
+
+Funktio pitää rekisteröidä ZLE:n käytettäväksi ja sitten se mapataan
+johonkin näppiin. Vi-näppäimiä käyttävillä on kissanpäivät vapaiden
+yhdistelmien suhteen, ja minä laitoin roskan =C-e=:n taakse.
+
+Ja ZSH:lla homma toimii. Bashillahan tämä ei onnistu lainkaan tällä
+keinoin, koska readline ei tarjoa tarpeeksi rajapintoja näin
+yksilöllistä koodia varten. Toivottavasti tästä on hyötyä ja herättää
+kiinnostusta ja toivoa komentoriviä kohtaan.
