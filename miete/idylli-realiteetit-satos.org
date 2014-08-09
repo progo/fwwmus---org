@@ -1,0 +1,102 @@
+#+TITLE: Idylli, realiteetit ja Sätös
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Idylli, realiteetit ja Sätös                            :sätös:asunto:
+CLOSED: [2014-08-09 Sat 21:24]
+:LOGBOOK:
+- State "DONE"       from ""           [2014-08-09 Sat 21:24]
+:END:
+
+Idyllinen paikka, eli kirjallisessa mielessä "ihanteellinen,
+tunnelmallinen, viehättävä tila tai paikka", on ehkä kansantajuisesti
+ajateltavissa paikkana, missä sitä tahtoisi asua ja elää.
+Itse ainakin miellän asian näin.
+
+** Idyllini piilee kaupungissa
+
+Erityisesti *Woody Allenin* elokuvista tarttuneena ja muutenkin
+kaupungeissa (lähinnä Helsingissä) ihmetellessäni olen joutunut
+tekemään sen johtopäätöksen, että suosikki-idyllini sijaitsee
+kaupungin keskustassa.
+
+Idyllinen unelmani olisi siis asustella kohtuuvuokraisessa kolmiossa
+riittävän ison kaupungin keskustassa, toimia jonkinlaisena
+kirjailijana tai muunlaisena vapaaherrana, ja viettää aikaa
+levykaupoissa ja muissa taidetta erittävissä instituutioissa. Kotona
+sitten hiljaisuudessa nautittaisiin herkkää jazzia viinilasillisen
+kanssa. Julkiset kulkisivat ja jazz-konsertit raikaisivat ja sitä
+rataa.
+
+Mutta olenhan asunut nyt Outokummun keskustassa vajaan puolitoista
+vuotta ja samantapaisen ajan Joensuun keskustassa. Isojahan nämä
+kaupungit eivät missään nimessä ole, mutta eikö idyllini pitäisi
+pelastaa? Elänhän melkein unelmaani?
+
+Totuus on, että idylli ja realiteetit eivät kohtaa; idylli on pelkkä
+unelma. Katsomme asuntovälittäjien sivuilta siistittyjä kuvia näteistä
+asunnoista ympäri Suomea tai maailmaa, ja näemme lähinnä kunkin
+kohteet unelmat. Näemme idyllin, emme realiteetteja. Kunnes
+ajattelemme asioita tarkemmin.
+
+Idyllini kaupunkiasumisesta olikin yllä. Se edellyttää monenlaisia
+asioita. Julkinen liikenne toimisi sulavasti asunnon ja mahdollisen
+työpaikan välillä. Naapurit olisivat huippurauhallisia ja ihmisiä oman
+makuni mukaan (lapsettomia ja keski-ikäisiä pariskuntia). Idylli on
+nopeasti rikki Joensuun tapaisessa kaupungissa, jossa julkinen on
+hikistä ja oppilaitosten suuren lukumäärän takia meluavan räkänuorison
+osuus asukaskunnasta on verraten korkea. Helsingissä luultavasti
+kanssa, lukuisten tekijöiden takia.
+
+** Sätös, Outokumpu
+
+Tämä on tuleva asuinkohteeni vuosiksi eteenpäin. Ja on lähes
+/täydellinen paikka/ asustaa. Mutta on kaukana suosikki-idyllistäni,
+ja muutenkin minusta varsin idyllitön ylipäätään.
+
+Kaupunkiasumisessa pidän idyllisenä mm. sitä, että en ole riippuvainen
+autosta. Töihin voi mennä jalan ja lähikaupoista saa 90-prosenttisesti
+kaiken, mitä vuokra-asuntoon ylipäänsä hankitaan. Sen sijaan pidän
+äärimmäisen epäidyllisenä sitä, että auto on välttämätön asunnon
+sijainnin vuoksi. Sätöksessä näin on; lähikaupunkiin ja lähikaupoille
+on 6 kilometriä, töihin on 45. Lisäksi auton ylläpidon ja
+omakotitaloasumisen huolet ja kustannukset ovat itselleni
+epäidyllisiä. Etenkin nyt arvostan vuokraan liittyvää huolettomuutta
+hieman eri tavalla kuin vaikkapa 6 kuukautta sitten.
+
+Ja silti Sätös on valovuosia edellä Joensuun kerrostalohelvettiä.
+/Ristiriita?/ Ei ole ristiriitaa. Naapureista ei vain kuulu ääntä eikä
+heitä ole edes läsnä. Mikä todennäköisyys on missään päästä asumaan
+rauhallisella seudulla siten, että naapurit ovat myös joko
+yhteensopivia ajatusmaailmani kanssa (minkä todennäköisyys on hyvin
+alhainen, kiitos varsin misantropisen maailmankatsomukseni) tai
+äänieristykset ovat viimeisen päälle priimaa? Rauhallinen seutu
+lisäksi keskusta-asumisen kanssa on viimeisen päälle hankala ja
+rajoittava yhtälö.
+
+Sätöksessä voin avata ikkunaa tai mennä terassille ilman, että kuulen
+jonnenaapurin hokevan vittua tai haistan alakerrasta leviävän
+tupakansavun sieraimissani. Eikä ohiajelevat amisbassot häiritse.
+Kyllähän niitä tuossa saattaa vähän pörrätä, mutta kovin usein ei
+kyllä pitkää tietä ajella kierrostolkulla.
+
+Ja onhan talven lumitöissä ja talon pienkunnostuksissa oma idyllinsä
+niissäkin. Hyötyliikuntaa, jos ei muuta. Kun varautuu taloudellisesti
+yllättäviin ongelmiin auton ja talon suhteen, ei pinnaa kiristele edes
+sellaiset ongelmat.
+
+** Viimeinen sunnuntai kaupunki-idyllissä
+
+Perimmäinen idyllini on viimeisen 32 kuukauden aikana murentunut
+realiteettien alle. On aika alkaa katsoa idylliä sieltä, missä sitä ei
+ensisilmäyksellä näy. Sätös on kaukana siitä, mitä odotin työikäiseltä
+itseltäni, mutta alkukankeuksien jälkeen varmasti öljyt lämpeävät
+niinsanotusti niin, että idylliäkin alkaa syntyä.
+
+Tänään on odotettavasti viimeinen lauantai-ilta kaupunki-idyllissä
+pitkän pitkään aikaan. Ja vastaavasti huomenna on viimeinen kokonainen
+vapaapäivä kaupunki-idyllissä. Odotan, että naapurimelu ja typerät
+jonnet pilaavat verraten kookkaan osan kokemuksestani, kuten
+aiemminkin. Jos en odottaisi sitä, en luultavasti olisi muuttamassa
+metsän keskelle. Toki toivoa saattaa pientä ja hyvää päivää, johon
+kuuluu autoton oleilu asunnolla ja kävely kaupungilla. Ehkäpä käyn
+nauttimassa takeaway-aamukahvin keskustan kahvilassa, kun omat
+varastoni ovat vähissä.
