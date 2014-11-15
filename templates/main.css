@@ -276,8 +276,8 @@ li.tag-3 > * { background-color: #d04a00; }
         width: 85%;
     }
     #sidebar {
-        float: none;
-        margin-left: 20%;
+        /* float: none; */
+        margin-left: 5%;
     }
 }
 
