@@ -7,82 +7,90 @@ Haaveita saa miehellä olla. Suuriakin.
 Oma Illuminatukseni
 
 - Parhaat palat kustakin pelituttavuudesta
-   - UnReal World
-       - yleinen survival-meininki
-       - tavaroiden rakentelu
-       - käyttöliittymä
-   - Nethack
-       - yleinen pelin sujuvuus 
-       - valikoiden käytettävyys
-   - Falloutit
-       - pelitunnelma, aseiden korjaaminen
-   - Dwarf Fortress
-       - kenties omat rakennelmat ja tukikohdat...
-   - Jagged Alliance
-       - tiimityöskentely ja taktikointi
-   - Doom Roguelike
-       - ainakin ampuma-/tähtäyssysteemi
+  - UnReal World
+    - yleinen survival-meininki
+    - tavaroiden rakentelu
+    - käyttöliittymä
+  - Nethack
+    - yleinen pelin sujuvuus 
+    - valikoiden käytettävyys
+  - Falloutit
+    - pelitunnelma, aseiden korjaaminen
+  - Dwarf Fortress
+    - kenties omat rakennelmat ja tukikohdat...
+  - Jagged Alliance
+    - tiimityöskentely ja taktikointi
+  - Doom Roguelike
+    - ainakin ampuma-/tähtäyssysteemi
 - UI ja käyttöliittymä
-   - grafiikka: ncurses se ainut oikea
-       - ssh ja telnet -pelaaminen
-       - tavallinen moodi, varmaan vähintään 120x30 -ruutu
-       - kompakti, 80x24 on puristisuuteni takia oltava tuettuna
-       - värejä ne standardit 16, koska 8-bittiset värit liian vaihtelevia
-   - ääniä
-       - kenties äänitehosteita välittömään tunnelmaan
-       - äänten oltava ei-välttämättömiä pelaamisen suhteen (SSH)
-       - musiikkia tuskin
-   - näppäimistö Nethackin tapaan
-       - HJKL, numeropädi liikkumiseen
-       - #extended-komennot 
-       - ehkä emacs-henkisiä näppäinketjuja valikoineen (URW)
+  - grafiikka: ncurses se ainut oikea
+    - ssh ja telnet -pelaaminen
+    - tavallinen moodi, varmaan vähintään 120x30 -ruutu
+    - kompakti, 80x24 on puristisuuteni takia oltava tuettuna
+    - värejä ne standardit 16, koska 8-bittiset värit liian vaihtelevia
+  - ääniä
+    - kenties äänitehosteita välittömään tunnelmaan
+    - äänten oltava ei-välttämättömiä pelaamisen suhteen (SSH)
+    - musiikkia tuskin
+  - näppäimistö Nethackin tapaan
+    - HJKL, numeropädi liikkumiseen
+    - #extended-komennot 
+    - ehkä emacs-henkisiä näppäinketjuja valikoineen (URW)
 - pelimaailma
-   - iso tietenkin
-   - Satunnainen maailma alusta alkaen
-       - maamassaa ja vähän vettäkin
-       - kuitenkin sekaan on ripoteltu joitain määrättyjä kaupunkeja tai paikkoja.
-       - Toki ne kaupungitkin voisi generoida...
-   - kartat pitää luonnollisesti itse selata.
-   - vihreää metsää ja luontoa, mutta myös lunta
-   - ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
-     perinteisempään tapaan.
-   - teema avoinna
-       - Tolkien-fantasia (Nethackin tapaan)
-       - post-apokalyptinen tapaus (Fallout; Postman)
+  - iso tietenkin
+  - Satunnainen maailma alusta alkaen
+    - maamassaa ja vähän vettäkin
+    - kuitenkin sekaan on ripoteltu joitain määrättyjä kaupunkeja tai paikkoja.
+    - Toki ne kaupungitkin voisi generoida...
+  - kartat pitää luonnollisesti itse selata.
+  - vihreää metsää ja luontoa, mutta myös lunta
+  - ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
+    perinteisempään tapaan.
+  - teema avoinna
+    - Tolkien-fantasia (Nethackin tapaan)
+    - post-apokalyptinen tapaus (Fallout; Postman)
+  - feodaaliyhteiskunta; kuningas ja maaherrat
+    - niskoitteleva maaherra voidaan laittaa vaikka tehtävässä kumoon
+      - useita tekoälyjä saman kimpussa
 - juoni ja tarina
-   - jotain syvällistä ja ehkä paikoin surrealististakin, tietenkin.
-   - Pelaaja saapuu jostain paikasta X hänelle tuntemattomaan
-     paikkaan/mantereelle Y melko tyhjin käsin. Joku tämmöinen idyllinen
-     kalastajakaupunki pyörii mielessä. Sieltä tavernasta (HoMM-tribuutti)
-     sitten palkataan ensimmäiset apuväet.
-   - tavoitteena ja määränpäänä jotain henkilökohtaista kenties. 
-   - erilaisia sivujuttuja sitten roppakaupalla päälle. 
+  - jotain syvällistä ja ehkä paikoin surrealististakin, tietenkin.
+  - Pelaaja saapuu jostain paikasta X hänelle tuntemattomaan
+    paikkaan/mantereelle Y melko tyhjin käsin. Joku tämmöinen idyllinen
+    kalastajakaupunki pyörii mielessä. Sieltä tavernasta (HoMM-tribuutti)
+    sitten palkataan ensimmäiset apuväet.
+  - tavoitteena ja määränpäänä jotain henkilökohtaista kenties. 
+  - erilaisia sivujuttuja sitten roppakaupalla päälle. 
 - pelaaminen ja pelimekaniikka
-   - vuoropohjainen
-       - ei AP-pohjainen kuten JA, vaan yksinkertaistettu kuten Nethackissa.
-   - *ei* suora roguelike, vaan tallennukset kuten jossain fallouteissa.
-       - tietenkin iron man -moodi kiihottaisi, mutta se tajuton vaikeustaso
-         näissä kompleksisissa peleissä...
-   - hahmoilla attribuutteja, ehkä kokemusjuttujakin.
-   - pelattavaa vähintään 50 tuntia
-   - Ison kartan ja sen sellaisen kanssa on pidettävä itse kirjaa asioista.
-     Osattava vaikka suunnistaa itse oikeaan ilmansuuntaan, jos sellainen
-     vinkki annetaan.
-   - pelaaja johtaa tuttuun tapaan pientä joukkuetta
-       - useita tiimejä eri puolille asemoituna, rakentelevat tukikohdan DF-henkeen
-       - pelaajan mukana voi seurata pieni osa tiimistä, loput jätkistä
-         tienaavat vaikkapa turvaamalla kaupunkeja 
-   - --> twisti: vain pelaajan omaa hahmoa liikutellaan. Muut tulevat tekoälyn turvin.
-       - käskyttely tapahtuu luonnollisin kielin englanniksi.
-           - automaattitäydennys apuun
-           - aliaksia usein tehdyille komennoille
-           - dialogi pitänee kuitenkin käsikirjoittaa... ei tässä AI-jumaluutta tavoitella
-       - esimerkkejä komennoista:
-           - "cease fire!"
-           - "go"
-           - "Kalle: go by the other side"
-           - "alpha (määritelty tiimi, koostuu 1-n apurista): use bows"
-           - "collect the loot"
-           - (Kaupunkiin tultaessa haluat käydä kunnanjohtajalla yksinäsi:)
-             "I meet you in the tavern later."
-       - tekoälyn oltava sitten naurettavan hyvä, ettei pelaaminen pysähdy siihen.
+  - vuoropohjainen
+    - ei AP-pohjainen kuten JA, vaan yksinkertaistettu kuten Nethackissa.
+  - *ei* suora roguelike, vaan tallennukset kuten jossain fallouteissa.
+    - tietenkin iron man -moodi kiihottaisi, mutta se tajuton vaikeustaso
+      näissä kompleksisissa peleissä...
+  - hahmoilla attribuutteja, ehkä kokemusjuttujakin.
+  - pelattavaa vähintään 50 tuntia
+  - Ison kartan ja sen sellaisen kanssa on pidettävä itse kirjaa asioista.
+    Osattava vaikka suunnistaa itse oikeaan ilmansuuntaan, jos sellainen
+    vinkki annetaan.
+  - pelaaja johtaa tuttuun tapaan pientä joukkuetta
+    - useita tiimejä eri puolille asemoituna, rakentelevat tukikohdan DF-henkeen
+    - pelaajan mukana voi seurata pieni osa tiimistä, loput jätkistä
+      tienaavat vaikkapa turvaamalla kaupunkeja 
+  - --> twisti: vain pelaajan omaa hahmoa liikutellaan. Muut tulevat tekoälyn turvin.
+    - käskyttely tapahtuu luonnollisin kielin englanniksi.
+      - automaattitäydennys apuun
+      - aliaksia usein tehdyille komennoille
+      - dialogi pitänee kuitenkin käsikirjoittaa... ei tässä
+        AI-jumaluutta tavoitella
+    - esimerkkejä komennoista:
+      - "cease fire!"
+      - "go"
+      - "Kalle: go by the other side"
+      - "alpha (määritelty tiimi, koostuu 1-n apurista): use bows"
+      - "collect the loot"
+      - (Kaupunkiin tultaessa haluat käydä kunnanjohtajalla yksinäsi:)
+        "I meet you in the tavern later."
+    - komennot annetaan puhumalla, ilman mukaan todennäköisyys, että
+      viesti ei mene perille. Vastaavasti radiohäiriöt
+    - tekoälyn oltava sitten naurettavan hyvä, ettei pelaaminen
+      pysähdy siihen.
+   
