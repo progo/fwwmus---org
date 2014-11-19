@@ -31,7 +31,7 @@ fi
 
     # and the blog as well
     cd "$ORG_DIR"
-    git push origin master
+    git push origin main
 
 wait
 
