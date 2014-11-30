@@ -1,96 +1,168 @@
 #+TITLE: Illuminatukseni
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* TODO Illuminatukseni                                           :peli:koodi:
+* DONE Illuminatukseni                                           :peli:koodi:
+CLOSED: [2014-11-30 Sun 19:26]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-11-30 Sun 19:26]
+:END:
 
-Haaveita saa miehellä olla. Suuriakin.
+Haaveita saa miehellä olla. Suuriakin. Kuten aika moni muukin
+pelailija aikojen saatossa, olen pelaillessani mietiskellyt monesti,
+minkälaisin elementein sitä tekisi oman unelmapelinsä, oman
+/illuminatuksensa/. Tässä postauksessa esitän joitakin artikuloituja
+pointteja, joita on kumuloitunut vuosien saatossa, ja jotka ovat vielä
+olleet kirjoitushetkellä muistissa.
 
-Oma Illuminatukseni
+** Parhaat palat kustakin pelituttavuudesta
 
-- Parhaat palat kustakin pelituttavuudesta
-  - UnReal World
-    - yleinen survival-meininki
-    - tavaroiden rakentelu
-    - käyttöliittymä
-  - Nethack
-    - yleinen pelin sujuvuus 
-    - valikoiden käytettävyys
-  - Falloutit
-    - pelitunnelma, aseiden korjaaminen
-  - Dwarf Fortress
-    - kenties omat rakennelmat ja tukikohdat...
-  - Jagged Alliance
-    - tiimityöskentely ja taktikointi
-  - Doom Roguelike
-    - ainakin ampuma-/tähtäyssysteemi
-- UI ja käyttöliittymä
-  - grafiikka: ncurses se ainut oikea
-    - ssh ja telnet -pelaaminen
-    - tavallinen moodi, varmaan vähintään 120x30 -ruutu
-    - kompakti, 80x24 on puristisuuteni takia oltava tuettuna
-    - värejä ne standardit 16, koska 8-bittiset värit liian vaihtelevia
-  - ääniä
-    - kenties äänitehosteita välittömään tunnelmaan
-    - äänten oltava ei-välttämättömiä pelaamisen suhteen (SSH)
-    - musiikkia tuskin
-  - näppäimistö Nethackin tapaan
-    - HJKL, numeropädi liikkumiseen
-    - #extended-komennot 
-    - ehkä emacs-henkisiä näppäinketjuja valikoineen (URW)
-- pelimaailma
-  - iso tietenkin
-  - Satunnainen maailma alusta alkaen
-    - maamassaa ja vähän vettäkin
-    - kuitenkin sekaan on ripoteltu joitain määrättyjä kaupunkeja tai paikkoja.
-    - Toki ne kaupungitkin voisi generoida...
-  - kartat pitää luonnollisesti itse selata.
-  - vihreää metsää ja luontoa, mutta myös lunta
-  - ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
-    perinteisempään tapaan.
-  - teema avoinna
-    - Tolkien-fantasia (Nethackin tapaan)
-    - post-apokalyptinen tapaus (Fallout; Postman)
-  - feodaaliyhteiskunta; kuningas ja maaherrat
-    - niskoitteleva maaherra voidaan laittaa vaikka tehtävässä kumoon
-      - useita tekoälyjä saman kimpussa
-- juoni ja tarina
-  - jotain syvällistä ja ehkä paikoin surrealististakin, tietenkin.
-  - Pelaaja saapuu jostain paikasta X hänelle tuntemattomaan
-    paikkaan/mantereelle Y melko tyhjin käsin. Joku tämmöinen idyllinen
-    kalastajakaupunki pyörii mielessä. Sieltä tavernasta (HoMM-tribuutti)
-    sitten palkataan ensimmäiset apuväet.
-  - tavoitteena ja määränpäänä jotain henkilökohtaista kenties. 
-  - erilaisia sivujuttuja sitten roppakaupalla päälle. 
-- pelaaminen ja pelimekaniikka
-  - vuoropohjainen
-    - ei AP-pohjainen kuten JA, vaan yksinkertaistettu kuten Nethackissa.
-  - *ei* suora roguelike, vaan tallennukset kuten jossain fallouteissa.
-    - tietenkin iron man -moodi kiihottaisi, mutta se tajuton vaikeustaso
-      näissä kompleksisissa peleissä...
-  - hahmoilla attribuutteja, ehkä kokemusjuttujakin.
-  - pelattavaa vähintään 50 tuntia
-  - Ison kartan ja sen sellaisen kanssa on pidettävä itse kirjaa asioista.
-    Osattava vaikka suunnistaa itse oikeaan ilmansuuntaan, jos sellainen
-    vinkki annetaan.
-  - pelaaja johtaa tuttuun tapaan pientä joukkuetta
-    - useita tiimejä eri puolille asemoituna, rakentelevat tukikohdan DF-henkeen
-    - pelaajan mukana voi seurata pieni osa tiimistä, loput jätkistä
-      tienaavat vaikkapa turvaamalla kaupunkeja 
-  - --> twisti: vain pelaajan omaa hahmoa liikutellaan. Muut tulevat tekoälyn turvin.
-    - käskyttely tapahtuu luonnollisin kielin englanniksi.
-      - automaattitäydennys apuun
-      - aliaksia usein tehdyille komennoille
-      - dialogi pitänee kuitenkin käsikirjoittaa... ei tässä
-        AI-jumaluutta tavoitella
-    - esimerkkejä komennoista:
-      - "cease fire!"
-      - "go"
-      - "Kalle: go by the other side"
-      - "alpha (määritelty tiimi, koostuu 1-n apurista): use bows"
-      - "collect the loot"
-      - (Kaupunkiin tultaessa haluat käydä kunnanjohtajalla yksinäsi:)
-        "I meet you in the tavern later."
-    - komennot annetaan puhumalla, ilman mukaan todennäköisyys, että
-      viesti ei mene perille. Vastaavasti radiohäiriöt
-    - tekoälyn oltava sitten naurettavan hyvä, ettei pelaaminen
-      pysähdy siihen.
-   
+Vedän hyviä vaikutteita kaikesta hyvästä. Mikään ei synny tyhjiössä ja
+permutaatioita on niin monia. Hupaisana yksityiskohtana alkuperäiset
+ideani tiimipohjaisen Nethackin ja muiden kombona olivat likimain
+kaikki jo toteutettuna Jagged Alliancessa, johon tein tuttavuutta
+vasta myöhäisessä vaiheessa tähänastista elämääni. Niin mainio kuin
+JA2 onkin, jotain se jää vielä kaipaamaan. Pelkään (tai toivon), että
+Dwarf Fortress kaikessa potentiaalisuudessaan sisältäisi about kaiken
+suunnittelemani. En vain koskaan päässyt oikein siihen peliin sisään,
+joten ideat ovat hautautuneena.
+
+- UnReal World
+  - yleinen survival-meininki
+  - tavaroiden rakentelu
+  - käyttöliittymä
+- Nethack
+  - yleinen pelin sujuvuus
+  - yksityiskohdat
+  - valikoiden käytettävyys
+- Falloutit
+  - pelitunnelma, aseiden korjaaminen
+- Dwarf Fortress
+  - kenties omat rakennelmat ja tukikohdat
+- Jagged Alliance
+  - tiimityöskentely ja taktikointi
+- Doom Roguelike
+  - ainakin ampuma-/tähtäyssysteemi
+
+** UI ja käyttöliittymä
+
+- ncurses se ainut oikea
+  - ssh ja telnet -pelaaminen
+  - tavallinen moodi, varmaan vähintään 120x30 -ruutu
+  - kompakti, 80x24 on puristisuuteni takia oltava tuettuna
+  - värejä ne standardit 16, koska 8-bittiset värit liian vaihtelevia
+- tai selainvetoinen tiletys
+  - ncurses on aika HC koodattavaksi, ja rajoittaa paikoin
+  - yleinen tilegrafiikka, mahdollista kääntää isometriseksi
+    JA2-tyyliseksi grafiikaksi
+  - mikstuura aakkosia ja sekalaista tilegrafiikkaa, koska
+    mielikuvitus avittaa kovasti graafikkoa
+- ääniä
+  - kenties äänitehosteita välittömään tunnelmaan
+  - äänten oltava ei-välttämättömiä pelaamisen suhteen (SSH)
+  - musiikkia tuskin
+- näppäimistö Nethackin tapaan
+  - HJKL, numeropädi liikkumiseen
+  - #extended-komennot 
+  - ehkä emacs-henkisiä näppäinketjuja valikoineen (URW)
+
+** Pelimaailma
+
+- iso tietenkin; valtava
+- Satunnainen maailma alusta alkaen
+  - maamassaa ja vähän vettäkin
+  - kuitenkin sekaan on ripoteltu joitain määrättyjä kaupunkeja tai
+    paikkoja.
+  - Ja satunnaisesti generoituja kaupunkeja...
+- kartat pitää luonnollisesti itse selata.
+- vihreää metsää ja luontoa, mutta myös lunta.
+- ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
+  perinteisempään tapaan.
+- Teema avoin
+  - DND-vaikutteinen (Nethackin tapaan)
+  - post-apokalyptinen tapaus (Fallout; Postman)
+  - Jotain muuta siltä väliltä (Discworld)
+- feodaaliyhteiskunta; kuningas ja maaherrat
+  - niskoitteleva maaherra voidaan laittaa vaikka tehtävässä kumoon
+    - useita tekoälyjä saman kimpussa
+
+** Juoni ja tarina
+
+- Jotain syvällistä ja ehkä paikoin surrealististakin, tietenkin.
+- Pelaaja saapuu jostain paikasta hänelle tuntemattomaan
+  paikkaan/mantereelle melko tyhjin käsin. Joku tämmöinen *idyllinen
+  kalastajakaupunki* pyörii mielessä. Sieltä tavernasta
+  (HoMM-tribuutti) sitten palkataan ensimmäiset apuväet
+  (operaattorit).
+- tavoitteena ja määränpäänä jotain henkilökohtaista ja
+  mittakaavaltaan pienimuotoista kenties.
+- erilaisia sivujuttuja sitten roppakaupalla päälle.
+
+** Pelaaminen ja pelimekaniikka
+
+- vuoropohjainen
+  - ei AP-pohjainen kuten JA-sarjassa, vaan yksinkertaistettu kuten
+    Nethackissa.
+- *Ei* suora roguelike, vaan tallennukset kuten jossain
+  fallouteissa.
+  - tietenkin iron man -moodi kiihottaisi, mutta se tajuton
+    vaikeustaso näissä kompleksisissa peleissä...
+- hahmoilla attribuutteja ja kokemusjuttuja.
+- pelattavaa vähintään 50 tuntia
+- Ison kartan ja sen sellaisen kanssa on pidettävä itse kirjaa
+  asioista. Osattava vaikka suunnistaa itse oikeaan ilmansuuntaan, jos
+  sellainen vinkki annetaan.
+- pelaaja johtaa tuttuun tapaan pientä joukkuetta
+  - useita tiimejä eri puolille asemoituna, rakentelevat tukikohdan
+    DF-henkeen
+  - pelaajan mukana voi seurata pieni osa tiimistä, loput jätkistä
+    tienaavat vaikkapa turvaamalla kaupunkeja
+- Twisti: pelaaja liikuttelee vain pelaajan omaa hahmoa. Muut tulevat
+  mukana tekoälyn turvin.
+  - käskyttely tapahtuu luonnollisella kielellä englanniksi.
+    - määrätty lausejärjestys
+    - automaattitäydennys apuun
+    - aliaksia usein tehdyille komennoille
+    - dialogi pitänee kuitenkin käsikirjoittaa... ei tässä
+      AI-jumaluutta tavoitella
+  - esimerkkejä komennoista:
+    - "cease fire!"
+    - "go"
+    - "Kalle: go by the other side"
+    - "alpha (määritelty tiimi, koostuu 1-n apurista): use bows"
+    - "collect the loot"
+    - (Kaupunkiin tultaessa haluat käydä kunnanjohtajalla yksinäsi:)
+      "I meet you in the tavern later."
+  - komentojen antamisessa fysikaaliset ilmiöt mukana;
+    puhutuissa/kuiskatuissa/huudetuissa käskyissä kelien mukaan
+    todennäköisyys, että viesti ei menekään perille. Vastaavasti
+    radiohäiriöt. Visuaalinen kontakti toimisi kanssa tilanteen
+    mukaan.
+    - natoaakkoset ja toiminnasta tutut fraasit käytössä
+  - tekoälyn oltava sitten naurettavan hyvä, ettei pelaaminen pysähdy
+    siihen.
+
+** Realistisesti
+
+Kivahan se on, jos pelissä olisi jotain suurenmoista kirjoitusta ja
+juonta. Mutta miten käykään kun pitäisi miettiä myös
+uudelleenpelattavuutta ja mahdollista laajuutta.
+Uudelleenpelattavuutta sisältävissä kulttiklassikoissa (Nethack ja
+muut rogueliket; Minecraft) nähdään yhteisenä tekijänä se, että
+juonella ja kirjoituksella ei juhlita. Silti ainakin roguelikeissä
+tunnelmaa ja runollisia hetkiä riittää, se on se pieni asia nimeltään
+mielikuvitus.
+
+Siispä /illuminatus miinus 1/ on jonkinlainen vapaa, satunnaisesti
+generoitu rymistely, jossa on helppoa upottaa aikaa pelin satunnaisiin
+elementteihin törmäillessä. Etenkin kun otetaan huomioon reaaliteetit:
+tämmöinen puuhastelu kuuluu harrasteluun -- koodaajalla eli minulla
+pitäisi olla riittävästi hupia luomuksestani, jotta jaksaisin. En
+tiedä, miten pitkään hupia riittäisi kun testailisin samaa
+juonenpätkää päivästä toiseen ja naureskelisin omille vitseilleni
+päivästä toiseen. Ei, satunnaislukujumala saa tehdä sirkushuveja
+minulle.
+
+Olen aloittanut pienen puuhastelun, missä Clojure-serveri ohjastaa
+JavaScriptillä koodattua selainsovellusta ja näyttää toistaiseksi
+simppeliä ruudukkoa. Jos jostain on ikinä tuleva mitään, niin
+toivottavasti se olisi tämä projekti. Todellinen syy projektille on
+se, että gradun keskeneräisyys kiusaa kovasti.
