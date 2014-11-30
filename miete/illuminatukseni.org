@@ -77,7 +77,7 @@ joten ideat ovat hautautuneena.
 - ADOM-henkeen päämaailmasta löytyy myös satunnaisgeneroituja luolia
   perinteisempään tapaan.
 - Teema avoin
-  - DND-vaikutteinen (Nethackin tapaan)
+  - DND-vaikutteinen (Nethackin tapaan; Tolkien mukana kovasti)
   - post-apokalyptinen tapaus (Fallout; Postman)
   - Jotain muuta siltä väliltä (Discworld)
 - feodaaliyhteiskunta; kuningas ja maaherrat
@@ -95,6 +95,9 @@ joten ideat ovat hautautuneena.
 - tavoitteena ja määränpäänä jotain henkilökohtaista ja
   mittakaavaltaan pienimuotoista kenties.
 - erilaisia sivujuttuja sitten roppakaupalla päälle.
+- Unijaksot olivat joskus kova idea. Pelaaminen tapahtuisi tavalliseen
+  tapaan, mutta kummallisuuksia alkaisi tapahtua. Jossain vaiheessa
+  tapahtuisi paluu arkeen.
 
 ** Pelaaminen ja pelimekaniikka
 
