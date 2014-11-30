@@ -1,6 +1,6 @@
 #+TITLE: Illuminatukseni
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Illuminatukseni                                           :peli:koodi:
+* DONE Illuminatukseni                                          :pelit:koodi:
 CLOSED: [2014-11-30 Sun 19:26]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2014-11-30 Sun 19:26]
