@@ -6,7 +6,7 @@ CLOSED: [2015-01-23 Fri 18:31]
 - State "DONE"       from ""           [2015-01-23 Fri 18:31]
 :END:
 
-Chris Nolan on mies, joka on lyönyt itsensä läpi Hollywoodissa
+[[http://www.imdb.com/name/nm0634240/][Chris Nolan]] on mies, joka on lyönyt itsensä läpi Hollywoodissa
 tekemällä erinomaisia, älykkäitä tuotantoja. Käytännössä kaikki
 Nolanin ohjaustyöt ovat olleet hittejä, joskin vähälukuisia.
 /Memento/, /Insomnia/, /The Prestige/ ja eritoten tuplaplushyvä
@@ -23,7 +23,7 @@ pölkylläni on jotain sanottavaa muista Nolanin töistä.
 määritteleväksi sarjakuva-adaptaatioksi. Massiiviset budjetit ja vielä
 massiivisemmat lipputulot, Nolan todella löi rahoiksi toteutuksellaan.
 Näissä Batmaneissä (2005-2012) on kohtalainen ero Tim Burtonin kahteen
-Batmaniin (1989-1991) nähden monella tavalla.
+Batmaniin (1989-1992) nähden monella tavalla.
 
 Burton tekee supersynkkiä kuvauksia, joissa noudatetaan kaikkia hyviä
 toimintaelokuvan vaatimuksia. Molemmat työt ovat soljuvia ja niissä on
@@ -65,6 +65,3 @@ kenties nolanimaisesti tyypillinen kikka, mutta toiminnassa
 auttamattoman kliseinen ja halpamainen. Nolanin osuus kirjoittamiseen
 ei ole täysin tiedossani, mutta voi olla, että hän on ulkoistanut
 toiminnan muille tahoille ja keskittynyt hyviin palasiin itse.
-
-# Nolan ja Inception?
-# Nolan ja Insomnia?
