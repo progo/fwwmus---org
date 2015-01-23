@@ -1,0 +1,70 @@
+#+TITLE: Christopher Nolan
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Christopher Nolan                                           :elokuvat:
+CLOSED: [2015-01-23 Fri 18:31]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-01-23 Fri 18:31]
+:END:
+
+Chris Nolan on mies, joka on lyönyt itsensä läpi Hollywoodissa
+tekemällä erinomaisia, älykkäitä tuotantoja. Käytännössä kaikki
+Nolanin ohjaustyöt ovat olleet hittejä, joskin vähälukuisia.
+/Memento/, /Insomnia/, /The Prestige/ ja eritoten tuplaplushyvä
+/Inception/. Uusi /Interstellar/ taitaa sekin olla hitti, vaikka en
+ole vielä ehtinyt tyypata sitä. Ja tietenkin uusi /Batman / The Dark
+Knight/ -trilogia...
+
+Toistaiseksi keskityn Batmaneihin, mutta ehkä jonain päivänä
+pölkylläni on jotain sanottavaa muista Nolanin töistä.
+
+** Nolanin Batmanit ja Tim Burton
+
+/Fear. Chaos. Pain./ Nolanin Batman-trilogia on koettu aikamme
+määritteleväksi sarjakuva-adaptaatioksi. Massiiviset budjetit ja vielä
+massiivisemmat lipputulot, Nolan todella löi rahoiksi toteutuksellaan.
+Näissä Batmaneissä (2005-2012) on kohtalainen ero Tim Burtonin kahteen
+Batmaniin (1989-1991) nähden monella tavalla.
+
+Burton tekee supersynkkiä kuvauksia, joissa noudatetaan kaikkia hyviä
+toimintaelokuvan vaatimuksia. Molemmat työt ovat soljuvia ja niissä on
+selkeä jako vankkumattoman hyvän ja mielivaltaisen pahan välillä.
+Sarjakuvia en ole lukenut, joten voin vain kuvitella, että
+taiteellisen näkemyksen turvin on rajattu sopiva joukko asioita, joita
+elokuvissa on haluttu käsitellä. Ensimmäinen Burtonin Batmaneista on
+erinomainen niin monella tasolla. Mike Keaton on fantastinen Batman,
+elokuvassa tarjoillaan ainakin kolmea näkökulmaa tasapuolisesti ja
+Jokeri (Jack Nicholson) toimittaa. Jälkimmäisessä on entistä synkempi
+maailmankuva, ehkä hiukkasen liikaa tavaraa ja menee
+yksityiskohdiltaan lisäksi mielestäni överiksi loppua kohden.
+
+# uskollisuus ja elokuvan rajallinen skooppi
+
+Nolan sen sijaan jättää (kasari)toimintaelokuvalle ominaiset piirteet
+vähemmälle ja keskittyy hahmojen psykologiaan, Nolanin erikoisuuteen.
+Nolan rakentaa Batmanin tasokkaasti alhaalta ylöspäin, perustellen
+jokaisen suunnitteluvalinnan, ja jakaa trilogian osille kantavat
+teemat, joista hän myös pitää kiinni. /Fear. Chaos. Pain./ Kantavien
+teemojen lisäksi Nolan tuo mestarillisesti esille epätoivoa,
+kohtalonkysymyksiä ja identiteettiasioita. Kaksi ensimmäistä on
+kehitelty kaksikkona Coppolan Kummisetien tapaan ja kolmas tapahtuu
+ajallisesti myöhemmin ja sitoo paketin nippuun. Nolan tarjoilee kypsän
+dialogin ja moniulotteiset henkilöt hyvin, mutta viimeisen päälle
+soljuvaa ei toiminta ja toimintaan liittyvä juoni ole.
+
+Epärealistiset juonenkäänteet ja ylimenevät suunnitelmat menevät
+enemmän yli kuin Burtonin töissä, ja se on mielestäni hyvälle
+toimintaelokuvalle tarpeeton taakka. Siitä syystä pitkään pidin
+Nolanin töitä varsin hyvinä, mutta en mitenkään erikoisen hyvinä.
+Kaksi ensimmäistä katsoin ja totesin, että nämä on nyt nähty.
+Kolmanteen palasin vasta nyt ja tunnistin nyt paremmin Nolanin
+tavaramerkit, ja se sai palaamaan myös kahteen ensimmäiseen Batmaniin.
+Toiminta on edelleen tarpeettoman mahtipontista, mutta rikas kirjoitus
+muilta osin tekee trilogiasta kyllä oikein nautittavan, ja herättää
+ajattelua. Erityisesti kolmannen lopussa tapahtuva juonenkäänne on
+kenties nolanimaisesti tyypillinen kikka, mutta toiminnassa
+auttamattoman kliseinen ja halpamainen. Nolanin osuus kirjoittamiseen
+ei ole täysin tiedossani, mutta voi olla, että hän on ulkoistanut
+toiminnan muille tahoille ja keskittynyt hyviin palasiin itse.
+
+# Nolan ja Inception?
+# Nolan ja Insomnia?
