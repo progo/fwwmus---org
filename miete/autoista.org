@@ -1,0 +1,197 @@
+#+TITLE: Autoista
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Autoista                                             :autot:mb:toyota:
+CLOSED: [2015-03-08 Sun 20:51]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-03-08 Sun 20:51]
+:END:
+
+Maaseudulle muuttamisen yksi seuraus on, että auto on tarpeellinen
+väline. Koska työmatkaa minulle kertyy vajaat 100 kilometriä päivää
+kohden (90 prosenttia maantiellä) niin ajamisen taloudellisuus painoi
+vaakakupissa, samoin kuin hyvä maantiekelpoisuus. Kaikenmaailman
+Micrat ja Puntot sai jättää heti pois tämän ansiosta. Helposti on
+todennettavissa, että nykyisellä käyttövoimaverotuksella dieseliä
+polttava ajokki voittaa kevyesti bensiinillä käyvät veljensä. Ja
+dieseleiden kuningas on Mercedes Benz. Mutta olisiko sittenkin pitänyt
+ottaa melkein yhtä taloudellinen Toyota?
+
+Kirjoittelen vähän mietteitäni mersusta ja lopussa hieman
+suunnitelmistani päivittää tilannetta johonkin suuntaan.
+
+** Maantiemeno
+
+Mersua kaikki kehuvat mainioksi maantieautoksi. Suuntavakaus ja
+nopeuden ylläpito ja kaikki se. Mersun diesel on kyllä mainio pitämään
+vauhtia yllä kuin itsestään. Ja se kulkee uikuttamatta kaikkia
+maantievauhteja.
+
+Mutta suuntavakautta ja sivutuuliherkkyyttä en kykene
+allekirjoittamaan. Veli ei näe ajossa mitään ongelmia, mutta omien
+muistikuvieni mukaan lyhytikäinen ensiautoni, 1992 Carina II, oli
+paljon vakaampi menijä maanteillä. Sivutuuliherkkyyteen ei vetotapa
+taida vaikuttaa lainkaan, mutta mersussa kun pitäisi olla myös
+erinomainen ilmanvastuskerroin. Eikö sekään vaikuta mitään? Voi olla
+yksilökohtaista poikkeamaa -- onhan meselläni jo ajeltu miehekkäät
+kilometrit sisään -- vaikka veli ei mitään tunnusta huomaavansa. Ja
+voi olla, että Carinan kanssa ei tullut ensiautohuumissa kiinnitettyä
+huomiota asiaan.
+
+Vetotapa ei välttämättä vaikuta sivutuuleen, mutta uraherkkyyteen
+kylläkin. Ja epätasaisten jäiden keleillä etuvetoisen pitäisi kuulemma
+jäädä pahasti jälkeen ajettavuudessa. Carinalla ei tullut porhalleltua
+talvella lainkaan, joten tästä on paha sanoa. Kaikki maantieilmiöt
+voidaan paremman tiedon puutteessa laittaa kokemuksen puutteeseen. En
+tiedä huonommasta, joten miten tietäisin paremmasta?
+
+** Takavetoisuus
+
+Mersun takavetoisuus on kaksipiippuinen juttu. Teoreettisessa mielessä
+voimansiirto takarenkaista tiehen on elegantein tapa: eturenkaiden
+tehtäväksi jää pitää keulaa raapimasta tietä ja ohjata. Siihen ei
+vaikuta kamalasti ulkoiset voimat. Mersulla onkin varsin ketterä
+pujotella parkkipaikoilla.
+
+Vastavuoroisesti mersun kevyt perä ja käyttöikänsä lopussa olevat
+talvirenkaat luovat haasteita etenemiskyvylle. Tämä malli sai jo
+aikoinaan Tekniikan maailman talvitestistä surkeat arvosanat
+etenemiskyvystä. Ylämäen ei tarvitse olla lainkaan jyrkkä, kun siihen
+jo turha lähteä paikoiltaan kiihdyttelemään. Kevyttä perää kompensoi
+hyvin ylimääräisellä massalla, kuten hiekkasäkeillä. Se kaikki
+kuitenkin syö jousituksesta ja taloudellisuudesta siinä missä
+etuvetoiset (ja etumoottoriset) autot saavat riittävän massan
+vetoakselille ilmaiseksi. Takamoottorisia henkilöautoja ei enää
+harrasteta, niissä on omat ongelmansa.
+
+Oma kotipihani on verraten jyrkkä, johon auttaisi etupainoinen etuveto
+-- miksei nelivetokin. Kevytperäisellä mersullani mäen ylös pääsee
+liukkailla keleillä vain hyvällä tuurilla tai kuluttamalla sepeliä
+kymmenien eurojen edestä. Toisaalta silloin kun on liukas, on lämmin
+ja auto voi hyvin levätä vieraspaikallanikin. Toki olisi aika hiton
+mukava, jos tietäisi aina pääsevänsä oman kotipihansa ylös jäistä
+riippumatta. No, ei edes etuvetoinen Punto siihen eräänä kertana
+kyennyt, joten mietinkö minä tässä väärää puuta.
+
+Kesäisin takavetoisuudesta ei ole haittaa. Ylimääräisestä
+voimansiirrosta syntyy toki ylimääräistä melua, mutta sitä on hankala
+arvioida.
+
+** Taloudellisuus
+
+Mersu on keskikokoinen auto, eli taloudellisista autoista puhuessa
+isonkokoinen. Olikohan omamassa 1300 kilon paikkeilla. Siinä on
+kuitenkin mahdottoman hyvä ja taloudellinen dieselkone. Omassa
+/vahvasti/ maantiepainotteisessa keskikulutus jää tankkauspäiväkirjan
+perusteella 5,3--5,7 litraan per 100 kilometriä. Ei huonosti "isolta"
+autolta melkein 30 vuoden takaa!
+
+Dieseleitä siunaavat käyttövoimaverot ja nykyiset polttoaineiden
+hinnat huomioiden omassa vuosiajossani mersu voittaa 20-vuotiaat
+pikkujapsit usean sadan euron voimin. Jos taas katsotaan
+bensiinitoimisia autoja, joiden maantiekulutus menee 4,5 litraan
+sataselle, niin ne ovat niin uusia ja mahdollisesti pieniä kopperoita
+että ovat joko liian kalliita ostaa ja pitää, tai liian epämukavia
+maantiepainotteiseen ajeluun.
+
+Vanhoille autoille nimittäin saa pääsääntöisesti todella edullisia
+liikennevakuutuksia. Omani on ilman bonuksia 334 euroa vuoteen.
+Jokaisesta kahden vuoden nuorennuksesta If lätkäisee ylimääräiset 50
+euroa vuosimaksua, kun muut tekijät pysyvät ennallaan. Lisäksi huollot
+ovat edullisempia kuin nykyaikaisille tietokoneiden riivaamille
+koslille. Toki tämä vaihtelee yhtiöittäin, mutta riittävän vanhoja
+autoja valikoidessa ainakin tietää, että on ainakin yksi paikka, jossa
+saa aina hyvän tarjouksen.
+
+** Peruuttelusta
+
+Ohjauksessa on syystä tai toisesta tunnottomuutta keskialueella.
+Eteenpäin mentäessä en havaitse asiassa mitään ongelmia epäelenganssin
+lisäksi. Ongelma korostuu hieman tarkkaa peruuttamista tehtäessä.
+Renkaan asentoja on hankala lukea tunnottoman ratin kautta ja pieniä
+korjauksia mahdoton tehdä paikallaan ollessa. Tämä on aiheuttanut
+harmaita hiuksia niin kesällä kuin talvellakin. Carinan kanssa ei
+ollut peruuttelun kanssa mitään ongelmia!
+
+** Mukavia pikkuseikkoja
+
+- auton vakiokaiuttimet ovat selkeä-ääniset
+- kojetaulu ja instrumentit ovat spartaaniset --- ja todella hyvin
+  suunnitellut
+- mainio käynti niin kesällä kuin talvellakin
+- aurinkolippa löytyy myös peruutuspeilin yläpuolelta
+- MB on autobrändeistä ehdoton ykkönen.
+
+** Huonoja pikkuseikkoja
+
+- ei mukitelinettä
+- ei sähköikkunoita
+- vaikka moottori itse kävisi paukkupakkasillakin, niin polttoneste
+  itsessään voi hyytyä kireillä pakkasilla
+
+** The pros and cons: Mersu vastaan pieni japsi
+
+Oman yksilöni kyljet ovat ruosteiset, ja muutamat muut pikkuviat
+kiusaavat. Ruoste on onneksi pinnallista sellaista, ja korjattavissa
+hiomisella ja maalailulla. Maalailun jälkeen ulkonäkö tuskin näyttää
+enää mitenkään nätiltä, mutta miten kaunista se ruosteilukaan on.
+Ongelmana on tämän toimenpiteen teetättäminen ja sen hinta. Hionnan ja
+maalaamisen hinnalla pitkälti ostaisi jo sellaisen japanilaiskipon,
+jossa tulee kahdet hyvät renkaat mukaan ja ruostettakaan ei ole
+havaittavissa. Mersu kaipaisi siis uudet talvirenkaatkin tulevalle
+kaudelle. Carinan kanssa ei tullut ikinä mitään vikoja laitteiden
+kanssa eteen, eikä veli myöskään tunnusta lainkaan ongelmia Toyotojen
+kanssa. Se vain tarkoittaa, että sopivan viallista yksilöä ei ole
+tullut vastaan.
+
+Onko sitten miten ironista pohtia korvaavansa ruostumaan päin olevaa
+Länsisaksalaista laatuautoa erittäin ruosteherkiksi tunnetuilla
+90-luvun taitteen japseilla? Ruosteettoman yksilön voi aina löytää ja
+sillä voi varmasti sitten ajella monia ruosteettomia vuosia ja nauttia
+etuvetoisen talvietenemiskyvyistä. Ehkä myös sähköikkunoista ja oikein
+hyvässä tapauksessa mukitelineestä. Alunperin suunnittelin käyttäväni
+mukitelinettä aamukahviani varten, vaan pikemminkin olisi käyttöä
+kesän kuumilla vesipullolle.
+
+Lisäksi painoa on harkintaan antamassa se seikka, että mersun radiota
+en ole saanut uusittua puolessa vuodessa. Pioneer soitaa radiota ja
+kasetteja hyvin, mutta AUX IN ja BluTooth loistavat poissaolollaan.
+Johdotukset pitäisi leikata ja juottaa uusiksi nykystandardeille,
+jotta yksikön voisi vaihtaa. Johtosuma oikenisi varmaan helposti
+omissakin käsissä, mutta toisaalta seuraavassa autossa kaikki voisi
+olla jo valmiina kunnossa...
+
+Carinasta jäi mieleen fantastinen moottori (sitkeä pirulainen) ja
+*loistava* laatikko. Oli kuin automaattinen minun käsissäni. Mersulla
+vastaavasti on jäykempi laatikko, johon tietysti tottuu samalla
+tavalla. Ei käy silti sanoman, etteikö japanilaisilla ole yleisesti
+mahtavat laatikot. Moottori jaksaa mennä vähällä mehulla ja kiihtyy
+maantienopeuksiin mainiosti -- asia, johon mersun laiska diesel ei
+vain kykene. Kohteliaisuussyistä koitan joskus vältellä ramppeja
+satasen teille.
+
+Mietinnän alla olisi joku 90-luvun alun pieni sedan. Päällimmäisenä
+joko Corolla tai Sunny, koska ovat keveitä autoja ja kulutus on
+seitsemän litran luokkaa sataselle. Bensan hintojen ja vakuutusten
+kanssa se olisi noin 250 euroa vuodessa enemmän juokseviin kuluihin
+kuin mersulla. Vastineeksi saisi makoisaa kiihtyvyyttä
+maantienopeuksiin ja peräti pientä ohituskykyäkin. Japanilainen
+sähköosaaminen on maankuulua, ja siinä jää Boschikin toiseksi. Ja
+ainakin toistaiseksi näyttää siltä, että mersu hyvinkin kerää 250
+eurolla vuotta kohti enemmän korjauskuluja sun muita sellaisia, mitä
+japanilaisilla ei yksinkertaisesti vain ole.
+
+Mutta sepä se: mikä varmuus minulla on siihen, että ostaisin sellaisen
+ajokin, jolla vikoja ei synny. Carina oli poikkeuksellinen ja neljän
+tonnin ajon aikana vain yksi etuvalo paloi pois. Minulla tai
+veljelläni ei ole pahaa sanottavaa Toyotoista, mutta muilla ihmisillä
+on. Toisaalta mersulla on 25 tonnin aikana ehtinyt mennä jos
+jonkinlaista osaa uusiksi, osa sattumia ja osa tavallista kulumista.
+Rooli on helposti keikautettu käänteiseksi, jos japanilaisessani
+olisikin syntynyt joku ruostelöytö paikassa, jota ei ostotilanteessa
+osannut bongata.
+
+Eli kysymys jatkaa poltteluaan: pitäisikö jatkaa mersun kanssa ja
+viritellä se radio kuntoon, ostaa suosiolla sille ne talvirenkaat ja
+teettää keväämmällä ruosteremppaa pajalla. Vai pitäisikö nyt alkaa
+miettiä japanilaista perheenjäsentä taloon ja kaupitella mese pois
+polkuhintaan. Ei mitään vastausta.
