@@ -8,14 +8,10 @@ CLOSED: [2015-01-23 Fri 18:31]
 
 [[http://www.imdb.com/name/nm0634240/][Chris Nolan]] on mies, joka on lyönyt itsensä läpi Hollywoodissa
 tekemällä erinomaisia, älykkäitä tuotantoja. Käytännössä kaikki
-Nolanin ohjaustyöt ovat olleet hittejä, joskin vähälukuisia.
-/Memento/, /Insomnia/, /The Prestige/ ja eritoten tuplaplushyvä
-/Inception/. Uusi /Interstellar/ taitaa sekin olla hitti, vaikka en
-ole vielä ehtinyt tyypata sitä. Ja tietenkin uusi /Batman / The Dark
-Knight/ -trilogia...
-
-Toistaiseksi keskityn Batmaneihin, mutta ehkä jonain päivänä
-pölkylläni on jotain sanottavaa muista Nolanin töistä.
+Nolanin ohjaustyöt ovat olleet hittejä, joskin ovat pysyneet
+vähälukuisina. /Memento/, /Insomnia/, /The Prestige/ ja eritoten
+tuplaplushyvä /Inception/. Uusi /Interstellar/ on sekin iso hitti. Ja
+tietenkin uusi /Batman / The Dark Knight/ -trilogia...
 
 ** Nolanin Batmanit ja Tim Burton
 
@@ -65,3 +61,29 @@ kenties nolanimaisesti tyypillinen kikka, mutta toiminnassa
 auttamattoman kliseinen ja halpamainen. Nolanin osuus kirjoittamiseen
 ei ole täysin tiedossani, mutta voi olla, että hän on ulkoistanut
 toiminnan muille tahoille ja keskittynyt hyviin palasiin itse.
+
+** Interstellar
+
+Suunta, mihin Nolan lähti [[http://www.imdb.com/title/tt0816692/][Interstellarin]] kanssa, on mainio kehitys
+Batmaneista. Välissä taisi olla / on joitakin supersankarijuttuja,
+jotka aion itse sivuuttaa jokseenkin epämielenkiintoisina töinä.
+
+Interstellar on älykäs ja perusteltu seikkailutarina ihmiskunnan
+viemisestä uusiin, asuttaviin planeettoihin. Juoni jo lähtökohtaisesti
+kuvauksen perusteella implikoi hyviä viittauksia Kubrickin 2001:een,
+ja nämä kaikki vahvistuivat elokuvan aikana mainiosti. Alluusioita
+tehtiin myös scifielokuvien toiseen pioneeriin, /Star Warsiin/.
+
+Inceptionista ja sen kerronnan teknisestä onnistumisesta viisaana
+odotin, että madonrei'ät ja mustat aukot käsitellään samalla,
+teknisesti kikkailevalla tavalla twistaamalla temporaalisia
+oletuksiamme. En pettynyt lainkaan lopputulokseen. Kaikin puolin
+Interstellar on ansainnut vahvan arvosanansa, vaikka jää mielestäni
+hieman Inceptionia jälkeen. Puutteita ei ole varsinaisesti kuin kaksi:
+kerronnan soljuvuudessa oli pieni kompastus elokuvan loppua kohden ja
+gravitaatioiden teema oli mielestäni lattea. Hans Zimmerin kanssa
+jatkuva yhteistyö on parasta sitten Lynch-Badalamenti -kollaboraation,
+joka päättyi vajaan 15 vuotta sitten. Zimmerin säveltämä soundtrack
+Interstellarille voi hyvinkin olla yksi parhaista viimeisten 20 vuoden
+aikana. Sääli vain, että Zimmerin monet muut työt kilpailevat kanssa
+parhaan tittelistä.
