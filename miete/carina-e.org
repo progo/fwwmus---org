@@ -1,0 +1,66 @@
+#+TITLE: Carina E 1992
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Carina E 1992                                        :autot:mb:toyota:
+CLOSED: [2015-06-25 Thu 10:38]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-06-25 Thu 10:38]
+:END:
+
+Kuin Murphyn suunnitelmista kuunaan, Mersulle kävi köpelösti lyhyesti
+sen jälkeen kun päätin pysytellä siinä [[file:autoista.org][keväisissä mietinnöissäni]]. Nyt
+on Toyotan aika, halusinpa tai en. Ostin hieman hätäillen sellaisen
+Toyopetin, jonka kriteereinä on kestää useampi vuosi, eli korin
+ruosteettomuus päällimmäisenä prioriteettina. Sellainen onneksi
+löytyikin.
+
+** Ensivaikutelmat
+
+Sitä luuli mersua jotenkin huonoksi ajaa, mutta Carinan jälkeen mieli
+muuttuu kyllä nopeasti. Ajosuhinoita, rengasmelua (olisi pitänyt etsiä
+sedan sittenkin, nyt tuli sellainen viistoperä jaetulla tavaratilalla)
+ja japanilaista heppoisuutta materiaalivalinnoissa.
+
+Ulkonäkökin on ruosteettomuudesta huolimatta aika törkeä. Haalistunut
+maali ja muutamat ulos näkyvät pikkuviat henkivät köyhyyttä. Muutama
+kalliihko korjaus pitää tehdä, jotta päästään spartalaiseen
+minimitasoon.
+
+Ajettavuus on toki loistava, ja hiljainen moottori on iloinen asia
+kaupungissa. Suuntavakavuus on parempi ja tokihan tämä kiihtyy
+rutkasti nopeammin.
+
+Tärkeä on nyt tottua tähän nopeasti.
+
+** Taloudellisuus
+
+Mersu meni 100 kilometriä aika hyvin 5,5 litralla edullista dieseliä.
+Toyotalle on odotettavissa mitä tahansa kuudesta kahdeksaan litraan
+sataselle, ja tietysti vielä sitä kalliimpaa 98E5:ttä. Vuodessa tämä
+tekee melkein 800 euroa enemmän polttoainekustannuksia. Lisäksi
+liikennevakuutus on 100 euroa enemmän kuin mersulle. Vastaavasti 340
+euron käyttövoimavero jää pois, mutta kuitenkin isosti tulee takkiin
+optimitilanteessa.
+
+Toyota-huollot ovat kuuluisasti edullisia, ja voi olla että vuotuiset
+kuluvat osat töineen ovat hieman edullisempia kuin mersulle. Ikäeroa
+on 4 vuotta autojen välillä. Carinalla on tietysti jakopään hihna
+riesanaan, ja se pitäisi ilmeisesti uusia arviolta 100 tonnin välein.
+Seuraavan talven hommia.
+
+Onni onnettomuudessa, kaikenlaista korjattavaa meni mersun mukana
+onneksi. Mersun korikorjaus (veljen arvio 500 euroa) jää nyt
+ohittamatta, samoin kuin toisen puolen jousituksen korjaaminen (voi
+olla 300 euron paukku, jos iskarit uusii). Myöskään talvirenkaita ei
+tarvitse nyt katsella seuraavaksi talveksi (400 euroa). Carinan mukana
+tuli yhden, ehkä jopa kahden talven nastarenkaat, joten satasien
+taloudellinen säästö on siinäkin.
+
+Voimme vain toivoa, että auto nyt kestää käyttöä. Mersussa oli ja on
+niitä pikkuvikoja kyllä hirmuisesti, ja tässä niitä odottaisi olevan
+vähemmän.
+
+** Konkluusio tältä erää
+
+Auton ostin eilen, 24.6., ja totta kai tässä vaiheessa kaikki
+hirvittää ja mersu oli maailman paras ja sitä rataa. Jahka Carinan
+ominaisuuksiin tottuu, niin johan alkaa ajaminen taas maistua.
