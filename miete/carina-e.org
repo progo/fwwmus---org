@@ -39,7 +39,7 @@ sataselle, ja tietysti vielä sitä kalliimpaa 98E5:ttä. Vuodessa tämä
 tekee melkein 800 euroa enemmän polttoainekustannuksia. Lisäksi
 liikennevakuutus on 100 euroa enemmän kuin mersulle. Vastaavasti 340
 euron käyttövoimavero jää pois, mutta kuitenkin isosti tulee takkiin
-optimitilanteessa.
+odotusarvollisesti.
 
 Toyota-huollot ovat kuuluisasti edullisia, ja voi olla että vuotuiset
 kuluvat osat töineen ovat hieman edullisempia kuin mersulle. Ikäeroa
