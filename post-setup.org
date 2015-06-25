@@ -1,3 +1,3 @@
 #+OPTIONS: toc:nil tex:dvipng
 # Note: don't edit the #+TAGS below directly. Use collect_tags.sh.
-#+TAGS: arvostelu asunto bash blog cli clojure david_e_kelley editorit elisp elokuvat emacs email fallout fey fp gentoo haastattelu haskell hifi huumori jazz js kirja kirjat koodi lisp listat matikka mpd musiikki nethack ohjelmistot oppaat pelailu peli pelit puhelin python rauta roguelike sarjat sitcom softa twitter unix vim xmonad zsh
+#+TAGS: arvostelu asunto autot bash blog cli clojure david_e_kelley editorit elisp elokuvat emacs email fallout fey fp gentoo haastattelu haskell hifi huumori jazz js kirja kirjat koodi lisp listat matikka mb mpd musiikki nethack ohjelmistot oppaat pelailu pelit puhelin python rauta roguelike sarjat sitcom softa toyota twitter unix vim xmonad zsh
