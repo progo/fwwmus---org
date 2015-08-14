@@ -1,0 +1,77 @@
+#+TITLE: Podcasteista
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Podcasteista                                           :autot:podcast:
+CLOSED: [2015-08-14 Fri 17:42]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-08-14 Fri 17:42]
+:END:
+
+Kun päivittäistä työmatka-ajoa on miltein 100 kilometriä, ja autot
+eivät liiku tuhatta ja sataa, on samoihin ajouriin tylsistyminen
+ilmeinen vaara. Podcastit ovat mitä mainioin tapa kuluttaa aikaa ratin
+takana.
+
+Puheohjelmat olen löytänyt paremmaksi matkaohjelmaksi kuin musiikin:
+kaiutinongelmien ja tiemelun lisäksi musiikkia kuunnellessa on vaarana
+uppoutua enemmän omiin ajatuksiin ja täten pitkittää työmatkaansa.
+Puhetta kuunnellessa mielen keskittyminen on sen sijaan enemmän kiinni
+radiossa ja aika kuluu rattoisammin. Puhetta kehtaa myös dynaamisesti
+pakata kovemmin, ettei mitään jää kuulematta. Hyviä podcasteja
+kuunnellessa seuraavaa työ- tai kotimatkaa ihan alkaa jo odottaa, että
+pääsee takaisin huumorin tai mielekkään keskustelun äärelle. Kaikki on
+hyvin.
+
+Isoin haaste kaikessa tässä on löytää tarpeeksi kuunneltavaa. Kullakin
+yhdensuuntaisella matkalla menee noin 25-30 minuuttia tavaraa ja
+työpäivässä siis noin tunnin verran. Kuukaudessa tarvetta jopa 30
+tunnille! Ja tämä tavara on niin kertakäyttöistäkin. Hyvää materiaalia
+olen käynyt ahnaasti läpi:
+
+- [[http://nerdist.com/podcasts/][Nerdist]] (hyvin tuotetut ja rennot haastattelut)
+- [[http://www.joshrthompson.com/category/podcast][Josh Robert Thompson]] (mainiota tavaraa)
+- [[http://blog.cognitect.com/cognicast/][Cognicast]] (Clojure ja sovelluskehitys)
+
+Sitä oli toukokuussa 150 tunnin edestä, nyt on jäljellä alle 15
+tuntia. Uutta tavaraa on etsittävä aktiivisesti, ja onneksi sitä
+löytyykin kun alkaa vain tonkia. Internet on pullollaan vanhaa ja
+hyvää tavaraa podcastien kulta-ajoilta (olisiko ollut noin vuosi 2007)
+ja moni tekee yhäkin korkeatasoista show'ta viikoittain.
+Matkapuhelinten mikrofonit ovat onneksi kehittyneet varsin
+kelvollisiksi aikojen saatossa ja erilaiset pilvimusiikkipalvelut
+(SoundCloud) tarjoavat valmiit työkalut oman äänen tuuppaamiseksi
+verkkoon.
+
+Podcasteja syntyy teemojen ympärille ja oma mielikuvitus on
+rajoittavin tekijä uuden materiaalin etsimisessä. On vähän
+tutkiskeltava omia mieltymyksiään:
+
+- Fallout-aiheisia podcasteja on näemmä olemassa: pitääpä kokeilla.
+- Civilization-aiheisia podcasteja olen jo kokeillut, mutta yhdestä en
+  pitänyt. Pitäisi etsiä vaihtoehtoisia.
+- Dungeons & Dragons -tarinoita mahtaisi olla kiva kuunnella. Voisi
+  ainakin kokeilla että maistuuko.
+- Lisää koodijuttuja: ehkäpä Haskell-podcast nykyisen
+  Clojure/Erlang-painotteisten lisäksi. Ehkäpä F# ja Scala -aiheiset
+  menisivät samalla.
+- Ohjelmointikielten lisäksi pelikehityksestä olen joskus nähnyt
+  podcasteja: Civilization-pelien tekoälystä on joskus ollut jotain
+- Peliarvostelut
+- Lisää koomikkoja, ei varmasti ihan pieleen voi mennä.
+- Lisää julkkishaastattelupodcasteja Nerdistin tyyliin toki voisi
+  löytää kanssa.
+
+Kirjo on laaja, koska isoissa metropoleissa on kaikissa pitkien
+työmatkojen ongelma, joten kuuntelijakuntaa riittää. Meillä itse
+autoamme ohjaavilla on lisäksi erityisvaatimuksia liikenteen
+huomioinnin suhteen, joten audiovisuaaliset youtube-"podcastit" eivät
+vielä syrjäytä kookasta yleisöä vielä pariin vuoteen. Toisaalta
+youtubessa taitaa enemmistö julkaista ääni-podcastinsakin
+mainostulojen toivossa. Onneksipa sen ämpärin saa sieltä ulos
+helposti.
+
+*Äänikirjat* ovat yksi hyvä optio: yksi tyypillinen romaani kuittaisi
+jo kahden viikon työajelut, ja samalla voisi vähän sivistyäkin
+kirjallisesti. Minulla taitaakin yksi kirja odotella "hyllyssä" ja
+ehkä iskenkin sen tulille jossain vaiheessa. Jotain elämänkertoja voi
+ainakin kuunnella hyvin ajaessa, jos pelkää eläytyvänsä kirjan
+maailmaan liian huonosti ajaessaan.
