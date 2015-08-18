@@ -1,0 +1,73 @@
+#+TITLE: Rutiineista
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* Rutiineista                                                :rutiinit:gradu:
+
+Rutiinit ovat tapa saada asioita tehdyksi: usein tehtävät askareet
+saavat ajan kanssa määrätyn muotonsa, ja pian voi olla jo vaikeata
+poiketa rutiinista. Osalle eivät rutiinit maistu, ja se on heille
+hyvä; minä pidin rutiineista jo kouluaikoina, koska se on hyvä tapa
+saada viikot kulumaan nopeasti.
+
+Rutiineja on niin hyviä kuin huonoja, ja syyt rutiineihin moninaiset.
+Osa rutiineistani tulee hyvällä perusteella: aamurutiini on kiva,
+jotta aamupöhnäistä aikaa (joka on varsin hidasta!) ei tärvelly
+miettimiseen. Harmi tosin, että täydellinen aamurutiini ei kehity
+ilman vakiintuneita komponentteja: milloin on likaista vaatetta ja
+milloin on vääränlaista leipää aamupalaksi. Yhteinen teema aamuissani
+on kuitenkin se, että pidän aamuni mahdollisimman lyhyenä. Sängystä
+ruokapöydän ja wc-tilojen kautta autoon usein alle 15 minuutissa.
+Kahvia en keitä, koska se purujen kanssa puuhastelu ja kuuman kahvin
+särpiminen on toisaalta ihan kivaa, mutta jokseenkin tarpeetonta,
+koska saan töissä fiksini. Se riittäköön aamurutiinista.
+
+Iltarutiinit sen sijaan... Jo 15 vuoden ajan se on noudattanut
+pitkälti kaavaa suihku--tv--hampaat--peti. Telkkarin töllötys on kotoa
+peräisin, kun kello yhdeksän tuulipuku-primetime katsottiin koko
+perheen voimin, ja kymmeneltä mentiin petiin. Tämä oli tietysti
+silloin kun olin siinä kymmenen kieppeillä, ja iskostui selkäytimeen
+niin, että meno on jatkunut tähän päivään saakka. Mitä nyt sarjoihin
+käytetyn ajan määrä on kasvanut. Ennen vanhaan katseltiin yksi jakso
+mainostv:tä, joka on noin 55 minuuttia ja nyt katselen tyypillisesti
+yhden tai kaksi jaksoa yhtä mainoksetonta sarjaa illassa ja siihen
+päälle mahdollisesti puolituntisia komediaohjelmia kunnes kello alkaa
+kolisutella yhtätoista illalla. Mainostv:n tapaan katselen yhtä sarjaa
+yhtenä viikonpäivänä, ja se on hyvä tapa saada viikot kulumaan, olipa
+kyseinen käsite miten masentava tahansa. Itsehän odottelin
+kouluaikoinani vain haaveillen sitä hetkeä, kun pääsen työelämään ja
+rahaan käsiksi. (Tässä sitä ollaan.)
+
+Iltarutiini on auttanut kyllä tasapainottamaan unensaantia: päivän
+viimeiset hetket vietetään ennustettavassa ympäristössä hyvän viihteen
+kanssa. Tietysti tässä rutiinissa on se ongelma, että paikoin
+rajallisesta vapaa-ajastani menee ehdoitta iso, kaksituntinen osa tv:n
+edessä vaikka joinain päivinä sitä voisi tehdä jotain
+mielekkäämpääkin. Hyvä TV-sarja käy kirjallisesta harrastuksesta ja
+itsensäkehittämisestä, joten ei se hukkaan heitettyä aikaa ole, mutta
+superjoustava se ei ole.
+
+Olihan minulla joskus aikoinani myös hyvä rutiini lukea paperia aina
+20-30 minuuttia illan päätteeksi. Tämä rutiini syntyy yleensä
+välittömästi jos saan käsiini jonkun houkuttelevan kirjan, ja se
+kuolee pois oitis jos kirjan päätteeksi ei ole aloittaa seuraavaa.
+Sellaista se on.
+
+Muitakin rutiineja kehittyy: gradun kanssa sai hetkittäin aikaan
+sellaista menoa, että oli pakko tehdä sitä, jos eteen tuli tylsä
+hetki. Sehän on mitä mainioin tilanne, ja sitä oli muutamina viikkoina
+tässä reilun vuoden aikana. Tämä oli luultavasti kytköksissä siihen,
+että hommia työn kanssa oli luvassa, eikä ollut ns. tyhjän sivun
+syndroomaa.
+
+Rutiinikin voi vähän eskaloitua milloin mistäkin syystä. Vuosi sitten
+tv-rutiini yht'äkkiä eskaloitui niin, että tuli katsottua sarjoja
+kahden tunnin sijasta neljäkin tuntia päivässä. Tätä jatkui vajaat
+pari kuukautta, kunnes Sätös ilmestyi näkökenttään ja muuttohässäkkä
+alkoi. Sätöksen jälkeen tämä eskaloituminen hävisi itsestään:
+omakotitalo ja pihatyöt opettavat rikkomaan rutiineja samalla kun
+vapaa-aika hupenee.
+
+Gradun valmistuttua yritän seuraavaksi pakottaa itselleni
+liikuntarutiinia. Joku gamifikaatio seinäkalenterin kanssa toimii
+itselläni todennäköisesti niin, että pian sitä juoksee mielellään
+tunnin päivässä jossain muualla. Puhutaanko rutiineista vai
+kompulsioista?
