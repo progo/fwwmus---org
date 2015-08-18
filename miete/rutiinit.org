@@ -1,6 +1,10 @@
 #+TITLE: Rutiineista
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* Rutiineista                                                :rutiinit:gradu:
+* DONE Rutiineista                                           :rutiinit:gradu:
+CLOSED: [2015-08-18 Tue 19:55]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-08-18 Tue 19:55]
+:END:
 
 Rutiinit ovat tapa saada asioita tehdyksi: usein tehtävät askareet
 saavat ajan kanssa määrätyn muotonsa, ja pian voi olla jo vaikeata
