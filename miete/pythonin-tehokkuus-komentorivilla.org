@@ -6,7 +6,7 @@ CLOSED: [2015-09-26 Sat 19:20]
 - State "DONE"       from ""           [2015-09-26 Sat 19:20]
 :END:
 
-[[python-vs-clojure.org][Clojuren olen tuominnut Pythonia paremmaksi kieleksi]], ja siitä
+[[file:python-vs-clojure.org][Clojuren olen tuominnut Pythonia paremmaksi kieleksi]], ja siitä
 ylöskirjoittamani mietteet näyttävät edelleen pitävän paikkansa. Miksi
 kuitenkin noita Python-ohjelmia tulee kirjoiteltua siitä huolimatta?!
 
@@ -21,16 +21,24 @@ mitä komentorivilläni tapahtuu, on yleensä luonteeltaan sellaista,
 että Pythonin hitaus ei näy missään: joko kovaa laskentaa ei ole, tai
 kutsun muita ohjelmia aliprosesseina.
 
-Python on muutenkin selkeä tapa kirjoittaa eräajosovellusta, ja
-pienten skriptien tapauksessa kielen ja ympäristön puutteetkin jäävät
-varjoon. Ehkä kuitenkin Pythonin ongelmat alitajuntaisesti estävät
-minua laajentamasta sovellusta alkuperäisen ominaisuusskoopin
-ulkopuolelle, koska se alkaisi herkästi tarkoittaa sitä, että nopeat
-hakkaukset pitäisi kirjoittaa paremmin. Clojuressa onkin pikemmin se
-ongelma, että kieli vääntää kirjoittajansa kättä aina valitsemaan
-Oikeaoppisen Tavan tehdä jokainen pienikin asia, joka 50-rivisessä
-pikavirityksessä voi vähän lannistaa. Tämä kuitenkin olisi eduksi, kun
-softaan tulee uusia ideoita toteutettavaksi.
+Tietyllä tavalla Pythonissa on näppärä pyöritellä tarvittavia
+algoritmeja; muistuttaahan kielen syntaksi jo itsessään klassisten
+70-luvun oppikirjojen pseudokoodinotaatiota. Clojure taipuu helposti
+samanlaiseen muotoon, mutta ennestään mielessä pyörivän algoritmin
+kääntäminen uudelle ajattelutavalle voi kuitenkin olla merkittävä
+mentaalinen rasite.
+
+Python on muutenkin selkeä tapa kirjoittaa imperatiivista
+eräajosovellusta, ja pienten skriptien tapauksessa kielen ja
+ympäristön puutteetkin jäävät varjoon. Ehkä kuitenkin Pythonin
+ongelmat alitajuntaisesti estävät minua laajentamasta sovellusta
+alkuperäisen ominaisuusskoopin ulkopuolelle, koska se alkaisi herkästi
+tarkoittaa sitä, että nopeat hakkaukset pitäisi kirjoittaa paremmin.
+Clojuressa onkin pikemmin se ongelma, että kieli vääntää
+kirjoittajansa kättä aina valitsemaan Oikeaoppisen Tavan tehdä
+jokainen pienikin asia, joka 50-rivisessä pikavirityksessä voi vähän
+lannistaa. Tämä kuitenkin olisi eduksi, kun softaan tulee uusia
+ideoita toteutettavaksi.
 
 Pitäisikö siis hyväksyä tilanne niin päin, että pikaiset skriptit
 tulee jatkossakin kirjoitettua Pythonilla ja sitten harkita
