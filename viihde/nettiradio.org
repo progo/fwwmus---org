@@ -1,0 +1,80 @@
+#+TITLE: Nettiradioista
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Nettiradioista                                      :autot:nettiradio:
+CLOSED: [2015-10-25 Sun 20:01]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-10-25 Sun 20:01]
+:END:
+
+[[file:./podcast.org][Podcastit ovat teoriassa]] parasta matkaviihdettä mitä tiedän. Henkevät
+keskustelut vievät pahimman terän ajamisesta ja tuottavat usein fiksua
+ajateltavaa tunniksi kullekin päivälle. Suurin ongelma podcasteissa on
+ollut teknisesti ja sisällöllisesti laadukkaan materiaalin kaapiminen
+internetin syövereistä, ja tätä on tehtävä valitettavan usein.
+
+Podcasteihin liittyy kahdenlaisia haasteita: materiaalin pitää olla
+mieltä kutkuttavaa ja sellaista muutenkin, mitä jaksaa kuunnella. Moni
+harrastelija tekee mielenkiintoisesta aiheesta puhetta, mutta homma
+kariutuu lapsellisuuksiin tai liian poliittiseen puheeseen. Tai ei
+muuten vain kutita karvojani oikeaan suuntaan.
+
+Toisaalta podcast-materiaalin pitäisi olla teknisesti sen verran
+laadukasta, että siitä kuuluu jotain meluisalla autolla ajaessani.
+Selkeän puheäänen talteensaamisen luulisi olevan helppoa, mutta moni
+epäonnistuu pahasti tässä operaatiossa, ja selvää puheesta saisi
+lähinnä kuulokkeita käyttämällä.
+
+Musiikki on vastaavasti puheohjelmia epäpoliittisempaa, mutta autoni
+puutteiden takia soundia pitäisi käsitellä valitettavan paljon, ja
+tätä ei ole helppo automatisoida. Toisaalta passiivinen musiikki
+johtaa siihen, että ajatus hortoilee pois musiikista ja kohti tien
+yksityiskohtia; seikka, joka pidentää matkantekoon käytettävää aikaa,
+tai ainakin sen vaikutelmaa.
+
+** Digitally Imported
+
+Jostain tuli jokin aika sitten yhtäkkiä mieleen nettiradiot ja alansa
+konkari, Digitally Imported eli [[http://di.fm][di.fm]]. DI on tuottanut ainakin jo 15
+vuoden ajan hienoja genrekohtaisia kanavia erilaisille teknogenreille.
+Innostuin sitten kokeilemaan vähän tätäkin meininkiä autoillessani,
+koska vaikka musiikki on musiikkia, ehkä jatkuvasti uuden musiikin
+kuluttaminen voisi olla ratkaisu tylsistymisongelmaan. Ja lisäksi
+jatkuva uuden musiikin siirtäminen puhelimeen jäisi pois. No, DI:n
+trancekanava toimitti mainiosti ja nautin kuulemastani.
+
+DI Radio on oma puhelinsovellus, joka onneksi toimii
+Blutooth-laitteiden kanssa samaan tapaan kuin Android/Googlen oma
+Google Play Music -softa: musiikki alkaa kun kuunteleva laite tulee
+linjoille ja musiikki lakkaa kun laite lähettää stop-pyynnön. Akkua
+tämä syö ahnaasti, mutta käyttöä vartenhan älypuhelimet ovat.
+
+Mutta ainakaan trancemusiikki ei kamalasti puhuttele ajomusiikkina.
+Tai puhuttelee liikaa, miten asian ottaa. Saattaa olla, että
+nopeatempoisella konemusiikilla on jonkinlainen vaikutus
+kaasujalkaani. Näitä tuuneja on mukava kuunnella, mutta jonkinlainen
+liikennetaju on hyvä pitää yllä.
+
+** JazzRadio.com brought to you by AudioAddict Network
+
+Onneksi huomasin sivuja tutkiessani, että Digitally Imported on
+nykyään laajentunut/ostettu osaksi isompaa kokonaisuutta, johon kuuluu
+nettiradiokokoelmia myös rockin ja *jazzin* rakkaista genreistä.
+Tavaraa on milteinpä jokaiselle nyt laadukkaiden ilmaiskanavien
+muodossa. Olin hiljan kuunnellut Miles Davisia työmatkamusiikkina, ja
+olin hyvin vaikuttunut siitä, miten hyvin rauhallinen jazz kuuluu
+meluisassa ympäristössä ja tarjoaa todella levollisen atmosfäärin
+matkantekoon.
+
+Kokeilin siis [[http://www.jazzradio.com/][JazzRadio.com]]:n vaikuttavaa kanavavalikoimaa autossani,
+ja tulokset ovat olleet todella hyviä. Vaikka muutama herkullinen
+jazz-genre valitettavasti puuttuu valikoimista, löytyy verkosta
+kuunneltavaa aivan mielettömät määrät. Sekä kanavat [[http://www.jazzradio.com/trumpetjazz][Trumpet Jazz]] että
+[[http://www.jazzradio.com/saxophonejazz][Saxophone Jazz]] tarjoavat atmosfäärejä, joiden piirissä herkästi kokee
+ajavansa 50-luvun Buickilla neonvalaistujen kylttien loisteessa. Tämä
+on minun ajomusiikkiani.
+
+Ei silti haittaisi, jos seassa saisi kuunnella tasokkaita
+haastatteluja ja keskusteluja podcast-muodossa niin, että puhe
+kantaisi tiemelun ylitse. Äänittämisen ei pitäisi olla niin vaikeata:
+selvimmät podcastit ovat tulleet monologistilta, joka nauhoittaa
+tavaransa iPhonella ajaessaan autoa.
