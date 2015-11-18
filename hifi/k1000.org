@@ -1,0 +1,156 @@
+#+TITLE: AKG K1000
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE AKG K1000                                                       :hifi:
+CLOSED: [2015-11-18 Wed 20:52]
+:LOGBOOK:
+- State "DONE"       from ""           [2015-11-18 Wed 20:52]
+:END:
+
+Tuoreita ajatelmia AKG K1000:sta yli kuuden vuoden yhteiselon jälkeen.
+
+Ajatella, se oli kesällä 2009 kun minä kuulokevimmoissani ja
+silloisena Stax-miehenä päätin sijoittaa yo-lakkiaisrahani fiksusti
+käytettyihin kuulokkeisiin. Onneksi saksanmaalta postitettu pari oli
+hintansa väärti ja erinomaisessa kunnossa. En muistanutkaan, miten
+siisti yksilö tämä olikaan. Mukavaa, maailmanluokan ääntä heti alusta
+alkaen. [[http://mrp.fwwm.us/mietteet/42/akustische-und-kino-geraete-k-1000.html][Ensivaikutelmani vuosien takaa]].
+
+[[http://mrp.fwwm.us/wp-content/uploads/2009/06/IMG_3419.JPG][file:http://mrp.fwwm.us/wp-content/uploads/2009/06/IMG_3419-300x225.jpg]]
+
+Monenlaisia vertailuja olen tehnyt AKG:ni kanssa. [[file:./sennheiser-hd800-vs-k1000.org][Sennheiser HD800]] ei
+esimerkiksi napannut lainkaan. Vaikka puutteita testissä olikin ihan
+riittämiin, eivät uudet kuulokeuutuudet ole innostaneet. AKG K1000
+toimii ihan omassa sarjassaan ja hylkää kaikki kuulokkeille asetetut
+odotukset yhdessä siistissä yksikössä.
+
+** Sennheiser Orpheus ja uinuva peto
+
+Sennheiser julisti tänä syksynä, että sen ammoinen sähköstaattinen
+statementti Orpheus HE90 [[http://en-de.sennheiser.com/orpheus][saa
+rebootin]] uuden Orpheus HE1060:n merkeissä. Äänen jumala on monesti
+nostettu kuulokemaailman parhaimmistoon, eikä varmasti aivan syyttä.
+Sähköstaatilla on kaikki eväät menestykseen, ja Sennheiser sai
+ilmeisesti rakennettua kasaan setin, jossa kaikki taajuudet laulavat
+ison prätin ja musikaalisuuden kanssa. Varmasti huima kokemus kuulla
+niitä.
+
+Uudesta Orpheuksesta emme tietenkään tiedä vielä mitään, mutta
+uskoisin, että se menee vähintään tasoihin vanhan kanssa. Uutukaisen
+hintalapuksi on huhuiltu 50 kiloeuroa, ja se on jokseenkin yläkanttiin
+minun tuloillani.
+
+Mutta tämä julkistus sai vanhan ja talviunta nukkuneen hifipeikon
+vähän heräilemään: harrastus jäi aikoinaan jäihin, kun K1000 alkoi
+muutamien investointien jälkeen olla aika kivoissa budjettikuosissa ja
+seuraavat askeleet olisivat olleet melkolailla kalliimpia. Eihän
+opiskelijalla nyt kaikkeen ole varaa... Eikä myöskään töihin
+päästyäänkään ihan heti viitsinyt aloitella hulluttelua. (Kameroita
+sun muuta kyllä tuli ostettua.) Ja nyt sitten on vielä tuo asuntolaina
+ja odotteleva opintolaina siihen vielä päälle, omiaan hillitsemään
+irrationaalista harrasteluani.
+
+Harrastelu lienee jatkossakin vähän jäässä: talouden hengitysvara ja
+ylimääräisen ilon budjetti on toisaalta terveellisellä kantimella,
+mutta toisaalta tämä settikin laulaa niin iloisesti. Onneksi työura
+vaikuttaa olevan nousemaan päin.
+
+Pidän muuten siitä, että K1000 pelaa monien mielestä edelleen isojen
+poikien sarjassa. Lämmittää mieltä, vaikka tekniikka onkin varmasti
+ajanut jo ohi. Nykyään dynaamiset kuulokkeet ajetaan yli teslaisilla
+magneeteilla ja magnetoplanaaristen uusi tuleminen on kanssa kaikkien
+mielestä herkullista aikaa.
+
+** Miksi verraton?
+
+K1000 on monia asioita, ja minua erityisesti viehättää kuulokeparin
+/dynaamisuus/: K1000:n tapa antaa vähän äänen päälle ääntä ja paljon
+äänen päälle enemmän ääntä. Valtava äänikuva ja varsin kolmiulotteinen
+esitystapa meinaavat melkein jäädä toiseksi tämän dynamiikan varjoon.
+Asiaan tuntuu selvästi liittyvän se, miten kauaksi elementit saa
+korvista, toisin kuin muilla kuulokkeilla.
+
+Nautin K1000:stani "läpät ääriasennossa", koska näin matalan tason
+hälinä ja jyrinä vaimenee merkittävästi. Tätä samaa hälinää ja
+kohinaa, jota tuntuu kuulevan kaikilla perinteisemmillä kuulokkeilla
+liikaa. Se syö elämyksestä.
+
+Tätä hälinää on osaltaan eliminoimassa se seikka, että K1000 ei
+rajoita ääniaaltoja ja niitä kantavaa ilmaa mitenkään elementin ja
+korvan väliin millään korvatyynyillä. Jos nyt jotain mutuilisin, niin
+tämä helpottaa kovemmalla kuuntelemisen ilman, että turha ilmanpaine
+alkaa häiritä menoa. K1000 on todella menevä kovemmilla
+voimakkuuksilla.
+
+Totta onkin, että K1000:n jälkeen harva kuuloke on jaksanut innostaa.
+Pitäkööt hiostavat kuppikuulokkeensa, ei varmaan kamalasti pärjäisi
+muillekaan ominaisuuksille. Olen voinut jäädä "voittajana"
+hifieläkkeelle ja nautiskella vuosien hiljaiselon aikana näitä
+tuunejani maittavan ja verraten edullisen [[./hifisettini.org][settini
+kanssa]].
+
+Luultavasti todellisuutta lähempänä on se mahdollinen fakta, että
+oikeasti hyvää kuulokevahvistinta minulla ei ole koskaan ollutkaan, ja
+että K1000 huononkin vahvistimen kanssa onnistuu tarjoamaan upean
+pohjakohinan ihan vain avaamalla läpät täyteen mittaansa. Ja mies on
+myyty.
+
+Toinen johtopäätös: jos minulla on ollut vain huonoja
+kuulokevahvistimia ja haluaisin kuulla, miltä hyvä perussetti oikein
+kuulostaisi hyvällä kuulokevahvistimella, minun pitäisi ensin hankkia
+mainittua perussettiä (Staxit olisivat mielessä) ja sitten joku
+erityisen hyvä vahvistin. Kynnys kokeilla uusia settejä onkin
+yllättäen aika jyrkkä!
+
+** Mistä pidän edelleen K1000:ssa?
+
+- Kuulokkeiden avoin ratkaisu on täydellinen.
+- Luonnollinen bassotoisto on erinomainen, ja täydentää
+  ääniskaalaa tukahduttamisen sijaan.
+- Dynamiikkaa riittää kovaäänisempään soitteluun.
+- Kirkkaasti ja heleästi soivat ylätaajuudet ovat mielettömän hyvät,
+  ja virkistää kaikkea musiikkia.
+- Elementtien etäisyys korvasta avaa muutamia ovia.
+- Äänikuvan levittyminen isolle skaalalle, josta pystyy melkein
+  näkemään soittajien paikat.
+
+** Minkälaisia puutteita on K1000:ssa?
+
+Tähän on hankalampi vastata, koska hyviä vertailukohtia ei ole tullut
+"hifieläkkeeni" matkalla monia vastaan. Muutamia pointteja kuitenkin:
+
+- Basso, erityisesti valtaosa sähkö- ja elektrobassosta on kateissa.
+  Tiukan hevin kuuntelijat jäävät kaipaamaan äänen yksityiskohtia
+  tämän seikan ympäriltä.
+- Ihmiset ovat kritisoineet kuulokkeiden detaljien määrää yleisellä
+  tasolla. Ehkä voinen allekirjoittaa tämän, vaikka vertailukohtaa ei
+  olekaan.
+- Kuulokehäkin "räminä" tietyillä ominaistaajuuksilla:
+  surullisenkuuluisa "K1000 rattle" kiusaa tietyillä levyillä paljon,
+  toisilla ei lainkaan.
+
+** Mikä kiinnostaisi: Stax Sigma ja muut lottovoittosetit
+
+[[http://www.head-fi.org/products/stax-sigma][Stax Sigma]] on vanha
+rumilus, joka on likipitäen ainut massavalmistettu ja -myyty kuuloke,
+jonka idea edes etäisesti muistuttaa K1000:n vastaavaa. Sigma ampuu
+signaalinsa noin 80 asteen kulmassa korvaan nähden, siis hyvin
+samanlaisessa kulmassa kuin K1000 äärimmilleen levitettynä, ja
+kaikukoppansa ansiosta kuuluu vastaanottajalle. Olen mietiskellyt,
+että tässä voisi olla hyvinkin mahdollisesti eräs K1000-tappaja, jos
+vain löytäisi ylipäänsä ehjän yksilön mistään.
+
+Sigmojen lisäksi Sennheiserin julkistuksen jälkeen kymppitonnin Stax
+Omega SR-009 -setti alkaakin kuulostaa varsin kohtuulliselta. Ehkä
+jonain päivänä ratkean ja heitän viitisen tonnia tähän kuulokepariin
+ja toiset viisi tonnia Kevin Gilmoren lippulaivavahvistimeen.
+Lottovoittorahoilla sitten...
+
+Sitkeästi ne ihmiset myös tykkäävät huhuilla uudesta AKG K1000 MK 2
+-versiosta. Huhuiltu on ainakin kolmisen vuotta jo, joten aika
+hiljaista on tällä rintamalla. Uusi K1000 ilman rätinäongelmaa
+maistuisi kyllä.
+
+Jos hulluttelemaan ruvettaisiin, niin tykkäisin myös ostaa vanhan
+tutun, Sennheiser HD650:n, ja sille jonkun liian tehokkaan vahvistimen
+kaveriksi: katsoa, miten hyvin laululintu oikeasti lurittelee. Ja
+elokuvien äänentoistona olisi varmasti aika tykki.
