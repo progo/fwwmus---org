@@ -1,0 +1,183 @@
+#+TITLE: Fujifilm X100T
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fujifilm X100T                                 :kamera:fujifilm:canon:
+CLOSED: [2016-01-01 Fri 20:42]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-01-01 Fri 20:42]
+:END:
+
+Päätin hemmotella itseäni ja ostaa Fujifilmin laatupokkarin X100S.
+Harmi vain, että se on vanhentunut malli, joten jouduin tyytymään
+uudistettuun versioon X100T. Mitenkäs kun minulla on tuo Canon 5D Mark
+II tuolla? Toive olisi ehkä päästä downgreidaamaan ja näin jopa hieman
+likvitoida lisärahaa.
+
+Tämä toive ei tietysti toteudu, jos Fujifilm osoittautuu liian
+sudeksi, mutta vähän vaikea uskoa tähän.
+
+** Canon 5D Mark II
+
+Minulla ei ole kummoisia aikomuksia ruveta mahdottomaksi
+valokuvaajavelhoksi: minulla ei riitä siihen aika, eikä
+kärsivällisyyskään sen puoleen. Runko tulikin ostettua heräteostoksena
+kun tuli mielestäni erittäin hyvään hintaan tarjousta kehiin.
+Ajattelin, että tästähän voi jonkinlaista harrastusta kokeilla survoa
+itselleen. Tai ainakin ottaa sitten ne vähät kuvat hieman
+parempilaatuisina kuin mitä vanhalla Pokkarillani (mainio Powershot
+A530).
+
+Huomasin nopeasti, että komeus kerää lähinnä pölyä ja on ikävä hukka.
+Lisäksi harrasteluni tahtoo kääntyä aina välineharrasteluun, vaikka
+mitään asiaa lasikaupoille ei olisi näillä ruutulukemilla. Rungon
+isosta megapikseliluvusta (21) johtuen mikään kuva ei tahdo näyttää
+kovin tarkalta lähitarkastelussa, mikä on psykologinen haitta.
+
+En myöskään pidä Canonin painavasta bulkkirungosta, joka on tietysti
+superkestävä laitos, mutta on epäkätevä kaupungilla liikkuessa. Haluan
+liikkua yleensäkin vähäisin kantamuksin ja kevyesti ulkona:
+kaikenlaiset kilon tai puolentoista paketit eivät kuulu kevyeeseen
+liikkumiseen millään. Sama pätee mahdollista kesän jenkkilänreissuun:
+en minä halua mennä seikkailemaan isoon maailmaan kantaen bulkkia
+kilotolkulla vain siksi, että kaikki elämykset voi näppärästi tehdä
+etsimen läpi ja kotipuolessa sitten ihmetellä kun tuli kivaa
+dynamiikkaa tuohonkin kuvaan.
+
+Järkkärit ovat pitkälti ammattilaisvälineitä ja 5D2 erityisesti. Olen
+sitä amatöörin elkein käytellyt ja vaikka kuvista tulee ihan kivoja
+aina välillä, on aika paljon asioita, joita voisin jättää kameran
+harteille. En halua olla napsimassa raakakuvia ja korjaamassa niistä
+kromaattista aberraatiota ja muuta sellaista manuaalisesti. Tein tässä
+yksi päivä hieman uuden 40-millisen pannukakkulasini kanssa
+raakakuvatestejä, ja tuli todettua huhut Canonin JPEG-kuvien
+paskuudesta todeksi. Samalla kirosin sitä työtä, mitä saa tehdä jos
+haluaa kunkin raakakuvan erikseen katsoa ja varmistaa hyväksi. Haluan
+vain ampua kuvia ja korkeintaan poistaa huonot, perhana soikoon.
+
+Kuitenkin, pannukakulla on heti kivempi ampua ja kuvien tarkkuuteen
+voi luottaa enemmän. Tässä hiljan ottamiani kuvia jouluisesta
+[[http://imgur.com/a/skTHt][Sätöksestä]] (56k-varoitus). Kuvat otin nyt kokeilun vuoksi raakana ja
+lähinnä käytin ne Darktablen läpi, hieman tuunaillen valotuksia
+epärealistisempaan suuntaan, koska siitä minä nyt pidän. Tuplakuva on
+vertailuksi: ensimmäinen on raakakuva ja prosessoitu Darktablella,
+jälkimmäinen on Canonin tuottama JPEG. Detaljit housujen tekstuurista
+kertovat aika paljon.
+
+** Pokkarista hieman
+
+Pokkari, eli tuo [[http://www.imaging-resource.com/PRODS/A530/A530A.HTM][Powershot A530]] on ollut huiman hieno kamera. Ikää
+sillä on pian 10 vuotta, mutta hyvin se jaksaa käydä. Se toimii
+AA-paristoilla, joten satunnaisessa matkakäytössä on ollut hienoa,
+että lisää virtaa on voinut käydä ostamassa lähikaupasta.
+
+Aitona point-n-shoot-kamerana olen sitä myöskin käytellyt:
+kirjaimellisesti lonkalta otettuja kuvia on tullut otettua paljon, ja
+kaikista on tainnut saada selvää. Tykkään kyllä P&S-kameroiden
+ideologiasta.
+
+** Historiaa
+
+- Pokkari A530 joulusta 2006 lähtien
+- Järkkäri 5D2 syksyllä 2013
+- Samalla Sigma 35mm f/1.4 ART
+- Sigma vaihtui Canonin EF 24-105 f/4 IS USM -lasiksi keväällä 2014(?)
+- 24-105 ei tunnu kovin hifiltä putkelta, joten nyt syksyllä 2015
+  Canon EF 40mm f/2.8 -pannukakkulasi. Hyvältä tuntuu.
+- Puhelinkamera Moto G:n myötä keväällä 2013(?). Suttukuvia, mutta
+  värit on ihan okei. En ole kuvannut kamalasti lainkaan. Toimii
+  Pokkarin korvaajana.
+
+** Fujifilm
+
+Olemme olleet Canon-perhe aina, mutta leirin vaihtaminen ei ole mikään
+vaikea operaatio kaikkien testien perästä. Canon on perushyvä, mutta
+Nikonilla olisi paremmat kohinanpoistot ja muilla merkeillä omat
+voittonsa.
+
+Fujifilmin X100s osui joku kerta silmiini internet-arvostelun
+merkeissä ja olin rakastua kameran suunnitteluideologiaan oitis.
+Moderni digipokkari, joka on muotoiltu nostalgisen filmikameran
+muotoon ja jonka säätimet ja kuvasuotimetkin ovat kuin filmiajalta.
+Tonnin pokkari tuntui tietysti aivan mahdottomalta silloin. Tässä
+Fujifilmissä viehätti myös ajatus kiinteästä optiikasta, jota sentään
+kehutaan todella tarkaksi. Lasi on kinovastaava 35-millinen ja
+valovoimaa on F/2. Miellyttävää.
+
+Lisäksi kamerassa on miellyttävät namiskukkelit valotusasetuksille:
+suljinaika on fyysisestä pyöröstä valittavissa; aukko valitaan
+objektiivin renkaasta. Valotuskorjaukselle on oma rullansa myös.
+Kaikki tuntuu sopivan tekniseltä, sopivan hipsteriseltä.
+
+Mutta ei tosiaan tonnia voi laittaa kameraan, saati johonkin
+pokkariin. Niitähän saa ihan kelvollisia satasellakin! Mutta nyt
+sitten tuli ostettua, tai ainakin tilattua postitse Amazonista. Mukaan
+ei tarttunut X100s, vaan sen jatkaja X100t. Sen lisäksi pari
+vara-akkua, muistikortti, nahkakotelo ja vastavalosuoja.
+Kokonaisuudessaan riipaisi vajaan 1300 euroa! Mites tällä nyt edes voi
+päästä voitolle? ;)
+
+Eli... miksi? Minä kysyn sitä itseltänikin.
+
+[[http://www.dpreview.com/reviews/fujifilm-x100s][DPreview'n]] [[http://www.dpreview.com/reviews/fujifilm-x100t][artikkelit]] saavat veden kielelle, saivat jo vuosia sitten
+kun ensimmäisen kerran kuulin ja luin X100S-mallista. Tässä kamerassa
+on ajattoman muotoilun lisäksi kaikenlaiset yksityiskohdat hyvin
+kunnossa. Ehkä siroa kameraa ei voi talvirukkaset kädessä käytellä
+niin kuin 5D:tä voi, mutta kaikenlainen puuhastelu suoraan fyysisistä
+säätimistä tuntuu kivalta idealta.
+
+Painava järkkäri ei ole ihanteellinen matkakumppani missään. Sellainen
+vetää huomiota kadulla, ja en ole sellainen ihminen, joka haluaa olla
+epämääräisten ihmisten huomion keskellä. Pienempi kamera on
+luonnollisempi urbaanissa asetelmassa. Olen koittanut setvitellä
+erilaisia ratkaisuja koon pienentämiseksi: pienempiä optiikoita
+(pannukakku on loistava tässä mielessä) ja pienempiä kameroita
+(Canonin EOS 100D on soman pieni kamera, etenkin kun siihen olisi
+eteen laittaa pannukakku-24).
+
+Fujifilm on ainakin katu-uskottava viimeiseen asti. Kennosta otetaan
+vaikuttava määrä kuvanlaatua ulos. Ja point-and-shoot on varmaan
+helpommin tehtävissä kuin yhdelläkään järkkärillä. Mietin kyllä
+hartaasti, olisiko mainittu 100D sittenkin ihanteellisin "epäpokkari",
+mutta kyllä siinä on omat järkkäriongelmat, kuten etsimen käyttö ja
+sitä rataa.
+
+** Suunnaton jorina seis, eli summariikki ja kertaus
+
+Tekstiä on kirjoitettu uudenvuoden sokeripöllyissä ja nyt hieman
+katsottu aamukahvin kanssa eteenpäin. Ei tätä kannata pelastaa, vaan
+pikemmin kerrata tiiviisti asioita, joita nyt tulee mieleen kaikesta
+tästä. Eli syitä, miksi ihmeessä siirtyä (yli)kalliiseen pokkariin
+hyvän järkkärin tieltä?
+
+- Videokuvaus: Fujifilm ei kuulema vain kykene hyvään videokuvaan,
+  mutta eipä ole tuolla 5D2:llakaan tullut otettua yhtään mitään.
+  Vaikka yksi heräteostoon liittyvistä tekijöistä olikin se seikka,
+  että 5D2 on ammattikelpoinen videokamera.
+- Sarjatuli: Fujifilm voi ottaa peräti 6 kuvaa sekunnissa. Nopea
+  sarjatuli on parempi, toisaalta hyvä kun tahtia voi laskea
+  hitaammaksiksin.
+- Automaattitarkennus ei ole kuulema aivan parasta laatua, mutta
+  kuitenkin ilmeisesti selvästi parempi kuin 5D2:ssa.
+- Fujifilmin kiinteä optiikka on valovoimainen F/2, ja polttoväli
+  vastaa 35-millistä kinopolttoväliä. Arvosteluissa kehutaan teräväksi
+  putkeksi. Vastaa kuin Canonin pannukakkua, mutta enemmällä valolla.
+  Ja onhan se fyysisesti pienempi. Pidän.
+- Fujifilm istuu matkoille ja urbaaniin asetelmaan paljon paremmin
+  kuin minkään kokoinen järkkäri.
+- Peilittömistä tuttu sähköinen etsin on Fujifilmissä hybridinä ja
+  täysin saatavilla. Ehkä hybridi on hyvä idea.
+- Fujifilmissä on mahdollista tarkentaa vanhan ajan malliin
+  leikkolasilla, mikä voi tuoda oman mausteensa mukaan soppaan. Pidän
+  ajatuksesta, että se löytyy.
+- Fujifilmissä on valmiita kuvafilttereitä, joilla mallintaa
+  legendaarisia filmejä ja värikehityksiä. Mitä vain, jotta
+  kuvausmehut saa virtaamaan.
+- Lisäksi Fujifilm on reilusti kevyempi kuin mikään 5D2:n päälle
+  kasattu setti, jälkimmäisen runko jo yksinään akkuineen painaa 900
+  grammaa. Siihen päälle lasi, joista kevyimmätkin ovat 140 grammaa.
+  Fujifilm menee 400 grammaan kaikkinensa.
+- Salama on aina turha, mutta jos ei olekaan, niin Fujifilmissä on
+  sentään jotain ja 5D2:ssa ei ole.
+- Helposti turhuudeksi luokiteltava sisäänrakennettu WiFi-yhteys
+  Fujifilmissä voi alentaa kynnystä ottaa satunnaisia kuvia ja heittää
+  niitä koneelle vaivattomammin kuin Canonin "kortti pois, lukijaan,
+  skripti" -rutiini.
