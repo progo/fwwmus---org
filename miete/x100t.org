@@ -12,12 +12,13 @@ uudistettuun versioon X100T. Mitenkäs kun minulla on tuo Canon 5D Mark
 II tuolla? Toive olisi ehkä päästä downgreidaamaan ja näin jopa hieman
 likvitoida lisärahaa.
 
-Tämä toive ei tietysti toteudu, jos Fujifilm osoittautuu liian
-sudeksi, mutta vähän vaikea uskoa tähän.
+Tämä toive ei tietysti toteudu, jos X100T osoittautuu liian sudeksi,
+mutta on vähän vaikea uskoa tähän vaihtoehtoon kaikkien positiivisten
+arvosteluiden valossa.
 
 ** Canon 5D Mark II
 
-Minulla ei ole kummoisia aikomuksia ruveta mahdottomaksi
+Minulla ei ole ollut kummoisia aikomuksia ruveta mahdottomaksi
 valokuvaajavelhoksi: minulla ei riitä siihen aika, eikä
 kärsivällisyyskään sen puoleen. Runko tulikin ostettua heräteostoksena
 kun tuli mielestäni erittäin hyvään hintaan tarjousta kehiin.
@@ -140,6 +141,28 @@ hartaasti, olisiko mainittu 100D sittenkin ihanteellisin "epäpokkari",
 mutta kyllä siinä on omat järkkäriongelmat, kuten etsimen käyttö ja
 sitä rataa.
 
+** Oikea syypää
+
+Eilen katselin Woody Allenin uusimman työn, [[http://www.imdb.com/title/tt3715320/][Irrational Manin]]. Vaikka
+elokuvassa ei muutama asia istunut aivan mukavasti, jäi
+kokonaisuudesta todella positiivinen ja taiteellisuuteen inspiroiva
+kuva. Taiteentekemisen ja luovuuden mentaaliset estot kiusaavat
+elokuvan henkilöiden lisäksi varmasti itse kutakin katsojaa aina
+silloin tällöin. Minua ainakin.
+
+Valokuvaus on aihe, jota olisi kiva harrastaa, mutta en vain saa ikinä
+aikaiseksi lähteä joraamaan kameran kanssa. Ison pöntön kanssa tuntuu
+osittain hölmöltä leikkiä, vaikka 5D2 ja veljen 70-200 L/4 olikin
+eräänä kesäpäivänä aika höpö yhdistelmä ja tuotti hyvää materiaalia.
+
+Mutta ei kuitenkaan noin yleisesti. Allenin elokuvasta välittyi
+jonkinlainen alitajuntainen tarve toimia heti asian korjaamisen
+suhteen, ja materialistina päädyin ostamaan kauan haluamaani leluun.
+Nyt kävi näin. Onneksi minulla on nyt tämmöisiin varaakin. Ostoksen
+rationalisointi tapahtuu perustelemalla kaikki tämä kuvaussetin
+"downgreidaamisena". Saattaahan järkkärisysteemin myymisestä jopa
+satkun verran jäädä voitolle.
+
 ** Suunnaton jorina seis, eli summariikki ja kertaus
 
 Tekstiä on kirjoitettu uudenvuoden sokeripöllyissä ja nyt hieman
@@ -152,32 +175,29 @@ hyvän järkkärin tieltä?
   mutta eipä ole tuolla 5D2:llakaan tullut otettua yhtään mitään.
   Vaikka yksi heräteostoon liittyvistä tekijöistä olikin se seikka,
   että 5D2 on ammattikelpoinen videokamera.
-- Sarjatuli: Fujifilm voi ottaa peräti 6 kuvaa sekunnissa. Nopea
+- Sarjatuli: Fujifilm osaa ottaa peräti /6 kuvaa sekunnissa/. Nopea
   sarjatuli on parempi, toisaalta hyvä kun tahtia voi laskea
   hitaammaksiksin.
 - Automaattitarkennus ei ole kuulema aivan parasta laatua, mutta
-  kuitenkin ilmeisesti selvästi parempi kuin 5D2:ssa.
-- Fujifilmin kiinteä optiikka on valovoimainen F/2, ja polttoväli
-  vastaa 35-millistä kinopolttoväliä. Arvosteluissa kehutaan teräväksi
-  putkeksi. Vastaa kuin Canonin pannukakkua, mutta enemmällä valolla.
-  Ja onhan se fyysisesti pienempi. Pidän.
-- Fujifilm istuu matkoille ja urbaaniin asetelmaan paljon paremmin
+  kuitenkin ilmeisesti selvästi /parempi kuin 5D2:ssa/.
+- Fujifilmin /kiinteä optiikka/ on valovoimainen F/2, ja polttoväli
+  kinovastaa 35-millistä. Arvosteluissa kehutaan teräväksi putkeksi.
+  Vastaa kuin Canonin pannukakkua, mutta enemmällä valolla. Ja onhan
+  se fyysisesti pienempi. Pidän.
+- Fujifilm istuu matkoille ja /urbaaniin asetelmaan/ paljon paremmin
   kuin minkään kokoinen järkkäri.
 - Peilittömistä tuttu sähköinen etsin on Fujifilmissä hybridinä ja
-  täysin saatavilla. Ehkä hybridi on hyvä idea.
+  täydessä koossa. Ehkä hybridi on hyvä idea.
 - Fujifilmissä on mahdollista tarkentaa vanhan ajan malliin
-  leikkolasilla, mikä voi tuoda oman mausteensa mukaan soppaan. Pidän
-  ajatuksesta, että se löytyy.
+  /leikkolasilla/, mikä voi tuoda oman mausteensa mukaan soppaan.
+  Pidän ajatuksesta, että se löytyy.
 - Fujifilmissä on valmiita kuvafilttereitä, joilla mallintaa
-  legendaarisia filmejä ja värikehityksiä. Mitä vain, jotta
-  kuvausmehut saa virtaamaan.
-- Lisäksi Fujifilm on reilusti kevyempi kuin mikään 5D2:n päälle
+  legendaarisia filmejä ja värikehityksiä. /Velveta/-kuvat näyttävät
+  aika upeilta, mutta miten noita kuvafilttereitä kehtaa käyttää.
+  Miten vain, kunhan kuvausmehut saa virtaamaan!
+- Lisäksi Fujifilm on /reilusti kevyempi/ kuin mikään 5D2:n päälle
   kasattu setti, jälkimmäisen runko jo yksinään akkuineen painaa 900
   grammaa. Siihen päälle lasi, joista kevyimmätkin ovat 140 grammaa.
-  Fujifilm menee 400 grammaan kaikkinensa.
+  Fujifilm menee 450 grammaan kaikkinensa.
 - Salama on aina turha, mutta jos ei olekaan, niin Fujifilmissä on
   sentään jotain ja 5D2:ssa ei ole.
-- Helposti turhuudeksi luokiteltava sisäänrakennettu WiFi-yhteys
-  Fujifilmissä voi alentaa kynnystä ottaa satunnaisia kuvia ja heittää
-  niitä koneelle vaivattomammin kuin Canonin "kortti pois, lukijaan,
-  skripti" -rutiini.
