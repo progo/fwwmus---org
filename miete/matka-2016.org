@@ -1,0 +1,81 @@
+#+TITLE: Amerikan Yhdysvallat kesällä 2016
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Amerikan Yhdysvallat kesällä 2016                           :matkailu:
+CLOSED: [2016-01-16 Sat 11:32]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-01-16 Sat 11:32]
+:END:
+
+Avoin kirje tajunnanvirtana lomamatkan suunnittelusta, kompromisseista
+ja henkilökohtaisten mieltymysten huomioonotossa.
+
+Jokaisella ihmisellä on omat tavoitteensa ja haaveensa hyvin
+käytetyistä lomaviikoista suuressa maailmassa -- ja paras tapa saada
+tavoitteitaan läpi (kamalasti runnomatta) on puhua omistaan ääneen,
+jotta kompromissien koittaessa päätöksenteko tapahtuu mahdollisimman
+läpinäkyvästi. Muiden mieltymykset on paljon helpompi ottaa huomioon,
+kun niistä on ylipäänsä tietoinen!
+
+** Kaupunkiloma itärannikolla
+
+Oma suosikkini, mistä ollaankin jo keskusteltu, on noin kahden viikon
+paukku kesällä, kesäkuussa: viikko DC:ssä ja viikko NYC:ssä. Syitä
+ovat esimerkiksi kokonaisuuden edullisuus: kummassakin kaupungissa on
+hyvää julkista liikennettä, paljon käveltävää nähtävää ja majapaikan
+saa edullisesti viikoksi kummastakin. Asumiskulut voi optimoida
+varaamalla majoituksen riittävän ajoissa, eikä monipuolisessa
+kaupungissa tämä tarkoita, että matkasta tulisi mitenkään staattinen
+ja etukäteen kokonaan suunniteltava. Ja sama pätee Washingtoniin.
+Juoksevat kulut jäävät mukavasti ruokailuihin, pääsylippuihin ja sen
+sellaiseen herätekulutukseen.
+
+*Henkilökohtainen* unelmaloma on soluttautua ison kaupungin ytimeen ja
+viettää kaikki aika kaduilla huolettomasti ihmetellen menoa. Kahvi
+kädessä ja aito NYC-baageli toisessa unelma on istua Broadwayn ja 65:n
+kadun kulmassa. Siinä on aitoa menoa, jonka minä tunnustan omakseni.
+Se olikin valtava täyttymys, se lauantai 26.9.2014, kun sain kävellä
+Manhattanin päästä päähän lämpimänä syyspäivänä, ahmien sisääni
+kaikkea mitä on NYC; sen ihmiset ja arkkitehtuuri ja kulttuuri. Siinä
+se. Jokaisella on varmasti oma preferenssinsä ideaalisesta
+lomamatkasta, ja tämmöinen kaupunkiloma on minun.
+
+Kaupunkilomaankin voi keksiä pientä /road trippiä/: esimerkiksi DC:ssä
+voisi kokeilla lähteä vuokra-auton kanssa piipahtamaan jossain West
+Virginiassa, mikä olisi esimerkiksi tapa haistella tuulahduksia
+aidosta Amerikasta. Tai NY:ssä voisi ottaa päiväretken Long Islandilla
+ja Montauk Pointilla. Sinne pääsisi bussillakin.
+
+*Teknisenä* detaljina kompromissien määrää pääsisi minimoimaan, jos
+varattaviin majapaikkoihin saisi kukin oman avaimensa. Viimeksi
+avaimia oli yksi, ja synkronoinnin kanssa meni oma aikansa.
+Kommunikointi toki auttaa tässä, ja nyt kaikilla on jenkkiverkoissa
+toimivat älypuhelimet poikkeusjärjestelyiden hoitamiseen. Eli ehdotan,
+että tulevalle matkalle varataan eväitä itsenäisempään
+kaupunkiseikkailuun.
+
+** Autoloma lännessä
+
+Paljon on puhuttu ja haaveiltu myös kutkuttavasta matkasta
+länsirannikon maisemiin: Nevadaa ja Kaliforniaa. Länsirannikolla on
+vääjäämättä asiat enemmän levällään, ja vuokra-autoilu hajanaisin
+majapaikoin olisi edessä. Autoilun kulut ja tienvarsimotellit
+tuottavat kuluja, etenkin kun näitä ei välttämättä kannata tai halua
+etukäteen varata ja täten lukita itseään valmiin, aikataulutetun
+reitin orjaksi. En minä ainakaan. Mutta paikat, mitä lännen rintama
+tarjoaa, ovat tietenkin mitä hulppeimpia. Las Vegas, Hoover Dam, Grand
+Canyon, Albuquerque, Los Angeles, San Francisco. Jos aikataulut
+antaisivat periksi, niin valtatie 101 ja Seattle ja /Twin Peaks/.
+
+Loma tien päällä ei ole minun preferenssini, (amerikkalainen liikenne
+on stressaavaa, autoilu muutenkin, vuokra-autosta huolehtiminen) mutta
+näen appeaalin siinä, mihin kaikkialle vehiikkelillä pääsee näppärästi
+ja verraten edullisesti. Ajoneuvon kuskilta jää vain niin paljon
+näkemättä. Tähän ei oikeastaan ole muuta ratkaisua kuin ajaa vähän
+päivässä, antaa kuskin hengähdellä ja lisäksi hyödyntää aidosti
+tavaratilaa ja kuormatilaa.
+
+** Konkluusio
+
+Kesän matka on vielä avoinna, ja toivon että matkalaisillamme on eväät
+rakentaa reissusta itse kutakin miellyttävä. Kompromisseja ehkä, mutta
+näistä selvitään puhumalla.
