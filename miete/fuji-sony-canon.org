@@ -10,52 +10,92 @@ GAS jatkuu, vaikka pokkarielämä onkin ollut makoisaa tähän asti.
 Uusista uutisista viisastuneena kuulin, miten hieno kamera uusi Sony
 a6300 on, ja tämä laukaisi uuden aallon miettimistä ja tutkiskelua.
 
-- Sonyn uusi peilitön järjestelmäkamera a6300 lupaa vakaan päivityksen
-  edelliseen alpha-sarjan kameraan
-- Isoin ja näkyvin päivitys on uusi ennätys tarkennuspisteiden
-  lukumäärässä: 425 pistettä ruudun kauttaaltaan. Ja nämä ovat niitä
-  valon vaihetta tunnistavia pisteitä; niitä hyviä pisteitä.
-- 11 sekuntikuvan jatkuvatarkenteinen sarjatuli on kanssa asia, mikä
-  kutkuttaa teknisellä tasolla hyvin kovasti
-- Sonyn systeemeille saa toki mainion pannukakunkin, ja pienen rungon
-  kanssa kokonaisuus on todella pieni: iso plussa jälleen kerran.
-- Vaan nämä ovat teoreettisia plus-pointteja. Kuvaankohan oikeasti
-  niin paljon liikkuvia kohteita, että tarkat ja nopeat autofokukset
-  olisivat oikeasti tarpeellisia.
-- Vertailun vuoksi Canonin AF-C -tarkennusta en ole vielä kertaakaan
-  käyttänyt.
-- Fujifilmin autofokus tuntuu vertailussa nuhaiselta: ohiajavasta
-  autosta saattaa saadakin tarkennetun kuvan, mutta mihin sitten lie
-  tarkentanut?
-- Fujin kuvat tuntuvat hyviltä kyllä, mutta ei ne ihan niin tarkkoja
-  ole kuin mitä osassa arvosteluissa luvattiin.
-- Fujilla on todellakin kiinnostava elementti hihassaan. Fujin
-  filmiemulaatiot on asetettu kamerassa korotetulle jalustalle ja
-  niiden luontainen epärealistisuus saa luonnostaan pohtimaan
-  valokuvien ottamisen luonnetta: kaappaammeko kohtaamistamme
-  tilanteista talteen kuvia vai tunnelmia?
-- Riippuen tarpeistani, olisikohan Fujin X70 välttänyt paremminkin
-  omaan käyttööni. Etsintä siinä ei ole, mutta kokonaisuus on niin
-  slimmi kuin voi olla, ja kannustaa ottamaan kuvia siinä missä X100T.
-  Kuvanlaadussa ei X70 häviä mitenkään, mutta optiikan maksimiaukko on
-  pykälää pienempi, 1/2.8.
-- Lisäksi tuo Noctilux 50/.95 kuumottelisi. Leican laseissa piilee
-  kaikki taika, mutta tuskinpa minä saisin kuin tuhrua aikaan.
-- Canonin rooli tässä kaikessa pohdinnassa on vähenemään päin.
-  Tulevaisuus on varmaan pitkälti peilitöntä. 5D ei ole itsekään
-  nopein tarkentaja, joten täyden koon kenno on bokeh-leikkeineen
-  rungon valttikortti. Lisäksi peilikameroiden mainio akkukesto on
-  kutkuttava.
-- Tajusin kuitenkin kaikesta tästä Sony-innostuneisuudesta sen, että
-  Canonin aikakausi on päätöksessään. Isot rungot eivät enää
-  houkuttele, olipa merkki mikä tahansa.
-- Laitoin Canonin raskain tunnoin myyntiin.
-- Fujia tuli kuvattua jalustan ja minimaalisen ISO-herkkyyden kanssa.
-  Myyntikuvista tuli oikein miellyttäviä. Canonille olisikin pitänyt
-  ostaa rungon painon takia kallis kolmijalka; fujille riittää tuo 13
-  euron jalusta.
-- Sonyä tullee taloon siinä tapauksessa, kun edullisia käytettyjä
-  a5100/6000 -runkoja alkaa liikkua käytettyjen markkinoilla. Sonyn
-  nopea päivitystahti voi olla ostajan markkinoiden eduksi tässä
-  mielessä.
+** Sony a6300
+
+Sonyn uusi peilitön järjestelmäkamera a6300 lupaa vakaan päivityksen
+$\alpha$-sarjaan. Isoin ja näkyvin päivitys on uusi ennätys
+tarkennuspisteiden lukumäärässä: 425 pistettä ruudun kauttaaltaan. Ja
+nämä ovat niitä valon vaihetta tunnistavia pisteitä; niitä hyviä
+pisteitä. Edellisessä mallissa, a6000:ssa niitä pisteitä taisi olla
+179, mikä on sekin tietysti erittäin kunnioitettava lukema ja pärjää
+lukumäärässä esimerkiksi Canonin huippumalleille. Pisteiden lukumäärä
+ei tietysti kerro koko totuutta, mutta ihmiset tuntuvat yleisesti
+ottaen olevan /hyvin/ tyytyväisiä Sonyn suoritukseen ja että
+peilittömyys ei enää tahdo merkitä huonoa ja hidasta
+automaattitarkennusta. Uuden Sonyn 11 sekuntikuvan jatkuvatarkenteinen
+sarjatuli on kanssa asia, mikä kutkuttaa teknisellä tasolla hyvin
+kovasti.
+
+Sonyn E-mountille saa toki mainion pannukakunkin, ja pienen rungon
+kanssa kokonaisuus on todella pieni: iso plussa jälleen kerran. Olisi
+kokonaisuus, joka kulkisi paremmin ranteessa kuin tuo 5Dm2.
+
+Vaan nämä ovat teoreettisia plus-pointteja. Kuvaankohan oikeasti niin
+paljon liikkuvia kohteita, että tarkat ja nopeat autofokukset olisivat
+oikeasti tarpeellisia. No en varmasti kuvaa, jos harrastuksen
+nykymuoto on tämmöistä. Vertailun vuoksi Canonin AF-C -tarkennusta en
+ole vielä kertaakaan käyttänyt.
+
+** Fujifilm tällä hetkellä
+
+Fujifilmin autofokus tuntuu vertailussa nuhaiselta: ohiajavasta
+autosta saattaa saadakin tarkennetun kuvan, mutta mihin sitten lie
+tarkentanut? Pitäisi kai kokeilla oikeasti, eikä pelätä pahinta.
+
+Fujin kuvat tuntuvat hyviltä kyllä, mutta ei ne ihan niin tarkkoja ole
+kuin mitä osassa arvosteluissa luvattiin. Lisäksi muiden systeemien
+Fuji-dissaus tarttuu minuunkin. Otin aika nättejä kuvia Fujin
+keinotekoisella ISO 100:lla ja jalustalla, joten oikeissa olosuhteissa
+(riittävässä valossa) minulla ei itselläni ole mitään
+vastaansanottavaa kuvista. Talvella saa otettua lähinnä huonoja ja
+huonompia kuvia muutenkin.
+
+Fujilla on todellakin kiinnostava elementti hihassaan. Fujin
+filmiemulaatiot on asetettu kamerassa korotetulle jalustalle ja niiden
+luontainen "epärealistisuus" saa pohtimaan valokuvien ottamisen
+luonnetta: kaappaammeko kohtaamistamme tilanteista talteen kuvia vai
+tunnelmia?
+
+Riippuen tarpeistani, olisikohan Fujin uunituore X70 välttänyt
+paremminkin omaan käyttööni. Etsintä siinä ei ole, mutta kokonaisuus
+on niin slimmi kuin voi olla, ja kannustaa ottamaan kuvia siinä missä
+X100T. Kuvanlaadussa ei X70 häviä mitenkään, mutta optiikan
+maksimiaukko on pykälää pienempi, 1/2.8. Optiikka on 28-millinen
+kinovastaavuudeltaan, joka on kenties juuri piirun verran parempi
+kaupunkikuvailuun.
+
+** GAS kuumottelee
+
+Kaiken muun lisäksi tuo Leican lasisarja, etenkin Noctilux 50/.95
+kuumottelisi. Leican laseissa piilee kaikki taika, mutta tuskinpa minä
+saisin kuin tuhrua aikaan. Pidän Leican modernien digikameroiden ja
+lasien manuaalikuvaamista painottavista asiosita aika paljon. Seuraava
+lottovoittokamera voisi olla tuo Leica Q.
+
+** Canonin kohtalo
+
+Canonin rooli tässä kaikessa pohdinnassa on vähenemään päin.
+Tulevaisuus on varmaan pitkälti peilitöntä. 5D ei ole itsekään nopein
+tarkentaja, joten täyden koon kenno on bokeh-leikkeineen rungon
+valttikortti. Lisäksi peilikameroiden mainio akkukesto on kutkuttava.
+Mutta akkuja voi (pitää) ostaa talteen ja pitää rutiinin kautta huolta
+siitä, että mukana kulkee useampi latingissa oleva akku.
+Bokeh-pelleily on lisäksi juuri pelkkää pelleilyä. Kun taustat pitää
+saada pehmennettyä, ei pannukakkulasilla kamalasti saa aikaan.
+
+Tajusin kuitenkin kaikesta tästä Sony-innostuneisuudesta sen, että
+Canonin aikakausi on päätöksessään. Isot rungot eivät enää houkuttele,
+olipa merkki mikä tahansa. Sony A7 ei kiinnosta, Canon 1D ei
+kiinnosta, 5Dm2 osoittautuu tämmöiseksi kanssa. Laitoin Canonin
+raskain tunnoin myyntiin.
+
+Fujia tuli kuvattua jalustan ja minimaalisen ISO-herkkyyden kanssa.
+Myyntikuvista tuli oikein miellyttäviä. Canonille olisikin pitänyt
+ostaa rungon painon takia kallis kolmijalka; fujille riittää tuo 13
+euron jalusta.
+
+Sonyä tullee taloon siinä tapauksessa, kun edullisia käytettyjä
+a5100/6000 -runkoja alkaa liikkua käytettyjen markkinoilla. Sonyjen
+nopea julkaisutahti voi olla ostajan markkinoiden eduksi tässä
+mielessä.
 
