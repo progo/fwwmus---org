@@ -1,0 +1,61 @@
+#+TITLE: Fuji, Sony ja Canonin kohtalo
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fuji, Sony ja Canonin kohtalo             :canon:fujifilm:sony:kamera:
+CLOSED: [2016-02-12 Fri 19:58]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-02-12 Fri 19:58]
+:END:
+
+GAS jatkuu, vaikka pokkarielämä onkin ollut makoisaa tähän asti.
+Uusista uutisista viisastuneena kuulin, miten hieno kamera uusi Sony
+a6300 on, ja tämä laukaisi uuden aallon miettimistä ja tutkiskelua.
+
+- Sonyn uusi peilitön järjestelmäkamera a6300 lupaa vakaan päivityksen
+  edelliseen alpha-sarjan kameraan
+- Isoin ja näkyvin päivitys on uusi ennätys tarkennuspisteiden
+  lukumäärässä: 425 pistettä ruudun kauttaaltaan. Ja nämä ovat niitä
+  valon vaihetta tunnistavia pisteitä; niitä hyviä pisteitä.
+- 11 sekuntikuvan jatkuvatarkenteinen sarjatuli on kanssa asia, mikä
+  kutkuttaa teknisellä tasolla hyvin kovasti
+- Sonyn systeemeille saa toki mainion pannukakunkin, ja pienen rungon
+  kanssa kokonaisuus on todella pieni: iso plussa jälleen kerran.
+- Vaan nämä ovat teoreettisia plus-pointteja. Kuvaankohan oikeasti
+  niin paljon liikkuvia kohteita, että tarkat ja nopeat autofokukset
+  olisivat oikeasti tarpeellisia.
+- Vertailun vuoksi Canonin AF-C -tarkennusta en ole vielä kertaakaan
+  käyttänyt.
+- Fujifilmin autofokus tuntuu vertailussa nuhaiselta: ohiajavasta
+  autosta saattaa saadakin tarkennetun kuvan, mutta mihin sitten lie
+  tarkentanut?
+- Fujin kuvat tuntuvat hyviltä kyllä, mutta ei ne ihan niin tarkkoja
+  ole kuin mitä osassa arvosteluissa luvattiin.
+- Fujilla on todellakin kiinnostava elementti hihassaan. Fujin
+  filmiemulaatiot on asetettu kamerassa korotetulle jalustalle ja
+  niiden luontainen epärealistisuus saa luonnostaan pohtimaan
+  valokuvien ottamisen luonnetta: kaappaammeko kohtaamistamme
+  tilanteista talteen kuvia vai tunnelmia?
+- Riippuen tarpeistani, olisikohan Fujin X70 välttänyt paremminkin
+  omaan käyttööni. Etsintä siinä ei ole, mutta kokonaisuus on niin
+  slimmi kuin voi olla, ja kannustaa ottamaan kuvia siinä missä X100T.
+  Kuvanlaadussa ei X70 häviä mitenkään, mutta optiikan maksimiaukko on
+  pykälää pienempi, 1/2.8.
+- Lisäksi tuo Noctilux 50/.95 kuumottelisi. Leican laseissa piilee
+  kaikki taika, mutta tuskinpa minä saisin kuin tuhrua aikaan.
+- Canonin rooli tässä kaikessa pohdinnassa on vähenemään päin.
+  Tulevaisuus on varmaan pitkälti peilitöntä. 5D ei ole itsekään
+  nopein tarkentaja, joten täyden koon kenno on bokeh-leikkeineen
+  rungon valttikortti. Lisäksi peilikameroiden mainio akkukesto on
+  kutkuttava.
+- Tajusin kuitenkin kaikesta tästä Sony-innostuneisuudesta sen, että
+  Canonin aikakausi on päätöksessään. Isot rungot eivät enää
+  houkuttele, olipa merkki mikä tahansa.
+- Laitoin Canonin raskain tunnoin myyntiin.
+- Fujia tuli kuvattua jalustan ja minimaalisen ISO-herkkyyden kanssa.
+  Myyntikuvista tuli oikein miellyttäviä. Canonille olisikin pitänyt
+  ostaa rungon painon takia kallis kolmijalka; fujille riittää tuo 13
+  euron jalusta.
+- Sonyä tullee taloon siinä tapauksessa, kun edullisia käytettyjä
+  a5100/6000 -runkoja alkaa liikkua käytettyjen markkinoilla. Sonyn
+  nopea päivitystahti voi olla ostajan markkinoiden eduksi tässä
+  mielessä.
+
