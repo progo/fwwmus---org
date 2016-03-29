@@ -1,0 +1,129 @@
+#+TITLE: Fujifilm X-T10
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fujifilm X-T10                                       :fujifilm:kamera:
+CLOSED: [2016-03-29 Tue 20:48]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-03-29 Tue 20:48]
+:END:
+
+X100T on upea kamera, mutta mahtaisikohan melkein samaan rahaan saada
+vähän parempaa pakettia? Kiikarissa vaihto Fujin X-järjestelmään.
+
+** X100T:n kohtia ja epäkohtia
+
+X100T on ollut mainion tuntuinen kamera nämä lyhyet 2,5 kuukautta.
+Isoa käyttöä isossa maailmassa se ei ole ehtinyt nähdä -- tämmöinen
+kokeiluhan siinä eniten ratkaisisi. Jotain ikävää, jos pitää keksiä:
+
+- Lehtisuljin on ehdottomasti kompaktin X100T:n kohokohta: lähes
+  äänetön kuvaaminen on todella ihastuttava ominaisuus
+  sisäkuvaamisessa.
+- Kompakti koko, vaikka saisi olla hitusen kevyempikin.
+- Sisäänrakennettu ND-filtteri on napin painalluksen takana. Näppärä
+  ja saatavilla oleva ominaisuus, toisin kuin fyysisen filtterin
+  kanssa peuhaaminen. Tätä ominaisuutta olen käytellyt ahkerasti ja
+  tulokset ovat hyviä.
+- Hurmaavan sileä bokeh ja muutenkin hyvin miellyttävä lasi tarkentaa
+  lähelle tarvittaessa. Ja kaikki todella näppärässä koossa!
+
+Vaikka lasissa onkin puolensa, ehdottomasti se on samalla isoin
+ongelma X100T:ssä. Se ei ole kamalan terävä isoilla aukoilla, se
+tarkentaa hitaasti ja 35-millinen polttoväli ainoana polttovälinä on
+enemmän rajoittava tekijä kuin aluksi luulinkaan. Tämä jälkimmäinen
+ominaisuus ei ole tietysti linssin ongelma. Kaikin puolin kuitenkin
+iso osa kamerasta ei tunnu tuhannen euron hifiltä, ja tätä kompaktia
+optiikkaa lienee syyttäminen.
+
+Sen sijaan järjestelmässä, jossa luultavasti terävyydet on samaa
+luokkaa kuin tässä, voin syyttää 400 euron lasia koko 1200 euron
+kokonaisuuden sijaan. :-)
+
+** X-T10
+
+X100-sarjan pokkareiden välitön ja nätein seuraaja olisi kai X-Pro,
+joka säilyttää rangefinder-tyylinsä (pidän tästä) ja sisältää myös
+optisen etsimen.
+
+Mutta X100T:n perään eniten olen haikaillut peilijärkkäriä mallintavaa
+X-T1:tä kovin pitkään. Päällimmäinen syy on se, että siinä on niin
+paljon enemmän nippeleitä ja nappeleita: oma rulla ISO-herkkyydelle ja
+sitä rataa. Kaikkea kivaa.
+
+Olenkin tässä koittanut kalastella että saisinko vaihdettua oman
+kamerani X-T1:een, mainittujen kameroiden arvojen ollessa noin samat.
+Runkoon olisin saanut vaihdettua, mutta sitten olisi tullut paljon
+kuluja lasikaupoilla.
+
+Kolme viikkoa kuluu, ja nyt avautuu mahdollisuus saada lähistöltä
+täydellinen X-T10 perushyvän zoomiputken kanssa vaihdettua. Ja vielä
+parempaa, jos ostan ja teen "vaihdot" itse, säästänen satasen.
+
+X-T10 on hieman yksinkertaisempi pikkuveli: ei sääsuojausta, vähemmän
+nappeleita, huonompi EVF. Toisaalta runko on selvästi kevyempi ja
+fyysisesti pienempi ja likimain kaikki muu on kuten isoveljessään.
+Autofokus on samaa luokkaa, runko tulee upeana hopeanharmaana ja
+etsimen huonoudesta ei tarvitse välittää niin pitkään kun ei tule
+katsoneeksi ikinä X-T1:een päin. Onkin mahdollista, että minun
+tarpeilleni X-T10 on se parempi valinta.
+
+X-T10:ssä on yhteen suuntaan kääntyvä näyttö stealth-kuvailuja varten,
+ja vaikka kamerassa onkin se kovaäänisempi verhosuljin, ei se varmaan
+käännä katseita kuten FF-peilikameran läimäytys tekee.
+
+*** Etsintää
+
+X-T10:ssä ei ole optista etsintä (OVF), joka on haitta, mutta
+tavallaan myös etu. X100T:llä on mahdollista toteuttaa itseään hyvin
+filmiaikaisin metodein: kuvaa optisella etsimellä, kuvien jälkikatselu
+pois päältä, kuvaa raakana. Näin valotuksen jälkeen ei tarvitse jäädä
+pällistelemään tapahtunutta, vaan voi jatkaa matkaansa. Kotona voi
+sitten koittaa kehittää huonosti valotetuista kuvista jotain vähemmän
+huonoja. Fujin raakatiedostot antavat aika paljon anteeksi.
+
+Mutta silti, valotuksen onnistumisen epävarmuus on tekijänä.
+Puhumattakaan tarkennuksen varmistamisesta. Ja se seikka, että minun
+tekisi mieli jättää raakakuvaus pois prosessista. Fuji tekee hyviä
+jpeg-kuvia, joten miksipä pilaisin matkaani kuluttamalla aikaa
+jälkikäsittelyssä. Sähköetsimen eli EVF:n käyttö vähentää hutiotosten
+määrää ja Fujeissa on tuo etsimen virrankäyttö tehty ihan fiksusti:
+OLED-etsimeen tulee kuva vain kun silmä peittää sen. Eli vaikka OVF:n
+kanssa tulee tehtyä asiat luonnollisemmin, on EVF:llä helpompi saada
+tarkkaa työtä aikaan heti ensimmäisellä yrittämällä. Ja tunnun
+vihaavani itseäni heti jos käännän X100T:ni sähköiselle etsimelle.
+
+** Optiikkaa Fujille
+
+Halusin karata pois järkkäreistä, koska GAS on jatkuva syndrooma.
+Siitä en päässyt pois, joten miksipä sitten en palaisi takaisin
+järkkäreihin. Peilittömät setit ovat hulvattoman pieniä Canonin
+runkoihin nähden; X-T10 on mitoiltaan erittäin lähellä X100T:tä.
+
+Osoittautuu, että 35-millinen on oikeasti nykypäivänä outo polttoväli.
+Laajempi 28 tai jopa 24 kävisi minun makuuni enemmän; vastaavasti 40
+tai 50 käy hyvästä yleispolttovälistä. Fujilla on tarjota näihin
+tarpeisiin jotain pientä kivaa.
+
+Fujinonin 35/1.4 tai 35/2 olisi hyvä lasi, jonka kinovastaavuus on 50
+milliä; ihanteellinen satunnaiseen ulkokäyttöön. Kompromissien välillä
+on tosin nyt valittava: valovoimaisempi 35/1.4 on ilmeisesti selvästi
+terävämpi lasi kuin sääsuojattu 35/2, mutta vastaavasti jälkimmäinen
+on nopea tarkentamaan. Juuri näiden kahden asian välillä minä en olisi
+halunnut arpoa että kumman kompromissin olisin valmis hyväksymään.
+35/2 on myös hurmaavan kaunis optiikka, jossa on muotoilun osalta
+historian kaikuja.
+
+Mutta tarvitsenko edes 35-millistä, kun Fujin pannukakkulasi 27/2.8
+kinovastaa 40-millistä ja on äärimmäisen kevyt ja kompakti. Jos
+mitään, pannukakun kaverina voisi menetellä esimerkiksi 18/2, joka on
+Fujin linjaston toiseksi pienin kakkula. Sen vähän mitä olen
+"kaupungeilla" nyt katukuvannut, niin 50-millinen olisi kyllä kiva
+(tämmöisen kanssa saa hieman erotettua kohdetta taustoista helpommin),
+mutta ei 35 sekään surkea ole. Pannukakku saattaa riittää hyvin tältä
+erää. Testeissä on todettu, että tämä pannukakku jo voittaa X100T:n
+oman.
+
+Muita Fujin laadukkaita laseja en edes kaipaa tässä vaiheessa. Jos
+kameran mukaan saan perushyvän 18-55 f/2.8-4 -zoomiputken ja ostan
+mahdollisesti Fujin molemmat pienimmistä kiinteistä laseista matkaan,
+niin aika hyvä paketti on kasassa. Ainahan voin vuokrata jonkun ison
+jöötin päivää varten...
