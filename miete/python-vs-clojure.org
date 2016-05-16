@@ -130,3 +130,40 @@ mihin OOP nätisti kykenee.
 Python ei huono kieli puutteellisesta funktionaalisuudestaan
 johtuen, vain huonompi kuin Clojure. Ja tämä minun mielipidettäni
 tietenkin!
+
+** Python soveltuu nopeaan RAD-tyyppailuun...kö?
+
+Nopeat käynnistysajat, ajettava pseudokoodi ja runsas kirjasto kaikkea
+valmista kuulostaa menestysreseptiltä, kun halutaan tyypitellä jotain
+konseptia nopeasti, nopein iteraatioin eteenpäin. Pythonin pitäisi
+olla kaikkea tätä, mutta ei minun kokemusten mukaan sitten kuitenkaan.
+
+Python sallii kaikessa nopeudessaan huonon koodin kirjoittamisen. Se
+on ok, protoillessa saa kirjoittaa mutkat suoraksi. Ja huonoa koodia
+syntyykin sitten. Ja itseään tulee vihattua tämän seurauksena.
+Lantakasa kasvaa rivi riviltä ja se alkaa aiheuttaa tarpeetonta
+märehtimistä näin hidastaen protoilua. Vain vaivoin saadaan projektin
+minimaalinen versio kasaan ja ollaan siihen tyytyväisiä, mutta
+tyytymättömiä taustalla tehtyihin päätöksiin ja tekniseen velkaan.
+Eihän tätä edes kehtaa puskea githubiin, näin surkeata koodia!
+
+Clojure paperilla vaikuttaa myös erittäin hyvältä RAD-kieleltä.
+Toisaalta kieli ei anna mitenkään vaikutelmaa tästä äkkiseltään, jos
+kirjoittaa pythonimaisesti "CLI-rajapinnasta" käsin koodia. Hidas
+käynnistyvyys, muistinsyönti, ei niin paljoa valmista palikkaa
+saatavilla (etenkin päivämääräkirjastot). Clojure on myös hidasta
+sillä tavalla, että huonoa koodia se ei anna tehdä, joten ideoiden
+purkaminen koodiksi kestää pythonia pidempään.
+
+Mutta kun mennään eteenpäin ajassa, Clojure alkaa ottaa Pythonia
+kiinni monista syistä: teknisen velan määrä on pienempi. Koodirivejä
+itsessäänkin tulee vähemmän, joten refaktorointi on luontevampaa.
+REPL-pohjainen kehittäminen toimii hyvin, vaikka projekti ehtii vähän
+kasvattaa kokoaan. Psykologisesti siistinä pysyvä koodi rohkaisee
+menemään eteenpäin, eikä jäämään märehtimään huonoja valintoja.
+
+Jos Pythonia tietysti saa itsekurin voimalla kirjoitettua suoraan
+siistiksi, niin tämä pykälä varmaan mitätöi paljon itse itsestään.
+Mutta nämä ovat kokemukseni aiheesta. Edelleenkin aloitan valtaosan
+pikkuprojekteistani pythonilla, vaikka tahtoisin kirjoittaa paremmilla
+välineillä. Pitäisi nähdä projekti ensimmäistä 50 riviä pidemmälle.
