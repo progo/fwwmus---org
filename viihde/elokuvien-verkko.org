@@ -1,0 +1,92 @@
+#+TITLE: Elokuvien verkko
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Elokuvien verkko                                            :elokuvat:
+CLOSED: [2016-05-22 Sun 20:26]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-05-22 Sun 20:26]
+:END:
+
+Kiristääkö löytää uutta katseltavaa, vaikka koko maailma on äärelläsi?
+Tuottaako tuskaa miettiä mitä audiovisuaalista ärsykettä haluaisit
+seuraavaksi vastaanottaa? Nämä lienevät aika yleisiä ongelmia, ja
+jännä kun en ole vielä näitä ajatuksiani kirjannut ylös. [[http://mrp.fwwm.us/mietteet/576/elokuvista-ja-sarjoista.html][Tänne
+ainakaan.]]
+
+** Sisältö on itsestäänselvä
+
+Katsot zombietappoelokuvia ja ennenpitkää huomaat nauttivasi genrestä.
+Mihin suuntaan lähdet etsimään uutta katseltavaa? Aivan, lisää
+zombeja. IMDB auttaa ja sitä rataa. Sisällön mukaan uuden katseltavan
+filtteröiminen on selvä tapa mennä eteenpäin. 
+
+Tämä ei ole joskus aina niin helppoa, tai tuottaa väärää tavaraa.
+IMDB:n avainsanahaku on puutteellinen, ja joskus haluaisi hakea oikein
+spesifistä tavaraa vaikkapa vain yhden pienen yksityiskohdan
+ympäriltä. Tämä ei vain onnistu ja homma menee huonoksi googlailuksi.
+
+Esimerkiksi tahtoisin nähdä lisää metsässä selviytymisestä kertovia
+elokuvia. The Edge (1997) on ilmeinen löytö tällä tavalla haettuna,
+mutta kun googlailin teeman ympäriltä, olivat tulokset enemmän tai
+vähemmän pelkkää Revenanttia (2015). Hyvä elokuva sinänsä, mutta
+hakukoneiden heuristiikka peitti nyt liikaa.
+
+Minua kiinnostaa hieman tuo Leica-kameroiden mytologia, ja Blood
+Diamondin (2006) myötä olisin tahtonut nähdä lisää elokuvia, joissa
+kyseisen valmistajan kameroita näkyy käytettävän. Aika hankala on
+valmista tietokantaa löytää tämmöiseen. Autoharrastajille on sentään
+IMCDB ja aseharrastajille on vastaava.
+
+** Meta auttaa usein 
+
+Elokuvan tarinaahan sitä tullaan kuuntelemaan, mutta kaikki metatieto
+voi auttaa löytämään uutta mielenkiintoista katseltavaa: olet nähnyt
+elokuvia, ja sinulle on syntynyt positiivisia muistoja näyttelijöistä
+ja heidän suorituksista, myös muusta henkilökunnasta, erityisesti
+säveltäjät, ohjaajat, kamerapäälliköt, lavastajat ja vaikka
+puvustajat.
+
+Hitto, eihän sen mieltymyksen tarvitse edes kummuta täysin
+intellektuelleista lähtökohdista -- jos havaitset näyttelijän tai
+näyttelijättären viehättäväksi, käytä tätä apunasi! Ratsasta
+ohikiitävällä ihastuksellasi uusiin näkemättömiin elokuviin ja
+sarjoihin. Näin olen löytänyt paljon hyvää katseltavaa: kaikki ei ole
+ollut erityisen lahjakkaita tuotantoja, mutta kaikki on kuitenkin
+omalla tavallaan rikastuttaneet elokuvamatkaani. Kiitos kymmenistä
+uusista elokuvakokemuksista kuuluu Alisonille, Emmalle, Zooeylle,
+Olivialle ja Milalle, ja varmaan kymmenille muillekin näitä ennen,
+kymmenille muille näiden jälkeen.
+
+Muista, että useimmat (etenkin alallaan jalansijaa saaneet)
+näyttelijät valitsevat projektinsa omien mieltymystensä mukaan: jos
+vaikkapa nautit Clooneyn tekemistä romanttisista komedioista, ei
+varmaan ole huono valinta tarkastaa mitä muita romkomeja Clooneyltä on
+tarjota, vaikka genre ei yleisellä tasolla olisikaan ominta aluettasi.
+Hyviä esimerkkejä, vaikkapa Paul Giamatti ja Elijah Wood. Nämä ihmiset
+tekevät erikokoisia tuotantoja pienistäkin aiheista, ja yleensä
+hyvällä, hiotulla taidolla.
+
+Hyödynnä rakastamiasi TV-sarjoja ja niiden koko kastia kolutaksesi
+uusia haaroja elokuvien verkoissa. Olen ollut keskimäärin vain
+positiivisesti yllättynyt kaikesta mitä tällä tavalla löytyy. Elokuva
+voi kuulostaa kokonaan sellaiselta, jonka skippaisit, mutta nyt siellä
+onkin joku kiintopiste edellisistä kokeilusta ja näin voit vivuttaa
+itsesi katsomaan jotain uutta, jota et olisi muuten katsonut.
+TV-sarjojen pituuksista johtuen tunnesidokset sarjojen vakioihmisiin
+ovat luultavasti vahvempia kuin satunnaisen nauttimasi elokuvan
+päähenkilöt. Tiedät, kenen suorituksista pidät ja mihin suuntaan
+lähdet koluamaan verkkoa.
+
+Näyttelijöiden lisäksi muu henkilöstö ilman muuta kuuluu osaksi tätä
+verkkoa. Ohjaajat ovat ensimmäisenä kaikkien mielissä, ovathan he
+elokuvan sydän monella tapaa, mutta ei kannata unohtaa pienempiä
+tekijöitä. Filmaamisesta vastaavat päälliköt (directors of
+photography) hoitavat elokuvan visuaalisen ilmeen kuntoon, ja näitä
+kannattaa seurata löytääksesi eri ohjaajien väliltä yhtäläisyyksiä
+tunnelmanluonnissa. Säveltäjien ja ohjaajien välillä voi olla
+pitkäaikaista yhteistyötä, vastaavasti muiden osallisten kesken!
+
+** Vanha tarina
+
+[[http://mrp.fwwm.us/mietteet/576/elokuvista-ja-sarjoista.html][Olen kirjoittanut]] nelisen vuotta sitten tämän saman saarnan, joka on
+varmaan ihan kiva lukea uudelleen. Minusta oli ainakin. Hieman eri
+sanoin ja paremmin esimerkein samaa tekstiä.
