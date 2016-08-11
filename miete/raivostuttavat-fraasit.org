@@ -1,0 +1,109 @@
+#+TITLE: Raivostuttavat fraasit
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Raivostuttavat fraasit
+CLOSED: [2016-08-11 Thu 18:52]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-08-11 Thu 18:52]
+:END:
+
+Esitän rantin kansan käyttämistä termeistä, jotka saavat
+irrationaaliset vihat pintaan. Painotus irrationaalisuudelle, koska
+näitä tehdään tahtomatta ja usein hyvissä aikeissa. Ja tiedostan, että
+ei huonon kielenkäytön takia kannattaisi nostaa paineita. Ne kuitenkin
+nostattavat minulle eriasteisia raivon tunteita pintaan. Nyrkkisääntö
+on: jos käytät tämmöisiä minun läheisyydessäni, voit odottaa
+epäoptimaalista kohtelua, tyypillisesti jätän keskustelun sikseen.
+
+Tähän listaan on lupa odottaa täydennystä.
+
+** "Nykyinen vuosi"
+
+Tämä on typerä argumentti, jota kuulee kaikenlaisissa piireissä
+nykyään. Esimerkkinä tämmöiseen olen törmännyt: "nyt on vuosi 2012.
+Komentoriville ei ole käyttöä."
+
+Ihan kiva, mutta vuosinumeroiden tapaaminen ääneen ei ole tasan mikään
+argumentti. Jos vuosi onkin 2017, onko aiemmin tehty perustelu nyt
+vanhentunut vai miten? Osaavimmat kykenevät kertomaan tarkalleen, mikä
+epäkohta mättää. Parempi kun tätä ei käytä minun kuullen lainkaan.
+
+** Taivutuksen osaamattomuus tai jaksamattomuus
+
+Taistelen tuulimyllyjä vastaan, mutta cs-taivutus etenkin ilmiselvästi
+laiskuutta implikoivissa merkeissä ei saa minua myydyksi. Tämä on
+pitkälti irrationaalinen viha, kuten tietysti moni muukin näistä:
+saanhan minä selvää sanomasta vaikka pääte nyt ei olisikaan mukana
+tekstissä. Ja syyllistyn itsekin tähän nykypäivänä kanssa jonkin
+verran, mutta en ikinä laiskuuttani! Se ei rasita, jos joudun
+keskustelemaan jonkun kanssa, joka jättää koulut kesken yläasteella,
+mutta jos joku laiskuuttaan ei jaksa tavata sanoja loppuun asti, saa
+minut helposti jättämään koko keskustelun.
+
+** Kovo
+
+Vanha klassikko. Kovo tarkoittaa minulle kaikkea rautaa, ei vain
+kovalevyä tai muuta koneensisäistä massamuistia. Pystyn toimimaan, jos
+joku käyttää sanaa nykyaikaisella merkityksellä, mutta se joku saa
+tehdä kyllä enemmän työtä päästäkseen samalle aallonpituudelle
+kanssani.
+
+** Hakemisto/kansio
+
+Tämä on pieni ongelma, mutta huonona päivänä tympii pienikin ongelma.
+Unixeissa, linuxissa ja DOS:ssa ei ole kansioita, vaan siellä on
+hakemistoja! Windowsissa olevia asioita voi kutsua kummalla tahansa
+nimellä. IMAP:ssa on kansioita. Tympii, että graafisissa
+työpöytäympäristöissä (ainakin Gnome) suositaan tuota väärää
+kansiotermiä.
+
+** Komento/ohjelma
+
+Komentorivillä kirjoitetaan komentoja, jotka vuorostaan käynnistävät
+mahdollisesti ohjelmia. Mutta se binääri, joka majailee jossain
+tiedostojärjestelmässä, on kuitenkin *ohjelma*, ei komento! Näin yhden
+kysymyksen netissä ja siellä kysyjä sanoi, että "tämä hakemisto on
+täynnä komentoja". Ei näin.
+
+Tulee myös muistaa, että jokaista komentoa ei välttämättä vastaa
+ohjelma: komento voi olla shellin oma sisäänrakennettu toiminto,
+tai käyttäjän kirjoittama alias tai funktio.
+
+** Komentorivin ja TUI:n ero
+
+Komentorivisovellus on eräajotyyppinen sovellus, eli sellainen, joka
+porskuttaa läpi ilman käyttäjän vuorovaikutusta. Kaikki syöte pitäisi
+ohjelmalle antaa ennen suorittamisen aloittamista. Ehkä sallin
+määritelmään mukaan myös sovellukset, jotka kysyvät yksinkertaisia
+vahvistuksia ajon aikana. Nyrkkisääntö on, että komentorivisovellus
+toimii yhtä vuorovaikutteisesti niin tietokoneen näytöllä kuin
+tulostinpäätteellä.
+
+Monesti kuulee puhuttavan, että =vim=, =irssi= tai =WeeChat= tai
+=bash= sen puoleen olisivat komentorivisovelluksia. Nämä ovat kovasti
+vuorovaikutteisia ohjelmia. Oikea termi on merkkipohjainen sovellus,
+tai TUI (textual user interface).
+
+** ping
+
+Kun mittaan latenssia palvelimeen, käytän ping-nimistä ohjelmaa tähän.
+Saatu tulos ei ole kuitenkaan "ping", vaan latenssi. En sano myöskään,
+että huoneen lämpömittari on +22 astetta celsiusta.
+
+** Asiat, jotka eivät häiritse
+
+Löytyy myös muutama asia, jotka eivät nypi minua näin pahasti.
+
+- /skripti vs ohjelma/: vaikka näille termeille voisi löytyäkin
+  selkeät eroavaisuudet, minua ei haittaa vaikka näitä käytettäisiin
+  sekaisin samoissa asiayhteyksissä.
+- Emacsin /plugini vs paketti/: Emacsille kirjoitettuja
+  elisp-paketteja ei saisi sanoa plugineiksi, koska Emacsissa ei ole
+  oikeata plugin-arkkitehtuuria. Termin käyttö implikoisi, että
+  Emacsin laajennettavuus olisi rajallisempaa kuin todellisuudessa
+  onkaan.
+- Hymiöt ennen virkkeiden päätöksiä. Jotkut eivät osaa laittaa
+  hymiöitä virkkeen ulkopuolelle, missä ne eivät menisi sekaisin
+  pisteiden, huutomerkkien tai muiden virkkeenpäätteiden kanssa. Ei
+  haittaa kamalasti, vaikka kiinnitänkin huomiota.
+
+
