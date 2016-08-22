@@ -1,0 +1,24 @@
+#+TITLE: The Shield
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE The Shield                                         :sarjat:shawn_ryan:
+CLOSED: [2016-08-22 Mon 19:28]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-08-22 Mon 19:28]
+:END:
+
+Aloitin [[http://www.imdb.com/title/tt0286486][The Shieldin]] uudelleenkatsomisen pari viikkoa sitten. Muistin
+sarjan erinomaiseksi, mutta vielä jaksoin yllättyä kaikesta mitä olen
+saanut nautiskelluksi sarjan ykköskaudella uudella
+katsomiskierroksellani.
+
+The Shield kertoo losangelesiläisen poliisipresinktin edesottamuksista
+ja arjesta. Shawn Ryanin luoma sarja on uskomattoman tiukka setti,
+joka koostuu toiminnantäytteisistä task forcen suorittamista iskuista;
+etevien, uraansa etsivien etsivien rauhallisemmista tutkimuksista;
+noviisipoliiseista ja korruptiosta ja vallanahneista jengeistä ja
+vielä ahneemmista poliisijohtajista. Ja etenkin rikosten moninaisista
+kasvoista.
+
+Suosittelen sarjaa kovasti! Nyt vasta hoksasin, että Ryanin luomuksia
+on myös [[the-unit.org][The Unit]], jota olen aiemmin kehunut loistavasti tehdyksi.
+Molemmat on tuotettu mestarillisesti ja tunteella.
