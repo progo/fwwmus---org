@@ -1,0 +1,102 @@
+#+TITLE: Sätös vol. 2
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sätös vol. 2                                      :asunto:autot:sätös:
+CLOSED: [2016-08-25 Thu 20:16]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-08-25 Thu 20:16]
+:END:
+
+Sätöksessä tulee kaksi vuotta täyteen. Mukavia vuosia, mutta nyt on
+tullut T-risteys eteen matkalleni.
+
+Aiemmin tapahtunutta: [[file:idylli-realiteetit-satos.org][Sätös on loistavalla paikalla, mutta
+ultimaattisesti ei minun idylliäni]]. Kahden ideaalitilanteen välillä
+(hyvin äänieristetty kaupunkiasunto rauhallisen kadun varressa vs.
+hyvällä tontilla luonnon hiljaisuudessa varustettu ok-talo) valitsisin
+kaupungin: se olisi oma preferenssini, enemmän idyllinen tapa elää. Se
+ei silti poista realiteetteja: Sätöksen vahvin puoli on kiva tontti
+kivalla paikalla. Ihmisten melua en kuule; naapurit loistavat
+poissaoloillaan. Autoja kulkee harvakseltaan ja vain murto-osa niistä
+tuottaa tarpeetonta melusaastetta. Talvella Sätös on aika ihana,
+lämmin paikka.
+
+** Halvempi kuin oletinkaan
+
+Sätös on paperilla taloudellisesti fiksu valinta: laskeskelin, että
+menoja syntyy vuodessa niin vähän, että joensuulainen vuokrakaksio
+kävelyetäisyyden päässä töistä on useamman tonnin verran kalliimpaa
+elämistä kuin asua täällä metsässä ja ajaa autoa 100 km päivässä. 
+
+Taloudellisuus kuitenkin koostuu useista komponenteista: vuokralla
+menot ovat hyvin arvattavissa, ja asujalla on hyvin vähän omaa osuutta
+menojen syntymiseen. Sätöksessä kaikissa menoissa on omaa kädenjälkeä
+mukana: tämä ylläpitotyö on helppo tehdä itse, mutta kallis jos
+teettää ammattilaisella. Ja omat kädentaidot ovat aika onnettomat
+useimmissa asioissa, niin auton- kuin talonpidossa.
+
+** Vastuuttomuus on kivaa
+
+Mitä minä haluan tehdä töiden jälkeen, kun tulen kotiin? En voi sanoa,
+että tekisin mielelläni lumitöitä, ruohonleikkausta, autonpesua, auton
+muuta hoitoa, puunsahailua, puunhakkausta (no, ehkä puunhakkaus on
+lievä poikkeus), hiirenlitskujen siistimistä tai ampiaispesien
+poistamista. Näitä kaikkia asioita kuitenkin joudun tekemään. Joskus
+se on nautinnollista, mutta useimmiten sitä tahtoisi polttaa kalorinsa
+kuntopyörän selässä.
+
+Näitä tämmöisiä asioita mietiskelin maanantaina ja tiistaina kovasti
+ääneen, ja sitten sen jälkeen satuin lukemaan [[http://www.raptitude.com/2016/08/abundance-scarcity/][David Cainen jälleen
+erinomaisen kirjoituksen]] juuri samoista teemoista. Suosittelen
+lukaisemaan, koska minun tavallani soveltaa tuloja asioihin Sätös
+muuttuu "niukkuudessa elämiseksi" ja paperilla kalliimpi
+vuokra-asuminen "runsaudessa elämiseksi". Miksikö? Kun tulen töistä
+kotiin, saan kuluttaa vapaa-aikani vapaammin vuokratalossa kuin
+Sätöksessä. Kun laitan tilipussista rahaa säästöön, voin säästää
+turhiin leluihin ja ulkomaanmatkoihin, kun täällä joudun laittamaan
+selvää rahaa syrjään vääjäämättömiä talo- ja autoremppoja varten.
+Sätöksessä mitään kalliita luksusleluja ei tee mieli ostaa, koska aina
+kummittelee takaraivossa joku seuraava rahareikä.
+
+En haluaisi myöskään riippua autosta. Auto ja sateinen syyspäivä on
+about parasta, mitä on olemassa, mutta jos voisin kulkea työmatkaa
+kävellen, voisin luultavasti paljon paremmin keskimäärin. Vaikka
+silloin tällöin sataisikin. 
+
+** Taitekohta
+
+Jouduin toteamaan, että kattoremontti on tarpeellinen Sätöksen
+elinvoiman jatkumisessa. Osoittautuu hyvin nopeasti, että hyvin tehty
+remppa vaatii paljon rahaa -- se on tehtävissä, mutta haluanko tuplata
+pelinappulani Sätöksen kanssa? Pitäisikö minun pohtia
+lähitulevaisuutta ja seuraavia 5 vuotta? Pitäisikö minun siis ottaa
+ylimääräistä velkaa jotta voin tietoisesti jatkaa elämistäni
+niukkuudessa?! Taloudellisesti se olisi silti kannattavaa -- tämä on
+sitä ironiaa.
+
+Tähän päälle vielä mahdollinen ostajaehdokas ilmestyi tyhjästä. Olen
+valmis myymään selvästi alle mitä itse maksoin, koska aiemmin
+mainittua runsautta en täällä pahemmin koe, näissä työmarkkinoissa.
+Ehkä Helsinki on sekin kohta koettava, ja siihen on helpompi hypätä,
+jos asuisi Joensuussa vuokralla. Madaltaisin kynnystä itselleni hypätä
+sinne. Helsinki vastaavasti on hyvä kynnys ponnistaa ulkomaille.
+Sitten joskus. Kymmenen vuoden sisällä. 
+
+Kaupungeissa on oikeastaan yksi ja tasan yksi ongelma: seinänaapurit.
+Kun asuin Joensuussa, viikonloput olivat harvoin asioita, joita odotin
+innolla. Koska tiesin, että meteliä riittäisi. Ehkäpä asiat voivat
+olla toisin, nyt kun tiedän että mitä tapahtuu toisessa ääripäässä.
+Ehkäpä ryhdyn harrastamaan nappikuulokehifiä, jolloin meluongelma
+muuttuu mitättömäksi.
+
+Mikä on se ääripää? Jos satsaan Sätökseen ja otan vähän remonttivelkaa
+ja laitan katon ja kylppärin kuntoon, minulla on silti edullinen talo,
+jossa on halpaa asua. Mutta olisin sidottuna tänne P-Karjalaan. Ja
+työpaikkoja edelleen niukasti. Ja huonot palkat. Ja riippuvuus autosta
+ja ei osaamista korjata autoa tai taloa. Ellei saa kilpailutettua
+palkkaansa kunnolliseksi, niukkuudessa elämistä varmaan jatkuisi
+pitkälle. Tuskin muuttuu mihinkään, vaikka täällä asuisi asuntolainan
+loppumiseen asti.
+
+Toivon, että joku, olkoon se nyt tämä remonttireiska, tekisi hyvän
+päätöksen puolestani ja laittaisi asiat eteenpäin. Muistetaan, että
+Sätöstä en koskaan tarkoittanut lopulliseksi kodikseni!
