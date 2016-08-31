@@ -98,6 +98,27 @@ perustelee kyllä syitä makrojen käytölle (ja lisäksi esittää tehokkaan
 makron makrojen yhdistelyä helpottamaan). Makroraamatuksi tituleerattu
 työ ei petä tältä osin.
 
+** Daniel P. Friedman, Matthias Felleisen: The Seasoned Schemer (1995)
+
+Jatkoa Little Schemerille, jota en koskaan lukenut. Tämä kirja on
+esitetty ensimmäisen osansa tapaan kiinnostavasti sokraattisena
+keskusteluna, jossa osapuolet tulevat valoon kielen hienouksista. Hyvä
+työ, jota en muistanut mainita, vaikka nämä on luettu joskus vuosia
+sitten. The Little Schemer on suositeltavaa lukemista, tämä on vähän
+niin ja näin.
+
+** Daniel P. Friedman et al: The Reasoned Schemer (2005)
+
+Ei varsinainen jatko-osa, vaan pikemminkin /liite/ aiemmille
+Friedmanin töille: kirjassa luodaan käytyjen keskusteluiden voimin
+logiikkamoottori schemelle. Prologia hieman muistuttava
+miniKanren-systeemi on helppo toteuttaa ja samalla oppii likaisia
+kikkoja minimaalisesta schemestä! Schemen oppimisen sijaan tämä on
+hyvä työ oppia logiikkaohjelmoinnin perusidea; monesti se helpompi
+tapa oppia relaatioista jotain. Onhan se vähän vierasta, joten jos sen
+oppii taustalla piilevistä imperatiivisista ja funktionaalisista
+rakenteista, aina parempi!
+
 ** Mitä muuta tulossa?
 
 Näillä näkymin Common Lisp saa riittää. Clojure-puolella on ainakin
@@ -117,3 +138,8 @@ painopiste saisi olla yksinkertaisen systeemin rakentamisessa.
 SICP:tä olen lukenut ensimmäisen neljänneksen verran. Ehkäpä jatkan
 sitä sitten schemennälkääni. Toisaalta SICP:stä ei ole tyydyttävää
 Kindle-versiota olemassa, ja katkotut koodirivit ovat perin ikäviä.
+
+Päivitin tätä listaa muutamaa vuotta myöhemmin. Olen pettymyksekseni
+jättänyt teknisen kirjallisuuden sikseen ja lueskellut vain
+harvakseltaan muutenkin nyt. Vaikea uskoa, että näistä
+lukukokemuksista on jo 2,5 vuotta ja enemmän!
