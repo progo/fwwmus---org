@@ -68,6 +68,20 @@ Tulee myös muistaa, että jokaista komentoa ei välttämättä vastaa
 ohjelma: komento voi olla shellin oma sisäänrakennettu toiminto,
 tai käyttäjän kirjoittama alias tai funktio.
 
+** Linkki/URL
+
+Kun web-sivulla lukee =google.fi=, mutta ei-klikattavassa muodossa,
+niin silloin kyseessä ei ole linkki. Se on puhdasta tekstiä, joka
+sattuu olemaan samalla URL. Linkki on hypertekstissä sellainen
+elementti, josta voi edetä eteenpäin klikkaamalla tai muiden
+tavanomaisin keinoin.
+
+Ainakin Firefoxissa voi maalata paljaan urlin, ja se antaa
+kontekstivalikossa valinnan "avata linkin", joten raja on häilyvä.
+Menisin mieluummin hypertekstistandardin mukaisin määritelmin, eli jos
+HTML-elementti ei ole ankkuri, niin kyseessä ei ole linkki.
+JS-webappsit sitten erikseen.
+
 ** Komentorivin ja TUI:n ero
 
 Komentorivisovellus on eräajotyyppinen sovellus, eli sellainen, joka
@@ -107,6 +121,21 @@ näyttelijöitä ja juonta myöten. Samoiten vuoden 2017 Twin Peaks ei ole
 näillä näkymin rebootti, koska juonta ilmeisesti jatketaan siitä,
 mihin jäätiin.
 
+** Meemi vs kuvamakro
+
+Meemit ovat olleet olemassa vuosisatoja, ehkä vuosituhansia. Sekä
+kirjallisuudessa ja ehkä enemmän kasuaaleissa keskusteluissa meemejä
+viljellään kevennysten ja huumorin nimissä. 
+
+Nyt sitten yhtäkkiä 2000-luvulla termi omittiin tarkoittamaan vain
+kuvia, joissa on sovellettu meemiä kuvaan upotettuina otsikkoina.
+Erityisen raivostuttavaa on sitten nähdä ihmisiä, jotka näkevät kuvan,
+jossa on tekstiä upotettu muista syistä mukaan, ja valittavat kun tämä
+ei ole meemi, tai että meemiä olisi käytetty väärin.
+
+Kuvamakrot taitavat olla meemejä kyllä pääosin, mutta kaikki meemit
+eivät ole kuvamakroja!
+
 ** /thread
 
 Joissain ajanvietekeskusteluissa saattaa joku heittää niin hyvän jutun
@@ -131,6 +160,22 @@ ongelma on se, että se sanoo liittyvän sovelluksen tai palvelun
 (ja miten se ei ehkä toimi). Se on kaikkein kapeakatseisimpien
 käyttötapausten ihannointia. Jos sovellus tarjoaa vähänkin enemmän
 vaihtoehtoja ja toimintoja, tätä "arvonimeä" on hankala saavuttaa.
+
+** Tekstiseinä
+
+Vanhaan hyvään aikaan tekstiseinä (Wall of text) oli selkeästi
+huonosti ladottu sanapuuro, jota oli vaikea lukea huonon ulkoasun
+takia. Esimerkkinä lukiossa eräs lehtori tapasi tehdä A4-luentokalvot
+ilman yhtäkään kappalejakoa ja kaikki vielä isoilla kirjaimilla. Siinä
+on oikea tekstiseinä! Se oli sitä samaa aikaa kun kouluun piti hiihtää
+kesät talvet, molemmat suunnat ylämäkeä.
+
+Nykyjonnet kutsuvat nykyään kaikkea tekstiä tekstiseinäksi, jos seassa
+ei ole animoituja giffejä tai youtube-upotuksia. Jopa Hacker Newsissä,
+jota ainakin yritän pitää sellaisena aikuisten paikkana, valiteltiin
+kerran kun lyhyistä kappaleista (parin virkkeen kappaleita!) koostuva
+mustaa-valkoisella ollut sivu oli jonkun kommentoijan mielestä
+tekstiseinä. Ei saatana.
 
 ** Asiat, jotka eivät häiritse
 
