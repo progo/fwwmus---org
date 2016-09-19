@@ -53,7 +53,133 @@ jokainen kohtaaminen raiderien kanssa tuotti pientä haastetta. Tämä
 hävisi sekin nopeasti. Ehkä nyt aloitan suoraan pelin vaikealla
 vaikeustasolla.
 
-** Jatkokehityksiä
+** Fallout 4
+
+Fallout 4 yllätti pelimaailman tulemalla lyhyellä aikataululla
+(olikohan 6-8 kuukautta julkaisusta myyntiin) ja toimittamalla hyvän
+paketin uutta ja kivaa. Ilmeisesti peli oli myös aika bugiton heti
+alkuunsa, ihan hyvä asia. Minä en kuitenkaan hypännyt heti pelin
+syövereihin, sopivan pelialustan puuttuminen pääasiallisena syynä.
+
+Eilen sitten päädyin ostamaan XBox One:n kun niitä saa aika
+edullisesti. Ja Fallout 4 tuli kanssa samaan kauppareissuun ostettua.
+Ensimmäisenä tietysti pelissä kiinnittää huomionsa siihen, mitä
+kaikkea uudessa installaatiossa on "tyhmennetty" edelliseen
+kierrokseen verrattuna:
+
+- Nyt laatikoiden sisällöt saa koluttua siistimmin röntgenkatseen
+  voimin, en valita.
+- Keskustelusysteemiä on suoraviivaistettu osittain rankalla kädellä
+  supistaen asioita. En valita, ainakaan vielä.
+- Taitosysteemi on hävitetty. Nyt uusia taitoja avataan perkeistä,
+  kuten Skyrimissä tehdään. Mutta taitoasteikkoa ei kuitenkaan
+  taustalla käytetä, toisin kuin Skyrimissä. Tavallaan en valita.
+- Karmaa en muista menettäneeni tai saaneeni vielä. Ehkä se puuttuu?
+  Tavallaan en valita.
+- Kriittisen "d20-heiton" saa itse päättää VATS:ssa ampuessa,
+  valitan miedosti.
+- Saastemittarin yksinkertaistaminen: tarpeeton yksinkertaistus. Kyllä
+  pelaajan pitäisi kai ymmärtää, miten radioaktiivinen säteily toimii
+  ennen kuin täyttää pelin vaatimat 18 vuotta?
+- Aseiden kuluman poistaminen, *valitan*.
+
+Kun puhun pelien tyhmentämisestä, niin en tarkoita että se suoralta
+kädeltä huonontaa peliä. Tuleehan tässä muistaa sekin, että olen
+tullut Fallout-pelisarjaan kolmosen myötä, ja vasta sitten tutustuin
+ykköseen. Ykkösestä kolmoseen tuleva varmasti on sitä mieltä, että nyt
+on vedetty mutkat suoriksi ja peli tyhmennetty, kun geiger-mittari on
+integroitu pip-boyhin mukaan.
+
+Moni uudistuksista syö pois RPG-taustaa, ja sehän on luontaisesti ihan
+makuasia, tykkääkö pelata (A)RPG-pelejä vai suoraviivaisempia
+räimintöjä. Fallouttia en itse ole ottanut roolipelinä, joten
+alustavati oletan, että en menetä isosti monesta näistä tekijöistä.
+
+Ehkä se ongelma nykypeleissä on se, että gamifikaatiota käytetään
+liikaa. Skyrimissä tätä oli läpinäkyvän paljon, ja Skyrimistä
+perittynä F4 sisältää oman osansa tätä "pelittämistä": /grindaa expaa
+tuntitolkulla kivojen keruuongelmien nimissä/. Grindaamisessa on toki
+ymmärrettävä, että sitä ei ole pakko tehdä. Toivottavasti muistan itse
+tämän seikan.
+
+Skyrimistä on otettu kaikenlaista hyvää ja huonoakin mukaan peliin,
+mutta luojan kiitos alkemia ja enchant-pöytä jätettiin pois. Jos
+hienon erikoisefektin voi helposti purkaa hienosta taikamiekasta ja
+sitten sen efektin saa upotettua mihin haluaa, on kyllä
+erikoisartefaktien merkitys kokonaan hävinnyt pelistä. Kuuden tunnin
+pelaamisen jälkeen F4:ssä näyttää asiat aika hyvältä.
+
+Isoin tappio ei tule pelimekaniikkaan kajoamisesta, vaan että tekijät
+päättivät tehdä osittain toista genreä edustavan pelin tällä kertaa.
+Fallout 3 on mahdollisesti paras peli, jota olen pelannut, koska
+siellä saa taistella niin vihulaisia kuin ammusten loppumista sekä
+aseiden kestävyyttä vastaan. Balanssi on herkullinen. Fallout 4 on
+pikemminkin peli, jossa lähdetään runsaudesta liikkeelle ja pelissä ei
+ole alkeellinen selviytyminen pääroolissa, vaan yhteisöjen
+rakentaminen Simsiä pelaten. No, se oli vähän ilkeästi kärjistetty,
+mutta sanoisin silti että genre on vaihtunut kokonaan
+/survival-teemasta/ sellaiseen /kolonisaatio-asutusteemaan/.
+
+Mutta mikä on mukavaa? Päivitykset pelimoottoriin näyttävät kivoilta.
+Hahmon naamaa saa väännellä uskomattomalla tarkkuudella, ja naamat
+myös näyttävät paljon nätimmiltä kuin edellisissä peliversioissa.
+Hahmolle annettu ääni syö pois RPG-kokemuksesta, mutta elokuvamaisempi
+ote näyttää ja tuntuu hyvältä. Keskusteluihin meneminen ja niistä
+poistuminen on hurmaavan sulavaa.
+
+Sää on loistava. Raidereiden kanssa sinkohipan leikkiminen
+ukkosmyrskyssä on sitä jotakin. Ulkomaisemat ovat aika värikkäitä
+omaan makuuni, mutta yleisesti ottaen asiat näyttävät kyllä todella
+kauniilta.
+
+Rokki on mukavaa. Vanhojen tuttujen jazz-standardien
+uudelleenkäyttäminen tuntuu halvalta, mutta se on ymmärrettävää, että
+itärannikolla, 400 kilometrin päässä pääkaupunkiseudun joutomaasta ja
+GNR:stä, musiikkitrendit tarttuvat.
+
+Aseiden äänet ovat korkealaatuisia. Kolmonen ja NV eivät oikein
+loistaneet näissä asioissa.
+
+Aseiden rakentelu ja tuunailu on tosi mukavaa, ja tuntuu
+itsestäänselvältä. Näinhän sen olisi pitänyt olla alusta alkaen. Pelin
+alkuvaiheessa tuttavuutta tekevä "käsinladattava" plasmakivääri on
+raikas idea, sopivan steampunkahtava. Hieman tietysti mietityttää,
+miksi kotiäiti syväunesta herättyään osaa tuunata näitä työkalupenkin
+nähdessään vaikka silmät sidottuna...
+
+Nyt jos saadaan "New Vegas 2", joka tekee pelistä
+selviytymisseikkailun, ollaan aika hyvillä jäljillä. Aika hiton
+hyvillä jäljillä.
+
+*** XBox One ratsuna
+
+Luonnehdin tässä samaan syssyyn hieman uusimman/nykyisen sukupolven
+konsoleiden edustajaa, Xboxia.
+
+Ehkä se on tuo peli, ehkä se on tämä Xboxin kehuttu ohjain, mutta
+manuaalinen tähtäily ohjaimella tuntuu olevan paljon luontevampaa ja
+helpompaa kuin mitä se oli PS3:lla aikoinaan. Kokemus on ollut tähän
+asti ihan hyvä, vaikka tietysti näppis-hiiritasolle ei päästä.
+
+Boksin ohjain on toisaalta hyvä, mutta toisaalta se syö tavallisia
+AA-paristoja. Nyt pitää sitten varmaan tutkia, mitkä ladattavat
+AA-akut mahtavat olla hyviä. PS3:n ohjain, vaikka käytetty, lataili
+itseään kivasti usbin kautta ja kesti arviolta 10 tuntia pelaamista.
+
+XBoxin menu on täynnä kaikkea turhaa, ja asennusvaiheessa mainostetaan
+kultajäsenyyksiä. Ehkä Sonyn nykyinen tekele tekee samaa, ehkä PS3
+teki kanssa. En voi olla satavarma, koska ostin pleikkarini aikoinaan
+käytettynä. PS3:ssa oli ainakin miellyttävän yksinkertainen
+päävalikko, joka ei lupaa mitään ylimääräistä.
+
+Ensimmäisen pelipäivän jälkeen nyt F4:ssa on virkistystaajuudet
+pysyneet kunnossa. Boksi hellyyttävästi laskee erikoistehosteiden
+piirtoresoluutiota SD-laadulle paikoitellen. Miksei samaa voisi tehdä
+PC-peleissä? Minulle ultratarkkoja tekstuureita tärkeämpi asia on
+pitää tuo FPS tasaisena, ja siinä boksi on onnistunut nyt yhden päivän
+otannalla.
+
+** Jatkokehityksiä Fallouttiin
 
 New Vegas on likipitäen täydellinen peli sekin, mutta tuo /auto
 travel/ on iso tunnelmansyöjä. Täydellinen kokemus olisi ollut tuoda
