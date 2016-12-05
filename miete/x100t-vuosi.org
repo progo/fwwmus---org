@@ -1,0 +1,192 @@
+#+TITLE: 11 kuukautta Fujia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE 11 kuukautta Fujia                                   :fujifilm:kamera:
+CLOSED: [2016-12-05 Mon 21:59]
+:LOGBOOK:
+- State "DONE"       from ""           [2016-12-05 Mon 21:59]
+:END:
+
+Tammikuun puolivälissä upea Fujifilm X100T (myöhemmin Fuji) saapui
+kotiovelleni ja hieman epävarmin askelin minä sitten saavuin siihen
+tulokseen, että kyllä, tämä on oiva kamera minulle. Fujin puutteet
+liittyvät pääasiallisesti nyt tuohon kiinteään optiikkaan.
+
+Aiemmin tapahtunutta:
+
+- [[file:./x100t.org][Fuji tuli taloon ja ensivaikutelmat]]
+- [[file:./fuji-sony-canon.org][Taistelu ja GAS]]
+- [[file:../xt10.org][Pohdintaa Fujin järjestelmistä]]
+
+Lyhyesti summattuna minua riivasi pahalaatuinen /buyer's remorse/,
+varmaankin pääosin sen takia, että kallis ostos ei ihan vastaa
+kaikkiin niihin asioihin, joita itse halusin täydelliseltä kameralta.
+Mutta on samaan aikaan ihan turha valittaa kameran ominaisuuksista,
+jos sitä pahuksen kameraa ei ulkoiluta.
+
+Lisäksi haluan painottaa, että joulu-tammikuu on erinomaisen surkea
+ajankohta ostaa mitään valokuvaukseen liittyvää suomessa, ellei sitten
+kyse ole yökiikareista ja lämpökameroista. Kaikki kuvat joutuu
+ottamaan isoilla (ja pehmeillä aukoilla) ja korkeilla
+ISO-herkkyyksillä, tietysti kuvat on vähän muuta toista kuin
+arvosteluiden aurinkorannoilla napatut laatupotretit.
+
+Mutta niin, Fuji on ollut talossa nyt 11 kuukautta. Ensimmäiset pari
+kuukautta painittiin ostajan katumisen efekteistä, sitten elettiin
+hiljaisuutta samalla valmistautuen kesäkuun Yhdysvaltain matkaan.
+Kävin myös vappuna Kuopiossa ja tykkäsin kamerasta isosti. Se oli myös
+luvatusti erittäin matalaprofiilinen ilmestys. En muista, että
+yksikään vastaantulija olisi kiinnittänyt kameraani mitään huomiota.
+
+Yhdysvaltain keikka meni miten meni, ja kuvat on sitä
+peruspokkaritasoa, kuten suunnittelin ottavanikin. Toivoin iskeväni
+katukuvauksen kultasuoneen matkallani, mutta sekin on taito, jota
+pitäisi harjoitella enemmän ennen kuin se sujuu kuin ammattilaisilta.
+
+Siirrytään nyt asiaan, eli asioita, joita olen oppinut Fujista.
+
+** 11 kuukautta Fujia
+
+Fujin vahvuus on tuo erinomainen kompakti koko. Toki, Sony ja
+Panasonic ja kumppanit tuottavat vielä kompaktimpia paketteja, mutta
+se on myös Fujin vahvuus. 440 grammaa on vähän paljon, mutta siihen
+tottuu kyllä. Tämä on edelleen iso tekijä minulle. Kaikki kookkaat
+paketit heitän suosiolla pois toivelistoilta. 1DXm2? Pah, joutava
+roska.
+
+*** Pehmeä optiikka
+
+Alkukuukausien epäröintien jälkeen Fuji ei ole pettänyt missään
+suhteessa. Aukkoa kuristamalla saa kuvista teräviä, f/2 on ainut
+probleema tässä suhteessa. Nostan mieluummin ISO-herkkyyttä pykälällä
+ja kuvaan f/2.8:lla. 2.8 pelaa jo oikein hyvin, ja ulkona valoisan
+aikaan sitten kohteen mukaan f/5.6 on sellainen hyvä katukuvausaukko.
+Tuottaa riittävästi bokehia minun makuuni. Optiikka ei ole siltikään
+mikään ihmeidentekijä terävyyden suhteen, vaikka tätä kaikki
+toitottivat aikoinaan. No, riittävän terävä nyt kyllä kun olen oppinut
+niksit.
+
+*** Polttovälin rajoittuneisuus 
+
+Optiikan polttoväli on 23-millinen, kinovastaa 35-millistä. Se ei ole
+huono polttoväli lainkaan, mutta kyllä sitä usein toivoisi kuvaavansa
+50-millistä. Pääsyynä esimerkiksi parempi kohteen erottelu
+syväterävyydellä, ja parempi bokeh noin keskimäärin. Hassua, vuoden
+alussa olin paljon enemmän laajemman kuvakulman kannalla. Sitä saa kun
+polttoväli kasvaa aukon pysyessä about samana. Eli Fujifilmin
+järkkärit?
+
+Fujifilmin systeemit on kyllä houkuttelevia. Houkuttelevia tarjouksia
+järkkäreistä jatkuvasti esillä (esimerkiksi XT10 + 18/2 + 35/2 alle
+tonnilla), mutta se on se juoksuhiekka GAS:n pariin sitten. En tahdo
+kyllä hypätä tuohon kelkkaan ellei rahaa ole törsättäväksi asti.
+
+Alkuvuodesta se tuntui huonolta idealta (about yhtä huonolta idealta
+kuin tonnin pokkari vuosi sitten), mutta miten olisi tuplaus: Fujin
+ylihintaiset laajennus- ja loittosetit, jotka ruuvataan optiikan
+tilalle? Nyt niitä tekisi mieli, vaikka maksavat isosti. Näillä
+välineillä X100T:n kuvat saa joko 28- tai 50-milliseksi.
+Konversiolaseina nämä tuntuvat olevan laadukkaita, eivätkä vaikuta
+kuvanlaatuun. Nämä konversiolasit voisivat ratkaista minun
+henkilökohtaiset dilemmat polttoväleistä ilman sen kummempia
+juoksuhiekkoja. Mutta hintaahan näillä on taas.
+
+*** Hyvin pitää pintansa
+
+Kaikin puolin X100T on pitänyt pintansa, vaikka GAS on ollut joskus
+vaikeana ja joskus unohtunut kokonaan. Nyt olen pitänyt pitkän tauon
+kamerahommista, nyt taas vähän olen seuraillut palstoja. Onneksi
+mitään isoa ei osunut silmään. Pahin skenaario saattaisi olla tuo
+X100T:n seuraajan esittely...
+
+Tavallaan toivon, että X100F julkaistaisiin uusilla hyvillä
+ominaisuuksilla, X100-sarja ansaitsee sen. Tavallaan en toivo, että
+tämä tapahtuisi. Loogisesti uudistuksessa kamera saisi uudistetun
+kennon, jossa on megapikseliä ja korkealaatuista erottelukykyä.
+Mahdollisesti se saisi uuden optiikan, joka olisi kaikin puolin
+terävämpi. Mutta jos näin kävisi, astuisin kyllä sellaiseen
+turmoiliin, että saattaisin hypätä leiristä toiseen. Esimerkiksi
+käytetty X-E2 olisi aika herkullinen alusta Fujifilmin optiikalle.
+
+*** Verrattomat ominaisuudet
+
+Fujia rakastetaan enemmän kuin vihataan; ehkä minun pitäisi panna asia
+korvan taakse. Totesin automaattitarkennuksen muutaman
+kuvausoperaation yhteydessä vallan hyväksi, joten se ei ole enää
+ongelma. Fujin raakakuvat tuntuvat olevan yksi ratkaisematon ongelma
+edelleen, ainakin Linuxilla. Fujin oma sovellus osaa tehdä aika hyvin,
+mutta sen saa vain Windowsille.
+
+Yksi asia, mikä tekee Fujista (X100T:stä) korvaamattoman, on nopea
+salamasynkkaus. Tämän ansiosta salamaa voi käyttää miten nopeilla
+valotuksilla tahansa. Tietysti kaikki nykykamerat osaavat käyttää
+elektronista suljinta tarvittaessa, joten en tiedä miksi ihmiset
+hehkuttavat tätä niin isosti. Yksi nopean salamasynkkauksen isoimmista
+eduista on luonteva "fill flash", eli salaman käyttämistä
+luonnonvalossa /täyttämään/ (fill) varjokohtia lisävalolla. Moni
+sanoo, Ken Rockwell etunenässä, hokee X100-sarjan täyttösalaman
+toimivuutta kameran parhaana ominaisuutena.
+
+Pitäisi varmaan kokeilla. Salamasymbolit ovat aika kryptisiä omaan
+silmääni Fujin valikoissa. Pokkarin manuaalinen salaman voimakkuuden
+säätö oli luontevampi.
+
+*** Muut valmistajat
+
+Fujin lisäksi pitkin vuotta on pari muuta valmistajaa pysynyt
+kiikarissa: Sony on hävinnyt pois haluttavien kameroiden listalta,
+ihan hyvä niin. A5100 voisi olla pannukakku-40:n kanssa silti ihan
+kiva turistikamera. Sonyn premiumpokkarisarja RX100 on myös joskus
+mietityttänyt, mutta uusimman version, viitosen, koekuvat olivat aika
+huonolaatuisia onnekseni. Hävisi halut heti.
+
+*Panasonic* osaa tehdä kompaktit paketit kyllä, mutta pieni kenno ja
+sen 4:3-kuvasuhde on vähän epäperinteinen minusta. Huippuoptiikkaa
+tietysti saa Pannylle, ja kamerat tosiaan olisi aika hyviä paketteja.
+Eikä mitään vikaa Lumix LX100 -pokkarissa varmasti.
+
+Fujifilmin erinomaisiin väreihin ja valkotasapainoon tottuneena tämä
+johtaa pieneen kynnykseen kokeilla Panasoniceja tai muita vastaavia
+merkkejä. Vaikka näihin tekijöihin kyllä tottuu /nopeasti/.
+
+*Leica* ja kaikki rangefinderit pysyvät tutkalla. Leican objektiivit
+ovat unenomaisia optisilta ominaisuuksiltaan, ja rangefinder-kuvaus on
+miellyttävää. Kymppitonnin Leica-setti olisi aito ostos, jos tulisi
+iso lottovoitto joskus. Mutta muilta osin Leica on kamera, jota en
+ostamaan lähtisi missään nimessä. Iso raha kamerasta, joka on syvästi
+ongelmainen monelta kantilta katsottuna.
+
+Sen sijaan olisi unelma kokeilla kuvata Leicalla muuten. Leica M9 /
+M240, ja 50-millinen joku torvi siihen nokalle. Ehkä yritän järjestää
+jonkinlaisen lainatapahtuman kameran kokeilemiseksi keväällä kun valoa
+alkaa taas olla saatavilla. LensRental.com tarjoaisi vuokrakokemukset
+Yhdysvaltain maaperällä, mutta siitä lystistä pitää maksaa
+suolaisesti. (Viikon vuokra puolisen tonnia.) Halvempi tapa olisi ehkä
+kokeilla lyöttäytyä jonkun suomalaisen leicamiehen kylkeen kiinni ja
+vängätä kokeilla pienestä rahasta tai lounaan tarjoamisella. Leica on
+kuitenkin sellainen mekaaninen elämys, verrattavissa vaikka hyvin
+mekaaniseen Ferrariin. Siltä kantilta katsottuna parin sadan
+heittäminen parilta päivältä voisi ollakin ihan järkeenkäypä idea.
+
+Aiemmin sanoin, että Leica Q olisi seuraava lottovoittokamera (siinä
+kontekstissa että X100T oli muinoin lottovoittokamera minulle). Leica
+Q on aika hulppea spekseiltään, mutta jos X100T:n suurin synti on tuo
+kiinteä 35, niin miten sitten Q:n kiinteä 28... Siksi en ole ihan
+superisti enää lämmennyt tälle ajatukselle. Mutta ei sanota 'ei
+koskaan': jos joskus tulee hyväkuntoinen Q markkinoille vaikka kahteen
+tonniin, voin uhrata pari päivää ajatusta asialle.
+
+** Muita asioita
+
+*Canon on poissa.* Pannukakku ja kaikki on nyt kaupattu pois. Täytyy
+sanoa, että ikävä sitä ei ollut pitkään. Yksilöäni saattoi vaivata
+hienoinen epäsynkka kennon ja AF-solujen välillä
+(peilinheiluttelijoiden ongelmia!), mikä voisi johtaa epätarkkoihin
+kuviin.
+
+*Miksi kamerahifismi ja GAS tuntuu erilaiselta kuin audiofilia?* Äänen
+suhteen löysin varhaisessa vaiheessa kokonaisuuden, joka tyydyttää
+syvästi vielä 7 vuotta myöhemmin. Kameroiden kanssa sen sijaan hyvä
+jos uusi lelu käy vanhaksi viikossa... löytyyköhän kameroista mitään
+vastaavaa? Epäilen. Kameroiden kanssa yksilö tuottaa itse sisältöä ja
+kaiuttimien kanssa sitä vain kulutetaan. Mitähän muuta tästä
+oivalluksesta voi johtaa?
