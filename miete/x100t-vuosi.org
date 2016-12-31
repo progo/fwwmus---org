@@ -15,7 +15,7 @@ Aiemmin tapahtunutta:
 
 - [[file:./x100t.org][Fuji tuli taloon ja ensivaikutelmat]]
 - [[file:./fuji-sony-canon.org][Taistelu ja GAS]]
-- [[file:../xt10.org][Pohdintaa Fujin järjestelmistä]]
+- [[file:./xt10.org][Pohdintaa Fujin järjestelmistä]]
 
 Lyhyesti summattuna minua riivasi pahalaatuinen /buyer's remorse/,
 varmaankin pääosin sen takia, että kallis ostos ei ihan vastaa
