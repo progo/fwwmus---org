@@ -1,0 +1,50 @@
+#+TITLE: Paras sarja
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Paras sarja                                                   :sarjat:
+CLOSED: [2017-01-03 Tue 18:30]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-01-03 Tue 18:30]
+:END:
+
+Parasta TV-sarjaa on vaikeampi valita kuin parasta elokuvaa. Ehkä sen
+takia, kun sarja elää isosti kaudesta toiseen, ja jopa kauden
+sisälläkin. Elokuvat ja minisarjat sen sijaan kirjoitetaan ja
+suunnitellaan alusta loppuun saakka ennen toteuttamista ja suoritukset
+ovat toki lyhyempiä kuin sarjoissa. Silti, mikä olisi paras sarja
+ikinä? Niitä /on niin monta/.
+
+Koska parhaan valitseminen on niin mahdotonta (en ole kyennyt
+valitsemaan tyydyttävää normia sarja-avaruuden vektoreille, ideoita
+saa toki esittää!) niin esitän muutaman varmasti TOP-10:een
+sijoittuvan, ja jossain rinnakkaistodellisuudessa parhaaksi
+valikoituneen sarjan.
+
+*Paras sarja on tietysti Twin Peaks.* Mikä muukaan se voisi olla,
+fwwm.us-nimisellä sivustolla?! TP ampuu yli ja ympäri monessa
+luokassa, niin saippuasarjajuonenkäänteissä kuin puolessa
+hahmoistakin. Jaksojen mäntypuinen tuoksu ja veitselläleikattavan
+tiheä tunnelma on se kaiken ultimaattisesti selittävä seikka.
+
+*Paras sarja on House M.D.*, koska hyvin kirjoitettuja, näyteltyjä ja
+samaistuttavia henkilöitä on niin harvoin yhtä mestarillisesti tehtynä
+kuin sarjan pää, Gregory House. En edes välitä sairaalasarjoista niin
+paljoa, ja tarinat toistavat itseään isosti kaudesta toiseen, House
+pötkii uskomattoman pitkälle nimenomaan vahvasti kirjoitettujen
+henkilöiden voimalla.
+
+*Paras sarja on Six Feet Under.* Hautauspalveluperheen elämää
+heijasteleva sarja on osa HBO:n varhain aloitettua originaalien
+sarjojen tuotantoa, ja kaikki kykenivät SFU:n (tietysti myös The
+Sopranosien) myötä aavistelemaan, mikä potentiaali uuden aallon
+TV-tuotannolla on. SFU:ssa yhdistyy mielenkiintoinen ja originaali
+miljöö uskomattoman vahvoihin näyttelijäsuorituksiin. Jos valinta
+pitäisi tehdä joillain kriittisillä mittareilla, on täysin mahdotonta
+valita maksimiksi muuta kuin Six Feet Under.
+
+** Loppusana
+
+Tällä kertaa minun oli helppo nostaa jalustalle 3 poikkeuksellisen
+miellyttävää TV-sarjaa. Jonain muuna aikana hyviä sarjoja varmaan
+osaisin luetella 5. Hyviä sarjoja on lukemattomat määrät, mutta nämä
+kolme ovat sellaisia, että kukin kilpailee ykköspallista niin, ettei
+ole mahdollista noin vain valita yhtä.
