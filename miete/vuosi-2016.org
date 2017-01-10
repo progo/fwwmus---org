@@ -1,0 +1,47 @@
+#+TITLE: Vuoden 2016 kertausta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuoden 2016 kertausta                        :fujifilm:retrospektiivi:
+CLOSED: [2017-01-10 Tue 17:16]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-01-10 Tue 17:16]
+:END:
+
+Vuosi vaihtui hyvin rauhallisissa merkeissä ja -- toisin kuin vuosi
+sitten tammikuussa -- miellyttävän lämpimissä oloissa. Mitähän kivaa
+voisi 2017 tuoda meille? Mitä tapahtui viime vuonna?! Ja mitähän
+ihmettä sitä lupaisi itselleen vuodeksi 2017?
+
+Lyhyesti summattuna tuntuu, että 2016 meni vauhdikkaasti läpi. Auto ei
+temppuillut, töissä oli tavanomaista (jokseenkin ehkä enemmän hitaita
+kausia kuin aiemmin). Toisaalta huhtikuussa 2016 sain luvan tehdä
+töitä kotoa käsin, ja tämä on piristänyt monella tavalla. Lisäksi toki
+myin talon, joka tuntuu vieläkin ihan hyvältä jutulta.
+
+Harrastusten puolesta 2016 oli aika kehno. Omia koodiprojekteja en ole
+vienyt mainittavasti eteenpäin, koska töissä saa käyttää
+aivonystyröitään ihan tarpeeksi. Alkuvuosi meni Fujifilmin kanssa ja
+GAS-ongelmien kanssa painiessa; keväällä huomioni siirtyi kokonaan
+yhdysvaltain politiikan seuraamiseen ja GAS väistyi iloisesti. Nyt se
+mokoma on taas tullut pinnalle. Jotain oikeata tekemistä pitäisi
+varmaan keksiä!
+
+Uudenvuodenlupaus vuodelle 2016 oli aloittaa entistä säännöllisempi
+liikkuminen ja liikunta. Se on toiminut, olen ollut kuntopyörän
+selässä ja muissa fyysisissä askareissa hyvin säännöllisesti. Voisin
+kai luvata itselleni, että tänä vuonna sama meno jatkuu, mutta
+isommalla rasituksella. En varmaan kyllä laiskuuttani mene sellaista
+lupailemaan. 
+
+Sen sijaan voisin varmaan harkita syöväni aiempaa terveellisemmin.
+Yhdessä säännöllisen liikunnan kanssa se voisi johtaa hallittuun
+painonpudotukseen. Tämän projektin aloitin itse asiassa jo alustavasti
+ennen joulua, mutta ymmärrettävästi joulunpyhiksi aina loppiaiseen
+asti ylimääräisiä herkkuja on pyörinyt nurkissa ihan riittoisasti.
+
+Vaihtoehtoisesti voisin luvata itselleni viettää enemmän aikaa ulkona
+kameran kanssa. Mitä hyötyä on himoita uutta kameraromua, jos olen jo
+maksimoinut omasta pihasta otetut kuvat. Kävin ulkoiluttamassa Fujia
+harmittavan harvoin viime vuonna. Yksi keikka Kuopiossa, muutama pieni
+Joensuussa ja yksi ulkomaanmatka. Entäpä jos tavoite olisikin käydä
+yksi kuvausmatka viikossa? Joensuussa töiden jälkeen olisi aika
+otollista tehdä näin.
