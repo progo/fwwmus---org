@@ -1,0 +1,97 @@
+#+TITLE: Linsseistä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Linsseistä                                :kamera:objektiivi:fujifilm:
+CLOSED: [2017-01-23 Mon 13:14]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-01-23 Mon 13:14]
+:END:
+
+Kameran objektiivia suunniteltaessa täytyy valita valtavasta joukosta
+päämääriä, ja löytää haluamansa kompromissi näistä päämääristä.
+Objektiivin suunnittelu on *aina* kompromissi, ja vain linssin tuleva
+käyttäjä voi päättää, mitä tavoitteita hän haluaa työkalultaan ja näin
+todeta annetun lasin joko käyttötarkoituksiinsa kelvolliseksi tai ei;
+objektiivisesti all-around-parasta objektiivia ei ole olemassa.
+
+Katsotaanpa, hatusta vedettynä keksin ainakin seuraavia tavoitteita
+ideaaliselta optiikalta:
+
+- suuri maksimiaukko
+- fyysisesti pieni linssi
+- fyysisesti kevyt linssi
+- fyysisesti iso/painava/tukeva linssi(!)
+- mahdollisimman laaja skaala polttovälejä
+- nopea automaattitarkentaja
+  - ... ylipäänsä tarkentaa automaattisesti
+- tarkka automaattitarkennus
+- helppo tarkentaa käsin
+- kiinteä maksimiaukko koko polttovälialueella
+- terävä kaikilla aukoilla ja kaikilla polttoväleillä
+  - ... terävä ylipäänsä jollain aukolla
+- terävä koko kuva-alueelta
+  - ... terävä reunoilta
+  - ... terävä edes keskeltä
+- minimaalinen vinjentointi kaikilla aukoilla/polttoväleillä
+- minimaalinen krom. aberraatio
+- minimaalinen sper. aberraatio
+- pieni minimitarkennusetäisyys
+- pyöreä/pehmeä bokeh
+- terävät auringontähdet 
+- minimaalinen kooma
+- minimaaliset vääristymät (tynnyri-, yms)
+- kalansilmävääristymä¹
+- pitää suorat viivat suorina
+- ulkoasultaan katu-uskottava
+- ulkoasultaan bling-bling
+- sääsuojaus
+  - ... sumusuoja
+  - ... kaatosadesuoja
+  - ... veden alla 5 metriin, jne
+- kuvanvakain
+- halpa
+  
+(1: En ole aivan varma, haluaako kukaan oikeasti kalansilmävääristymää
+lasiltaan.)
+
+Huomannette, että selvästi osa tavoiteltavista asioista on suorassa
+ristiriidassa keskenään. Voin hyvin kuvitella, että vaikka jollain
+ihmetekniikalla saataisiin valmistettua 50-grammainen 100-400-millinen
+f/2.8 -telezoomi, niin osa haluaisi tukevuutta lasiltaan ja
+kilogramman massaa.
+
+Tottakai ideaalinen lasi ei vääristele mitään ja sen maksimiaukko on
+f/0.95 ja se painaa vain 200 grammaa ja siinä on sisäisesti zoomaava
+mekanismi, tarjoaa polttovälit 10 millistä 800 milliin.
+
+Näin ei tietysti ole, ja näin päästään aloittelijoiden kysymyksiin,
+kuten "Miksi kitti-Nikonini 18-200mm vinjentoi isoilla aukoilla" ja
+minun filosofisiin kysymyksiin kuten "miksei ole olemassa 16-35 f/2.8
+-zoomia, joka olisi fyysisiltä mitoiltaan alle 7 senttimetriä pitkä".
+
+Huomannette myös, miten nämä tekijät (ja olen varmasti listannut vain
+pienen osan kaikista toiveista ja tavoitteista) eivät kaikki liity
+polttoväleihin tai maksimiaukkoihin; pääsemme siihen tulokseen, että
+lasin hinta ei selity pelkästään maksimiaukolla suhteessa
+polttoväliin. Kokonaisuus on osiensa summa.
+
+Kompromissien tekeminen ei ole pelkästään suunnittelijan ongelma, vaan
+ostaja saa itsekin vähän pähkäillä valintojen kanssa. Riittääkö
+Canonin 24-70 f/4 vai pitäisikö laittaa pätäkkää pykälää
+valovoimaisemmalle versiolle (samalla paino kasvaa ja kuvat eivät
+olekaan aina sen terävempiä, ellei himmennä halvemman tasolle). Tai
+pitäisikö ostaa kallis Fujin 14/2.8 vai halpa Voigtländer 15/4.5,
+jälkimmäisen ollessa superkompakti ja katukuvaukseen hyvin istuva,
+vaikka käsitarkenteinen.
+
+Itse arvostan fyysisesti pieniä linssejä, nopeata+tarkkaa
+automaattitarkennusta, valovoimaa saa olla, mutta myös sitä, että lasi
+olisi terävä kaikilla aukoilla. Fyysisten kokojen raja ajoi minut pois
+Canonista, ja automaattitarkennuksesta tingin hieman, koska Fujifilm
+tekee monia muita asioita hyvin. Vinjentoinnit ja vääristymät eivät
+taasen ole minulla niin isolla painoasteikossa, koska olen ihan
+tyytyväinen siihen, mitä voin korjata kamerassa ja jälkeenpäin.
+
+Moni valinta tässä listassa kiteytyy myös siihen, mitä haluaa kuvata.
+Lintu- ja metsämiehet tuskin häiriintyvät painavista seteistä ja
+arkkitehtuurikuvaajat taas tahtovat terävyyttä. Ja budjetilla
+kuvaaville taas kaikki on hankalaa.
