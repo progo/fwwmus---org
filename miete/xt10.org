@@ -1,6 +1,6 @@
 #+TITLE: Fujifilm X-T10
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Fujifilm X-T10                                       :fujifilm:kamera:
+* DONE Fujifilm X-T10                            :fujifilm:kamera:objektiivi:
 CLOSED: [2016-03-29 Tue 20:48]
 :LOGBOOK:
 - State "DONE"       from ""           [2016-03-29 Tue 20:48]
