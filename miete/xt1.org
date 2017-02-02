@@ -1,0 +1,274 @@
+#+TITLE: Fujifilm X-T1
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fujifilm X-T1                                        :fujifilm:kamera:
+CLOSED: [2017-02-02 Thu 20:42]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-02-02 Thu 18:48]
+:END:
+
+Kiusaus kävi sietämättömäksi, ja lopulta minun oli saatava jotain
+uutta pöytälaatikkooni pölyä keräämään -- käytetty Fujifilm X-T1 oli
+se vastaus kysymykseen, jota en ehkä olisikaan halunnut tietää!
+
+Ensin kerron ja muistelen vähän niitä vaikutelmia ja kokemuksia,
+joista minun ostopäätökseni kumpusi, ja ajatuksia joita minulle tuli
+mieleen ennen kameran saapumista.
+
+Sitten seuraavat ensivaikutelmat ja lopuksi tulevaisuuden pohdintaa.
+
+** Ennen kameraa
+
+Vuoden mittaan luottamukseni X100T:hen on kasvanut huomattavasti:
+tiedän, mihin sen autofokuskyvyt riittävät ja ne riittävät minulle.
+Tiedän, miten tarkka kameran 23/2-optiikka on, ja se riittää minulle.
+Resoluutiota on riittävästi, kompakti runko ei oikuttele ja kaikki
+ominaisuudet tottelevat komentoani. Alkuun hieman painavalta tuntunut
+X100T istuu nykyään ihan helposti kädessä. Sitä on ilo operoida.
+
+Tiesin kyllä jo ennen X100T:ta, että mikä kyseisen rungon ainoa oikea
+ongelma on. Polttoväli on lukkoonlyöty kinovastaava 35 millimetriä,
+joka olisi joissain tilanteissa liian pitkä ja joissain tilanteissa
+liian lyhyt. Aloin haikailla vaihtelun perään, ja tammikuun
+puolivälissä sitten päädyin laittamaan passiiviset pyydykset
+kauppafoorumeiden mereen.
+
+Toki minua kiinnostaa kokeilla myös Fujifilmin parasta, mitä se voi
+tarjota: kaikkien huipputeräväksi ylistämä 35/1.4 ja näpsäkät
+laajakulmat. Järjestelmässä on toki paljon muitakin asioita, joilla
+piristää valokuvauselämäänsä.
+
+Kysymys oli myös avoinna siitä, olisiko X-T1 vai X-E2 parempi malli
+minulle. Pidän X100T:ni rangefinder-muotoilusta paljon, joten X-E2
+olisi toki luonnollinen valinta. Kuitenkin muutama seikka sai minut
+sittenkin ajautumaan Fujin edellispolven de-facto-lippulaivamalliin:
+
+- X-T1:n elektroninen etsin on kookas, se on iso, se on valtava.
+  Tahtoisin sanoa, että elämää suurempi. Se on yksityiskohta, joka
+  parhaillaan mullistaa valokuvaamisen ja pienimmillään auttaa
+  manuaalitarkennuksessa. Jos innostuisin jossain vaiheessa
+  manuaalitarkenteisista laseista, X-T1 olisi ainut mielekäs valinta,
+  koska kuvapinta-alaa tarvitaan fokuksen löytämiseen.
+- X-T1:ssä on fyysinen valitsin ISO-herkkyydelle. Nyt valokuvaamisen
+  koko essenssi on valittavissa fyysisillä säätimillä suoraan
+  rungosta! Tämä miellyttää paperilla paljon.
+- Toivoin itselleni, että iso ja syvä kädenote korvaa painavammasta
+  rungosta syntyvät lieveilmiöt, ja että tukevaan runkoon on parempi
+  sovittaa painavampaa lasia kuin hyvin keppoiseen X-E2:een (mikä on
+  muilta osin erittäin jämeräksi kehuttu runko, kevyt mutta ei
+  mitenkään rimpula!).
+- X-T1:n kääntyvä näyttö ei ole pakollinen, mutta kiva se on kai olla.
+- X-T1 tukee nopeita muistikortteja.
+- X-T1 on edellisen polven nopein ja paras automaattitarkentaja ja
+  liikkuvien kohteiden ennakoija. Kuvapuskuri on kanssa miellyttäväksi
+  kehuttu, vaikka nyt se kalpeneekin uusien mallien varjossa.
+- Sääsuojauksesta on kai jotain etua, vaikka käytettynä kun rungon
+  ostaa, kaikki on mahdollista.
+- Paperilla X-T1 ei ole X100T:tä sen isompi, joten pienen lasin kanssa
+  X-T1 on myös pieni!
+
+Etsimen iso suurennuskerroin on ainut fakta, että siedän mallin
+peilijärkkärilookkia. Pidän siitä faktasta, että kun rungossa ei
+tarvitse olla hybridietsintä, voidaan maksimoida pelkän elektronisen
+etsimen potentiaali suurella suurennuksella.
+
+Grafiitinharmaa X-T1 on todella kaunis malli, mutta tällä kertaa
+päädyin ottamaan katuhinnoiltaan noin 150-200 euroa halvemman mustan
+version. Livenä kun rungon näkee, näyttää kokomustakin malli todella
+hyvältä!
+
+** Ensivaikutelmat ja vertailu X100T:hen
+
+Hitaasti madellut tammikuu on ilmeisesti kamerakaupan aikaa minulle.
+Tuskastuttava viikko meni odotellessa brittiläisen eBay-myyjäliikkeen
+toimitusta, joka tuli toisaalta nopeasti, mutta lähetyksen statuksesta
+ei kuulunut mitään sen jälkeen, kun se lähti saarelta. Runko tuli
+siistikuntoisena, kuten kuvissa. Kennokin on puhdas kuin pulmunen.
+
+Runko painaa vain 440 grammaa, mutta eron 440-grammaisen rungon ja
+180-grammaisen optiikan kanssa 450-grammaisen X100T:n kanssa huomaa
+välittömästi! Paino oli yllätys, ja niin oli rungon kokokin tavallaan!
+Millään ei internetin kuvista olisi voinut päätellä, että X-T1 on
+todellakin pieni runko -- vaikka sitä monessa kuvassa ja videossa
+esitelläänkin. Runko on kirjaimellisesti puolen senttimetrin
+tarkkuudella saman kokoinen kuin X100T.
+
+Lisämassa ja rungon pieni koko yhdessä toivat ensimmäisenä
+vaikutelmanaan, että se ei voita X100T:tä ergonomiassa. Ehkä vieläkin
+X100T voittaa puhtaassa ergonomiassa (kepeys ja paljon paremmat
+nappulat), mutta rungon nappulat ovat "löytyneet" sormille ja liian
+pieneltä se ei enää tunnu. Isompaakaan en toki halua; ehkä liian isona
+pitämäni X-Pro voisi olla vielä sopivissa mitoissa (sentin isompi
+korkeus- ja leveyssuunnassa). Toisaalta rangefinder-tyylinen X-E2
+olisi varmaan sekin ergonomialtaan enempi minun makuuni. Rungon
+tahmeapintainen muovipinnoite on varmapitoinen ja runkoa uskaltaa
+ulkoiluttaa ilman rannelenkkiä.
+
+Toinen iso alkushokki on ollut tuo kovaääninen suljin. X100T on
+käytännössä äänetön, ja X-T1 on taas käytännössä liian kovaääninen
+valokuvata hiljaisissa tiloissa herättämättä huomiota. Sähköinen
+suljin toki toimii, vaikka ongelmia onkin luvassa keinovalaistuksen ja
+sivuttaisliikkeen kanssa.
+
+X-T1:n automaattitarkennuksen apuvalo on kanssa häiritsevän kirkas,
+kun se X100T:ssä on miellyttävän pehmeä. Se käy kyllä myös järkeen;
+X100T:ssä valo on speksattu tasan yhdelle objektiiville ja X-T1:ssä
+valon pitäisi toimia potentiaalisesti pidemmillä matkoilla.
+
+Kaikin puolin uskoisin, että rungon fyysisiin mittoihin tottuu, olihan
+minulla vähän tottumista X100T:nkin ergonomiaan aluksi.
+
+** Objektiivit
+
+Etukäteen ostamani 35-millinen f/1.4 Fujinon on siisti perusputki ja
+tarjoaa 50-millisen kinovastaavan polttovälin terävällä kuvalla ja
+hyvällä piirrolla. Harmikseni huomaan, että hitaaksi tarkentajaksi
+kehuttu 35/1.4 on todellakin hieman hidas. Se tahtoo metsästää
+tarkennusta useammankin kierroksen ennen kuin se asettuu aloilleen.
+X100T voittaa tämän erän leikiten!
+
+Huipputeräväksi kehuttu 35/1.4 on todellakin sitä, se tuottaa
+täydelläkin aukolla erittäin miellyttävää keskiterävyyttä, eikä kuviin
+ole vielä pettynyt. Siinä on sellaista Leicamaista taikaa, terävä
+kaikilla aukoilla ja ei pelkästään "terävä", vaan /terävä/.
+
+Mutta mitä huomaankaan, kun tätä terävien Fuji-lasien kuningasta
+vertaan X100T:ni paperilla vaatimattomaan 23/2:een? Tämä 23/2, jota
+valtaosa kehuu myös erittäin teräväksi linssiksi, ja joka minusta oli
+jotenkin oudon pehmeä etenkin täydellä aukolla, on verratessa ihan
+siedettävä, ellei vertailukelpoinen valinta! X100T ei tietysti ikinä
+kilpaile 35/1.4:n kanssa, koska polttoväli on luonnollisesti ihan
+toinen, mutta kun molempia laseja kiristää f/5.6:een, kuten monesti
+kadulla tekee, erot ovat loppupeleissä aika vähäiset! En ole kyllä
+aivan älyttömästi vielä käyttänyt aikaa 35:n kanssa, mutta X100T ottaa
+pisteet myös kotiin.
+
+Kinovastaava 50 millimetriä on klassikkopolttoväli monelle kadun
+miehelle ja siksi kiinnostaakin viettää aikaa tämän polttovälin
+kanssa. Kuitenkin huomasin itsestäni nopeasti, että olen viettänyt
+valtaosan valokuvauselämästäni laajempien kuvakulmien parissa, ja 50
+milliä tahtoo tehdä tiukkaa usein.
+
+(Monivuotinen Pokkari on about 28-millinen, ensimmäinen Sigma oli
+35-millinen, sitten oli lyhyt kokeilu 24-105-millisen zoomin kanssa,
+sitten 35-millinen X100T vuoden.)
+
+Tämä on asia, josta pääsee harjoittelemalla irti, ja sitten todeta,
+että onko 35 (50) käyttökelpoinen polttoväli vai ei. Aikaa riittää
+kyllä kokeiluihin nyt kun kaikki on ostettu käytettynä ja hinnat ovat
+jo pudonneet. En ota sen kummemmin sen enempää tappiota, myinpä setin
+samoin tein pois tai vaikkapa vuoden päästä. Saatan kokeilla 35/2:n
+jossain vaiheessa ja todeta, olisiko se riittävän terävä
+tarkoituksiini. Monen mielestä eroa ei isosti ole, ja parantunut
+autofokus korjaa kaikki loput erot.
+
+*Toinen lasi*, jonka ostin heti kylkeen, on Fujinonin 18-millinen f/2.
+Tiedän pitäväni laajasta, ja tämä 18/2 on riittävän laaja
+(kinovastaavuus 27 mm), samalla ollen todella näppärän kokoinen!
+Objektiivi piirtää mainiosti, ja autofokus on nopeampi kuin 35:lla.
+Tällä on huono maine, joidenkin mielestä lasi on malliston huonoin. Ei
+minusta pidä lainkaan paikkansa, tai en ole katsonut raakakuvia.
+Objektiivilla on ilmeisesti optisia haasteita, mutta JPEG-kuvissa
+mitään niistä ei näy; X-T1 korjaa virheet pois mestarillisesti.
+
+Muita objektiiveja en kyllä juuri nyt osaa kaivata. Fujin zoomit ovat
+aika isoja ja ehkä Fujinon 10-24 f/4 voisi joskus olla kiinnostava
+kokea, juuri nyt ei. Ne ovat aika isoja ja painavia laseja, se on se
+optisen suorituskyvyn kääntöpuoli. Järjestelmäkameran hyvä puoli toki
+on, että voin mennä kaupunkilomalle ja vuokrata jonkun erikoisemman
+torven pariksi päiväksi ja vähän leikkiä. Mutta onko GAS selätetty
+tällä setillä?
+
+** X100T ja X100F ja helmikuun kevytmielinen GAS
+
+Niin positiivinen kuin X-T1 onkin nyt ollutkin, on vuoden vanha X100T
+jotenkin selviytynyt joukon voittajana pinnalle. Tarvitaan
+perspektiiviä ja kontekstia, jotta hyvä asia voidaan tunnistaa --
+X100T tuntuu olevan paljon hienompi diili kuin vaikkapa puoli vuotta
+sitten olisin ymmärtänyt.
+
+Jos yksi ainukainen ominaisuus tekee kaikesta niin hyvän, niin X100T:n
+iirissuljin, joka on hipihiljainen, ja tuntuu niin hyvältä valottaa
+kuvia. X100T:n runko on myös hieman edistyksellisempi kuin X-T1:n,
+etenkin nappulat ovat fiksuja (X-T1:n nappulat ovat aika tunnottomia
+ja niitä onkin kritisoitu riittämiin internetissä).
+
+Pidin X100T:n lasia hieman pehmeänä, ehkä liiankin, mutta ei se
+todellisuudessa ole niin pehmeä oikeasti. Lähelle tarkennettaessa
+isoilla aukoilla ympyräaberraation aikaansaama pehmeys on ihan oikea
+ongelma, mutta esimerkiksi 2 metrin päähän uskaltaa jo tarkentaa
+täydellä aukolla, ja lopputulos on erittäin kutkuttava.
+
+Vaikka X100T:n salamaa olenkin vakavasti käyttänyt tasan yhden kerran,
+on sellainen integroitu salama aina tyydyttävämpi kuin erillissalama,
+kuten X-T1:n kanssa. Onneksi runko tuli oman pikkusalamansa kanssa;
+pitäisi vain muistaa pitää se kameralaukussa. X100T:n sisäänrakennettu
+ND-filtteri on kanssa kutkuttava ominaisuus, jolle en vielä ole
+osannut löytää isoa käyttöä. Ja huippunopealle salamasynkkaykselle en
+sillekään mitään. Ainut konkreettinen homma on tuo paketin keveys,
+huomaamattomuus ja hiljaisuus. Tietysti erittäin vahvoja kriteereitä
+minulle.
+
+GAS vähän pisteli jo takaraivosta, kun katselin uusimman mallin,
+[[https://www.dpreview.com/samples/5006874527/fujifilm-x100f-pre-production-sample-gallery][X100F:n, esimerkkikuvia]]. Uutuudessa on sama objektiivi kuin omassani,
+ja luulin -- moni luuli -- että se on kameran pullonkaula.
+Hämmästyksekseni uuden mallin 24-megapikselinen kenno osoittaa moiset
+väitteet valheeksi, sillä kuvat ovat hulluntarkkoja. Uutuudessa on
+digitaalinen telekonvertteri, jolla saa kinovastaavia 50-millisiä
+kuvia hyvän esikatselun kanssa. Koska jo vanhasta X100T:stä riitti
+jakaa muutama pikseli pois kroppailuja varten, tämä uusi toiminto
+hieman herättää päivityshaluja jo yksinään. Saisin kaksi tarpeellista
+polttoväliä katettua yhdellä pikkukameralla, vaikka digitaalinen
+kroppaus + ylössamplaaminen onkin aika syvältä.
+
+Tämä on nyt aika kevyttä huulenheittoa tässä vaiheessa muutenkin
+miettiä mitään vaihteluita. Uutta tavaraa ostin juuri siksi, että voin
+kokea vuoden mittaan uusia kuvakulmia ja jatkuvasti parantaa
+valokuvaustani. Ei siinä oikein mennä muualle kuin rahaa tuhlaamaan,
+jos nyt olisi ensimmäisenä hommanani myydä kaikki ja päivittää
+uusimpaan nätteyteen. (Mutta jos tulee lottovoitto...)
+
+Sellaiselle, joka painii X100-sarjalaisen ostohimoissa, kannattaa
+totisesti huomioida tämä (myöhempi) toive eri polttoväleille.
+X100-sarjan kamera on monta asiaa, mutta polttoväli on polttoväli,
+sitä ei voi oikeasti korjata kävelemällä tai kroppaamalla. Lisäksi
+esimerkiksi erittäin kompakti kokonaisuus X-E2S + XF27/2.8 on aika
+lähellä X100T:n speksejä ja paljon halvempi paketti. Sellainen
+paketti, johon voi aina myöhemmin tuoda hyvän zoomin ja laittaa päivä
+pulkkaan.
+
+Tässä kuussa ilmeisesti kuullaan lisää Fujin uusista malleista.
+Uusimpaan X-Trans III -kennoon on siirrytty nyt kaikilta osilta,
+paitsi X-E2s:n osalta. Toivottavasti raukka saa parannuksen, koska se
+on potentiaalisesti parasta hinta-laatusuhdetta, mitä Fujilla on
+tarjota. X-Pro2 ja X-T2 pysyvät huipulla, mutta hieman pienempää,
+paljon kevyempää runkoa ilman optista etsintä on kiva kanniskella
+mukanaan. Sitten se olisi killeri, jos Fujifilm keksisi toteuttaa
+jonkun hiljaisen mekaanisen sulkimen runkoon. Saattaisi olla, että
+ostaisin uutena. Kuten sanottua, sulkimen äänekkyys on juuri nyt se
+isoin kiusa X-T1:ssä. (Ehkä totun siihen.)
+
+** Tulevaisuus
+
+Kuten sanottua, suunnitelmissa olisi nyt mennä eteenpäin X-T1:n kanssa
+ja pitää X100T lähettyvillä. Kaikki asiat eivät suinkaan ole vielä
+ratkaistuja. X-T1:n sulkimen ääni on yksi tekijä, jonka merkitys
+kokonaiskuvassa luultavasti hälvenee kuukauden mittaan vähäiseksi
+detaljiksi.
+
+Mutta toinen kiusa on tämä järjestelmäkameran kanssa esiintyvä
+valinnanvapaus. Objektiivien kanssa puljaantuminen tuolla ulkona.
+X100T tarjoaa applemaisesti täydellisen ratkaisun. Kokemuksen myötä
+sitä tietysti oppii ensinnä, että minkälaisella kalustolla sitä lähtee
+ulos liikkumaan ja että oppii myös ottamaan kuvan juuri sillä
+kalustolla, mitä on kamerassa kiinni sillä hetkellä. 50-millinen
+kinopolttoväli aiheuttaa harjoittelemista, mutta varmasti kadulla se
+on erittäin kyvykäs työväline. Laajempi on taas vaikeampi sommitella,
+mutta näyttää hyvältä sekin. Ymmärrän, että ongelman kanssa painii
+moni muukin, ja että zoomiputket (pthyi) ovat aina mahdollisuuksia.
+
+Minulla on tietysti tuo X100T juuri nyt hallussani, joten voin tehdä
+senkin tempauksen että liikun ulkona kahden rungon kanssa, näin
+minulla on hallussani ainakin 35-millinen kuvakulma ja sen kaverina
+sitten tiukempaa rajausta. Se on aika hullu juttu, mutta samahan
+sitäkin on kai joskus kokeilla. 
+
