@@ -1,0 +1,113 @@
+#+TITLE: Hajautettu some
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Hajautettu some                                                 :some:
+CLOSED: [2017-02-16 Thu 16:07]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-02-16 Thu 16:07]
+:END:
+
+Isot mediaverkot hallitsevat ihmisiä suuressa määrin nykypäivänä.
+Facebook, Google+, Twitter, Youtube... valtava määrä
+internet-liikenteestä ja ihmisten päivittäisestä kommunikoinnista
+tapahtuu muutaman massiivisen sisällöntuottajan/someverkon sisällä.
+
+Palveluiden keskittyminen muutamalle isolle toimijalle tietää
+ongelmia, kuten moni on varmaan jo huomannut, kuullut tai lukenut
+uutisista: Facebookin ja Twitterin kaltaiset toimijat voivat ohjata
+isojen massojen mielipiteitä suodattamalla uutissyötteiden ja
+-virtojen sisältöä. Tämä suodattaminen on helppo heidän perustella
+infoähkyn ehkäisemisen verukkeella.
+
+Riippumatta siitä, onko ylläoleva skenaario täysin todenmukainen,
+mahdollinen tulevaisuuden uhka vai toivottu kehitys, riippuen lukijan
+katsantakannasta, voisimme miettiä sitäkin, miten some voisi olla
+tasapuolisesti parempi kaikille. Aidosti demokraattinen. Itse asiassa
+(mielestäni) parhain ratkaisu on ollut maailmalla jo pitkään; pian 30
+vuotta.
+
+** Hajautettu some
+
+Internet koostii lukemattomista komponenteista, joilla hyvin toiminut
+hajautus toteutettiin. Nykyäänhän valtaosa tapahtuu HTTP:n päällä ja
+mediana on WWW. 
+
+Entäpä jos näitä olemassaolevia komponentteja käytettäisiin sujuvasti
+sekoitelmana, joka tarjoaisi kaiken mitä somelta kysytään? Muutamia
+näkyviä komponentteja, joita voi hyödyntää somen hajautuksessa:
+
+- WWW :: Vanhat kunnon staattiset HTML-sivut! Käyttäjien kotisivut,
+     voisivat tehdä comebackin ja ne voivat toimia käyttäjien
+     profiilisivuina ja sisältää valokuvagalleriat ja muut käyttäjän
+     kilkkeet.
+- Sähköposti :: Sähköposti vastaa luonnollisesti käyttäjien
+     yksityisviestittelystä!
+- [[https://en.wikipedia.org/wiki/WHOIS][whois]] :: Whois antaa sinulle domainin tiedot, joten jos ihmiset
+     rekisteröisivät itselleen domaineja ja niiden tietoja
+     käytettäisiin vastuullisesti, olisi vanha kunnon =whois= edelleen
+     kova juttu.
+- [[https://en.wikipedia.org/wiki/Finger_protocol][finger]] :: Finger on ihana ja unohdettu protokolla, joka hoitaa
+     tilapäivitystarpeet sellaisenaan. Voit ilmoittaa tietokoneellesi
+     tai paikalliselle lähipalvelimellesi aamuterveiset ja mitä löytyy
+     mukista, ja ihmiset voivat -- öh -- /sormettaa/ tiedon näppärästi.
+- news :: Alueelliset ilmoitukset, ilmoituspalstat ja sen sellaiset
+     voivat löytää paikkansa niin WWW-pohjaisilta foorumeilta kuin
+     nyysseistäkin. Makuasia!
+- RSS :: Uutissyötteet ja "aikajanat" toteutuvat RSS-feedien ja
+     sopivan lukijan avulla.
+- IRC :: Reaaliaikainen ja synkroninen keskustelu voi korvata
+     JavaScript-tsätit. Muitakin vaihtoehtoja toki löytyy tähän
+     loveen.
+
+Näinä päivinä en tietysti ihan lähtisi rakentamaan mitään vanhojen
+protokollien päälle. WWW ja sähköposti riittää kyllä riittävään
+hajauttamiseen aika hyvin! JavaScript sallii esimerkiksi vieraiden
+kommentit kotisivuilla ja uutisvirtojen rakentamisen.
+
+2000-luvun alussa nähtiin monia esimerkkejä siitä, miten hajautus ja
+sosialisointi tapahtui sujuvasti ilman Zuckerbergiä. Sellaisia
+niinsanottuja blogirinkejä löytyi, sitä ennen kotisivurinkejä: ihmiset
+yksinkertaisesti linkkasivat kavereidensa blogeihin ja kotisivuihin ja
+lukivat säännöllisesti (ja ihan oma-aloitteisesti!) toistensa blogeja,
+kommentoiden niihin. Kullakin bloginpitäjällä oli lopullinen valta
+oman bloginsa sisällöstä, ja RSS-syötteet tarjoilevat kaiken sisällön
+ilman hienoja "algoritmeja".
+
+Eräs vahva toimija ja hajautettujen blogien demokratisoija on
+eittämättä ollut WordPress. Blogin helppo pystytys on vahva apu.
+WordPress tarjoaa omaa täyshostattua alustaa, jossa kaikki on
+valmista, joka on taas askel väärään suuntaan. Silti, 10 isoa alustaa,
+jotka omistavat "markkinoista" 60 prosenttia, on parempi kuin 3
+alustaa, jotka omistavat 80 %.
+
+Toinen esimerkki on Disqus, joka on nettisivulle upotettava
+JavaScript-palikka, joka tarjoaa kommentointimahdollisuudet
+staattiselle sisällölle. Minä käytän kyseistä palikkaa myös. Disqus on
+tosin askel taas kohti Facebookkia, koska keskitettynä palveluna se
+pystyy kontrolloimaan, mitä viestejä jää sen "roskapostifilttereihin"
+ja mitkä päätyvät perille. Jos hajautettu some joskus yleistyy, Disqus
+on syytä ottaa vakavasti.
+
+Onko hajautettu some yhtään sen vaikeampi ottaa käyttöön kuin Facebook
+tai Twitter? Paperilla ei. Teknistä taitoa näiden käyttäminen ei
+edellytä yhtään sen enempää kuin mitä Facebook tai vastaava.
+Riittäisi, että yksi (tai mielellään useampi) palveluntarjoaja
+tarjoaisi helppoja sivupohjia käyttäjilleen profiilikuvien esittelyyn.
+(Tyyliin WordPress.com ja muut täyshostatut blogipalvelut tekevät jo
+nyt.) Ketkä osaavat, voivat ostaa omat domaininsa, konffata
+sähköpostit ja kaikki kuntoon.
+
+Kumpikin on about yhtä helppo ottaa käyttöön, mutta tyypillisessä
+käytössä toki FB ja Twitter taitavat olla sulavampia. Ihmiset hakevat
+tyypillisesti tuttujen kontakteja, ja tämmöinen hakemistopalvelu on
+yksi FB:n voimavara, joka ei onnistu yhtä hyvin hajautetusti.
+Tehdessään tunnuksen FB:hen se taitaa jo ehdottaa kaikkia aiemmin
+kontaktia yrittäneitä ystäväehdokkaiksi. Joskus on hyväksyttävä
+kompromissi: kontaktit voi hakea hakukoneilla tai jostain hallitusta
+hakemistosta ja niitä voi säilöä selaimen kirjanmerkkeihin.
+
+Kaikin puolin siis luotettava tasapuolisuus saataisiin, kun ihmiset
+käyttäisivät WWW-hostaukseen erikoistuneita palveluita (niistä saa
+aina siirryttyä datoineen uuteen paikkaan; oman domainin omistajille
+siirto on lisäksi läpinäkyvä) ja sähköpostia kommunikointiin.
+Nettineutraliteetti tai sen puute mahtaa olla seuraava keino, miten
+"hallitsematonta" tiedonjakoa seuraavaksi aletaan suitsia.
