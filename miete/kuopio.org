@@ -11,8 +11,8 @@ voivan hyvin!
 
 Pinnallinen päämäärä matkalle oli käydä IKEAssa ostamassa uusi
 työtuoli tai kaksi, toisaalta testata viikolla vastaanottamani
-ThinkTank Retrospective 7 tosikäytössä. Lisäksi, Kuopio on miellyttävä
-kaupunki jossa kävisi mielellään useamminkin.
+ThinkTank Retrospective 7 tosikäytössä. Lisäksi Kuopio on miellyttävä
+kaupunki, jossa kävisi mielellään useamminkin.
 
 Lauantain sääennuste oli lupaava koko alkuviikon ajan. Puolipilvistä
 tai jopa kokonaan aurinkoista, lämpötila lievästi plussan puolella,
@@ -26,6 +26,8 @@ luvattiin. Lähdin hieman suunniteltua aikaisemmin, koska miksipä ei.
 Nopeasti länteen ajaessani pilvet kerääntyivät auringon eteen ja
 lyhytkestoinen lumipyry jopa vallan peitti ajoväylät hyvin paksulla
 raemaisella pulverilla.
+
+[[./matkakuvat/kuopio-02-2017/lumi.jpeg]]
 
 Saavuin Matkukseen noin 80 minuutissa. En kellottanut tosin. Matkaa
 perille on noin 110 kilometriä. Liikenne oli sujuvahkoa. Pohjois-Savon
@@ -77,6 +79,8 @@ Helsingin Mannerheimintien BK:ssa alkuaikoinaan (sittemmin paikassa
 taianomaisesti ranut paranivat oikein syömäkelpoisiksi). Jätin vajaan
 puolet roskiin.
 
+[[./matkakuvat/kuopio-02-2017/bk.jpeg]]
+
 BK:n jälkeen idea oli siirtyä Kuopion keskustaan hörppimään kahvit ja
 aloittamaan huvittelut. Kammotuksekseni ikkunasta näkyi vain sankkaa
 lumisadetta. Kenties samainen myräkkä kuin minkä läpi ajoin, tuli nyt
@@ -90,6 +94,8 @@ Ensimmäinen idea oli kokeilla Arnold's, mutta palvelu oli surkeata.
 Kirosanojen saattelemana siirryin Wayne's Coffeehen, jossa sitten
 vastaavasti sain eteeni /kupin pahuksen hyvää kahvia/. Todella
 maistuva kupponen tosiaan.
+
+[[./matkakuvat/kuopio-02-2017/kahveet.jpeg]]
 
 ** Halpa bensa
 
@@ -112,6 +118,8 @@ Järkevä ruutukaava, historiallisia taloja ja kivaa arkkitehtuuria.
 Auton vein ilmaiselle paikalle Minna Canthin ja Snellmanin kulmaan.
 Jalkakäytävät ovat vahvasti jäisiä, mutta vielä vahvemmin
 hiekoitettuja. Liukasta ei tahtonut olla missään.
+
+[[./matkakuvat/kuopio-02-2017/auto.jpeg]]
 
 Suuntasin Torille, joka oli varsin hiljainen. Toivoin, että
 lopputalven ensimmäiset lämpimät ja valoisat päivät olisivat vähän
@@ -141,6 +149,8 @@ ihanteellinen urheiluun. Tuulikin nimittäin tyyntyi iltapäivää kohden.
 Kokeilin vähän kamerani jatkuvatarkenteista autofokusta, kohta
 uskallan katsoa kuvia.
 
+[[./matkakuvat/kuopio-02-2017/luist.jpeg]]
+
 Kaikin puolin keikka jäi paljon lyhyemmäksi kuin mitä olisin halunnut,
 mutta osittain sen takia kun ihmisiä ei ollutkaan
 lauantaiaktiviteeteissa niin paljoa kuin toivoin, matkaseura ei
@@ -163,6 +173,13 @@ valon määrän suhteen. Pitää tutkia manuaalista tietoja.
 En tietysti mennyt niin pitkälle, että olisin tieteellisen menetelmän
 tavoin jopa tarkastanut laukussa olleesta X100T:stä, että tekeekö se
 samaa etsinkuvalle.
+
+Jatkuvatarkenteisissa kuvissa käytin aluevalintaa keskialueen nopeilta
+pikseleiltä. Äkkiseltään katsottuna kuvat näyttävät aika monikin
+epätarkoilta, mutta tarkemmin kun tutkii, on kamera valinnutkin jonkun
+muun kohteen seurattavaksi. Alustava testi oli kuitenkin hauska tehdä,
+ei ihme, että jatkuvatarkenteinen autofokus toimintakuvissa on kuuma
+juttu.
 
 ** Thinktank Retrospective 7
 
