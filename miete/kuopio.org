@@ -6,7 +6,7 @@ CLOSED: [2017-02-18 Sat 19:44]
 - State "DONE"       from ""           [2017-02-18 Sat 19:44]
 :END:
 
-Kävin Kuopiossa tänään. Viimeksi vappuaattona 2016. Kaupunki vaikuttaa
+Kävin Kuopiossa tänään. Viimeksi vappuaattona 2016. Kaupunki näyttää
 voivan hyvin!
 
 Pinnallinen päämäärä matkalle oli käydä IKEAssa ostamassa uusi
@@ -30,11 +30,17 @@ raemaisella pulverilla.
 Saavuin Matkukseen noin 80 minuutissa. En kellottanut tosin. Matkaa
 perille on noin 110 kilometriä. Liikenne oli sujuvahkoa. Pohjois-Savon
 maaperää mukailevat maantiet tuntuvat hyvältä Outokumpu-Joensuun
-tasaisille ja tylsiksi käyneille valtaväylille. Ensin suunnittelin
-syöväni aamupalan Matkuksessa, mutta nautinkin kevyen pikapuuron ennen
-lähtöä lämmikkeeksi. Tämä oli hyvä idea, koska nyt saatoin hoitaa
-ikävät bisnekset IKEAssa pois ensihätään ja sitten suunnata Burger
-Kingiin hieman tasapainoisemman lounasajan saavuttamiseksi.
+tasaisille ja tylsiksi käyneille valtaväylille. Toisaalta voin
+kuvitella, että talven liukkailla ja paksujen lumisateiden aikana
+voivat Savon tiet olla ehkä liiankin jännittäviä ajaa. Parempi näin
+päin, että oma työmatka on tylsä ja turvallinen, ja että jännitys
+odottaa 100 kilometrin päässä.
+
+Ensin suunnittelin syöväni aamupalan Matkuksessa, mutta nautinkin
+kevyen pikapuuron ennen lähtöä lämmikkeeksi. Tämä oli hyvä idea, koska
+nyt saatoin hoitaa ikävät bisnekset IKEAssa pois ensihätään ja sitten
+suunnata Burger Kingiin hieman tasapainoisemman lounasajan
+saavuttamiseksi.
 
 ** IKEA
 
@@ -175,3 +181,16 @@ työ-/materiaalitakuulla). Se on hieman painavampi kuin mitä haluaisin,
 mutta täydellä kuormalla Fujia (X100T, XT1, 35/1.4, 18/2,
 vastavalosuojat, akut, salama) se on silti kevyt ja istuu mainiosti
 vartaloa vasten.
+
+** Kuopio
+
+Kuten sanoin, Kuopio huokuu minulle sellaista pikku-Helsinkiä, aina
+huokunut. Ruutukaava muistuttaa Helsinkiä, kaupungin asukkaat ovat
+kanssa "riittävän" urbaaneja. Bussit kulkevat kerrostalojen välejä
+samalla tavalla kuin ratikat Fredrikinkatua.
+
+Tietysti "Kuopio proper" on pitkälti 1-2 päivässä nähty, siinä missä
+Helsinki vaatii noin 5-7 päivää. Mutta mittakaavaeroista huolimatta
+näin kaupunki tuntuu minulle. Tuntuu oikein asumiskelpoiselta
+kaupungilta.
+
