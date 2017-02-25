@@ -1,0 +1,155 @@
+#+TITLE: Kameralaukuista ja Thinktank Retrospective 7
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kameralaukuista ja Thinktank Retrospective 7                  :kamera:
+CLOSED: [2017-02-25 Sat 16:13]
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2017-02-25 Sat 16:13]
+- State "DONE"       from ""           [2017-02-25 Sat 15:24]
+:END:
+
+Uutta Fuji-kalustoa hankkineena totesin viimein, että jotain fiksua on
+keksittävä tavaroiden kantamiseen. Keväällä 2014 ostamani Lowepro
+Exchange Messenger on liian rimpula; vastaavasti muuten erinomainen
+Maraboun[*] brändillä varustettu lähettilaukku on liian pieni
+arvokkaalle tavaralle ja hajoaa käsiin. Uuden laukun valitseminen oli
+yllättävän vaikeata, koska hyvin valittu laukku kestää kaikenlaisen
+GAS-vaivan yli.
+
+Oma suosikkityyppini on "messenger bag" eli olisiko se suomeksi
+"lähettilaukku", eli olalla pidettävä laukku, jonka sisältöä suojaa
+läppä ilman sen kummempia kiinnityksiä: läppä on useimmissa malleissa
+niin pitkä, että painovoima pitää tavarat suojassa.
+
+Harmittavan monessa mallissa on päädytty rasittaviin muoviklipsuihin
+tai vielä rasittavampaan tarranauhaan. Muutama innovaatio löytyy
+markkinoilta, mutta toisaalta moni tämmöinen hyvä Lowepron malli on
+ehtinyt myös vetäytyä myynnistä.
+
+[*]: tarkennan, että kyse ei ole sellaisesta karvakasasta mitä Google
+tarjoilee hakusanoilla "marabou bag", vaan kyseessä on joku geneerinen
+laukku, jossa on Marabou-suklaayrityksen ommeltu logo.
+
+** Ehdokkaita
+
+Tähtäsin isoon valintakriteereissäni, eli laukun sisälle pitäisi
+mahtua oheista sisältöä:
+
+- kaksi Fujifilm-runkoa
+- 1-2 objektiivia
+- juomapullo
+- matkamuistokrääsää
+
+Oheisia ehdokkaita tutkin muita pidempään, noin kronologisessa
+järjestyksessä:
+
+*** ONA Brixton
+
+[[https://www.onabags.com/store/messenger-bags/the-brixton.html?color=smoke][ONA Brixton]] on komea laukku tyylikkäille herrasmiehille, mutta
+riittävästi silmiä siristämällä se varmaan menisi minullakin. Se on
+hieman tyyris, mutta kuten sanottua, laukku kestää kamerasysteemistä
+toiseen. Tai ainakin tulisi kestää.
+
+Totesin lopulta useita arvosteluita lukemalla, että Brixtonin
+muotoilun on annettu mennä joiltain vähäisiltä osin käytettävyyden
+edelle.
+
+*** Lowepro StreetLine SH180
+
+Laukku näyttää kuvissa kivalta, kuin baby-Brixtonilta. Tämän mallin
+tilasinkin kotikokeiluun. Livenä nähdessäni laukun totesin, ettei tämä
+nyt ihan vastaa toiveita: tarranauha, hieman juppimainen ulkoasu,
+sisätilat on fiksuja mutta samaan aikaan kameravehkeille on vain kaksi
+taskuja, ei laajennusmahdollisuuksia.
+
+Laukku on kyllä kevyt ja yhden rungon kanssa liikkuvalle sisäratkaisut
+voivat olla oikein mainiot itse asiassa!
+
+[[http://i.imgur.com/sMPLTsx.jpg][http://i.imgur.com/sMPLTsxl.jpg]]
+
+Streetline käytössä:
+
+[[http://i.imgur.com/YGKghby.jpg][http://i.imgur.com/YGKghbyl.jpg]]
+
+*** Lowepro Urban Reporter 250
+
+Tämä on oikein perinteinen lähettilaukku, mutta sääli kun sen
+valmistaminen on lopetettu. Nepparikiinnitys vaikuttaa hauskalta,
+vaikka moni kiroaa ratkaisua internetissä.
+
+[[https://geardiary.com/wp-content/uploads/2013/09/Gear-Diary-Urban-Reporter-250.jpeg]]
+
+*** Thinktank Retrospective 7
+
+Koska mainion oloinen Urban Reporter oli poistunut malli, jäljelle jäi
+heittää leveämmät verkot mereen. Thinktank oli osiltaan tuttu nimi,
+mutta se tuli vasta näin loppupäässä tutkimuksia vastaan.
+
+Luin [[http://www.kenrockwell.com/tech/think-tank/retrospective.htm][Ken Rockwellin arvostelun]] Thinktankin laukuista, ja siitä jäi
+huono maku suuhun: ikään kuin olisivat velttoja kuin perunasäkit.
+Kävin läpi pari muuta arvostelua ja Youtube-videoita, ja niiden
+pohjalta päädyin tilaamaan tämän kotikokeiluun kanssa.
+
+Hieman edullisempi kuin SH180, Retrospective 7 on hyvin pehmustettu ja
+tukeva laukku, jossa on tilaa monenlaiseen. Se on perinteinen
+kameralaukku jakajineen ja kaikkineen.
+
+Retrospective 7 ei ole täydellinen (sivutaskut ovat vähän hankalasti
+saatavilla ja laukku on aika iso vähäiselle kamalle), mutta se tekee
+monta asiaa oikein:
+
+- aito lähettilaukku,
+- tarranauhakiinnityksen saa fiksusti pois käytöstä,
+- ei kiinnitä huomiota,
+- sisältä tilava.
+
+Laukku on hyvin ryhdikäs, ei pelkoa siitä. Sen sisuratkaisut ovat
+pääosin fiksuja ja olkahihna on toppauksineen erinomaisen mukava.
+
+[[http://i.imgur.com/vjDsOMr.jpg][http://i.imgur.com/vjDsOMrl.jpg]]
+
+Avattuna:
+
+[[http://i.imgur.com/m3p3nug.jpg][http://i.imgur.com/m3p3nugl.jpg]]
+
+** Mietintöjä
+
+Monessa arvostelussa tuli esille fraasi: "täydellistä laukkua ei ole
+olemassa". Tämä lienee hyvin totta samaan tapaan kuin [[file:./linsseistae.org][objektiivien
+kanssa]]: ihmiset haluavat laukuilta eri asioita ja yksi ei voi ikinä
+tarjota kuin osajoukon toiveista.
+
+[[http://i.imgur.com/54WXLdF.jpg][http://i.imgur.com/54WXLdFl.jpg]]
+
+Streetline ja Retrospective olivat kotikokeilussa. Kävi minuuteissa
+selväksi, kumpi tuntui nyt välittömästi paremmalta valinnalta.
+Thinktankin päätin "korkata" syvempään testiin ja Streetlinen laitoin
+jo pakettiin valmiina palautukseen. Varsinaisen palautuksen tekisin
+sen jälkeen kun ulkoilutan Thinktankia tositilanteessa.
+
+Kävin lauantaina Kuopiossa, Thinktank oli kamppeineen kevyt
+kokonaisuus. Ensivaikutelmiltaan Thinktankin ryhdikkyys tuntui
+kumoavan kaikki Rockwellin kommentit laukusta, mutta tosikäytössä
+Kuopion kaduilla laukun sisätilojen "kaoottisuus" tuli hyvin esiin:
+kättä pitää vähän survoa sivutaskuihin, jos sieltä jotain haluaa
+onkia. Asiat tahtovat mennä vähän sekamelskaksi siellä, omaa
+järjestelmällisyyttä edellytetään, jos halutaan laukusta tehokkaasti
+asiat ulos. Herkästi tahtoo heitellä roinaa päätaskuihin, joissa
+arvokas lasti pidetään. Ei pitäisi tehdä niin!
+
+Kaikkinensa, Thinktank on ihan jees ja sen sisälokerointi ei ole vielä
+löytänyt lopullista muotoaan. Laukku ei herättänyt kenessäkään ihmeempiä reaktioita, mikä on mukava. Samaa ei voisi sanoa varmaankaan Brixtonista.
+
+** Mitä en harkinnut tai tutkinut
+
+Osa malleista oli sellaisia, jotka eivät tulleet välittömästi esille
+googlauksissani. Esimerkkinä Domke. Sitten on valmistajia, kuten
+Billingham, jotka eivät puhuttele niinkään minua.
+
+** Tulevaisuuskuvia
+
+GAS on toistaiseksi selätetty. Hieman tekisi mieli kokeilla
+manuaalitarkenteisia laseja, mutta niiden aika on sitten joskus. Tällä
+hetkellä tilanne on pikemminkin sellainen päinvastainen: tekisi mieli
+palata takaisin pelkkään X100T:hen. Toisaalta kun uudet lelut on jo
+hankittu, niiden poismyymisen kanssa ei ole kiire: siispä pyrin
+kokeilemaan asioita.
