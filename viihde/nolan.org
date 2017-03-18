@@ -1,6 +1,6 @@
 #+TITLE: Christopher Nolan
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Christopher Nolan                                           :elokuvat:
+* DONE Christopher Nolan                                     :elokuvat:nolan:
 CLOSED: [2015-01-23 Fri 18:31]
 :LOGBOOK:
 - State "DONE"       from ""           [2015-01-23 Fri 18:31]

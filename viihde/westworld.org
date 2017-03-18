@@ -1,0 +1,46 @@
+#+TITLE: Westworld 
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Westworld                                               :sarjat:nolan:
+CLOSED: [2017-03-18 Sat 11:26]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-03-18 Sat 11:26]
+:END:
+
+HBO:n uusi [[http://www.imdb.com/title/tt0475784/][Westworld]] on Jonathan Nolanin ja Lisa Joyn luoma
+uudelleenlämmittely Mike Crichtonin alkuperäiselle [[http://www.imdb.com/title/tt0070909/?ref_=fn_al_tt_3][vuoden 1973
+elokuvalle]]. Moni asia paranee vuosien saatossa Länsimaailmassa.
+
+Länsimaailma on iso huvipuisto, jonne pääsee kalliilla rahalla hyvin
+realististen ja ihmismäisten robottien joukkoon viettämään hyvää
+1800-luvun aikaa. Robotit saavat ottaa luotia ja vastaavasti vieraille
+ei voi tehdä mitään. Se on käytännössä kuin yhtä isoa larpattavaa
+videopeliä.
+
+Jonathan Nolan on tietysti taattu nimi, kun muistetaan että tämä on
+[[file:./nolan.org][suuren Cristopher Nolanin]] veli, ja kollaboraattori monessa parhaassa
+elokuvassa. Nolanismit tulevat esille sarjan ensimmäisen kauden aikana
+somasti esille, eikä luotettu nimi petä. Monella tapaa ensimmäisen
+kauden noin 10 tunnin aikana ehditään uudelleentulkita Blade Runner ja
+Memento ja Inceptionkin uudella tavalla suinkaan kokonaan poistamasta
+vanhojen töiden perintöä kartalta. Westworld toki vie vielä osaa
+vanhoista android-kysymyksistä eteenpäin, ehkä piirun verran
+liiallisuuksiinkin, mutta eteenpäin kuitenkin. Sarjaa on suositeltava,
+vaikka en länkkäreistä ensimmäisenä nautikaan.
+
+Alkuperäinen elokuva oli omassa ajassaan uraauurtava tuotos, mutta
+Crichton päätti edetä elokuvansa kanssa hyvin pinnallisissa merkeissä.
+Tekoälystä ja androidien mahdollisista eksistenssikysymyksistä ei
+puhuttu alkuperäisessä työssä mitään, vaikka Philip K. Dickin /Do
+Androids Dream of Electric Sheep/ oli ollut jo olemassa viiden vuoden
+ajan. Tämä fakta yksinään saa minut ajattelemaan uutta Westworldia
+esikuvaansa parempana työnä. Vihaajat vihatkoon.
+
+Uusi Westworld taitaa olla käytännössä reboot, mutta se toisaalta myös
+antaa alluusion viitaten alkuperäiseen elokuvaan, että huvipuisto
+olisi toiminut jo vuosikymmeniä (Alkuperäisestä Westworldista tulee
+uuteen Westworldiin 43 vuotta).
+
+Westworld on jälleen yksi voittoisa esimerkki siitä, miten TV-sarja
+kukoistaa tänä päivänä elokuviin nähden. En usko, että tuleva Blade
+Runner 2049 pystyy mitenkään koskemaan yhtä hyvin kaikkia teemoja,
+joita tässä nähtiin, ja ehkä nähdään seuraavalla kaudella.
