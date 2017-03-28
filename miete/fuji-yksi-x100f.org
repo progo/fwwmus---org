@@ -1,0 +1,131 @@
+#+TITLE: Yksi ylitse kahden ja X100F
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Yksi ylitse kahden ja X100F                          :fujifilm:kamera:
+CLOSED: [2017-03-28 Tue 18:04]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-03-28 Tue 18:04]
+:END:
+
+Viimeaikainen revelaatio sai ajatukset kirkastumaan sen osalta, kuinka
+käytän ja harrastan asioita. Yksi hyvä työkalu on parempi kuin kaksi
+hyvää työkalua.  Miten tämä ilmestys sopii uuteen kamerasettiini?
+
+** Kaksi hyvää työkalua
+
+Olen aina ollut luonnostani ihminen, joka suosii yhtä hyvää työkalua
+kahden hyvän työkalun sijaan. Esimerkkejä: Haluan ajaa yhtä hyvää
+autoa päivittäin, en halua ajaa kahta autoa vuoropäivinä tai
+muutenkaan. Riittää tuon yhdenkin auton peseminen ja keväthuolto
+minulle. En halua tietokoneestani dualboottaavaa, enkä halua rakentaa
+dedikoitua pelikonetta, koska sitä pitäisi ylläpitää ajantasaisin
+komponentein pääkoneeni rinnalla. Kuulokehifissä sama homma: jos
+minulla on useita malleja hyllyssä, en ikinä päädy valitsemaan parasta
+kuuloketta kulloiselle musiikille vaan pyrin suosimaan keskimäärin
+parasta kuuloketta kaikkeen.
+
+Eli minkään sortin tasapainoinen dualismi ei toteudu minun elämässäni
+tai preferensseissä. Kahta säännöllisesti käytettävää työkalua
+käyttäessäni aina kallistuisin ja painottaisin toista työkalua
+enemmän. Se ei ole taloudellista, eikä myöskään valokuvatessa
+mitenkään motivoiva elementti minulle.
+
+Nyt tämä sama idea tuntuu selittävän sisäisen resistanssini uusia
+polttovälejä ja uutta kameraa käyttäessäni. X-T1 on monella tavalla
+kiva vehje, mutta se voisi realistisesti korvata kaiken vain jos
+käyttäisin yhtä objektiivia rungossa aina. Ja jos se yksi objektiivi
+sattuisi olemaan 35-millinen kinovastaavuudeltaan, ei ole mitään syytä
+luopua X100T:stä sitten. Tällä hetkellä 28 tai 50-milliset
+kinovastaavat polttovälit eivät niin puhuttele, jos ne olisivat
+ainoita polttovälejä, joita käyttäisin. Zoomi olisi toki asiallinen,
+mutta ne ovat kaikki valitettavan kookkaita minun makuuni.
+
+** Paluu yhteen?
+
+Oleellisesti X-T1 on upea runko, ja upea vekotin kaikin puolin, mutta
+muutama asia siinä kismittää X100T:hen nähden:
+
+- Isoimpana asiana sulkimen ääni. Se on tavallinen peruskovaääninen
+  verhosuljin, joka herättää huomiota hiljaisissa tiloissa. X100T:n
+  käytännössä äänetön lehtisuljin on hilpeä käyttää, niin rentouttava.
+- X100T on selvästi kevyempi kuin X-T1 ja rungon muoto (rangefinder vs
+  SLR) on omiaan minun makuuni.
+
+Eli pitäisikö palata takaisin X100T:hen sitten, myydä vastikään
+ostettu roina ja pelastaa mahdollisimman hyvin se siihen hassattu
+tonni.
+
+Vai pitäisikö tuplata ja mennä eteenpäin ja laittaa tonni uuteen
+X100F:ään. Mitäs ihmettä siinä nyt olisi X100T:hen nähden?
+
+** X100F
+
+Lyhyesti sanottuna, mitä hyvää X100F tuo pöytään, tai siis mitkä asiat
+kiinnostavat minua? Tärkeysjärjestyksessä:
+
+1. Vähemmän kohinanpoistoa. Tämä on valtava homma, etenkin kun
+   X100T:ssä herkillä ISO-arvoilla kohinanpoisto pehmentää kuvia
+   jokseenkin liiaksi. Se parantaa korkeiden ISO-herkkyyksien
+   käyttökelpoisuutta rutkasti.
+2. Yhtä stoppia parempi ISO-herkkyys: ISO 12800 vaikuttaa etenkin
+   uuden kohinanpoiston kanssa olevan puhtaampi kuin X100T:n ISO 6400.
+3. Enemmän kustomoitavia nappuloita ja joystick. Vaikka X100T:ssa
+   kaikki tarpeelliset funktiot saivatkin hyvät napit, pikkuisen
+   ahtaalta se asettelu vaikuttaa nyt.
+
+   X100F:ssä tarkennuspisteen voi valita joystickilla ja se vapauttaa
+   neljä namiskaa kustomoitaville asioille. ISO-rulla on tietysti
+   sekin, ja senkin voi vielä konfiguroida eturullaan käytettävyyden
+   nimiin. Etusormelle on rungon etupuolella myös kivasti aseteltuja
+   nappuloita!
+4. Isompi resoluutio. Tämä auttaa etenkin kroppailussa.
+5. Elektroninen etsinkuva on ilmeisesti kirkkaampi ja optisessa
+   etsimessä on erillinen lähennyselementti.
+6. ACROS+grain on erinomainen MV-simulointi, vaikka X100T:n BW/R on
+   erinomainen sekin. ACROS minimoi tai optimoi kohinanpoistoa vielä
+   entisestään sovittaen tyylin "filmille" mainiosti.
+7. Ilmeisesti parempi akunkesto. Ei valittamista nykyiselläkään, mutta
+   ihan kiva varmasti.
+  
+Ehkä hyvää:
+
+- X100F:ssä on Fujin X70:stä ja Leica Q:sta tuttu ominaisuus:
+  digitaalinen telekonversio. Käytännössä saa esikatseltua ja otettua
+  50- ja 70-millisten rajausten kanssa kuvia.
+
+  Tällä hetkellä se ei ole vielä minusta ihan kypsä ominaisuus, koska
+  raakakuvia X100F ei tallenna telekonversion aikana, ja myös tympii
+  tuo että kropatut kuvat skaalataan 24 megapikseliin tarpeettomasti.
+
+Huonoa:
+
+- Uudet akut. Minulla on hyvä valikoima hyviksi yksilöiksi
+  osoittautuneita NP95-tarvikeakkuja, joten inhottaa pikkuisen luopua
+  niistä.
+- Painavampi. 40 grammaa lisää massaa on lukema, joka ei tietysti
+  tunnu pahalta X-T1:n jälkeen, mutta on kuitenkin jokseenkin selvä
+  lisäys X100T:hen nähden.
+- Q-painikkeen sijainti, se sijaitsee peukalon alla ja moni vihaa,
+  joskaan eivät kaikki.
+
+** Aikataulu
+
+X100F kärsi tai kärsii vieläkin varhaisista lastentautiongelmista.
+Muutama ongelma nappien asetteluissa ja muuta pientä, joita voi
+ratkaista firmware-päivityksillä. Suunnittelin, että voisin mennä
+jonnekin jouluun asti nykysetillä tai pelkällä X100T:llä ja sitten
+katsella X100F:ää pienellä alennuksella tilalle. Harkitsen myös
+Suomesta ostamista jälleenmyynnin helpottumisella ja mahdollisilla
+takuuasioilla.
+
+Olen myös kirjoittanut Fujifilmille pyynnön tehdä digitaalisesta
+telekonversiosta hieman fiksumpi (raakatuki ja häviötön JPEG:ien
+kroppaus tekisivät ominaisuudesta hyvin käytettävän), ja jos he
+vastaavat palautteeseeni tekemällä asialle jotain, koen ainakin sitten
+olevani kiitollisuudentunnoissani ostovelvollinen. Heh, nähdään sitten
+kun nähdään.
+
+Lappeenrantaan käy matka tulevana viikonloppuna. Ajattelin käytellä
+X100T:tä kuviin vaihtelun ja vertailun vuoksi. Vakavasti ottaen X-T1:n
+myynnit aloitan pääsiäisen jälkeen, aikaisintaan. Fujin 35/1.4 on
+piirroltaan omaa luokkaa, joten sitä saatan jäädä kaipaamaan. X-T1:n
+isoa etsintä en ehkä jää, vaikka se nyt onkin selvästi parempi.
