@@ -70,6 +70,12 @@ a:hover {
 .org-dl dd {
 }
 
+/** Math **/
+
+.dvipng {
+    vertical-align: middle;
+}
+
 
 /*** Listings ***/
 
