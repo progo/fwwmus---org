@@ -1,4 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700);
 
 /***  HEADER  ***************************************/
 
@@ -9,7 +8,7 @@
     padding-top: 2em;
     padding-bottom: 2em;
     display: block;
-    font-family: "PT Serif", "Georgia", "Times New Roman", serif;
+    font-family: "Inconsolata", "Courier Pitch 10", "Courier";
 }
 
 #site-title {
@@ -20,9 +19,7 @@
 
 /*** BODY + main things **/
 
-html {
-    height: 700px;              /* by curtain. */
-}
+html {}
 
 body {
     background: url(/templates/floor_isometric3.png) left bottom no-repeat fixed;
@@ -36,20 +33,39 @@ body {
 /** Need a separate div for other backgrounds */
 #backgrounds {
     height: 700px;              /* by curtain. */
-    background: url(/templates/up-band.png) repeat-x,
-                url(/templates/curtain2.png) right top no-repeat;
+    background: url(/templates/up-band.png) repeat-x;
 }
-
-
 
 #main {
     margin-right: 40%;
     margin-left: 3em;
-    font-family: "PT Serif", "Georgia", "Times New Roman", serif;
+    /* font-family: "Georgia", "Times New Roman", serif;*/
+    font-family: "Inconsolata", "Courier New";
 }
 
 #main p {
     line-height: 150%;
+}
+
+#main ul,ol {
+    line-height: 150%;
+}
+
+#content b {
+    color: #ffe5d2;
+}
+
+#content i {
+    color: #ffe5d2;
+}
+
+/*** experiment with markdown style texts */
+/*#content h3:before {
+    content: "# ";
+}*/
+
+#content h4, h3, h2 {
+    margin-left: -0.5em;
 }
 
 a {
@@ -160,6 +176,8 @@ pre.src .code-sh-escaped-newline { }
     float: right;
     margin-top: 5em;
     width: 35%;
+
+    font-family: "Inconsolata", "Courier New", "Courier";
 }
 
 #sidebar ul {
@@ -274,6 +292,11 @@ li.tag-2 > * { background-color: #a23900; }
 li.tag-3 > * { background-color: #d04a00; }
 
 
+#newest-changes > h1 {
+    font-size: 22px;
+    margin-top: 2em;
+}
+
 
 /***** Responsive design stuff ****/
 
@@ -283,7 +306,15 @@ li.tag-3 > * { background-color: #d04a00; }
     }
     #sidebar {
         /* float: none; */
-        margin-left: 5%;
+        /* margin-left: 5%; */
+        width: 85%;
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #content {
+        font-size: 133%;
     }
 }
 
