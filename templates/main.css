@@ -22,18 +22,16 @@
 html {}
 
 body {
-    background: url(/templates/floor_isometric3.png) left bottom no-repeat fixed;
-    background-color: #501111;
+    background: url(/templates/floor.png) left bottom no-repeat fixed;
+    background-color: #1c0000;
     color: #ffdfbb;
     margin: 0;
     width: 100%;
-    height: 700px;              /* by curtain. */
 }
 
 /** Need a separate div for other backgrounds */
 #backgrounds {
-    height: 700px;              /* by curtain. */
-    background: url(/templates/up-band.png) repeat-x;
+    background: url(/templates/curtain.png) right top no-repeat;
 }
 
 #main {
