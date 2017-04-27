@@ -1,0 +1,42 @@
+#+TITLE: Blogin uusi ilme
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Blogin uusi ilme                                                :blog:
+CLOSED: [2017-04-27 Thu 19:27]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-04-27 Thu 19:27]
+:END:
+
+Kolme vuotta vanhaa blogia jaksoi katsella, vaikka siinä ei kaikki
+elementit ihan osuneet oman maun mukaisesti. Nyt uusi ilme on varmaan
+hitti tai huti useimmille, se tyydyttää itseäni kuitenkin paljon
+paremmin.
+
+- Fontti on nyt perinteiden mukaisesti sitä mitä selain tarjoilee
+  käyttäjän omalta kovalevyltä. Vanha webfontti oli iso osa bloattia.
+- Kommentit on poistettu. Puhetta Disqusin valtavasta määrästä
+  oheis-javascriptiä oli netissä pari päivää sitten ja sen
+  innoittamana poistin senkin.
+- Matikkaa piirtävä MathJax on poistettu. MathJaxin hostaus muuttuu
+  kuun lopuissa vähän, ja uusi systeemi hajotti asiat, kun kokeilin
+  miten se toimii. Koska en pahemmin harjoita matematiikkaa
+  blogissani, ajattelin että sekin joutaa pois. Emacsin org-mode
+  renderöi matikasta png-kuvat, joilla on LaTeX-lähdekoodi
+  alt-tekstinä, joten se riittää minulle.
+- Huonosti perspektiivimätsätty verho ja lattiakuvio on nyt muutettu
+  uuteen muotoon, josta ainakin itse pidän.
+
+Kuvat ovat edelleen yli 100 kilotavua yhteensä, se vähän tuskastuttaa
+sisäistä hakkeriani. Yhtenäistämiseksi olisi Inconsolata-niminen
+webfontti, sekin olisi 100-200 kilotavua ilman pakkausta. Jätän asiat
+toistaiseksi näin, koska sivut latautuvat nyt kuten pitääkin: nopeasti
+ja ilman turhaa bloattia.
+
+Puhelimessa sivusto toimii huonosti edelleen, siitä pahoitteluni. Se
+toimii huonosti, mutta valitettavasti se toimii juuri riittävän hyvin,
+että se säilyy lukukelpoisena kyllä. En vain jaksa tehdä asialle
+paljoa.
+
+Näillä eväillä mentäneen seuraavat 5 vuotta. Kenties mobiilipuoli
+tulee korjattua jossain vaiheessa, mutta työpöytäversio näyttää
+syötävän hyvältä nyt. Vanha [[http://mrp.fwwm.us/][Mr P -blogini]] ulkoasu on silti oma
+suosikkini aikojen takaa.
