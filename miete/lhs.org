@@ -1,0 +1,113 @@
+#+TITLE: Laitteiden hankkimissyndrooma
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Laitteiden hankkimissyndrooma                                 :kamera:
+CLOSED: [2017-05-04 Thu 20:26]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-05-04 Thu 20:26]
+:END:
+
+/Laitteiden hankkimissyndrooma/ tai gear acquisition syndrome (GAS)
+kiusaa varmasti kaikkia jonkin verran. Taistelussa tätä vastaan toimii
+vain luja selkäranka tai huono taloustilanne. Olisikohan syndroomaa
+vastaan jotain hyviä taisteluotteita?
+
+** Seireenin laulu: Leica M9 ja CCD-kenno
+
+Ikääntynyt Leica M9 oli Leican ensimmäinen onnistunut digirunko, jossa
+on 18 megapikselin täyden koon CCD-kenno ja toimiva UV-suodatus.
+Kennon kuvanlaatu ei saanut kehuja uutenakaan; kohina on pahalaatuista
+melkein heti kun ollaan nelinumeroisissa ISO-herkkyyksissä ja joku
+kameratestisivusto julisti M9:n kennon toiseksi huonoimmaksi
+FF-kennoksi ikinä. Lisäksi kennoon jäänyt kosteus saattoi aiheuttaa
+korroosiota ja ennenaikaista eläköitymistä. Ja tämä kaikki tietysti
+törkeään ylihintaan.
+
+Mutta jotain taianomaista Leican käyttämässä Kodakin tekemässä
+CCD-kennossa kuitenkin on. 
+
+Leica M9 tai M9:n halpisversio M-E alkaa olla pelottavan edullinen
+valinta käytettyjen markkinoilla, josta syystä näitä GAS-oireita nyt
+syttyy Leicaa kohtaan. Ostohalut olisivat selvästi vähäisemmät, jos
+rungot maksaisivat 5k, mutta kun ne ovat 2.5k euroa. Vain tonnin
+enemmän kuin vaikkapa uusi Fuji X100F. (Unohdetaan tietty, että 2.5
+tonnin rungon päälle pitää vielä löytää joku objektiivi, Leican mallit
+kunnosta riippuen 2 tonnista ylöspäin. Fujissa on kaikki valmiina.)
+
+Mistä Leicassa maksetaan oikeasti? Leicaa ei voi järkevästi kuvata
+jpeggeinä, joten raakakäsittelyä tulee tehdä. Raakana voi vaikkapa
+Fujin kuviin saada samanlaista Leica-"poppia" ja tuoda eroja
+lähemmäksi toisiaan. Leican hyvä ja sata vuotta hioutunut
+manuaalitarkenteisten lasien tuntuma voi olla merkittävä etu, mutta
+toisaalta jo Fujifilm X-T1 lienee helpompi manuaalitarkentaa kaikkien
+modernien avusteidensa ansiosta (focus peaking on erinomaisen toimiva
+työkalu). Leican tarkennus on tietty alusta loppuun asti täysin
+analoginen; puhdasta optiikkaa, joten se voi voittaa siltikin
+vasteajoissaan.
+
+Käytännössä Leicassa maksetaan siitä, että sieltä on tarkoituksella
+riisuttu pois ominaisuuksia. Se on kuin Porschen mukavuuksista
+karsitut mallit, joissa on kuitenkin hintaa saatu nostettua. Tämä on
+selvästi joku saksalainen juoni!
+
+** Seireenien kivikot
+
+Ostohalut syntyvät usein visuaalisesti hienoja kamera-arvosteluita
+luettuaan. Suggestiiviset mainokset ja kamera-arvostelut,
+rehellisetkin sellaiset, kulkevat käsi kädessä. 
+
+Siinä missä miesten alusvaatemainokset yrittävät luova mielikuvia
+pöksyjen taianomaisista vaikutuksista ja jaloissa kiehnäävistä
+naisista ja jopa suurenevista paketeista, parhaat kamera-arvostelut
+kirjoitetaan mestarillisten valokuvien saattelemana. Syntyy mielikuva,
+että tämän objektiivin tai tämän rungon ostamalla kuviin saa uusien
+pikseleiden lisäksi erinomaista substanssia ilman sen kummempaa
+työskentelyä.
+
+Tämän näkee triviaalisti lueskelemalla vanhojen kameroiden
+arvosteluita. Romupokkareillakin saa aikaan kaikenlaista; tämän
+pitäisi palauttaa ajatukset takaisin todellisuuteen: miltein kaikessa
+valokuvaamisessa pullonkaula olet sinä itse. Ja missä kuvaajana et ole
+pullonkaulana, sisältö on.
+
+** Miten taistella vastaan?
+
+Miten lelujen hankkimissyndroomaa vastaan voi taistella? Sopiva
+käärmeöljy on vielä keksimättä. Pelkästään mielihalujen tietoinen
+tunnustaminen ei auta. Kokeile puristaa kamerastasi kaikki irti,
+poistu mukavuusalueeltasi. Oheisia asioita tuli mieleen, näin saat
+vilkastettua valokuvaelämääsi ilman vaihtamalla kalliimpaan:
+
+- Unohda kameran tuottamat jpegit ja käsittele koemielessä kaikki
+  kuvat raakakuvista; hio itsellesi toimiva prosessi ja opiskele
+  työkalusi läpikotaisin.
+- Kuvaa pelkästään kameran jpeggejä; käännä raakakuvat pois päältä ja
+  kehitä valotustajuasi. Viritä kuvia kameran jpeg-asetusten avulla.
+- Kuvaa mustavalkeata; säädä kuviin sopivat jpeg-asetukset kamerassa
+  päälle.
+- Kuvaa vain manuaalisesti tarkentaen, ja opiskele vanhaan aikaan
+  käytettyjä kikkoja. Fujifilmin automaattitarkennus ei ole ikinä
+  ollut niin nopea, etteikö manuaalitarkennus silloin tällöin tekisi
+  automaattista parempaa työtä. Peilittömissä on myös hulvattoman
+  hyvät työkalut tarkentamiseksi, ehdottomasti suosittelen
+  vilkaisemaan joskus!
+- Zone focus on kova juttu: viritä kamera ottamaan kuvia 2 metriin
+  tarkennettuna ja ota kuvat lonkalta ilman tarkentamisen viipeitä.
+  Sommittelua voi tehdä rajaamalla jälkikäteenkin. Vilkaise
+  [[http://www.bigheadtaco.com/2016/02/non-review-ricoh-gr-ii-in-hong-kong.html][bigheadtacon fantastinen]] Ricoh GR II -epäarvostelu hyvien zone focus
+  -fiilisten kerryttämiseksi.
+- Älä käytä kameran etsintä lainkaan; käytä vain näyttöä.
+- Älä käytä elektronista etsintä lainkaan; käytä vain optista
+  etsintä (pätee lähinnä Fuji x100/x-pro -kameroihin).
+- Ota vain 1:1-kuvia, tai 16:9-kuvia, tai laajempiakin. Kamerassa
+  tapahtuva esikatselu auttaa kovasti.
+
+Samantapaisia vinkkejä löytyy läjäpäin kun vastataan kysymykseen
+"kuinka tulla paremmaksi valokuvaajaksi" -- vähemmän yllättäen ulkona
+valokuvaamassa tai uusia valokuvaustekniikoita opettelemassa olevat
+ihmiset eivät ehdi läähätä turhien laitepäivitysten perään. Näitä
+löytynee enemmän haulla:
+
+- Pakota itsesi kuvaamaan päivittäin. (Tai edes viikoittain.)
+- Ota kuvia kunakin päivänä tietyn teeman mukaisesti.
+- Matkusta enemmän. Valokuvaus on hedelmällistä kun käyskennellään
+  uusilla kaduilla ja laduilla.
