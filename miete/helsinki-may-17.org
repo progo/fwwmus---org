@@ -1,0 +1,193 @@
+#+TITLE: Helsinki toukokuussa 2017
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Helsinki toukokuussa 2017                     :matkailu:matkakertomus:
+CLOSED: [2017-06-03 Sat 20:51]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-06-03 Sat 20:51]
+:END:
+
+Kävin Helsingissä viettämässä pari päivää aikaisesta
+kesälomaviikostani. Keli oli kokonaisuudessaan vaikea, mutta vietin
+erinomaista aikaa pääkaupungissa. Sain harjoiteltua uusia
+valokuvaustekniikoita ja kävin hypistelemässä kameroita
+Verkkokauppa.comissa.
+
+** Saapuminen
+
+Junamatka on pitkästyttävä ja tylsä; onneksi Craig Fergusonin uusi
+radio-ohjelma on mitä parhainta viihdettä ja puhelimen akkua ei
+tarvitse ryövyttää tyhjäksi samanaikaisesti surffailemalla netissä.
+
+Majoituin AirBnB-kotiin Vallilassa, ja paikka osoittautui todella
+erinomaiseksi. Reilun 30 euroa yö, vastineeksi sain puhtaana pidetyn
+asunnon, ilmaista aamupalaa ja rauhallisen yösijan. Tämä kokemus
+muuttaa käsityksiäni huoneen vuokraamisesta koko asunnon sijaan.
+Kiinnostavasti New Yorkin tarjonta ainakin Queensissa ja Brooklynissä
+samaan hintaluokkaan (30-40 eur/yö, mahdollisia paljousalennuksia) on
+myös valtava.
+
+Saavuin lauantaina, joka oli todella kylmä päivä. Onneksi ei sentään
+satanut. Jatkoin majapaikasta heti takaisin kadulle, ja jouduin
+ostamaan pipon kylmyyttä vastaan. Olisin ostanut myös sormikkaat,
+mutta Kaisaniemen Tokmanni ei myynyt sellaisia. Alepassa teinitytöt
+olivat kuin myös säätä vastaan suojautuen ostamassa sukkahousuja.
+
+Ravinnoksi mäkkäriä (grillattu kana salsakastikkeen kanssa wrapissa on
+aika hyvä eväs) ja lämmikkeenä Robert's Coffeesta otettua maukasta
+kofeiinitonta rooibos-teetä niin illasta tuli oikein mukava ja
+siedettävä ulkoilun kannalta. Piti vain pysyä jatkuvassa liikkeessä.
+Kuvia en silti ottanut kamalasti ensimmäisenä iltana -- kofeiinia ei
+ollut systeemissä, enkä sellaista nyt iltaa kohdin ajatellut ottaa. Ei
+ollut mitenkään kuvanottofiilis.
+
+** X100T ja Zone focus
+
+Kameraan katselin jo valmiiksi junassa sopivia kaupunkiasetuksia.
+Mustavalkokuvat punafiltterillä, automaattinen ISO-herkkyys
+400...6400:n asti. 
+
+Ideana oli käydä Helsingin väenpaljoudessa kokeilemassa, mitä zone
+focus (ZF) -tekniikalla saa aikaan. ZF tarkoittaa oheisia asioita:
+
+- pieni aukko (f/11 tai pienempi) suuren syväterävyyden
+  saavuttamiseksi,
+- manuaalitarkennus,
+- huolehditaan, että suljinnopeudet ovat kovat: mielellään alle 1/200
+  sekuntia,
+- esitarkennetaan halutulle etäisyydelle niin, että esimerkiksi kaikki
+  kolmesta metristä äärettömään ovat tarkkoja.
+ 
+Nyt minulla on iso kallis kamera, joka käyttäytyy kuin pieni
+pokkarikamera syväterävyyden osalta, mutta toisaalta voin ottaa
+sokkona kuvia siitä, mitä näen edessäni. Esitarkennuksen ansiosta kuva
+otetaan välittömästi ja saat paljon paremmin otettua tilanteet talteen
+kuin odottamalla autofokuksen jahkailua.
+
+Muutamia teknisiä haasteita ZF kyllä sisältää:
+
+- vaatii vähän harjoittelua, että kameran saa pidettyä osoittamaan
+  horisonttia kohti,
+- sokkona kuvatessa valotuksesta ja muista tekijöistä ei ole kamalasti
+  tietoa: automaattinen ISO on siinä hyvä,
+- pieni aukko ja korkeat suljinnopeudet sanelevat, että homma toimii
+  lähinnä hyvässä päivänvalossa, (jota onneksi riitti sunnuntaina ja
+  maanantaina).
+
+Auto-ISO oli hyvä, koska valaistus vaihteli kovasti varjojen ja
+kirkkaan auringon välillä. Valitettavasti Fujifilmin ratkaisussa
+pienimmän valotusajan saa asetettua vain 1/125:een, mikä ei riitä
+pysäyttämään liikettä. Jos tämän luvun saisi vaikka 1/300:een, niin
+olisin hyvin tyytyväinen. Kyseessä on siis se kynnys, jonka alittuessa
+kamera nostaa ISO-herkkyyttä ylöspäin ja laskee valotuksen uudelleen,
+kunnes kynnys saavutetaan.
+
+** Lämmin
+
+Sunnuntaina oli viileä aamu, mutta aurinko paistoi hyvin kirkkaasti ja
+päivä lämpeni yllättäviin lukemiin. UV-arvot taisivat olla taivaissa,
+sillä sain poltettua siilitukkaisen pääni aika tehokkaasti parissa
+tunnissa kun odottelin paikallisia tuttuja kahville. Seuraavana aamuna
+päätä sitten kirveli ja jouduin aktiivisesti välttelemään aurinkoa
+kuin vampyyri. Sen seurauksena kävin Kaisaniemen tokmannilla
+uudelleen, tällä kertaa ostamassa aurinkohatun.
+
+[[https://flic.kr/p/VnURrC][https://c1.staticflickr.com/5/4288/35034867266_b6f3075f5b_z.jpg]]
+
+Lauantaina oli jo tarkoitus koittaa zf-menetelmiä, mutta jänistin ja
+otin muutamia hassuja kuvia sieltä sun täältä. Sitten sunnuntaina
+kofeiinin ja sokeripullan voimin innostuin kokeilemaan kirkkaassa
+valossa tekniikkaa, ja se onnistui pääsääntöisesti oikein hyvin!
+Ihmiset eivät kiinnitä mitään huomiota kameraan, jos minä en kiinnitä
+siihen huomiota. Fuji lepäsi rintani kohdalla ja sormi liipaisimella
+laitoin menemään aina kun jotain kiinnostavaa näkyi jossain. Tuloksena
+tuli kohtuupaljon sylttyä, mutta kuvauskeikan kestoon nähden varsin
+monta keeperiä.
+
+[[https://flic.kr/p/U9HLGJ][https://c1.staticflickr.com/5/4223/34229233874_cfacac4f71_z.jpg]]
+
+Valoisalla asemanaukiolla ei ollut valosta puutetta, mutta taas
+paikoissa kuten Bulevardi on paljon varjoisia kohtia ja Fujifilmin
+auto-ISO:n puutteet tulivat ilmi. Niin pieni asia korjattavaksi ja
+sitten ei. Kiinteä ISO 6400 taas johtaa siihen, että valoisassa
+joudutaan mahdollisesti menemään sähköisen sulkimen puolella ja saada
+epätoivottua "rolling shutteria".
+
+Auto-ISO ja manuaalinen suljinaika on myös hyvä idea, mutta sokkona
+kuvatessa ei ole optimaalinen. Moni kuva ylivalottui kun aurinkoisessa
+1/500 sekuntia on ihan liikaa. Voi kunpa X100T:n sisäänrakennettu
+ND-filtteri voisi myös toimia automaattisesti konjunktiossa auto-ISO:n
+kanssa.
+
+[[https://flic.kr/p/VrrrDX][https://c1.staticflickr.com/5/4211/35074785205_79488445e7_z.jpg]]
+
+Testasin maanantaina Simonkadun Wayne's Coffeeta. Kahvi on geneeristä,
+eikä mitään mitä Kuopion Matkuksen taivaallinen Wayne's Coffee oli.
+Starbucks on taas ollut oikein hyvää joka kerta. Ihmiset aina
+muistavat hokea, että SB on keskivertoa kahvia, mutta aina
+tasalaatuista. Mielestäni se on pikemminkin keskimääräistä parempaa ja
+tasalaatuista. Esplanaadin ökykahvilat on tietty kokeilematta, vaan
+tuskin nyt vähään aikaan.
+
+Kluuvin Pizzarium on mainio paikka nauttia rasvaista pizzaa: kaksi
+palaa on kohtuullinen kympin lounas ja juoma kuuluu hintaan. New York
+Style -pizzaa olisi tehnyt mieli, mutta ei tuo pahaa ollut. Kävin
+sitten vielä jäätelökahvit Kluuvin mäkkäristä. Ulkona tarkeni
+istuskella ja oli mukavaa. Kävin vielä Verkkiksessä ja sitten
+Arabianrannalta Kalasataman kautta Vuosaaren Aurinkolahteen
+iltapäiväkahveille. Sieltä Bulevardille ja pohjoista Eiraa ja
+Eiranrantaa kunnes jalat hajosivat totaalisesti. Iltapalaksi Burger
+Kingiä ja sitten vetäydyin keskeiseen ja samalla rauhalliseen
+Vallilaan. Tämä on samanlainen kaupunkiloma kuin mitä Nykissä
+harrastaisin.
+
+[[https://flic.kr/p/VbX6Nw][https://c1.staticflickr.com/5/4210/34910824342_7504c9e0e5_z.jpg]]
+
+** Leica Q
+
+Maanantaina kävin niin Malmin Topshotissa (hyvä ja iso verkkomyynti,
+todella pieni myymälä: ei mitään kelvollista näytillä) kuin
+Verkkokauppa.comissa. Mielenkiinnosta kävin katsomassa, miten neljän
+tuhannen euron Leica Q istuu kädessä ja että onko se kuten on kehuttu.
+
+Kyllähän se istui käteen aika hyvin ja tarkensi nopeasti ja oli kaikin
+puolin mukava kamera, joskin vähän painava ja iso Fujiin nähden.
+Kirjoittelen Leicasta enemmän joskus toiste, ettei tämä kirjoitus
+vallan paisu.
+
+Vaikka Verkkistä ei kamerakaupaksi mielläkään, oli kameraosaston
+myyjät erittäin asiantuntevia ja jutusteltiin pitkä tovi mukavia
+Leicasta ja Canonista ja muista asioista. Onneksi kortin luottoraja
+esti ottamasta Q:ta "kokeeksi" testiin. Nyt sitten yritän taistella
+valtavaa GAS:ia vastaan.
+
+** Kolea ja paluu
+
+Tiistaina alkoi sitten taas koleus ja kylmyys. Taivaalta sateli
+tihkuvettä silloin tällöin ja aurinko näyttäytyi vain hetkellisesti.
+Kerrospukeuduin kaikenlaiseen, mitä minulla oli mukana, kun mitään
+takkia en ottanut matkalle mukaan. Tämä oli ihan hyvä tekniikka, sillä
+sain ylläpidettyä lämpöä sillä tavoin.
+
+Maanantaina hajotin jalat, ja nyt tiistaina ylikompensoin liikaakin
+turvautumalla paljon istuskeluun busseissa ja ratikoissa. Ei se kai
+mikään pakko ole kaupunkilomaansa viettää puhtaasti jalkaisin.
+
+Katajanokassa, pohjoisrannalla ja Kruunuhaassa pyörin aikani ja sitten
+lähdin käymään Käpylässä puutaloaluetta. Komeata aluetta. Pysähdyin
+Käpylänaukion Pizza Expressissä pizzalla, joka oli kaikkein mauttomin
+ja suolattomin pizza mitä ikinä olin syönyt. Töölössä pyöriskelin
+hieman ja lopuksi otin Seurasaaren bussin edestakaisin aikaa
+viettääkseni. Samalla kävin Kampissa pyörähtämässä matkani ensimmäisen
+kerran. Vettä sateli ajoittain, mutta supermärkää ei ollut.
+
+[[https://flic.kr/p/VeRPBV][https://c1.staticflickr.com/5/4264/34943743831_f04b12c28b_z.jpg]]
+
+Keskiviikkona oli enemmän sateista sitten. Kävin nopeasti Viiskulmassa
+kokeilemassa Brooklyn Cafen tuotokset -- hyväähän se oli. Sitten oli
+aika palata pakkaamaan kimpsut ja kampsut. Ylimääräistä aikaa kun oli,
+poltin vajaan tunnin ottamalla metroajelua Mellunmäkeen ja takaisin.
+
+Junamatkat niin edes- kuin takaisinkin päin olivat hyvin rauhallisia,
+mutta ehkäpä sen takia varsin tylsiä. Pitkä välimatka on selvästi
+Helsinki-vierailujen huonoin puoli!
+
