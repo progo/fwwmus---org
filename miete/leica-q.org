@@ -1,0 +1,190 @@
+#+TITLE: Leica Q: mietteitä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q: mietteitä                             :kamera:leica:fujifilm:
+CLOSED: [2017-06-09 Fri 19:11]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-06-09 Fri 19:11]
+:END:
+
+Helsingin Verkkokauppa.comin kivijalkamyymälässä kävin toukokuussa
+katsomassa kameroita, ja sain kokeilla neljän tonnin Leica Q:ta omin
+käsin. Kamerassa on niin paljon oikeata tunnetta ja käyttömukavuutta,
+että on vaikea pitää samanaikaisesti mielessä, miten paljon siinä on
+hintaisekseen puutteita ja epämukavuuksia, pitkälti tosin makuasioita.
+
+Vertailukohtana on tietty oma Fujifilm X100T; jossain mielessä
+vertailen suoraan myös seuraavaa versiota, X100F:ää, vasten.
+
+** Leica vs Fuji
+
+- Hyvää Leicassa ::
+  - Nopea autofokus
+  - Toimiva kosketus-autofokus
+  - Erinomainen manuaalifokus
+  - Todella terävä EVF
+  - Hieman vähemmän syväterävyyttä kuin Fujissa
+  - Leicamainen piirto objektiivissa
+  - Leicamaisen hienosti toteutettu digikroppi 28-35-50
+  - Optinen kuvanvakain
+- Huonoa Leicassa ::
+  - Hinta (#1)
+  - Värit ja automaattinen valkotasapaino (#2)
+  - Banding-ongelma
+  - Objektiivissa /vahva/ tynnyrivääristymä
+  - Vähän nappuloita, vähän kustomointivaraa (#3)
+  - Painava ja iso (#4)
+  - Ei kaizenia  (#5)
+  - Ei sisrak. salamaa
+  - Ei ND-filtteriä
+  - Salama synkronoi vain 1/500 sekuntiin (#6)
+  - Kovaäänisempi lehtisuljin kuin Fujissa (#7)
+
+** Täsmennyksiä tiivistelmään
+
+1. Hinta: Se, että pokkari maksaa 4 tuhatta ei ole suoraan se ongelma
+   hinnassa; Q on varsin kilpailukykyinen muihin samojen speksien
+   omaaviin kameroihin, esimerkiksi kilpaileva Sony on yli 3 tuhatta
+   euroa sekin.
+
+   Pikemminkin tuntuu, että pokkarissa /ei tarvitse olla/ täyden koon
+   kennoa. Fuji ei jää kamalasti jälkeen, jos lainkaan,
+   kohinansiedossa. Lisäksi Fujin pienempi kenno sallii hiljaisemman
+   lehtisulkimen ja kompaktin ratkaisun optiikalle.
+
+   On totta, että pelkkä Leican Summilux-M 28mm maksaa enemmän kuin
+   koko Q, ja Q:ssa sentään tulee käyttökelpoinen kamera
+   kuvanvakautetun ja autofokusoivan objektiivin lisäksi. Summilux-M
+   pitää hintansa kuitenkin paremmin ja Q:n objektiivi kärsii /isosta
+   tynnyrivääristymästä/.
+
+   Syväterävyyden kanssa Leicalla on pieni etu, mutta kyse on vain 5
+   millimetristä enemmän polttovälissä ja puolikkaasta stopista
+   aukossa. Kenno on toki iso, mutta se on kuin laittaisi ison V8:n
+   autoon, jossa vaihdeväli sallii vain 100 km/h:n vauhdit. Tämän
+   takia hinta tuntuu kovalta.
+
+2. Värit ja AWB: Väri on makuasia, ja moni sanoo Fujia liian
+   karkkiseksi. Kuitenkin yksi asia on, missä kaikki ovat samaa
+   mieltä: Fuji on ihonsävyjen kuningas. Q:ssa on ilmeisesti aika hyvä
+   AWB, mutta ei se Fujia voita kun ollaan keinovalossa. Q:n
+   näytekuvissa on kaikilla ihmisillä eritasoista punotusta naamalla.
+   Renderöinti on ilmeisesti käytännössä sama kuin M240:ssa.
+
+   Noh, ongelmat poistuvat lyhyellä ranneliikkeellä Darktablessa tai
+   Lightroomissa kyllä. Tai suosiolla kuvaa mustavalkoista kuvaa.
+
+3. Fuji tarjoaa erinomaiset säätövarat nappuloihin ja Fujin
+   pikavalikko (Q-menu) palvelee ihan kohtuullisesti. Useimmilla
+   nappuloilla on lisäksi lisäkäyttötarkoituksia eri tiloissa ja
+   riippuen siitä, kuinka pitkään painikkeita painaa. Leica tarjoaa
+   kaksi nappulaa kustomoitavaksi, eikä mitään pikavalikkoja ole
+   luvassa.
+   
+   Leicassa on vastaavasti vähemmän (turhia) ominaisuuksiakin, joille
+   tarvita mitään nappuloita. Oletuksena yksi funktionappula on
+   ISO-herkkyydelle ja toinen on digikropille. Jos kuvaa
+   lähtökohtaisesti raakana kaiken ja raakakäsittelyä ajatellen,
+   AWB:tä ei tarvitse toistuvasti säätää. ISO-herkkyyden voi ehkä
+   kohtuuden rajoissa laittaa myös automaattiseksi. Objektiivin
+   rungossa on säätimet makrokuva-asennolle, aukolle ja
+   MF/AF-asennolle.
+
+   Filosofia on perinpohjin saksalainen vs. japanilainen
+   instrumenttien määrän suhteen. Instrumenttien vähäinen määrä
+   /välttämättä/ kannustaa ottamaan kuvia sen varassa, mitä näkee
+   edessään ja etsimessään.
+
+4. Leica Q on tuntuvasti painavampi kuin Fuji X100T. 640 grammaa vs
+   Fujin 440, eli kolmanneksen enemmän. Q tarvitsee ehdottomasti
+   jonkun laukun, jossa sitä voi pitää kun ei ole kuvaamassa. Minulla
+   nyt sattuu olemaan sellainen.
+
+   Q tuntuu kädessä isolta, isommalta kuin Fuji. Todellisuudessa se on
+   pitkälti Fujin mitoissa ± 0,5 cm. Vain objektiivi työntyy ulos
+   selvästi enemmän, 5 senttimetriä Fujia enemmän. Minulla on toki
+   Fujissa filtteriadapteri ja filtteri, joka vähentää syvyyseroa
+   sentillä. Q:ssa luultavasti käyttäisin joka säällä tyylikästä
+   kulmikasta vastavalosuojaa, joka lisää pituutta usean senttimetrin
+   taas.
+
+5. Leica on ollut markkinoilla reilut kaksi vuotta, ja
+   käyttöliittymään liittyvät pyynnöt ja toiveet on jätetty toiselle
+   huomiolle. Selvästi Fujifilmin kaizen puuttuu Leicalta.
+
+6. Ei edes vähätehoista sisäänrakennettua salamaa, ei ND-filtteriä,
+   Fujia hitaampi flash sync -nopeus kaikki ovat asioita, joita ei
+   osaa kaivata, mutta joita kaipaa sitten. Leican terävä f/1.7 kerjää
+   jatkuvaa käyttöä, joten erillisten ND-filtterien ostaminen lienee
+   sitten paikallaan.
+
+   Täytesalama on asia, jota olen vasta opiskellut ja yrittänyt alkaa
+   arvostamaan. Auringossa otetuissa muotokuvissa se on ollut lyömätön
+   juttu, ja nyt Leica Q pakottaisi ostamaan jonkun erillisen salaman,
+   ja jonka kanssa pitäisi silti kiristellä aukkoa, jotta ollaan
+   synkassa salaman kanssa. Sääli, vaikka nämä puutteet haittaavatkin
+   minua realistisesti ottaen hyvin vähän.
+
+7. Leica käyttää lehtisuljinta, kuten voittajat tekevät. Se päästää
+   huipputyydyttävän naksahduksen ilmoille, kun suljin laukeaa.
+   Valitettavasti se on myös selvästi kovaäänisempi kuin Fujin
+   lehtisuljin. Luultavasti fyysisten mittojen takia näin.
+
+   Fujin käytännössä äänetön suljin on yksi isoin tekijä, mikä tuottaa
+   käyttömukavuutta Fujissa kaikkien muiden tekijöiden ohella. Ulkona
+   ei ole merkitystä, mutta sisällä Q on luultavasti liian kovaääninen
+   makuuni. Tämä seikka voi olla se dealbreaker minulle.
+
+** Mikä saa edes harkitsemaan Q:ta?
+     
+Lyhyen aikani Q:n kanssa Verkkiksen tiloissa löysin kyllä paljon
+positiivista kamerasta. Runko on rakennettu tukevasti ja nappulat ovat
+jämäköitä ja samanaikaisesti saatavilla; Q:ta voisi luultavasti
+käyttää kohtuulliset talvihanskat kädessä uskottavammin kuin Fujia.
+
+Autofokus on nopea ja hiljainen. Kosketusfokus toimii näppärästi,
+joskaan en tarkastanut tarkennuksen tarkkuutta. Selvästi yhteistyö
+Panasonicin kanssa on poikinut erittäin toimivan paketin, kuin Nissan
+GT-R olisi upotettu herrasmiehen Rollsin sisään.
+
+Manuaalitarkennus oli kuin ripaus Leica-taivasta. Tuntuma on välitön,
+kaukana Fujin viipeellisestä toteutuksesta. Toteutus on käsittääkseni
+Fujin tapaan fly-by-wire, mutta moni uskoo sen olevan mekaanisesti
+yhdistetty ja siltä se kyllä äkkiseltään tuntuikin! Todella kirkkaalta
+ja täyteläiseltä EVF:ltä näkee tarkentaa, vaikka fiksusti toteutettu
+focus peaking olisi pois päältä. Kokonaisuus on niin automaattisen
+kuin manuaalisen tarkentamisen kanssa Fujia kirkkaasti edellä.
+
+Q:ssa ei ole optista etsintä, mikä on sääli, mutta fiksusti toteutettu
+digitaalinen kroppitoiminto asettaa EVF:lle samanlaiset "framelinet"
+kuin mitä Leican rangefindereissä on ollut kymmeniä vuosia.
+Nostalgiaa! Ja optinen etsin on jäänyt Fujissakin minulla pitkälti
+käyttämättä, koska Fujin EVF on oikein hyvä.
+
+Yksi seurannaisilmiö Leican huonoissa jpegeissä ja epätäydellisessä
+väritoistossa on se, että se sitten pakottaisi käsittelemään kaikki
+kuvat raakana. Ei sinänsä lainkaan huono idea, koska se on
+kohtuullisen puhdas prosessi: raakakuvat on raakakuvat ja kaikki
+jpegit on johdannaisia. Nyt minulla on fujista niin raakakuvia kuin
+jpeggejä ns. lähdemateriaalina osittain sekaisin. Monia Fujin kuvia ei
+tarvitse parantaa, vaikka monista voisikin puristaa hieman enemmän
+irti raakaversioista. Kynnys korjata lähes täydellistä on aika korkea.
+Fuji tuottaa kromaattista kohinaa herkemmillä ISO:illa, mutta se
+korjataan jpeggeihin mestarillisesti. Leican tuottama kohina vaikuttaa
+olevan vähäisten kokeilujeni jälkeen helpommin hallittavaa ja
+esteettisempääkin.
+
+Q:n objektiivi on samalla varmasti yksi Leican huonoimpia laseja
+(valtava tynnyrivääristymä, mistä syystä reunat ja kulmat ovat
+pehmeitä) mutta samalla siinä on oleellinen Leica-taika kaikki mukana
+kompaktihkossa, automaattisesti tarkentavassa paketissa. Mitenkään
+merkittävästi Q ei tietty voita Fujia syväterävyyden vähäisyydessä (Q:
+28 milliä f/1.7 ja Fuji: 23 milliä f/2.0) mutta Leica on terävä
+täydellä aukolla, myös lähelle tarkennettuna. Iso plussa!
+
+Vaikka 35 kinovastaavan millin kuvakulma puhutteleekin eniten, tuo 28
+on selvästi jotain, johon voi tottua paremmin kuin 50 milliin. Ja
+Leica on kropattunakin 15 megapikseliä, saman mitä Fuji.
+
+Kaikin puolin Leica Q huokuu Fujin tapaan sellaista leikkisyyttä ja
+inspiroi olemaan tuottelias -- mikä on harrastelijan kannalta kameran
+ylivoimaisesti paras ominaisuus.
