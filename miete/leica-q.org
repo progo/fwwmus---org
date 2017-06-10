@@ -35,8 +35,7 @@ vertailen suoraan myös seuraavaa versiota, X100F:ää, vasten.
   - Painava ja iso (#4)
   - Ei kaizenia  (#5)
   - Ei sisrak. salamaa
-  - Ei ND-filtteriä
-  - Salama synkronoi vain 1/500 sekuntiin (#6)
+  - Ei ND-filtteriä (#6)
   - Kovaäänisempi lehtisuljin kuin Fujissa (#7)
 
 ** Täsmennyksiä tiivistelmään
@@ -111,18 +110,35 @@ vertailen suoraan myös seuraavaa versiota, X100F:ää, vasten.
    käyttöliittymään liittyvät pyynnöt ja toiveet on jätetty toiselle
    huomiolle. Selvästi Fujifilmin kaizen puuttuu Leicalta.
 
-6. Ei edes vähätehoista sisäänrakennettua salamaa, ei ND-filtteriä,
-   Fujia hitaampi flash sync -nopeus kaikki ovat asioita, joita ei
-   osaa kaivata, mutta joita kaipaa sitten. Leican terävä f/1.7 kerjää
-   jatkuvaa käyttöä, joten erillisten ND-filtterien ostaminen lienee
-   sitten paikallaan.
+6. Ei edes vähätehoista sisäänrakennettua salamaa, eikä ND-filtteriä
+   mukana Q:ssa. Tämä on sääli, sillä salamatarpeet ovat minulla
+   esimerkiksi niin vähäiset, että sellaista tuskin tulee ostettua.
+   Fujin heikkotehoinen sisäänrakennettu salama on niin versaali, että
+   mitätöntäkin salamaa arvostaisi. Se helpottaisi myös varjoissa ja
+   jälkikäsittelyssä.
 
    Täytesalama on asia, jota olen vasta opiskellut ja yrittänyt alkaa
    arvostamaan. Auringossa otetuissa muotokuvissa se on ollut lyömätön
    juttu, ja nyt Leica Q pakottaisi ostamaan jonkun erillisen salaman,
    ja jonka kanssa pitäisi silti kiristellä aukkoa, jotta ollaan
-   synkassa salaman kanssa. Sääli, vaikka nämä puutteet haittaavatkin
-   minua realistisesti ottaen hyvin vähän.
+   synkassa salaman kanssa. Tavallaan sääli, mutta nämä puutteet
+   haittaavat minua realistisesti ottaen hyvin vähän.
+
+   [[https://www.youtube.com/watch?v=Zjkwhv-xc5k][YouTuben Take]]
+   demonstroi, että Q osaa synkata vastoin myyntitekstejä Fujin tavoin
+   1/2000 sekuntiin asti; ehkä 1/500 sekunnin raja on täydellä
+   aukolla. Fuji pystyy menemään täydellä aukolla yhden stopin
+   pidemmälle. Take kanssa totesi videossa, että Fujin EF-X20 on hyvä
+   perussalama ja toimii Q:n kanssa hyvin yhteen, vaikka minusta
+   kaikki näytti aika vaivalloiselta. X100T:n tuki salamalle on niin
+   hyvä niin awb:n kuin valotuksenkin suhteen! Ei suotta Ken Rockwell
+   kehu X100-sarjan kameroita maailman parhaiksi -- juurikin
+   tämmöisten hyvin toteutettujen tukien ansiosta.
+
+   Fujin kolmistoppinen ND-filtteri on todella kiva, /vaikka en sitä
+   käytäkään/. Olen hyväksynyt että elektroninen suljin saa luvan
+   välttää. Joten jos Q:ssa ei sellaista ole, ei sen pitäisi haitata
+   kamalasti. Filttereitä saa kaupasta.
 
 7. Leica käyttää lehtisuljinta, kuten voittajat tekevät. Se päästää
    huipputyydyttävän naksahduksen ilmoille, kun suljin laukeaa.
