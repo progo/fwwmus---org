@@ -1,0 +1,267 @@
+#+TITLE: Valokuvien workflow'sta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* Valokuvien workflow'sta                                   :fujifilm:kamera:
+
+Vähän ottamieni valokuvien lajittelusta ja luokittelusta. Kuvien
+elinkaari.
+
+** Kuvien ottaminen
+** Kuvat kamerasta
+
+Kuvat siirtyvät kameran muistikorteilta kortinlukijan ja oman skriptin
+voimin. Eräs vanhimpia edelleen käytössä olevia ohjelmiani mounttaa
+muistikortin sisään, etsii ja siirtää kuvat päivämäärän mukaan
+nimettyyn hakemistoon. Tuunaan skriptiä aina uuden kameran tullessa
+taloon, Fujifilmin kanssa olen lisännyt kaikenlaista valmista
+kokonaisuuteen:
+
+- uudelleennimeää kuvat sisältämään kameran nimen ja käytetyn
+  filmiemuloinnin,
+- siirtää raakakuvat pois jpeggien seasta omaan hakemistoonsa,
+- ja kääntää kuvat exif-tietojen perusteella valmiiksi oikein päin.
+
+** TODO Luokittelu ja valikointi
+
+- Iso määrä kuvia
+- Fujifilmin jpegit on yleisesti ottaen todella hyviä
+  - dr200
+  - väriemulaatiot
+- jpegit oletuksena, raakakuvat jos tulee kropattavaa tai pitää
+  pelastaa muuta sisältöä kuvasta
+- otan monesti monta otosta samasta kohtaa, jos valo on huono tai
+  näyttää ruudulla huonolta
+- deleteä  duplikaateille
+- kovat linkit kuvista, jotta liipaisinsormi saa olla jatkossakin
+  herkkä
+
+Fujifilm tekee kamerassa paljon kuville: käytän valmista dynamic range
+-toimintoa, joka antaa kameran alivalottaa yhden stopin verran kuvia
+ja siten valottaa ne niin, että kirkkaat valot eivät ylipala läheskään
+usein. Sama efekti on saavutettavissa ottamalla raakakuva ja
+käyttämällä käytetyn kehitystyökalun /shadow/highlight retrieval/
+-toimintoja. En vain onnistu tekemään raakakuvista lainkaan yhtä
+miellyttäviä kuin Fujin jpeggejä, joten kosken raakakuviin vain
+silloin kun JPEG on valotettu huonosti. Myös kun on tarvetta
+kroppailla kuvaa. (Tähän haluaisin jotain jpeg-painotteista
+workflow'ta.)
+
+Kun kuvaan hankalassa valossa, tapanani on ottaa useita kuvia. Annan
+kameran liikehtiä ja se saattaa laskea minulle uuden valotuksen. En
+jälkikatsele kuvia kamerassa: elektronisella etsimellä näen jo
+kuvanottohetkellä, että valkotasapaino, valotus ja tarkennus on
+jotenkuten onnistunut. Tämä vähentää vähän tarvetta ottaa raakaversiot
+esiin. Se nostaa toki duplikaattien määrää, mutta se on helppo
+ongelma.
+
+- kroppailu ja sen merkkaaminen
+- gqview on hyvä työkalu, mutta puutteita on
+  - usean ikkunan tuki
+  - parempi unix-filosofinen integrointi 
+  - kuvien organisointi huono
+  - seuraava kuva renderöidään valmiiksi, mutta edellistä ei pidetä
+    muistissa
+  - kuvasta toiseen siirryttäessä panorointi- ja zoomiasetuksia ei
+    muisteta. Tämä olisi kiva kun vertailee kahta samasta kohdasta
+    otettua kuvaa keskenään
+  - geeqie vastaavasti yrittää vastata joihinkin kysymyksiin, mutta on
+    kokonaisuutena aika kamala (esimerkiksi käyttökelvoton
+    exif-näkymä)
+  - kaikin puolin gqview on hyvä työkalu, vähän kun käyttää
+    tiedostojärjestelmää apunaan
+- kuvien sisällön tagailu olisi kiva geneerisesti
+- vain Lightroom olisi mielekäs työkalu: Fujifilmin tuella osaa tehdä
+  väriemulointia (joskin RTR ei tule kaukana jäljessä)
+
+** TODO RTR vs DT vs SilkyPix Raw Converter
+
+Kaikissa on omat puolensa.
+
+- DT:lle voi opettaa sääntöpohjaisesti että mitä millekin kuvalle voi
+  tehdä automaattisesti
+- RTR:n flow sallii hyvin nopeasti kuvamassojen käsittelyn, vaikka
+  vähän rasittaakin automaattinen valotuksenkorjaus joskus
+- RTR:ssä toimii CLUT-pohjaiset värimuunnokset (eli käytännössä fujin
+  filmiemuloinnit) siististi, DT:ssä ne tehdään hankalasti ja
+  presettien pohjalta
+- DT:lle löytyy Fujin lasien optiset säädöt, RTR:lle ne pitäisi
+  metsästää jostain, ja sittenkin on epävarmaa että voiko ne laittaa
+  oletuksena päälle...
+- mainitut optiset korjaukset eivät ole 1:1 kameran jpeggien kanssa
+- SRC:ää joutuu tietty ajamaan virtuaalikoneessa, joten ei
+  optimaalinen kokemus
+- SRC:n kontrollit on nimetty vieraasti. Ei puhetta
+  shadow/highlight-korjailuista vaan on jotain omia nimiä käytetty
+
+** Adoben tuotteet
+
+Adobe on niin monella tasolla se luotettu teollisuusstandardi, ettei
+mitään tolkkua. Syy on kanssa selvä: käyttöliittymät osaavat mukailla
+toimivia workflow'ita niin, että asiat tapahtuvat luonnollisella
+tavalla paikoilleen loksahtaen. Nämä ihmiset käyttävät aikaa
+käyttöliittymiin, ja se näkyy.
+
+Esimerkiksi Premiere Pro on paras epälineaarinen videoeditori, (NLE)
+mitä olen käyttänyt. Avoimet eivät tule kaukana jäljessä, mutta
+Premiere on vakaa ja se sisältää kaiken kivassa paketissa. Photoshop
+kuin myös ei ole suotta alan käsite, vaikka toivoisin tietty, että
+ihmiset eivät kokisi tarpeelliseksi varetella koko pakettia lomakuvien
+suoristamiseksi.
+
+Ja sitten tullaan Lightroomiin (LR). LR on sekin loogisesti
+organisoitu ja se antaa hyvät pikasäädöt kuvien tuunaamiselle,
+tarjoten toki kaikkea myös huolellisemmalle säätämiselle. Nopeisiin
+korjailuihin tuunattu kloonityökalu on suorastaan petollisen toimiva
+väline. Sävysäädöt ovat hyvin hienovaraisia, mutta niitä saakin sitten
+käyttää reilulla kädellä ilman pelkoa siitä, että tiedoston rajat
+tulisivat vastaan.
+
+Myöskään en kyennyt todistamaan mitään ongelmia Fujifilmin raf-kuvien
+kanssa Lightroomissa, joskaan ihan läheltä en pikseleitä tiirannut.
+Fujin filmiemuloinnit näkyvät suoraan LR:ssä ja ne on sovellettu
+valmiiksi kuvaan, kuten toivoisi muissakin sovelluksissa. LR:n kanssa
+moni asia toimisi sellaisenaan!
+
+Kyllä sellainen lottovoittajan valinta näissä jutuissa olisi oma
+mediankäsittelylle dedikoitu kone, luultavasti joku 4k-näytöllinen
+Windows-kokoonpano, jossa olisi Lightroom. Ennen kuin näin käy,
+jatkanen jpeg-painotteisella tielläni.
+
+** Uusi versio 
+
+Kuvien ottaminen kameralla on yksi ongelma, kuvien organisointi ja
+jälkikäsittely on toinen. Käyn läpi, minkälainen workflow minulla on
+nykyisin valokuvien käsittelylle ja valikoinnille ja sitten vähän
+tuumailen, mitä voisi tehdä paremmin.
+
+*** Nykyinen workflow
+
+Tällä tavalla käsittelen valokuvia tällä hetkellä. Tekniikka ei ole
+täydellinen, mutta toimii kiitettävästi silloin kun kuvat otetaan
+jpeggeinä ja raakakuvia ei tarvitse käsitellä kovin usein.
+
+1. Tuodaan kuvat kamerasta päivämäärän mukaan nimettyyn hakemistoon.
+   (oma skripti hoitaa)
+2. JPEGit käännetään tagien perusteella ja ne nimetään sopivasti, ja
+   raakakuvat erotellaan omaan hakemistoonsa. (skripti hoitaa)
+3. Ennen valintaprosessia otan jpegeistä varmuuskopiot (kovat linkit).
+4. Käyn kuvat gqview'llä läpi ja poistan surutta kaikki, mitkä eivät
+   ole valokuvina onnistuneita. Duplikaatteja vertailen joskus pitkään
+   jotta paras valikoituu... joskus on vaikea valita kahdesta yhtä
+   suosikkia. 
+5. Merkkaan ylös, mitkä kuvat kaipaisivat vähän käsittelyä,
+   käytännössä käsittelyn tarve on kroppaaminen ja valotuksen korjaus.
+   Fujifilmin kuville ei tarvitse yleisesti ottaen tehdä
+   valkotasapainon korjaamista tai vastaavaa.
+
+   Tämä muistilista näyttää suunnilleen oheiselta:
+
+   #+BEGIN_EXAMPLE
+     crop:
+     3216 
+     3220 
+     ...
+     3482 
+     
+     vaihda kuvat päittäin: 3246 <-> 3249
+     
+     valotus:
+     3262
+     3270
+     3308
+   #+END_EXAMPLE
+   
+6. Kroppaan jpegit jollain häviöttömällä työkalulla. Sopiva työkalu
+   on tosin hakusessa.
+7. Muut jälkikäsittelyt, kuten valotus ja muut jutut sitten
+   Darktablella. Käyn yhden käsittelyä kaipaavan kuvan kerrallaan
+   DT:ssä läpi ja vien ne jpegeiksi.
+
+*** Puutteita workflow'ssa
+ 
+Tekniikka on kymmeniä vuosia vanha, ja sinänsä toimii, sinänsä olen
+tyytymätön joihinkin seikkoihin. Vahingossa poistetun kuvan
+palauttaminen onnistuu varmuuskopiosta, jos olen muistanut ottaa
+kopiot, ja sittenkin minun pitää vähän kaivella että mikä sen
+poistetun kuvan tiedostonimi olikaan.
+
+Häviötön kroppailu on uutta, jota olen alkanut harrastaa. Aiemmin jos
+kroppasin, niin kroppasin raakakuvissa. Suoraan Fujin laadukkaista
+jpegeistä kroppaaminen on tietty mielekästä kun muuta korjattavaa
+kuvassa ei ole. Harmikseni en ole löytänyt hyvin toimivaa työkalua,
+joka kroppaisi kuvia siististi. Joko EXIF-tiedot kadotetaan tai
+frontend on ihan muilta osin surkea. Lisäksi olisi luontevaa kropata
+kuvat suoraan valintaprosessin aikana.
+
+Systeemissä ei ole mitään toimivaa tapaa tagailla kuvia. Isoissa
+kuvaseteissä toteutin minimaalisen tagailuskriptin, joka lisää tagit
+tiedostonimeen.
+
+Vaikka oikeata jälkikäsittelyä vaativia kuvia syntyykin aika vähän
+(esimerkiksi nyt viimeisin lomakeikka Helsingissä tuotti noin 250
+kuvaa ja niistä kolme minä tuomitsin uudelleenmuotoiltavaksi
+raakakuvista) niin useampikin kuva kyllä nauttisi pienistä
+korjailuista.
+
+/Kynnys/ ottaa raakakuva esiin Fuji-JPEG:n sijaan on aika korkea,
+koska Fuji tekee niin hyvälaatuiset filmiemulaatiot, korostusten ja
+varjojen pelastukset, ja kohinanpoistot, että niitä on /vaikea/ saada
+toistettua Darktablessa yhtä esteettisesti. 
+
+Kohina on yksi valitettava probleema. Isoilla herkkyyksillä kuvissa on
+kromaattista kohinaa, joka on puhdistettu kameran jpegeissä kauniisti,
+mutta Darktablella ei ole löytynyt optimaalisia työkaluja tähän.
+Johtuen joistakin tekijöistä saan myös rumia värivirheitä pistemäisiin
+valonlähteisiin ja heijastuksiin Darktablella, mutta tätä esiintyy
+fuji-raakakuvien lisäksi muilla raakakuvilla. Myös menetän mahdollisen
+filmiemulaation ja palaudun oletusväreihin.
+
+*** Lightroom
+
+Ymmärtääkseni Lightroom mukailee Fujifilmin kameran tekemiä
+prosessointeja monella tasolla (väriemulaatiot ovat saatavilla,
+käsittääkseni kohinanvaimennusprofiili on myös). 
+
+*Ironisesti Fujifilm saattaa olla enemmän riippuvainen Lightroomista
+kuin vaikkapa Leica Q.* Olettaen, että kummallekin kameralle saisi
+hyvät kohinaprofiilit Darktablessa, niin silti vain LR tukisi Fujin
+komeita värejä laatikkosuorasti. Q:n kanssa Darktable voi hyvinkin
+olla riittävä työkalu ja Lightroom + VSCO vain mukava optio.
+Harmittavan vähän tosin löytää netistä vertaistukea kummallekaan
+kameralle Darktable-asetuksien etsimisessä. 
+
+Molemmille työkaluille saa filmiemulaatioita, mutta Lightroomille on
+valtava valikoima kolmansien osapuolten maksullisia ja laadukkaita
+plugineita. Neat Image, VSCO ja Perfectly Clear esimerkkeinä.
+Darktablelle saa myös hyvännäköisiä valmistyylejä, mutta ne eivät
+oletettavasti voi pärjätä jokaisessa aspektissa.
+
+Kaikin puolin Darktable on avoimeksi työkaluksi erittäin hyvä,
+joiltain osin Lightroomia parempi työkalu. Ja joiltain osin huonompi.
+Suunnittelufilosofia on hieman erilainen kummassakin, joten
+1:1-suhdetta ei koskaan tulla saavuttamaan.
+
+Lyhyesti kuitenkin jos alustariippuvuudet unohdetaan tarkastelusta,
+juuri tällä hetkellä Lightroom sallii nopeammat workflow't
+kohinanpoiston ja värikäsittelyn päälle, mutta Darktable ei tule
+kaukana jäljessä: riittäisi vain käyttää sitä jonkin aikaa kuvien
+kehittämiseen ja antaa toimivien valmispresettien kertyä.
+
+*** Rauta
+
+Lottovoittokone pelkkään kuvien käsittelyyn olisi ehkä tällä hetkellä
+uusi täysillä spekseillä varustettu Surface Pro (12 tuuman tabletti,
+hyvät värit, täysi Windows-yhteensopivuus) tai peräti Surface Studio
+(isolla kosketusnäytöllä varustettu all-in-one). Siinä ajaisin sitten
+Lightroomia kaikilla hienoilla plugineilla.
+
+Lottovoittoa odotellessa olen alkanut lämmetä kokeilemaan
+virtualisointiratkaisuja uudelleen. Ja vaikka Intel i5 2500k on
+kohtuuvanhana prosessorina huippuhyvä, käytännössä täydellinen
+koodailuun ja kevyeen pelailuun, kuvankäsittelyssä on valitettavia
+viipeitä. Ja kerroinlukoton Intel ei tue parhaita
+virtualisointitekniikoita (VT-d jne.) joten olen vähän tällä hetkellä
+miettimässä joko kerroinlukollista Kaby Lake i7:aa tai AMD Ryzeniä.
+
+Jos hommat toimivat oikein, sellaisella raudalla voisin ajaa linuxia
+edelleenkin isäntänä ja rautakiihdytettyä Windowsia orjana käytännössä
+natiivinopeuksilla. Lightroomin lisäksi voisin lopettaa wine-pelleilyt.
