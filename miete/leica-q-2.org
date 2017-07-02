@@ -1,0 +1,204 @@
+#+TITLE: Leica Q: ostettu
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q: ostettu                               :leica:fujifilm:kamera:
+CLOSED: [2017-07-02 Sun 10:57]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-07-02 Sun 10:57]
+:END:
+
+Ostin sitten tämän Leica Q:n, joka oli vielä paria viikkoa aikaisemmin
+vain "lottovoittokamera" (kuten Fuji oli sitä ennen). 3 tuhatta euroa
+kamerasta, joka on selvästi painavampi, ei sisällä salamaa tai
+ND-filtteriä, ja on pelkistetyn saksalainen, mitä tulee valikoihin.
+Q:ssa on silti myös puolensa. Ensivaikutelmia ensimmäiseltä viikolta.
+
+** Etsin
+
+Q:n etsin on kaikin puolin upea, mutta se käyttäytyy hassusti huonossa
+valossa. Virkistystaajuus heittää, valo heijastelee tunnelin
+sivustoilla rikkoen illuusiota. LCOS-tekniikka ei ole haitannut minua,
+mutta Fujin OLED-etsin ei ole kaukana jäljessä laadullisesti.
+
+** Objektiivi ja kenno
+
+Objektiivi on selvästi ensiluokkainen tynnyrivääristymästä huolimatta.
+Se käyttäytyy hyvin vasta-aurinkoon, se on huipputerävä kaikilla
+aukoilla, ei vinjentoi nähtävästi lainkaan. En kamalasti välitä
+reunojen tai nurkkien terävyydestä, se ei ole merkittävä ominaisuus
+katukuvaamisessa muutenkaan. Fujin optiikan selvästi huonoin puoli on
+sen iso sperikaalinen aberraatio, ilmiö, jota ei Q:n 28 Summilux omaa.
+Tämä on iso homma, koska koko kennon pinta-alan täyttääkseen
+molemmilla kameroilla on oltava kuvaamassa aika lähellä kohdettaan.
+
+Q tarkentaa nopeasti autofokusasennossa ja varsin hiljaa kanssa.
+Kaupungilla selvästi Fujia nopeampi tarkentaja ja ihan
+"DSLR-nopeuksinen" käytännössä. Yllätyksekseni vähässä valossa roolit
+kääntyvät päittäin, ja Q suorastaan matelee tarkennuspisteeseen. Ilman
+tarkennuksen apuvaloa se luovuttaa leikin kokonaan! Myös focus peaking
+lakkaa toimimasta, ja jäljelle jää kuvansuurennustoiminto, joka
+/luultavasti/ toimii kelvollisesti. Fuji ei kamalasti hidastunut
+valosta pimeään siirryttäessä, tämä lienee nyt sitten riemuvoitto
+PDAF-tekniikalle.
+
+Kenno on ollut tyydyttävämpi kuin olisin toivonutkaan. Toki tämä
+kohisee enemmän kuin Fuji, mutta paljon uhattua banding-ilmiötä
+varjokohtien kohinassa ei ole näkynyt lainkaan, millään
+ISO-herkkyydellä. Kuviin voi soveltaa kohinanpoistoa maun mukaan
+alkaen ISO 1250:sta, mutta kaikki siitä alle ovat ainakin ihan jees
+ilmankin.
+
+** Erinomainen kuvanlaatu
+
+Kaikin puolin kennon ja terävän optiikan yhdistelmästä syntyy
+tuloksena kuvia, joita voi kropata selvästi enemmän kuin Fujissa. Jos
+Fujia ja Q:ta vertaa keskenään ilman kroppausaspektia, erot ovat
+paljon vähäisempiä. Mutta kun kyse tulee kuvan rajaamiseen, ylipäätään
+missään muodossa, on Q selvästi kertaluokkaa parempi valinta.
+
+Vaikka perspektiivivääristymää tuleekin valtavasti, ja siihen on vielä
+totutteleminen, kropattavuuden ansiosta 28 millimetriin on ollut kevyt
+ja pehmeä siirtyminen. Nautin polttovälin mahdollistamista otoksista,
+ja 35-millinen kuva odottaa aina innokasta leikkaajaansa. Q:n omat
+kroppimoodit mahdollistavat 15-megapikselisten 35-millisten kuvien ja
+7-megapikselisten 50-millisten kuvien ottamisen -- eli
+35-kroppitilassa Q tarjoaa saman verran megapikseleitä kuin Fuji joka
+tapauksessa!
+
+** Syntyvät kuvat
+
+Q:n automaattinen valkotasapaino on yllättävän hyvä. Hyvin harvassa
+kuvassa on ollut ongelmia. Vähäiset kuvat, mitä olen ottanut, AWB:n
+osumatahti on samaa luokkaa Fujin kanssa, ehkä hieman alhaisempi.
+Missä Q sitten jää Fujista jälkeen, on JPEGgien pakkauslaatu (joskaan
+laatu ei ole ihan kamalin; kohinanpoisto on ihan maltillisesti tehtyä)
+ja toki muut sävynsäätöasetukset. Lisäksi saturaation vähentäminen
+kuvista johtaa oudosti koko värisävyjen muuttumiseen (siniset kuvat
+muuttuvat purppuroiksi).
+
+Teoriassa mitä olen nähnyt, Q:n JPEG:t voisivat olla varovaisella
+työskentelyllä täysin käyttökelpoisia. Q ei tietty tarjoa ihan
+Fujifilmin tasoisia sävynsäätöasetuksia kuville, eikä myöskään
+ominaisuuksia kuten automaattista dynamiikansäätöä. Lisäksi ne vähän
+sävynsäätöasetukset, joita Q:ssa on, ovat hankalasti monen
+valikkokohdan alla. Fujissa niitä voi säätää hyvin notkeasti. Siksi
+pysyttelenen raakakuvissa sikäli kun siitä ei Q:n tapauksessa ole kuin
+hyötyjä.
+
+Q:n väripaletti on hyvin kontrastikas (punchy) ja hyvin lähellä
+Fujifilmin "oletusfilmiä", Proviaa. Siniset toistuvat uskomattoman
+sinisinä ja vihreät puut ovat uskomattomia. Kaipaisin kyllä isosti
+toimivaa Classic Chrome -filmiä edes darktableen, mutta kaikki
+emulaatiot ovat hieman tönkköjä. Sopivan filmin "lataaminen kameraan"
+suoraan kuvanottohetkellä on hieno ja hyödyllinen toiminto ollut
+minulle. Toisaalta minulla on näin päin paljon valinnanvaraa ja
+vapautta kokeilla. 
+
+Fujin vahvuus on luonnollisesti toistuvat ihonsävyt, ja Q ei tule
+lainkaan avuksi niissä -- tämä tekijä on kenties isoin ongelma Q:n
+kuvissa ja syy käyttää raakakuvia.
+
+** Ergonomia ja sulkimen hiljaisuus
+
+Q:n ergonomia jää Fujia jälkeen joissain asioissa, toisissa taas
+ollaan edellä. Kameran ylimääräiset 200 grammaa ja kökkö tuki kädelle
+eivät tunnu hyvältä. Fujin kevyt olemus (vaikka Fujikin tuntui alkuun
+aika painavalta) on paljon mukavampi niin kameralaukussa kuin
+kädessäkin. Q toisaalta antaa tukevammat otteet objektiivin säätöihin:
+kaikki säätimet ovat niin jämäköitä. Lisäksi pienenä vivahteena Q:n
+etsimen lasi on paljon helpompi pitää puhtaana, koska se on yksi
+tasainen lasipinta, versus Fujin kuopassa oleva pyöreä lasi.
+
+Kaupan mukana tuli näppärä peukalotuki Q:lle, mutta tuki ei yksinään
+vielä riitä antamaan riittävästi otetta kamerasta niin, että sitä
+uskaltaisi käyttää ilman hihnaa. Leican oma kaulahihna on hyvää
+nahkaa, nautittava pinta ja kaikkea, mutta se on ensinnäkin aika lyhyt
+hihna, ja toisekseen en kyllä kaulahihnoihin totu. Leica myy myös
+koleata Q:lle kustomoitua holsteria, mutta se ei kyllä istu tyyliini
+myöskään, vaikka teoriassa voisikin olla ihan kiva.
+
+Rannelenkillä mentäneen ja huomenna kokeilen kaupunkikuvailussa, että
+voiko kameraa käyttää pelkän rannelenkin kanssa vai pitääkö
+peukalotuki laittaa takaisin. Otin tuen pois, koska se jotakuinkin
+hankaloittaa suljinajan säätämistä. Ehkä joku sopiva puolilaukku voisi
+tulla kyseeseen, mutta ne ovat aika hinnakkaita, ja vaikea on löytää
+itselleen sopiva, ts. niitä ei kamalasti missään yhdessä
+kivijalkakaupassa ole montaa tarjolla.
+
+Q:n suljin on hyvin hiljainen, vaikka ihan ensituntuma kaupassa tuntui
+kielivän muuta. Se on kyllä Fujia kovaäänisempi, mutta jo vähäisessä
+taustahälinässä se peittyy kaiken muun alle. Kun sen kuulee, ääni on
+tyydyttävä "loks".
+
+** Tuokio Kuopiossa ja Fuji vs Q
+
+Uuden Artisan & Artist -rannehihnani kanssa ajelin Kuopioon. Ilma oli
+todella komea, ilma oli verraten viileätä niin, ettei automatkalle
+läkähtynyt, ja ulkona oli tuulisen ja aurinkoisen toimiva mikstuura.
+Vertailuksi Kuopion tiekelinäytöt ilmoittivat ilman lämpötilaksi +17
+ja asfaltin lämpötilaksi +34 astetta celsiusta.
+
+Ensimmäiset asiat ensin: Fuji toimii kädessä edelleen paremmin, aina
+silloin tällöin kun muistin vaihtaa kameraa saadakseni
+vertailukelpoista materiaalia. Kaupungissa enimmäkseen staattisia
+kohteita kuvatessani kumpikin kamera toimitti tarkennuksen yhtä
+nopeasti. Kovasti liikkuvia kohteita ei tällä kertaa tullut eteen.
+Kaikin puolin kaupunkikokemus oli tällä kertaa tylsä, vaikka samaan
+aikaan itse kaupunki lähetti edelleen paljon positiivisia viboja.
+
+Vaikka teknisesti Q:n LCOS-etsimessä ei ole mitään vikaa, minulle on
+syntynyt siitä sellainen mielikuva, että se ei ei oikeastaan tarjoa
+WYSIWYG-näkymää. Sillä voi pikemminkin vain tarkastaa valotuksen ja
+asettelun. (Ikään kuin WYSIWYG-etsimen pitäisi muuta tarjotakaan...)
+Ehkä etsimen diopter ei ole ihan prikulleen sopiva silmälleni, mutta
+vain osa etsinkuvan keskeltä on terävää ja joudun kääntelemään päätäni
+jonkin verran käydäkseni kuvan reunat läpi. Ehkä etsimen suurennos on
+hieman isompi kuin mitä tällä tekniikalla olisi mukavasti
+saavutettavissa.
+
+Fujin OLED-etsin palvelee vanhaan tapaan hyvin.
+
+Yhtäkään syväterävyydellä leikkivää kuvaa en tainnut napata nyt
+talteen, valtaosan ajasta käytin f/5.6:tta yleisterävyyden nimissä.
+Käytännössä kymppikuvakokoon sommiteltaessa kumpikin, niin Fuji kuin Q
+toimivat. Q:n kuvat ovat toki edelleen ihan muuta toista Fujiin
+verrattaessa -- tämä on iso asia myös tähdättäessä kymppikuviin, koska
+Q:n kuvien kropattavuus on valtaisa.
+
+Kadulla tietysti olisi ehkä kerran kaivannut salamaa, joten se on
+vielä vähän kysymysmerkki, mihin suuntaan vien kuvaustani. Melko
+varmaa on, että minun tavoillani vaikka salama olisikin laukussa
+mukana, sitä ei tulisi otettua käyttöön laiskuuttani kuin vain hyvin
+staattisissa ja selvissä tapauksissa. Pitäisi googlata joku todella
+kompakti salamayksikkö, vaan huvittavasti hakutulokset kyselylle
+"compact flash camera" tuottavat ennustettavasti vain
+muistikorttituloksia.
+
+** Onko Fujifilm X100F sopiva kompromissi?
+
+Fujifilm X100F lupaa 24 megapikseliä, kertaluokkaa paremman
+ISO-suorituskyvyn ja paremmat autofokustoiminnot. Olisiko tämä 1400
+euron kamera sitten fiksumpi valinta ja vaikka se selvästi on parempi
+paketti rahalle, voiko se voittaa Q:n kokonaisuudessaan?
+
+Autofokuksesta olen kuullut ristiriitaisia tuloksia. Teoriassa
+kamerassa on vain softa päivittynyt, objektiivi on prikulleen sama
+kuin kaikissa aikaisemmissa Fujeissa. Se käytännössä kai tarkoittaa,
+että metsästystä tapahtuu vähemmän. Fujia ja Q:ta keskenään
+vertailtaessa metsästämätön fokusnopeus on selvästi Q:n puolella jo
+nyt. Kokeilematta X100F:ää sen kummemmin (jonka saatavuus on edelleen
+heikko) epäilen, ettei se voita Q:ta normaalioloissa. Ja
+manuaalitarkennus on edelleen sama kökkö ja tunnoton rengas.
+
+Sentään automaattinen ISO-herkkyys on korjattu F:ssä ja sille voi
+konfiguroida riittävän nopeita suljinaikoja nyt.
+
+Vaikka minulle Fujin syväterävyys (tai pikemminkin sen puute, silloin
+kun sopii) riittääkin, on Fujin muuten mainion objektiivin
+sperikaalinen aberraatio se ongelma, jota en välttämättä sulata ja
+siksi Q on parempi diili kuin odottaisi. 
+
+X100F voi muilta osin tarjota parannuksia muihin Fujin puutteisiin,
+joita X100T:ssä on: nopeampi autofokus ja enemmän kropattavat kuvat.
+Ideana olisi nyt pysyä joko Q:ssa tai X100T:ssä kunnes seuraava X100
+tulee, josko viimeinkin uudella objektiivilla. X100F jääköön tällä
+kertaa välistä, ellei nyt sitten asiat muutu.
