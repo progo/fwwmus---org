@@ -1,0 +1,53 @@
+#+TITLE: Kameroista ja fysiikasta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kameroista ja fysiikasta                                      :kamera:
+CLOSED: [2017-08-16 Wed 19:38]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-08-16 Wed 19:38]
+:END:
+
+Valokuvaamisen teknisessä taidossa on monia optisia yksityiskohtia,
+joista ihmiset puhuvat keskenään eri medioissa. Useimmat kyllä
+tietävät, mistä puhuvat, mutta eivät toisaalta kommunikoi asioita aina
+ymmärrettävästi. Tästä johtuen jutuissa kulkee erilaisia
+väärinkäsityksiä samoista asioista, ja joskus sellainenkin, joka
+tietää jo arviolta, miten asiat ovat, saattaa mennä uudelleen
+sekaisin. Haluan tarjota keskusteluun oman panokseni.
+
+- Valokuvan perspektiivi tai kompressio ei ole sidottu lainkaan
+  polttoväliin. Kun puhutaan kameran kennon keskelle osuvaan
+  kohteeseen, on tekijänä vain kameran ja kohteen välinen etäisyys.
+
+  Jos halutaan ottaa sama kuva eri polttoväleillä niin, että kuva on
+  samalla tavalla täynnä kuvattavaa kohdetta, on lyhyemmällä
+  polttovälillä kuvaajan oltava kohdetta lähempänä ja täten
+  perspektiivi on erilainen.
+
+- Kameran kennon ja polttovälin ja aukkoluvun välinen korrelaatio.
+  Moni ymmärtää, että isompikennoisella kameralla saa pienemmän
+  syväterävyysalueen, kun linssi pysyy samana. Teknisesti ottaen
+  kameran kenno on vain objektiivin tuottaman kuvaympyrän fyysinen
+  kroppaus, ja kuka tahansa voi paintilla todeta, että olemassaolevaa
+  kuvaa keskeltä kroppaamalla sen syväterävyys ei muutu mihinkään.
+
+  Siispä kaikki aukkoon ja kennon kokoon liittyvä skeida liittyy
+  todellisuudessa siihen, että kennon kroppifaktori muuttaa vain
+  sitä, miten paljon tavaraa mahtuu kuvaan. Kroppikameralla saman
+  kuvan ottaakseen täytyy ottaa askelia taaksepäin, jolloin täytyy
+  myös tarkentaa kauemmaksi. Tästä en ole ihan varma, mutta oma
+  mutu-tuntuma sanoisi, että kauemmaksi tarkennettaessa
+  syväterävyysalue on yleisesti ottaen isompi. Melkein jokaisesta
+  kennosta ja lasista saa puristettua hyvää bokehia ulos, jos
+  tarkennetaan lähelle täydellä aukolla, puhelimia ja pokkarikameroita
+  myöten.
+
+  Ja optiikan polttoväli ei missään nimessä muutu sen mukaan,
+  minkäkokoisen kennon eteen se lasi laitetaan. Moni vaihtelee
+  polttovälejä sujuvasti tekstissä riippuen siitä, minkäkokoisista
+  kennoista mahdetaan puhua, mutta kaikki tämä on omiaan luomaan
+  hämäännystä. Itse yritän aina puhua oikeista polttoväleistä ja
+  sitten puhun kinovastaavista polttoväleistä (joissa on siis
+  kroppikerroin laskettu mukaan). Kinovastaava polttoväli on
+  käytännössä kuvakulman suuruutta mittaava suure. Teknisesti ottaen
+  olisi parasta, jos alettaisiin puhua kuvakulmista polttovälien
+  sijaan, mutta vakiintuneet termit ovat vakiintuneita.
