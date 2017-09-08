@@ -15,6 +15,7 @@
     color: white;
     font-size: 30pt;
     margin: .6em;
+    text-decoration: none;
 }
 
 /*** BODY + main things **/
@@ -70,7 +71,7 @@ a {
     color: #dedb73;
 }
 
-a:hover {
+#main a:hover {
     color: black;
     background-color: #dedb73;
 }
