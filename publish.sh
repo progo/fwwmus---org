@@ -9,7 +9,7 @@ SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 TEMPDIR='/home/progo/temp/blog_out/'
 CODEDIR='/home/progo/koodi/blogen/'
 ORG_DIR='/home/progo/dokumentit/blog/'
-GITREPO='/home/progo/dokumentit/fwwm.us/'
+MIRROR='/home/progo/dokumentit/fwwm.us/'
 
 #SERVER_PATH='/www/'
 #CONFIG='/home/progo/dokumentit/blog/fwwm.clj'
@@ -40,17 +40,27 @@ wait
 cd "$TEMPDIR"
 find -wholename '*ltxpng/*.png' -exec "$SCRIPTDIR/__publish_negate.sh" {} \;
 
+#### The kapsi version right here
+rsync -a . "$MIRROR"
+
+cd "$MIRROR"
+rsync -a . mipu@lakka.kapsi.fi:sites/fwwm.us/www/.
+
+exit 0
+
+#### The github pages version found below.
+
 # Finally, make a commit and push
-cd "$GITREPO"
+cd "$MIRROR"
 git checkout gh-pages
 
 cd "$TEMPDIR"
-rsync -a . "$GITREPO"
+rsync -a . "$MIRROR"
 
 ## FYI: this is going to be problematic if something sensitive lies in
 ## the wrong directory...
 
-cd "$GITREPO"
+cd "$MIRROR"
 git ls-files --deleted -z | xargs -0 git rm >/dev/null 2>&1
 git add -A
 COM_MSG=`date +"Automated publish commit %F-%H%M%S"`
