@@ -44,7 +44,7 @@ find -wholename '*ltxpng/*.png' -exec "$SCRIPTDIR/__publish_negate.sh" {} \;
 rsync -a . "$MIRROR"
 
 cd "$MIRROR"
-rsync -a . mipu@lakka.kapsi.fi:sites/fwwm.us/www/.
+rsync -av . mipu@lakka.kapsi.fi:sites/fwwm.us/www/.
 
 exit 0
 
