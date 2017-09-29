@@ -1,0 +1,207 @@
+#+TITLE: Leica Q: 3 kuukauden jälkeen
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q: 3 kuukauden jälkeen                   :leica:fujifilm:kamera:
+CLOSED: [2017-09-29 Fri 21:09]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-09-29 Fri 21:09]
+:END:
+
+Leica Q on ollut taloudessani pääasiallisena kamerana nyt 3 kuukautta.
+Tässä ajassa olen ehtinyt tehdä pienimuotoista vertailua Fujifilmin
+kanssa, oppia raakakehityksen salat Darktablella ja uudelleenoppia,
+ettei bokeh ole kaikki kaikessa.
+
+Kun Q oli uusi tulokas talossa, siinä tuntui olevan kaikki
+kondiksessa. Salamannopea autofokus, hyvät ulkoiset säädöt, mutta
+vähänpuoleisesti nappuloita ja yleistä säätövaraa valikoissa.
+
+Ajan saatossa tuli huomattua, ettei autofokuksen nopeus nyt ihan
+mitään DSLR-tasoa ole, vaikka kelvollinen onkin. Erittäin hämärissä
+oloissa hitaampana kokemani Fujifilm X100T menee ohitse, kiitos
+PDAF-pisteiden.
+
+Q:n nappuloihin olen tottunut, tai, mitä totuttelemista niissä nyt on.
+Isoin sääli on, että vähistä napeistakin 3-4 on sellaisia, joita en
+käytä ikinä, koska ne on sidottu ominaisuuksiin joita en tarvitse
+kameralta. Sen sijaan valikkoon on piiloteltu ne pari ominaisuutta,
+joita käyttäisi mielellään useamminkin ja nopeammin. 
+
+** Bokeh-pelleily
+
+Kun ensin Q:n sain, olin tietty ihan äimänä miten terävä se on
+täydellä aukolla. Edelleen ihmettelen tietty ajoittain sitä. Kuitenkin
+tunnollisena kuvaajana halusin maksimoida kuvien terävyyden ja otin
+yleisesti kuvia f/5.6:lla paljon. Kotona nämä kuvat sitten jotenkin
+tulivat ulos kovin tylsinä ja tasapaksuina, elottomina kuvina.
+
+Ajattelin että nämä kuvat näillä aukoilla eivät eroa isosti
+Fujifilmillä saatavista kuvista, joten nostetaan panoksia ja kuvataan
+ja pelataan Q:n vahvuuksilla. Kaikki täydellä aukolla! Q:n lasihan
+renderöi epäterävyysalueet maksimiaukolla kuvatessa erinomaisella
+karakteerilla, joka ei ole kliinistä. No, tällä kertaa minulla on
+käsissäni paljon kuvia, joissa on tarkkana yksi subjekti ja loput on
+pinnallista silmäkarkkia. Missä minun kontekstini ja tarinani?! 
+
+Ymmärsin viimein, että jos otan kuvan, niin siinä on oltava asioita
+niin edessä kuin takanakin. Ja syväterävyys valitaan sen mukaan.
+Uusimmalla kuvauskeikallani Kuopiossa vietin paljon F8:ssa ja muutama
+F/1.7-kuva tuli kanssa valotettua. Sisältö ratkaisee, ei
+syväterävyysalueen pienuus.
+
+** Q²: toivelista
+
+Puute- ja toivelistat jossain vaiheessa tulevalle Q:n seuraajalle.
+Tämä seuraaja on todennäköisesti 2-4 vuoden päässä.
+
+- Aloitetaan jollain, joka on täydellinen, ei omaa puutteita tai
+  herätä toiveita. Objektiivi, 28/1.7, saa pysyä. (Jos koossa tai
+  terävyydessä ei kompromisoida, 28/1.4 olisi kiva.) Lasissa on tasan
+  nolla valittamisen arvoista asiaa. Polttoväli on makuasia.
+- Jos lasia on välttämättä lähdettävä muuttamaan, olisi sellainen
+  tri-Elmar 28/35/50 f/2.8 ihan mielekäs idea, jos koko ei vain
+  fyysisesti kasva.
+- ISO-nappi kustomoitavaksi. Olen käyttänyt Q:ta AUTO-ISO:lla
+  ensimmäisestä päivästä lähtien. Ei valittamista AUTO-ISO:n
+  toimivuudessa.
+- Mahdollisuus togglettaa kuvanvakain päälle/pois jonkin napin taakse.
+  Tai edes /joku/ etäisesti järkevä tapa säätää tätä nopeasti.
+- Pakatut raakakuvat. Säästäisi hieman tilaa varastolevylläkin.
+- Nopeampi pääsy AF-vaihtoehtoihin: jos AF-alimenun saisi jonkin
+  kustominapin taakse, olisi bueno.
+- Mahdollisuus resetoida AF-piste keskelle sokkona. Kun strollaan
+  kaupungilla niin olisi kiva kyllä sokkona saada se resetoitumaan
+  johonkin ennakoitavaan pisteeseen, vaikkapa sitten keskelle.
+  Fokuspisteen vaihtamiseenhan Q:ssa on toki jo nyt Fujia paremmat
+  instrumentit, mutta ennakoitu sijainti olisi toki paras.
+- Etsimeen parempi valotuksen esikatselu kun täysmanuaali. Etsimen
+  käyttämä valotus eroaa todellisista asetuksista aika paljon, etenkin
+  jos kuvaa manuaalilla ja todelliset asetukset ovat päin honkia. Olen
+  missannut yhden tilanteen kun etsin ei varoittanut ylivalotuksesta
+  kuin vasta kuvaushetkellä, ja oli liian myöhä ottaa toinen kuva.
+- Sisäänrakennettu salama. Q:n kanssa on helppo olla /available light/
+  -kuvaaja, mutta ei sellainen minitehoinen salama kyllä haittaa
+  tekisi.
+- Fujimainen valotuksen kompensointi -rulla. Voi hitto kun tuo Q:n
+  EC-rulla ei tyydytä läheskään niin kuin Fujifilmin harrastama
+  dedikoitu rulla tekee. 
+- PDAF-tarkennuspisteitä kontrastitunnisteisen autofokuksen lisäksi.
+  Näin nyt ainakin yli- ja alivalottuneissa tilanteissa olisi joku
+  johdonmukaisuus tarkentamisessa. Talvi ja pimeä tekee tuloaan, joten
+  tämä on luultavasti korostuneessa roolissa seuraavien 5 kuukauden
+  ajan.
+
+** Fujifilm X100T
+
+Fujifilm on ollut auttamattoman vähällä käytöllä juhannuksen jälkeen.
+Ymmärtäähän tuon, muistaessamme kuinka minä olen yhden hyvän työkalun
+mies. 
+
+Fujifilm, tuo niin väreistään pidetty nimi, jää paikoitellen Q:n
+jalkoihin kun Q antaa niin hyvän väripaletin minulle työstettäväksi ja
+olen tottunut ja oppinut nyt soveltamaan väriä ja filmiemulaatiota
+kuville jälkikäteen Darktablessa. Ja erilaisia väriemulaatioita on
+niin monia mistä valita! Fujilla käytännössä puhutaan viidestä
+filmiemulaatiosta, joita käyttää.
+
+Mutta nuo Fujin värit ovat Leican jälkeen paikoitellen jopa liian
+karkkisia. Olen menettänyt sokerihampaani Fujin emuloimalle Velvialle
+(oikea Velvia tai mitä voi Darktablessa tehdä on edelleen makoisa) --
+Fuji polttaa värejä niin herkästi puhki jos niitä korostaa liikaa, tai
+jotain. Fuji on edelleen värin kuningatar etenkin ihonsävyissä. Se on
+vain fantastinen taikakone.
+
+Valkotasapaino on Q:ssa jopa ehkä parempi kuin Fujissa, mutta ehkäpä
+en ole ottanut tarpeeksi vielä kuvia keinovalaistuksessa (nämä kolme
+kuukautta ovat olleet valoisia kesäkuukausia), joten palataan asiaan
+myöhemmin.
+
+Fujin heikkoudet ovat hyvin mielessä, mutta osa heikkouksista on omaa
+mielikuvituksen tuotetta, artifakteja siitä tosiasiasta että olen
+kuvannut liian paljon Q:lla ja liian vähän Fujilla juhannuksen
+jälkeen. Esimerkiksi Q:n ylivoimainen kuvanlaatu totutti hyvään ja
+ennenpitkää minulla alkoi olla mielikuvia, että Fuji hädintuskin
+pärjäisi kännykkäkameroita vastaan.
+
+Ihan irrationaalisesti hämmästyin kun katselin tammikuisia Fuji XT1
+-kuvia ja viimekesäisiä NYC-kuvia (X100T), ja miten teräviä ne ovat ja
+väririkkaita /hyvällä tavalla/ ja miten kaikki on niin sopivasti
+tarkkana. Leica Q on omassa luokassaan, mutta se ei tarkoita, että
+X100T olisi jotenkin taianomaisesti pudonnut iPhone-luokkaan.
+
+Fujifilmin /dynamic range/ -ominaisuudelle täytyy nostaa hattua.
+Leican kanssa olen saanut oppia alivalottamaan kuvia ihan itse ja
+nostamalla varjot takaisin jälkikäsittelyssä. Ei sinänsä työlästä,
+mutta Fuji tekee saman erinomaisella käsittelyn laadulla niin hyvin,
+ettei tosikaan. Plus tässä on se etu, että kamera alivalottaa, mutta
+näyttää silti etsimessä edelleen normaalin valotuksen.
+
+** Kohina
+
+Fuji on toki sellainen ihmelaitos, mikä tekee oikein mainiosti kohinan
+suhteen. Herkkyyden ja sen sellaisen suhteen sen on tietty vaikea
+kilpailla isompikennoistaan vastaan. 
+
+Leica Q tuntui tietysti alkuun, että tämä ei voi kilpailla Fujia
+vastaan kohinan laadussa tai määrässä, olihan se mielikuva että Fuji
+on about aallonhuipulla kennotekniikan suhteen. Q:lla on takanaan
+kokoylivoima ja iso ja peljätty banding-ongelma ei tule vastaan järin
+usein lainkaan. Q:n tuottama kohina on todella miellyttävää kaikin
+puolin. Se on hienojakoisuudessaan paljon filmimäisempää kuin mikään
+filmikohinan emulaatio. Joskus ihan tekisi mieli nostaa tahallaan
+herkkyyttä valoisassakin että saisi vähän kohinaa kuvaan.
+
+Isoilla herkkyyksillä kohina on tietty ikävää kuin mikä, /jos/
+lopputuloksesta on tultava värikuva. Jos mustavalkokuva kelpaa, niin
+sitten mitään rajoja ei taida olla. MV:ksi käännetty kohinakuva on ilo
+silmälle, joskin taidan uskoa että Fujifilm X100F + ACROS ISO
+12500:lla on paremmannäköinen kuin Q ISO 12500:lla. Pitää tässä
+testata talven pimeinä.
+
+** Zone focus
+
+Ironisesti Q:n piti olla parempi ZF-kamera sen fyysisten
+instrumenttien ansiosta, mutta totuus on, että Q:n objektiivin
+ylimääräiset viisi millimetriä tekevät hommasta paljon vaikeampaa.
+
+Toinen homma on tuo Q:n etupainoisuus ja yleinen etätasapaino
+vasemmalle päin. Kuvat tahtovat olla kaikki vinossa. Fujilla tasapaino
+on parempi ja kuvat ovat ihan luonnostaan suorassa.
+
+Hyvä uutinen on se, että tarpeeksi harjoiteltuani näistä asioista
+pääsee eroon, ja vielä pidemmälle kuin Fujilla. Kiitos leicamaisen
+focus-tabin, voin sokkona oppia tarkentamaan lasin kohteen mukaan.
+Tabi osoittaa kello kuuteen, olen ottamassa lähikuvaa 50-60 sentin
+päästä; tabin vieminen äärilaitaan (n. klo 4) niin olen äärettömässä.
+Fujilla tämä ei vain onnistu, ja aina pitää kanssa varoa ettei
+vahingossa tule säädettyä fokusta. Ehkä pitää ostaa Q:lle sellainen
+minivatupassi salamakenkään seuraavana kesänä niin saa kuvat
+suorempana kamerasta ulos.
+
+Mutta kaikin puolin, Fujin huono ja tunnoton focusrulla on verraten
+parempi kuin odotin. Pienempi kenno ja 5 milliä lyhyempi polttoväli
+sen tietty tekee.
+
+** Fujin tulevaisuus
+
+X100T on perin nokkela kamera, jossa on lähes kaikki asiat kunnossa.
+Kuvanlaatu, värit, automaattiset avusteet. Classic Chrome.
+Umpihiljainen lehtisuljin. (Vrt. Q:n vain hiljainen lehtisuljin.)
+Erinomainen pikkusalama ja modernille kameralle ominainen täyteläinen
+TTL-laskenta. Kaikin puolin hintaisekseen todella mainio kamera.
+
+Mutta mitä hinta-laatusuhteella tekee jos on vara ostaa kallein ja
+paras? Valitettava totuus puhuu puolestaan: Fuji on maannut
+kameralaukussa ilman toimintaa juhannuksesta lähtien. Ja ne harvat
+kerrat kun otin Fujin käyttöön, en pitänyt syntyneistä kuvista
+lainkaan! Olin jo tottunut Q:n väripalettiin ja
+darktable-jälkityöprosessiin.
+
+Harkinnassa on, että panen semiraskain mielin Fujin myyntiin ja saatan
+kelpuuttaa vaihdossa Fuji X70:n tai Ricoh GR:n. Ricoh olisi
+kiinnostava kokemus sen /snap focus/ -ominaisuuden takia, ja lisäksi
+Leican tapaan Ricohia pitää kuvata raakana: työprosessi olisi
+valmiina. Villikortti olisi toisaalta myydä X100T ja hankkia X100F
+testiin. Äffä olisi kuulema ratkaissut muutaman huonouden T:stä pois
+ja kropattavuuttakin olisi tullut lisää, mutta se on rahanmenoa
+väärään suuntaan. Q poisti GAS:ni ja se on pysynytkin poissa nämä
+kuukaudet tässä!
