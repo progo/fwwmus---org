@@ -1,0 +1,29 @@
+#+TITLE: Kuvagalleria on avattu
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kuvagalleria on avattu                                          :blog:
+CLOSED: [2017-10-08 Sun 20:33]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-10-08 Sun 20:33]
+:END:
+
+Osoitteessa [[http://fwwm.us/gallery]] pyörii nyt staattinen
+valokuvagalleria. Sisältöä lisään sinne nyt ajan kanssa aina kun käyn
+kameran kanssa paikoissa, ja lisäksi hiljalleen retroaktiivisesti
+vanhoista arkistoista.
+
+Sisältö on kuvapainotteista ja muu alisivuston sisältö on englanniksi
+ulkomaalaisaudienssia varten. Kuvat on pääsääntöisesti yritty
+generoida niin, että EXIF-tiedot säilyvät mahdollisimman uskollisesti
+kiinnostuneiden varalle. Jotkut Fujifilmillä otetut JPEG:t
+kropattaessa hävittävät infot, joten muutama sellainen tulee olemaan
+joukossa.
+
+Oma galleria käy järkeen, koska Flickr ja 500px ovat molemmat menossa
+lievään alamäkeen, eikä Instagram Facebookin alamaisena nyt kiihota
+sekään. Tällä tavalla kuvat säilyvät omassa hallussani, eivät missään
+pilvessä, ja voin hallinnoida niiden näyttötapaa ja muita tekijöitä.
+Olkoonkin, että puhelimilla tuo gallerian voimanpesänä toimiva
+PhotoSwipe-kirjasto ei nyt toimi ihan täydellisesti.
+
+Uskotteko, että tämmöinen galleria kaipaisi parempaa jäsentelyä,
+vähemmän traagista ulkoasua tai mahdollisesti kommenttipalstaa?
