@@ -1,0 +1,288 @@
+#+TITLE: Sätös vol 3: Helsinki Drift
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sätös vol 3: Helsinki Drift                       :asunto:autot:sätös:
+CLOSED: [2017-10-15 Sun 20:34]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-10-15 Sun 20:34]
+:END:
+
+Auto on taas viettänyt tänä kesänä jonkin verran kallista aikaa
+verstaalla ja ryhdyin miettimään, että onko työmatka-autoilu niin
+kallista, että kallisvuokrainen asunto + työpaikka Helsingissä voisi
+tulla kokonaisuudessaan halvemmaksi kuin jatkaa asumista täällä
+metsässä?!
+
+Tehdäänpäs taulukko oikeita/realistisia lukuja käyttäen:
+
+|                            | Helsinki | Sätös |
+|----------------------------+----------+-------|
+| Vuodessa                   |   12 612 | 9 070 |
+| Kuukaudessa                |     1051 |   756 |
+|----------------------------+----------+-------|
+| Liikenne                   |          |       |
+| - julkinen                 |     (50) |       |
+| - auton huolto+vakuutukset |          |   164 |
+| - ajoneuvovero             |          |    21 |
+| - polttoaine               |          |   192 |
+| - työmatkavähennys + verot |          |   -77 |
+| Vuokra                     |      990 |       |
+| Vuokra                     |          |   370 |
+| Jäte                       |          |  5,30 |
+| Vesi                       |       21 |  2,50 |
+| Sähkö                      |       40 |    91 |
+
+Erotus on olemassa, ei kovin pieni, muttei suurensuurikaan: 300 euroa
+ilman kuukausittaista HSL-lippua ja 350 euroa lipun kanssa. Laskelman
+vuokra on asetettu suureksi, jotta tavoitteena olisi muuttaa
+etelä-Helsinkiin kävelymatkan päähän töistä. Näin säännöllistä
+HSL-lippua ei tarvita. Omia suosikkialueitani olisivat tällä hetkellä
+Punavuori ja Ullanlinna.
+
+Tarkastellaan ensin kuluja pelkkinä numeroina ja sitten vähän
+tuntemuksia lukujen ulkopuolelta.
+
+** Kulut paperilla
+*** Autoilun kulut
+
+Taulukossa näkyy asioiden laita: auton pitäminen on kallista. Luvut
+ovat 24 viimeisimmän kuukauden keskiarvoja. Puhtaasti lukuja
+katsomalla autoileva ei voita. Vaikka tarvitsisinkin säännöllistä
+HSL-kuukausikorttia ja sen lisäksi vielä semisäännöllistä
+taksimatkailua tai Uberia, niin näillä menoilla tullaan hädintuskin
+vasta yksityisautoilun polttoaineiden tasolle.
+
+Siihen päälle sitten vielä kaikki muu! Pelkästään keväinen yllättäen
+ilmentyneen kytkinongelman huolto maksoi saman verran mitä HSL:n
+*rajaton vuosilippu* maksaa! Kauas ei jääty kuluissa katsastushuollon
+yhteydessä tehtyjen pikkuhommien kanssa.
+
+Työmatkavähennyksen luomaa verokevennystä olen arvioinut
+veroprosenttilaskurin avulla. Syntyneessä veroedussa on huomioitu myös
+kunnallinen verotustaso, joka on Helsingissä kovin kevyttä Outokumpuun
+verrattuna. Muuten etua Okun hyväksi olisi tullut paljon enemmän.
+
+*** Asumisen kulut
+
+Sähkönsiirron hinnat nousevat alati, mutta yllättävän halvalla näyttää
+silti keskimääräinen kuukausi menevän. Käytetyt luvut ovat
+viimeisimmän 24 kuukauden keskiarvoja, sisältäen energian ja siirrot
+veroineen. Poltan omien metsieni ilmaista puuta siinä sivussa, ehkä
+jokaisena vuotena hieman enemmän kuin edellisenä.
+
+Sätöksessä on halpaa vettä, vaikka laskelman veden hinnassa ei olekaan
+huomioitu vedenlämmitystä, mikä on todellinen syy siihen, miksi
+kerrostaloissa vesi maksaa. Lisäksi täällä ei tarvitse maksaa
+jätevesimaksua, koska kaivo on oma (kaivon tyhjentäminen olisi 4-8
+euroa kuukaudessa riippuen käytöstä, jos se pitäisi itse maksaa).
+
+Kerrostalossa oletan, että lämmitys sisältyy vuokraan, ja että
+ylimääräisille sähkölämmittimille ei ole tarvetta. Silloin sähköntarve
+on yksinkertaista valojen ja elektroniikan päälläpitoa. Arvioin lukua
+silti yläkanttiin varmuuden nimissä.
+
+Puhelin- ja nettiyhteydet ovat suurinpiirtein samaa hintaluokkaa,
+eivätkä kamalasti eroa asuinpaikan mukaan, joten sitä en ole lisännyt
+näihin kuluihin.
+
+** Hypoteettisia kuluja
+
+Näitä lukuja ei ole käsitelty paperilla, mutta teoriassa jotkin näistä
+asioista voivat kasaantua uusiksi menoiksi.
+
+Helsingissä on paljon erilaisia kahviloita, herkkuravintoloita ja
+valikoimaa kotiinkuljetuksineen. Muutama ravintolapäivä satunnaisina
+perjantoina tekee heti 50 euroa lisää kuukauden menoihin.
+Hypoteettisia nämä hommat, koska saitailen syömisten suhteen. En käy
+Okussakaan kamalasti kebabeilla näinä päivinä, enkä Joensuussakaan
+töiden päälle. Mutta joskus kun on nälkä, niin tekisi mieli syödä
+roskaa, vaan kukaan ei toimita tänne metsään, joten ei tule asioitua.
+Ei toimi Hesessä. Ja lisäksi silloin kun asuin Joensuussa, silloin
+tuli kyllä asioitua silloin tällöin...
+
+Lähiruokakaupat voivat olla Punavuoressa jotain todella pieniä
+paikkoja, ja jos niissä innostuu asioimaan, voi ydinkeskustan
+hintalisä olla selkeä kuluerä. Varmaan sopivia ja edullisia paikkoja
+löytyy kyllä kodin ja työpaikan välillä, jossa optimoida, mutta silti
+kannattaa miettiä, voiko etelä-Helsinkiläinen pieni maanalaisässä
+hintakilpailla Joensuulaisen automarket-Prisman kanssa. (Tämä ei ollut
+retorinen kysymys; Helsingissä voi olla logistisista tai
+aluepoliittisista syistä halvempaa kuin Joensuussa. En vain tiedä
+juuri nyt.)
+
+Sillä oletuksella, että vastaisuudessakin matkustan ulkomaille kerran
+vuoteen, matkat Sätöksestä Helsinkiin lennoille jäävät pois
+Helsingissä asuessa, tämän edun arvo on noin 50 euroa / vuosi. Tilalle
+toki tulevat matkustelut kotipuoleen ehkä 2-3 kertaa vuodessa: 100
+eur/vuosi lisää. Joten tappiolle tässäkin suhteessa.
+
+** Edut ja haitat
+
+Taulukko siis kertoo meille, että numeroina Sätös voittaa Helsingin,
+eikö? 300-350 euroa vähemmän menoja, ei ole mikään pieni säästö se.
+Mutta jokinhan tätäkin asiaa kirvoitti tutkimaan ja tätä blogiviestiä
+kirjoittamaan. Tutkitaan, mitä mieltä minä olen Helsingistä, pohjana
+ne vähähköt päivät joita olen kaupungissa nukkunut ja viettänyt.
+
+*** Helsingin edut
+
+*Autottomuus on aika iso juttu.* Ruostuvan peltikasan omistamisesta on
+aika paljon päänvaivaa minulle, vaikka huoltojen budjetointi ja
+ennakointi alkaakin olla hanskassa. Vaikka näin onkin, Helsingin
+Seudun Liikenne kuljettaa varsin halvalla paikasta toiseen varsin
+kookkassa liikenneverkossa.  
+
+Auton omistaminen on yksi asia, liikenteessä oleminen on toinen. Minun
+ei tarvitse bussissa istuessani miettiä muita liikenteessäolijoita,
+kaikkia törttöilijöitä ja muita. Voin käyttää korvanappeja ja
+omistautua musiikille paljon hifimmin kuin mitä halvassa autossa
+pystyy tekemään. Parhaassa tapauksessa työmatka taittuu kotoa
+toimistolle puoleen tuntiin kävellen, jolloin päivittäinen
+hyötyliikunta tulee yhdistetyksi työmatkaan.
+
+*Valokuvaharrastukselleni* isompi kaupunki toimii paremmin. Sätöksessä
+ei kamalasti pääse ottamaan katukuvia ellei aja kuutta/50:tä/100:aa
+kilometriä ensin lähimpään isompaan väestökeskukseen. Se on aikamoinen
+kynnys toisinaan. Helsingissä parhaassa tapauksessa kävellen tehdyn
+työmatkan varrella ehtii napsia parhaat katukuvat päivittäin.
+Tylsäksihän ne matkat muuttuvat ennen pitkää, se on varma, mutta
+Suomessa ei ole toista yhtä hyvää paikkaa katukuvaukselle.
+
+*Sosiaalinen elämä* näyttelee myös pientä roolia. Tuntemani ihmiset
+gravitoituvat kohti etelä-Suomea ja sähköiset yhteydet eivät aina
+riitä. Tuntemieni ihmisten lisäksi uusien tapaaminen esimerkiksi
+harrastetapaamisten merkeissä on luontevampaa. Myös kaupankäynti
+helpottuu hieman.
+
+*Paremmat työpaikat* ovat selvästi iso homma sovelluskehittäjälle. Ei
+pelkästään palkat ole pykälää korkeampia, vaan työpaikoista on ihan
+valita omien mielenkiintojen mukaan. Saa tehdä Clojure-kehitystä!
+
+*Helsingissä on paljon kilpailua kaikissa palveluissa*, parturoinnissa
+ja siivouksessa nyt esimerkkinä. Kattava valikoima siivouspalveluita,
+joilla saa teetettyä kämppänsä puhtaaksi ja samalla tehtyä itselleen
+kotitalousvähennystä! 
+
+*Nettiyhteydet ovat ehkä samanhintaisia kaikkialla suomessa, mutta
+Helsingissä saa nopeampaa yhteyttä samalla rahalla.* Satamegainen
+yhteys jonkinlaisella uppikaistalla tuntuisi ihan hyvältä idealta.
+Saahan tänne Sätökseenkin tietty 4G-LTE:tä jos vain jaksaisin
+viritellä riittävästi reitittimien kanssa. Helsingissä voisi teoriassa
+saada kaapelin kautta kanssa palvelua.
+
+*Kerrostaloasunnosta huolehtiminen* on toki helpompaa kuin
+omakotitalon kanssa. Lomamatkalle etelän lämpöön tammikuussa?
+Täydellistä Helsingissä, pakoon loskaa ja kosteita merituulia. Ei
+onnistu kovin huolettomasti Sätöksessä, ellen löydä talovahtia siksi
+aikaa.
+
+*** Sätöksen edut
+
+*Sätöksessä saa nauttia vuodenajoista!* Omassa pihassa ei ole talvisin
+loskapaskaa, vain lyhyen aikaa keväästä. Keväällä on liukasta, mutta
+ei katupölyä. Syksyllä on syksyn värit ja keväällä saa nauttia
+auringon lämmöstä ja valosta. Kesä on Sätöksessä huonoin vuodenaika
+hyttysten ja muiden lentelijöiden takia, mutta siedettävä talvinen
+talvi korvaa kyllä kesän puutteita.
+
+*Ei naapureita!* Tämä on se isoin tekijä, lopullinen juttu, miksei
+varmaan Helsinkiin muutosta tule mitään. Kun tulen kotiin, tiedän että
+häiriötekijät ovat minimaalisia. Satunnainen hiiri välikatolla voi
+rasittaa, joku mopoilija ajaa talon ohi illalla. Minimaalisia
+haittatekijöitä verrattuna huonosti äänieristettyyn
+kerrostaloasuntoon, jossa meluhaitta on päivittäistä ja
+viikonloppuisin kahta kauheampaa. Kuten olen monesti sanonut,
+Joensuussa asuessa viikonloput olivat minulle asioita, joita kavahdin.
+Kun tulen Sätökseen, tiedän, että voin nauttia elokuvistani ja
+musiikistani vapaasti. Voisin ostaa isot ämyrikaiuttimet tänne ja
+laittaa tuulemaan.
+
+Vaikka nyt ei pitäisi katsoa taloudellisia aspekteja, niin voitaneen
+säästynyt raha silti katsoa Sätöksen eduksi. 300 euroa kuussa tai 3,5
+tonnia vuodessa vapaata rahaa enemmän. Se on iso raha. Se on yksi
+(ylimääräinen) iso lomamatka minulle tai pari pienempää kotimaan
+matkaa plus rahaa leluihin. Tämä ei ole vahva argumentti, koska
+Helsingissä saanen kilpailutettua työpaikallani paljon paremman diilin
+itselleni.
+
+** Villikortteja
+
+Miksei hakea ratkaisua, jossa molempien ratkaisujen parhaat puolet
+yhdistyvät? Yksi premissi asioille on, että kaikkeen kyllästyy, myös
+katukuvaamiseen Helsingissä. Paikat tulee tutuiksi, pian ei jaksa
+kantaa enää kameroita mukanaan joka reissulle. Asuinpaikka kääntyy
+pian samaksi pakkopullaksi kuin kaikki aina on lopulta. Ja kalliita
+vuokria maksamalla oma varallisuus ei kerry.
+
+*** Säännöllinen matkustelu
+
+Puhtaasti tässä tehtyjen laskelmien valossa Sätöksessä jää 300 euroa
+ylimääräistä löysää kuukaudessa käytettäväksi. Vertailun nimissä
+toukokuinen neljän yön keikka kustansi minulle 363 euroa, joista yli
+150 oli ulkona syömisiä ja juomisia. Luulisin, että sopivalla
+säästeliäisyydellä ja majapaikan keittiötä hyödyntämällä voitaneen
+päästä 270 euroon per 4 päivää Helsingissä. 
+
+Joka kuukausi tuskin tulisi käytyä, koska junamatka Joensuusta
+Helsinkiin on aika pitkäveteinen. Kuitenkin säännölliset käynnit 6
+kertaa vuodessa olisivat erittäin mahdollisia, ja kävisi halvemmaksi
+kuin muuttaa.
+
+Tämä tietysti olettaa, että valokuvausharrastus olisi pääasiallinen
+syy muuttaa, ja että (etä)työpaikat Joensuussa pysyisivät
+mielenkiintoisina. Mutta rahan näkökulmasta kiinnostava tekijä silti.
+
+*** Parempi auto
+
+Aika moni ongelma tällä hetkellä Sätöksessä tulee liikenteeseen. Entä
+jos ostaisi jonkun ison katumaasturin, jonka alle jää kaikki
+törttöilijät piipittämään. Taksilla ei sentään taida päästä käymään
+työmatkaa ilman, että jää tappiolle. 
+
+*** Helsingin satelliittikunnat
+
+Satelliittikunnat ovat myös yksi vaihtoehto. Jos asuisi vähän
+kauempana, mutta tulisikin töihin Helsinkiin lähijunalla. Nyt
+junamatka olisi nopeampi kuin Joensuusta Helsinkiin, ja moni firma
+pitää toimistojaan sopivasti Rautatieaseman yhteydessä. Minulla on
+lämpimiä muistoja niistä ajoista kun tulin Outokummusta Joensuuhun
+kouluun bussilla. Niinä aikoina oli helppo aikatauluttaa asioita. Toki
+paljon ongelmia kanssa, kuten ajankäyttö suhteessa hyötyliikuntaan.
+
+*** Eurooppalainen etätyö
+
+Hyvät palkat kilpailevat Helsingin palkkatason kanssa kevyesti.
+Lisättynä etuna se, että tiimikulttuuri etätyökeskeinen, jolloin
+kommunikointi ja muut jutut pelaavat. Ja tietty se, että töitä saa
+tehdä missä tahansa matalan tai kalliin asumiskustannuksen pitäjässä!
+
+** Addendum
+
+Aina kun maalta tulee käymään kaupungissa, paistaa silmään sotkuisuus
+ja huonosti käyttäytyvät suomalaiset. Roskaa, oksennusta, hajotettuja
+autoja. Helsinkiläiset tuntuvat olevan niin kovin rumasieluisia
+ihmisiä maalaisiin nähden. Voiko tämä johtua jostain
+kaupunkikulttuurillisesta erityispiirteestä, jonka stadilaiset
+omaavat?
+
+Ehkäpä Helsingissä ei kokoonnu muuta Suomea kusipäisempi sakki, vaan
+nämä ilmiöt korostuvat siellä sen takia koska koko Suomi pakkautuu
+sinne. Eli yksinkertaisesti väestöntiheys. Suomalaiset ovat kenties
+kauttaaltaan sotkijarettelöitsijöitä, niitä nyt vaan asuu jatkuvaksi
+näköhaitaksi asti Helsingissä.
+
+Elämänviisaus: ruoho on aina vihreämpää aidan toisella puolella, koska
+joku muu hoitaa sitä. Toisin sanoen, koti on siellä, minne sitten
+teetkään sen. Jos keskityn nyt vaikka Sätökseen talveksi ja saamaan
+palkankorotuksen vielä täällä Joensuussa, niin minulla on etuineen
+aika hyvin asiat kunnossa, ja paljon ylimääräistä rahaa matkustella.
+Ja toisaalta, jos joskus siirryn Helsinkiin niin sitten voin tehdä
+siitä toimivan. Niin, nämä elämänviisaudet ja sananlaskut ovat
+kuuluisia siitä, että ne eivät kamalasti kerro mitään uutta ja
+viisasta, vaikka syvällisiltä kuulostavatkin...
+
+Minun pitänee vältellä Woody Allenin töitä nyt vähän. Allen rakastaa
+isoja kaupunkeja yli kaiken, ja se rakkaus välittyy niin hyvin aina
+hänen elokuvissaan. Se tuo paikoin ylitsepääsemätöntä kaupunki-idylliä
+esiin itsestäni, ja muuttohalut voivat täten kasvaa. Ehkäpä minun
+/pitäisikin/ juuri katsoa Allenin töitä nyt enemmän kuin koskaan!
+
