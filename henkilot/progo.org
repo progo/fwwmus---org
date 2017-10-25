@@ -6,7 +6,7 @@ CLOSED: [2013-04-08 Mon 17:59]
 - State "DONE"       from "TODO"       [2013-04-08 Mon 17:59]
 :END:
 
-Jos koko [[file:henkilot/mike.org][haastattelua]] ette jaksa lukea, niin tässä tulee toivottavasti
+Jos koko [[file:mike.org][haastattelua]] ette jaksa lukea, niin tässä tulee toivottavasti
 parhaat poiminnat. Asiaankuuluvat henkilöt löydät esiteltynä ison
 haastattelun alusta.
 
