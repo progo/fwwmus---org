@@ -391,7 +391,7 @@ subjektiivinen (itsekoostamani) [[file:progo.org][lyhytversio]], jos ei aika rii
            paljon velkaa All The President's Men -elokuvalle.
 
            Uudemmista sarjoista erityisesti
-           [[file:../house.org][House]] on pitänyt itsepintaisesti
+           [[file:../viihde/house.org][House]] on pitänyt itsepintaisesti
            päänsä huippusarjojen joukossa. Tämä kai johtuu hulppean
            hyvästä henkilökirjoituksesta ja -hahmoista.
 - nokkela :: House; mikä hänen henkilössään on parasta?
