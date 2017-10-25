@@ -1,0 +1,119 @@
+#+TITLE: Fuji X100T myyty: eulogia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fuji X100T myyty: eulogia                       :fujifilm:kamera:hifi:
+CLOSED: [2017-10-25 Wed 18:39]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-10-25 Wed 18:39]
+:END:
+
+Fujifilm X100T, kamera josta piti tulla tuhatvuotinen kumppanini, on
+nyt myyty pois. Eipä tuota tullut käyteltyä juhannuksen jälkeen juuri
+lainkaan, joten ero ei ollut katkera.
+
+Kauppa kävi hyvin. Ilmoituksesta ensimmäiseen ostajaan, joka osti: 4
+tuntia. Digicamera.net on se paikka, missä myydä. Puhdisteltu ja
+raivattu Fuji on kyllä kaunis esine. Leica Q:lla ei ole mitään
+mahdollisuuksia tälle areenalle. Yleinen ergonomia ja ulkonäkö menee
+Fujin voitoksi kevyesti.
+
+Annoin kaikki ostamani ja turhaksi jääneet akut kanssa pois. Ainut
+kamera, joka etäisesti voisi käyttää niitä ja olla mielenkiintoinen,
+on Fujifilm X70, mutta vähän kallistun ehkä Ricoh GR:n suuntaan
+mieluummin, jos isokennoista minipokkaria haikailen. Ehdotinkin
+myynti-ilmoituksessani, että mahdollisesti vaihtuu välirahan kanssa
+GR:ään, mutta onneksi ei kukaan tullut tarjoamaan ja luomaan
+houkutuksia.
+
+Fujifilmin tarina on toistaiseksi tässä. X-E3 julkaistiin juuri, mutta
+pienen koon lisäksi sillä ei ole kamalasti annettavaa. X100F on
+edelleen sellainen outolintu, joka voi hyvinkin korjata ne muutamat
+puutteet, joita mielestäni T:ssä on. (Nopeammat suljinajat
+auto-ISO-moodissa ja hieman fiksummin toimiva autofokus.) Tietty
+lähitarkennuksen aberraatiota se ei korjaa. X200 tulee olemaan
+seuraava iso ja mielenkiintoinen juttu.
+  
+** Tulevaisuudennäkymiä
+
+Leica Q ei petä, nopea autofokus on upea ja Q:lla muutenkin tahtoo
+saada aika grandiooseja tulkintoja tilanteista talteen. 
+
+Siltikin, oikea mekaaninen Leica kiinnostaa miedosti. Leican taika on
+tietty sen objektiiveissa: taianomaiset 35- ja 50-milliset Summiluxit
+ja mikseipä Voigtländerin halpismallit sen puoleen, kaikissa niissä on
+upean terävä piirto ja taianomainen, orgaaninen bokeh-renderöinti. 
+
+Leican lasia voi käyttää paljon huokeamminkin kuin haarukoimalla
+käytettyyn runkoon tuhansia tai vajaan kymppitonnin uuteen. *Sonyn
+A7*-mallisto toimii defacto-sovitetun lasin runkona sen erinomaisten
+ominaisuuksien ansiosta: kinokoon kenno helpottaa halpojen
+normaaliobjektiivien käyttöä, sovittimia löytyy joka lähtöön, valtava
+etsin, IBIS, erinomainen kohinansieto ja kova määrä megapikseleitäkin.
+Ja runko on kompakti kuin mikä.
+
+Lisäksi ajattelisin, että focus peaking on parempi tapa tarkentaa
+manuaalilaseja kuin Leican oma mittaetsintekniikka: kuvan voi
+samanaikaisesti sommitella kun tarkentaa! /Focus/recompose/ on aina
+vähän epätarkka menetelmä ja liikkuvan kohteen kanssa mahdoton.
+
+Leica kehuu optimoivansa kameransa legacy-lasille, mutta tähän
+epäkohtaan on ilmeisesti nyt olemassa erikoistuneita firmoja, jotka
+modaavat Sony-kameroita käyttämään ohuempia filttereitä kennolla. Tämä
+ilmeisesti parantaa kuvat ihan Leican omien runkojen tasolle.
+Tämmöinen modattukin uutena ostettu Sony A7RII on rajusti halvempi
+kuin käytetty moderni Leica.
+
+Sonylle on myös sovitetun lasin lisäksi nyt iso ryntäys laadukasta
+manuaalitarkenteista lasia. Esimerkiksi Voigtländerin 40/1.2 sai
+paljon kiitosta.
+
+** Muut hifistelyt
+
+Kameroiden ulkopuolella -- toivottavasti GAS pysyy nyt poissa
+riittävän hyvin edes seuraavaan kesään asti -- olen hieman lämmitellyt
+kuulokekuulumisia Head-fi:llä ja muualla. Siitä on noin 10 vuotta kun
+viimeksi seurasin skeneä ja ostelin ja kokeilin hifiä aktiivisesti, ja
+noin 8 vuotta kun lopetin kokonaan kuulokepalstojen seuraamisen.
+K1000 + Marantz PM80 + ECD-1 on ollut voittava kombo niin pitkään!
+
+Jonkin verran on 10 vuodessa tapahtunut asioita. 10 vuotta sitten
+Sennheiserin HD650 ja AKG K701 olivat niitä keskiluokan kuumia nimiä,
+joita kaikki tuunasivat kalliilla vahvistimilla. Stax oli iso ja
+kallis high end -nimi, jota harva uskalsi kokeilla hintojen takia.
+
+Nyt huomaan heti, että kuulokerintamalla on valtava määrä kaikenlaisia
+uusia tulokkaita ja etenkin sen huomaan, että hinnat ovat nousseet
+huippumalleissa kovaa tahtia. Inflaatio high end -kuulokkeissa on
+iskenyt pahemman kerran. Vanhaan aikaan 800 euroa kuulokkeesta oli jo
+kova hinta, etenkin kun sille piti lisäksi ostaa kelvollinen
+vahvistus. Sitten tuli HD800, joka oli hinnoiteltu sinne 1000-1200
+euron paikkeille ja oli poikkeuksellisen kallis muihin huippumalleihin
+nähden ja taisi aloittaa tämän inflaation, kun ihmiset hoksasivat,
+että nämähän menevät kaupaksi. Nyt meillä on iso määrä kaikenlaisia
+magnetoplanaarisia kuulokkeita 2000 eurosta aina 6000 euroon!
+Epäilemättä teknologian myötä myös jokainen näistä epäilemättä pieksää
+vanhat suosikkini kevyesti vasemmalla kädellä, mutta kallista on.
+
+Vahvistimet eivät ole kallistuneet, eivätkä Staxitkaan kamalasti.
+HD800(S) on ottanut HD650:n paikan keskiluokan hifinä, hintaa on vain
+kolminkertainen määrä. Jopa rakkaille K1000:lleni on nyt julistettu
+seuraaja, MySphere, hinta vain 3500 EUR. Onneksi en välitä K1000:n
+puutteista niin paljoa /juuri nyt/ että alkaisin jo tehdä
+säästösuunnitelmia mihinkään suuntaan. Toinen kiinnostava uutuus on
+Focal Utopia, kallis 4 tonnin kuuloke, joka ei vaadi paljoa virtaa
+soidakseen ja soi ilmeisesti erittäin ärhäkästi. Myös Hifiman Susvara
+ökykuulokkeena ja Hifiman HE-1000 ovat malleja, jotka kiinnostavat.
+
+Näitä kuulokkeita innosti tutkimaan se fakta, että K1000 on avointen
+kuulokkeidenkin sarjassa tuplasti muita avoimempi. Tämä tarkoittaa
+täysin nollatasoista äänieristystä ulkomaailmasta ja (Helsingissä
+vääjäämättömistä) naapureista. Mikä tahansa kuppikuuloke antaa heti
+pari desibeliä vaimennusta, mikä taitaa olla lähinnä psykologinen
+vaimentaja.
+
+Ironia on tietysti valtava, jos muuttaisin kalliisiin oloihin
+Helsinkiin vain alkaakseni harrastaa musiikinkuuntelua ja vähentää
+katukuvausta. No, toivottavasti voin jatkossakin jatkaa molempien
+harrastamista.
+
+Ylipäänsä nyt on hyvä tilaisuus säästää vähän enemmän tulevan vuoden
+varalle. Vuosi 2018 on mahdollisesti hyvin iso vuosi!
