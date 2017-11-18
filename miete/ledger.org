@@ -1,7 +1,7 @@
 #+TITLE: Kirjanpidosta: Ledger
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
 #+OPTIONS: toc:t
-* DONE Ledger ja kirjanpito                        :cli:ohjelmistot:editorit:
+* DONE Ledger ja kirjanpito                 :cli:ohjelmistot:editorit:talous:
 CLOSED: [2014-02-05 Wed 12:56]
 :LOGBOOK:
 - State "DONE"       from ""           [2014-02-05 Wed 12:56]
