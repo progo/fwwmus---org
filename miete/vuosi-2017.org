@@ -1,0 +1,92 @@
+#+TITLE: Vuosi 2017
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2017                                         :retrospektiivi:uv:
+CLOSED: [2017-12-30 Sat 15:25]
+:LOGBOOK:
+- State "DONE"       from ""           [2017-12-30 Sat 15:25]
+:END:
+
+Vuodenvaihdos tarkoittaa minulle tänä vuonna lähinnä liukkaita
+sohjokelejä ja pitkää viikonloppua. Juhlinnan sijaan muistelemme
+vähän, että mitä onkaan tapahtunut, ja mitä voisi tapahtua
+vuonna 2018.
+
+Mitähän nyt voisi oikein sanoa vuodesta 2017. Jos vuosi 2016 tuntui
+menneen nopeasti, niin miten sitten tämä! Töissä jatkuu sama meno kuin
+aiemminkin. Olisi varmasti jo aika vaihtaa paikkaa, kun
+itsensäkehittäminen ja -haastaminen on vähissä. Onneksi siellä sentään
+menee hyvin muilta osin. Etätyöt ovat olleet hyvä homma ja olen ollut
+tilastojeni mukaan noin 2,2 päivää etänä viikossa.
+
+Edelliset UV-lupaukset ovat pitäneet hyvin: liikuntaa tulee tehtyä
+säännöllisesti, ja loppuvuodesta lisäsin käsipainot repertuaariin.
+Kuntopyörä ei enää anna haasteita, ei antanut uutenakaan. Pitäisi
+ostaa kai uusi, vaikka ne maksavat niin paljon. Tämän vuoden lupaus
+voisi olla tuo painon pudotus. Ostin jo tarvittavat instrumentit
+loppukesästä ja olen tarkkaillut tilannetta. En ole tosin varma, että
+mainitut instrumentit toimivat lainkaan luotettavasti, mutta se on
+toinen juttu se. Nähtävästi terveellisempi syöminen olikin minulla jo
+harkinnassa vuosi sitten. No, hiljaa hyvä tulee...
+
+** Valokuvailu ja GAS
+
+Toinen UV-lupaus viime vuodelle oli lisätä valokuvailua ja vähentää
+GAS:sta huolehtiminen. Se lupaus ei toiminut pitkään kun jo
+tammikuussa ostin Fujin X-T1:n parilla lasilla käyttöön. Järkkärielämä
+ei oikein lähtenyt vetämään ja myin uudet kamat pois jo toukokuussa.
+Tykkään vaan niin paljon X100T:stä ja sen all-in-one-ratkaisusta!
+Huhti-toukokuussa GAS ehti siis taas hälvetä, kunnes toukokuun
+lopuilla uutta gassia syntyi Leican merkeissä Helsingin keikallani.
+Lopulta minulla oli Leica Q käsissäni juhannuksena, ja Fuji X100T
+myytynä lokakuussa.
+
+Mutta juhannuksen jälkeen ei ole GAS:ia esiintynyt, se on annettava.
+Olen lueskellut hieman Leica M-kameroista ja Sonyn järkkäreistä, mutta
+Q antaa niin paljon kompaktissa muodossa. Ja muistan hyvin, miten tuo
+järkkärin kanssa eläminen sujui: huonosti. Jos Leica julkaisee Q:n
+50-millisen variaation, sen voisin ostaa kyllä. Sitä odotellessa voin
+myös odotella mielenkiinnolla, mitä Fujifilm aikoo tehdä
+X100-mallistolle. Jos tulee uusi X200 uudistetulla optiikalla, voin
+olla kiinnostunut palaamaan Fujifilm-leiriin.
+
+Toisaalta olen kyllä matkustellut lupailujeni mukaan. Kävin Kuopiossa
+kolme (neljä?) kertaa, Lappeenrannassa, Porissa, Tampereella, Turussa
+kahdesti, Helsingissäkin toki. Joensuussa ei ole ironisesti tullut
+käytyä kuin kerran, vaikka siellä se kököttää jokaisen työpäivän
+päätteeksi!
+
+Vuonna 2018 olisi varmaan taas sopiva hetki käydä ulkomailla, kun se
+jäi pois edellisenä vuonna. Joka toinen vuosi on ihan hyvä tahti --
+jossain vaiheessa tosin voisi nostaa tahtia vaikkapa käymällä
+lähemmissä paikoissa (Pietari, Tallinna, Lappi, jotkut muut Euroopan
+maat) vuorovuosittain ja kauempana (USA, HK, Japani ehkä)
+vuorovuosittain.
+
+Ja kuvailuharrastuksessani koen kehittyneeni huimasti kuluneen vuoden
+aikana! Toukokuussa otin mielestäni erityisen monta erinomaista kuvaa,
+jotka kolmea kuukautta myöhemmin näyttävät roskalta, se on hyvä merkki
+siitä, että taidot ovat kehittyneet. Tämä sama meno toivottavasti
+jatkuu.
+
+** Helsinki 2018
+
+Onko vuosi 2018 se vuosi, kun päivitän elintapojani kertaheitolla
+uusiin? Vaihdan työpaikkaa, luovun autosta, muutan pois äidin
+sunnuntaisten lihapatojen äärestä. Kesän ja syksyn mittaan
+tutkiskelin, että etelä-Helsingin kalliit vuokrat eivät olekaan niin
+kalliit, kun otetaan kaikki asumiskulut huomioon. Menojen kasvua tulee
+toki, mutta vain maltilliset 250-300 euroa kuussa lisää. Luku, jonka
+saa hyvin kompensoitua työpaikkoja vaihtamalla. Minulla on hyvät
+muistot ajoilta kun asuin "ydinkeskustassa". Niin paljon reippailua ja
+kävelyitä ja kaikkea.
+
+Minun täytyy nyt kuitenkin asua Sätöksessä ainakin syyskuuhun '18
+asti. Siinä vaiheessa vuotta voi olla sama jatkaa asumista sen talven
+ylitse. Myös pitää harkita, huvittaako tehdä sekä ulkomaanmatkailua
+että isoa muuttoa samana vuonna. Eihän se mikään ongelma ole tietty,
+hyvinhän kävin jenkeissä ensikertaa vain paria kuukautta Sätöksen
+ostamisen ja muuton jälkeen, mutta jos minulla on näin mahdollisuus
+päättää asiasta, niin sama hajauttaa nämä tapahtumat.
+
+Tämä Helsinki-tilanne valottuu vähän paremmin reilun kuukauden sisään
+kun opin, minkälainen vuosi tulee töissä olemaan.
