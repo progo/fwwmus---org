@@ -9,7 +9,7 @@ CLOSED: [2016-05-22 Sun 20:26]
 Kiristääkö löytää uutta katseltavaa, vaikka koko maailma on äärelläsi?
 Tuottaako tuskaa miettiä mitä audiovisuaalista ärsykettä haluaisit
 seuraavaksi vastaanottaa? Nämä lienevät aika yleisiä ongelmia, ja
-jännä kun en ole vielä näitä ajatuksiani kirjannut ylös. [[http://mrp.fwwm.us/mietteet/576/elokuvista-ja-sarjoista.html][Tänne
+jännä kun en ole vielä näitä ajatuksiani kirjannut ylös. [[http://fwwm.us/mrp/mietteet/576/elokuvista-ja-sarjoista.html][Tänne
 ainakaan.]]
 
 ** Sisältö on itsestäänselvä
@@ -87,6 +87,6 @@ pitkäaikaista yhteistyötä, vastaavasti muiden osallisten kesken!
 
 ** Vanha tarina
 
-[[http://mrp.fwwm.us/mietteet/576/elokuvista-ja-sarjoista.html][Olen kirjoittanut]] nelisen vuotta sitten tämän saman saarnan, joka on
+[[http://fwwm.us/mrp/mietteet/576/elokuvista-ja-sarjoista.html][Olen kirjoittanut]] nelisen vuotta sitten tämän saman saarnan, joka on
 varmaan ihan kiva lukea uudelleen. Minusta oli ainakin. Hieman eri
 sanoin ja paremmin esimerkein samaa tekstiä.

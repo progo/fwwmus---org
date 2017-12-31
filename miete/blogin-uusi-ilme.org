@@ -38,5 +38,5 @@ paljoa.
 
 Näillä eväillä mentäneen seuraavat 5 vuotta. Kenties mobiilipuoli
 tulee korjattua jossain vaiheessa, mutta työpöytäversio näyttää
-syötävän hyvältä nyt. Vanha [[http://mrp.fwwm.us/][Mr P -blogini]] ulkoasu on silti oma
+syötävän hyvältä nyt. Vanha [[http://fwwm.us/mrp/][Mr P -blogini]] ulkoasu on silti oma
 suosikkini aikojen takaa.
