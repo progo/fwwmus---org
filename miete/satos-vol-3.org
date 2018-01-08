@@ -14,25 +14,25 @@ metsässä?!
 
 Tehdäänpäs taulukko oikeita/realistisia lukuja käyttäen:
 
-|                            | Helsinki | Sätös |
-|----------------------------+----------+-------|
-| Vuodessa                   |   12 612 | 9 070 |
-| Kuukaudessa                |     1051 |   756 |
-|----------------------------+----------+-------|
-| Liikenne                   |          |       |
-| - julkinen                 |     (50) |       |
-| - auton huolto+vakuutukset |          |   164 |
-| - ajoneuvovero             |          |    21 |
-| - polttoaine               |          |   192 |
-| - työmatkavähennys + verot |          |   -77 |
-| Vuokra                     |      990 |       |
-| Vuokra                     |          |   370 |
-| Jäte                       |          |  5,30 |
-| Vesi                       |       21 |  2,50 |
-| Sähkö                      |       40 |    91 |
+|                            | Helsinki |  Sätös |
+|----------------------------+----------+--------|
+| Vuodessa                   |   12 612 |  9 498 |
+| Kuukaudessa                |     1051 | 791,50 |
+|----------------------------+----------+--------|
+| Liikenne                   |          |        |
+| - julkinen                 |     (50) |        |
+| - auton huolto+vakuutukset |          |    173 |
+| - ajoneuvovero             |          |     21 |
+| - polttoaine               |          |    170 |
+| - työmatkavähennys + verot |          |    -55 |
+| Vuokra                     |      990 |        |
+| Vuokra                     |          |    370 |
+| Jäte                       |          |      5 |
+| Vesi                       |       21 |   2,50 |
+| Sähkö                      |       40 |    105 |
 
-Erotus on olemassa, ei kovin pieni, muttei suurensuurikaan: 300 euroa
-ilman kuukausittaista HSL-lippua ja 350 euroa lipun kanssa. Laskelman
+Erotus on olemassa, ei kovin pieni, muttei suurensuurikaan: 250 euroa
+ilman kuukausittaista HSL-lippua ja 300 euroa lipun kanssa. Laskelman
 vuokra on asetettu suureksi, jotta tavoitteena olisi muuttaa
 etelä-Helsinkiin kävelymatkan päähän töistä. Näin säännöllistä
 HSL-lippua ei tarvita. Omia suosikkialueitani olisivat tällä hetkellä
@@ -118,7 +118,7 @@ eur/vuosi lisää. Joten tappiolle tässäkin suhteessa.
 ** Edut ja haitat
 
 Taulukko siis kertoo meille, että numeroina Sätös voittaa Helsingin,
-eikö? 300-350 euroa vähemmän menoja, ei ole mikään pieni säästö se.
+eikö? 250-300 euroa vähemmän menoja, ei ole mikään pieni säästö se.
 Mutta jokinhan tätäkin asiaa kirvoitti tutkimaan ja tätä blogiviestiä
 kirjoittamaan. Tutkitaan, mitä mieltä minä olen Helsingistä, pohjana
 ne vähähköt päivät joita olen kaupungissa nukkunut ja viettänyt.
@@ -306,3 +306,20 @@ hänen elokuvissaan. Se tuo paikoin ylitsepääsemätöntä kaupunki-idylliä
 esiin itsestäni, ja muuttohalut voivat täten kasvaa. Ehkäpä minun
 /pitäisikin/ juuri katsoa Allenin töitä nyt enemmän kuin koskaan!
 
+** Addendum, pt 2
+
+Helsinki päätti laskea kunnallisverotusta, ja samalla kun päivitin
+muita lukuja, Sätöksen ekonomisuus kavenee 50 eurolla per kuukausi.
+Hyvältä näyttää. Täällä Sätöksessä sen sijaan tietty alkoi juuri
+sellainen oikea talvi (lunta maassa, ei sada lisää, valoisaa, sopiva
+pakkanen) ja Helsingissä kuraloskakeli jatkuu, sikäli jos siellä
+missään on lunta.
+
+Allenin elokuvan katsoin tuossa sattumalta lauantaina, ja sieltä tuli
+kuin tulikin sellainen heijastuma siihen, mitä helsinkiläinen
+lifestyle voisi luvata. Olin näemmä ennustanut asian syksyllä jo.
+
+Meillä muuttuu Joensuun tiloissa asiat vähän tässä keväällä, mutta en
+nyt halua pidellä itseäni täällä sen takia. Nyt parin viikon sisään
+kyselen palkkaa lisää ja se vähän valottaa asioita minulle,
+toivottavasti.
