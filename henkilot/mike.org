@@ -133,7 +133,7 @@ subjektiivinen (itsekoostamani) [[file:progo.org][lyhytversio]], jos ei aika rii
              arkielämässäsi? Kuinka järjestelmällinen olet?
 - progo :: Hyvä yksi. Olen ollut toistaiseksi kohtuullisen
            järjestelmällinen kyllä. Pidän esimerkiksi kirjanpitoa
-           rahankäytöstäni ([[ledger-cli.org]]) ja se on tapa on
+           rahankäytöstäni ([[http://ledger-cli.org][ledger-cli.org]]) ja se on tapa on
            pysynyt jo kaksi vuotta.
 - progo :: Pidän myös ajatuksistani kirjaa Emacsin org-tiedostossa, eräänlaisena
            tietämyskantana. Se ei ole niin kamalan hyvin tarttunut, mutta siellä

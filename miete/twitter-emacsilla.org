@@ -14,7 +14,7 @@ IRC saivat olla kohteenani.
 
 Irssi on ollut pitkään käytössä, ja sehän on oikein mainio kyllä
 kaikenlaisten täydennysten ja muiden juttujen kanssa. Sille löytyy
-hyvät twitter-integraatiot ([[twirssi.com][Twirssi]] siis) ja kaikenlaista mukavaa.
+hyvät twitter-integraatiot ([[http://twirssi.com][Twirssi]] siis) ja kaikenlaista mukavaa.
 Mutta kuten totesin aikoinani, irssi ei ole oikein vimimäinen ja
 twitteröintien seuraaminenkin on vähän nihkeätä.
 
@@ -115,5 +115,5 @@ ole hennonut vielä vaihtaa sitä.
 
 ** Backport
 
-Tämä on portattu vanhasta [[%20http://progo.viuhka.fi/mietteet/595/twitterointia-emacsilla][blogista]] ihan mielenkiinnosta ja
+Tämä on portattu vanhasta [[http://fwwm.us/mrp/mietteet/595/twitterointia-emacsilla][blogista]] ihan mielenkiinnosta ja
 sisällön takia.

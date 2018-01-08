@@ -25,7 +25,7 @@ kovahko (aina on, kun vertaa MX-kytkimellisiin näppäimistöihin), mutta
 näpsäkkä.
 
 Itse asiassa niin näpsäkkä, että se voi kuulua jo luokkaan "/good
-enough/". Ja tuli sellainen mieleen, että ainakin [[Raptitude.com]]-blogin
+enough/". Ja tuli sellainen mieleen, että ainakin [[http://raptitude.com][Raptitude.com]]-blogin
 kirjoittaja David on puhunut hieman tylsän työn tekemisestä erilaisin
 fyysisin [[http://www.raptitude.com/2014/02/procrastinate-later/][houkuttimin ja rutiinein]]. Kerran olen kuullut sanottavan
 etätyöstä, että parhaiten työn makuun kotoa käsin pääsee, kun pukee
