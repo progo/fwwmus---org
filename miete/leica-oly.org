@@ -1,0 +1,417 @@
+#+TITLE: Leica ja jatko
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica ja jatko                         :leica:fujifilm:olympus:kamera:
+CLOSED: [2018-01-11 Thu 21:47]
+:LOGBOOK:
+- State "DONE"       from              [2018-01-11 Thu 21:47]
+:END:
+
+Tammikuinen kamerakuume on kyllä outo ilmiö, mutta nyt se on iskenyt
+minuun jo kolmena vuotena peräjälkeen! Mihin edetä nyt kun laukussa on
+jo parasta, mitä saa?
+
+Ryhdyin pohtimaan viimeaikaisia kuolaamisiani: kaikki pitkälti Leicaa.
+Päädyin viimein siihen, että ehkäpä vaikka minulla joskus olisi
+rahastoissa ylimääräistä löysää 25k, niin ei olisi silti millään
+tasolla järkevää laittaa kahdeksaa tonnia Leica M10:een, vaikka miten
+hienoja kuvia saisi sillä. Leica on kallis brändi, ja se on suunnattu
+rikkaille ihmisille. Se, että minä saan hitaasti grindattua itselleni
+leicarahaa vuosien mittaan, ei tee minusta yhtäkkiä rikasta. 
+
+Tämä tarina alkaa suunnilleen viimelauantaista.
+
+** Leica Q: täyttä täyden kennon laatua
+
+Leica Q on ollut minulla talossa 6,5 kuukautta. Kamerassa on
+erinomaisen vähän mitään vikaa. Sen ergonomiaan olen tottunut ja nyt
+suorastaan rakastan sitä. Objektiivi on uskomattoman tarkka ja aukkoa
+ei todellakaan tarvitse kiristellä terävyyttä hakeakseen.
+
+Mikä on Q:n suurin synti on sama synti, mikä minulla oli X100T:n
+kanssa vuosi sitten tammikuussa: yksi polttoväli on toki kiva ja
+kaikkea, se on samalla aina vähän riittämätön. Minua himottaa
+järjestelmissä mahdollisuudet eritoten ultralaajoihin polttoväleihin
+(15-20 milliä kinovastaavasti) ja toisaalta joskus myös
+normaali-televäleihin (50-200 mm kinovastaavasti). 
+
+Fujin kuvia ei oikein voinut kropata mielekkäästi, Q:n kuvia taasen
+voi saksia mielettömästi ennen kuin alkaa näyttää pahalta. Q:n
+28-millisellä voi kevyesti leikata itselleen parin megapikselin
+75-millistä vastaavan rajauksen ja näyttää riittävän hyvältä
+nettijakeluun. Tämä on ilmiömäinen Q:n etu kyllä. Jos tulostaisin
+kuviani enemmän, tämä ei niin onnistuisikaan.
+
+Q:n väri on hieman kahtijakoinen, mutta ihonsävyjä lukuunottamatta
+olen ollut 100-prosenttisen tyytyväinen Leican väripalettiin. Väri on
+niin syvänrikasta Fujin paikoin aika karkkisia värejä kohtaan.
+Ihonsävyt eivät valitettavasti onnistu hyvin Leicalla, mutta
+kompromisseja saa kyllä aikaan jälkikäsitellessä.
+
+[[file:./kuvat/L1020397.jpg]]
+
+Kaikessa mahtavuudessaan Q on vienyt minut umpikujaan: kaikki
+parannukset maksavat mielettömästi rahaa, eivätkä todellakaan tarjoa
+kaikkea sitä, mitä Q tarjoaa. Leica M on herkullinen systeemi, johon
+hyppäisin viipymättä, jos lotossa tulisi miljoonia. Siitä huolimatta M
+on systeemi, joka ei edes voi palvella kaikkia käyttötarkoituksiani.
+Lähikuvaus ei onnistu, manuaalitarkennus ei pärjää nykypäivän
+autofokukselle kuin tietyissä tilanteissa ja kokeneissa käsissä.
+Ei toki käy kieltäminen, etteikö se olisi todella palkitsevaa osata
+manuaalitarkentaa liikkuvaa kohdetta tietäen, ettei esimerkiksi Fuji
+X100T osaa näin hyvin.
+
+Leica M:llä on myös sula mahdottomuus mennä telekuvaukseen. M10:n ja
+EVF:n kanssa toki sujuu jotenkuten, mutta sittenkin täytyy kameran
+nokalle laittaa sovitettua lasia, kun oma M-lasi ei mene 135:ttä
+pidemmälle hyvistä syistä.
+
+Q vei minut umpikujaan, mutta sen lisäksi umpikuja on keskellä
+labyrinttiä! Täältä on vaikea perääntyä takaisin vanhaan tuttuun
+Fujifilmiin, kun tietää, että kuvat ovat siellä pehmeämpiä, autofokus
+on hitaampaa, leicamainen pop puuttuu ja niin edespäin...
+
+** Fujifilm: APS-C-kuningas?
+
+Jos ei kerta Leica, niin sitten varmaan Fujifilm? Fujiahan minä niin
+rakastin puolentoista vuoden ajan. Kun siirryin Q:hun juhannuksena, ei
+kameran täyden koon kenno ollut mikään itseisarvo minulle. Ei tee edes
+tiukkaa palata takaisin, jos kuvaamisen mukavuus säilyy.
+
+Aina kun Youtube on ehdottanut minulle jotakin Fujifilm-videota, olen
+sen yleensä katsellut mielenkiinnosta. Pientä nostalgiaa ja sen
+sellaista on aina ollut videoiden tiimoilta ilmassa! Viimelauantaina
+katselin videon, joka tavallaan katkaisi kamelin selän ja aloin
+pohtia, miten kiva se olisikaan palata takaisin Fujifilmiin, jos ja
+kun lottovoitto ei iske kohdille. (Pitäisi varmaan myös joskus ostella
+niitä kuponkejakin?!)
+
+Kyllä, syväterävyyden puolesta APS-C ja esimerkiksi X100T:n
+23-millinen F/2 oli enemmän kuin tyydyttävä paketti
+bokeh-pelleilyihin. Kadulla ja metsässä kuvasin usein F/5.6:lla ja
+sain kuviin tyydyttävän määrän separaatiota.
+
+[[file:./kuvat/DSCF0480-CChrome.jpg]]
+
+Isoin ongelma on Fujin X100-mallistossa (toki kiinteän polttovälin
+lisäksi) objektiivin pehmeä piirtäminen lähitarkennuksissa. Tämä on
+asia, jota en voi antaa anteeksi noin vain. Sama /spherikaalisen
+aberraation/ ongelma esiintyy myös muutamassa Fujin XF-objektiivissa:
+23/2:ssa ja 35/2:ssa. En henkilökohtaisesti haluaisi laittaa näihin
+objektiiveihin rahaa, koska läheltäkin pitää joskus voida ottaa kuvia.
+
+Fujin järjestelmät ovat nyt isosti kehuttuja, ja kamerarungot ovat
+kypsyneet isosti. Kuitenkin kun on tottunut ihastelemaan ällistyttävän
+teräviä Leica-kuvia pitkin vuotta, alkaa Fujin laseista lähteä taika
+pois. Alkuperäisissä muistiinpanoissani sanon aika kärjekkäästi että
+"Fujin lasi näyttää silkalta sutulta". Ehkä se on ihan
+totuudenmukainen vertauskuva, vaikka nämä kommentit voivat tulla
+kellekään mieleen sanoa vain suorassa A/B-testaamisessa Fujin ja
+Leican tuottamien kuvien välillä! Fuji on toki halvempaa lasia kuin
+Leica, mutta se on asioita huomioonottaen silti aika kallista. Ja
+keskimäärin kaikki primet tarkentavat hitaasti. Ming Thein on
+ilmeisesti myös ilmaissut, että Fujifilmin lasi ei ole aina niin
+kehumisen arvoista.
+
+Fujilla on hyviä kameroita nyt uudella X-Trans III -kennolla, eikä
+kuvissa ole mitään moittimista millään tasolla, mutta minua kismittää
+etenkin se fakta, että joudun valitsemaan ison ja kauniin EVF:n ja
+mittaetsinnäön välillä. Mittaetsinfujeissa X-E3 ja X-Pro2 on paljon
+pienempi EVF, varmasti sen takia kun muuten kameraa joutuisi
+isontamaan. X-T2 on kaikin puolin se ainut oikea Fuji. Pidinhän minä
+X-T1:stä paljon, sen ISO-rullasta ja elämää suuremmasta etsinkuvasta.
+Mutta tuo valinta X-Pro2:n ja X-T2:n välillä kismittää.
+
+Minua hirvitti hieman kun siirryin 440 gramman X100T:stä 640 gramman
+Leica Q:hun. Tämä ei onneksi ollut niin kamala painonnousu. Mutta entä
+mitä seuraavaksi? Esimerkiksi X-Pro2 ja 23/1.4 muodostaa keskenään 800
+gramman paketin. Milloin aletaan puhua liiasta?
+
+Fujin kanssa tapahtuu paljon muutakin sisäistä painimista. JPEG vs
+raakakuvaus. Olen monesti valitellut, miten menetän paljon kun otan
+Fujin tuottaman raakakuvan käsittelyyn. Saan korjattua varjoja ja sen
+sellaista, mutta en saa mitenkään toistettua Fujin komeita värejä enää
+raakakuvaan. Tämän kanssa painin isosti, minkä takia varmasti Q:hun ja
+pelkkään raakakuvaukseen oli niin helppo siirtyä.
+
+Fujin kanssa on näitä sisäisiä painimisia enemmänkin. Ylipäänsä
+X100T:n kanssa oli huiman mukava olla, X-T1:n kanssa paljon vähemmän.
+X-T1 jätti vähän huonon maun tietyistä asioista suuhun. Asioita, joita
+toki on korjattu X-T2:een, mutta esimerkiksi kovaääninen suljin oli
+yksi ratkaiseva tekijä minulle. Siksi en ole myöskään nyt aukottoman
+innoissani Fujin järjestelmistä. Ylipäänsä kun luetaan netissä
+Fujifilmin loistavista tiedostoista, tulee muistaa että näillä
+ihmisillä on Lightroomit ja muut Fujifilmin siunaamat työkalut
+käytössä.
+
+Fujifilm X200, jos se tulisi nyt joku vuosi, olisi se pelastava enkeli
+tässä kaikessa. Jos se on X100F, jossa on uusi nopeasti tarkentava ja
+vähemmän aberraatiota omaava objektiivi, se pelastaisi kaiken.
+
+Se toinen iso APS-C-pelaaja markkinoilla on Sony, joka tekisi pari
+asiaa minun kannaltani edullisesti. Sonyn isoin probleema on kenties
+tuo halvan ja kevyen lasin puute. Sony tekee huiman teräviä laseja,
+mutta optiikka on kondiksessa koon ja painon kustannuksella.
+
+** All You Need Is Light: mikro-nelikolmoset
+
+Kaikessa tässä sitten tahtovat tietynlaiset hyppäykset, kuten
+hyppäykset FF:stä m43:een, unohtua kokonaan käsittelemättä, koska ne
+ovat niin isoja ja mullistavia paradigmamuutoksia.
+
+Mutta joku kipinä minulla oli selvästi takaraivossa, kun ymmärsin
+mutista ääneen: "Olympus?".
+
+Mikronelikolmoset eli m43:t ovat uineet kiikareideni alla monesta
+syystä. Ensinnäkin kenno on aika pieni. Toisekseen 4:3-kuvasuhde ei
+tunnu valokuvaukselliselta. Liikaa huonoja muistoja vanhain aikain
+4:3-pokkareista.
+
+Kennon pienuudesta tulisin varmasti kärsimään ison Leica Q:n jälkeen,
+mutta jos m43-kennoja vertaa Fujiin, on erotus toisenlainen. Olympus
+tekee todella siistiä kohinanvaimennusta kuviin. Tässä osin saattaa
+mennä jopa Fujista ohi. Käsittelen tätä asiaa hieman lisää myöhemmin.
+
+Kuvasuhde ei sekään nyt iso juttu ole, nyt kun olen tottunut rajaamaan
+uudelleen miltein kaiken, mitä kuvaan. Hyvin usein 1:1-neliömuotoon,
+joskus 16:9:ksi, joskus 3:1-laajakuvaksi.
+
+Mikronelikolmosilla on muutama ässä hihassa, joilla ne tuovat esiin
+isoja vahvuuksia Fujifilmiin nähden: viisiakselinen kuvanvakain
+suoraan rungossa, todella nopea autofocus, halpaa ja kevyttä lasia.
+
+Kuvanvakain toki auttaa vain paikallaan pysytteleviin kohteisiin,
+mutta kyllä sellaisia on aika reipas osuus ottamistani kuvista. IBIS:n
+sanotaan myös auttavan yleisessä mikroterävyydessä, eikä väitettä ole
+vaikea niellä. Pikselitiirailuissa käytännössä mikä tahansa m43-kamera
+päihittää Fujifilmin kennot. Ehkä se on X-Trans, ehkä se on IBIS.
+Hiukset ja sen sellaiset paljastavat lähes aina asian laidan.
+Pikselintiirailu ei tietty ole terve harrastus, etenkään jos aikoo
+valita työjuhdakseen "alitehoisen" m43-alustan. Mutta tämä on fakta.
+Fuji "tuntuu" äkkiseltään huonompilaatuiselta setiltä kuin pahainen
+m43-Olympus.
+
+M43:lle saa huimaa lasia. Panasonic Leica DG 15 mm (ja vähemmässä erin
+25 mm) ovat kaksi kakkulaa, joissa on leicamaista lookkia nähtävillä
+kun oikein siristelee silmiään. Nämä PanaLeicat vähäksi aikaa
+nostivatkin m43:sta kartalleni kun olin Fuji-kuvaaja.
+
+Olympus Pen-F on ristiriitaisen vastaanoton saanut
+rangefinder-lookalike. Se kilpailee tavallaan Fuji X-Pro2:n kanssa ja
+tavallaan ei kilpaile. Innoikkaimmat fanit jo kehuvat, että Pen-F vie
+Fujia kuvanlaadussa, vaikka silkan fysiikan perusteella näin ei asian
+pitäisi olla. Onhan se toki mahdollista, Fujissa ei mitään IBISsejä
+ole.
+
+Minun silmääni Pen-F näytti alkuun karsealta: liikaa nappuloita,
+liikaa hopeaa. Nyt sitä katselee kyllä vähän uusin silmin ja ehkä se
+sittenkin ihan hyvältä näyttää. Retrolook, joka on viety
+X100-mallistoakin pidemmälle! Tämä on kevyt kamera, runko on vain 427
+grammaa ja useimmat normaaliobjektiivit ovat alle 200 grammaa.
+
+Olympuksen lasi on pientä, ketterää ja edullista. Autofokus on kuulema
+ilmiömäisen nopea. Ei hassummin kameralta, joka on 17/1.8-objektiivin
+kera vain hieman painavampi kuin Fuji X100F ja tarkentaa nopeasti kuin
+mikä. Autofocus on kamerarungoissa hyvä, mutta m43-objektiivit ovat
+ilmeisesti suunniteltu salamoiksi! Ja m34-tavaraa riittää
+markkinoilla! Isoin ja kattavin valikoima markkinoilla. Kun Leican
+käytetty M-lasi alkaa lähes aina 2000 eurosta, käytetty m43-lasi (ja
+ihan hyvä sellainen) lähtee satasesta ylöspäin. Leicaa puoli vuotta
+läähänneenä nämähän ovat käytännössä ilmaisia!
+
+Olympus ja Pen-F voisi tosiaan olla sellainen tervetullut tuulahdus
+jotain muuta kuin Fujia. Olympus Pen-F on muuten jopa Fujiakin parempi
+JPEG-kamera. Toivottavasti tässä ei toistettaisi historiaa liiaksi.
+Kaikki kehuvat, joka ikinen, tuota Pen-F:n mustavalkosimulaatiota
+numero kaksi. "Mono2" on väitetysti hieman kuin Kodak Tri-X. Kovin
+kontrastinen se on, vetää vertoja Fujin ACROS -emulaatiolle,
+saatavilla uusimmissa Fuji-kameroissa.
+
+Näytekuvien perusteella Olympuksen JPEG:ien kohina on hieman
+siistimpää kuin Fujilla, iso plussa! Fujin ongelmana oli se, että
+kohinanpoistoa harrastettiin ihan liikaa kovilla herkkyyksillä. Itse
+asiassa ColorFoto-lehti on testannutkin (ennustan, että JPEG-kuvilla)
+että Pen-F menee itse asiassa X-Pro2:sta hieman edelle laadussa,
+varmasti kiitos hyvän ja maltillisesti toimivan kohinanpoiston.
+
+** M43: iso ekosysteemi 
+
+Mikronelikolmoset ovat iso ekosysteemi, johon tekee pääasiassa Olympus
+ja Panasonic kameroita ja laseja. Näiden lisäksi vanhat tutut, kuten
+Voigtländer ja Meyer Optics tekevät m43-versioita. Markkinat ovat
+hyvät, ja ihmiset ovat aina kukin omasta syystään luopumassa milloin
+mistäkin.
+
+Kanta on selvästi taidettu suunnitella fiksusti, sillä pääsääntöisesti
+kaikki halpakin (kiinteä) lasi on terävää ja nopeatarkenteista.
+Olympus panostaa isosti ammattitason zoomeihin; hyvä heille. 
+
+Ensimmäinen huoli oli tietty se, että saako näin pienelle kennolle
+riittävän laajakulmaisia objektiiveja. Nopea tutkinta selvitti, että
+huoli pois. Leicalla on paljon kehuttu Voigtländer 15/4.5, Fujilla on
+teräväksi sanottu Rokinon 12/2, ja m43:lla on nyt ainakin tämmöinen
+kuin Laowa 7.5/2, kiinnostavasti Voigtländeriä nopeampi lasi jopa
+ekvivalenssin mukaanhuomioiden. Kaikki nämä ultralaajat lasit ovat
+myös edullisia, sijoittuen alle 500 euron hintaluokkaan.
+
+M43-lasi on halpaa, kerrassaan halpaa! Esimerkiksi siedettäväksi
+sanottu potrettilasi Olympus 45/1.8 irtoaa kevyesti alle 200 euron
+myyntipalstoilla. Telezoomeista on antaa tämmöinen keskusteltu
+esimerkki: Panasonic 45-175 F4-5.6 ASPH, joka on terävä lasi ja lähtee
+kohtuuhalvalla. Kattaa aika paljon luontokuvaajien ja lintubongareiden
+polttovälejä!
+
+Myös valovoimaa saa m43:lle! BHPhotoVideo listaa myynnissä 7
+manuaalitarkenteista objektiivia, joiden aukko on f/0.95 *tai* f/0.85.
+Toki nämä objektiivit alkavat olla niin painavia, että välitön
+painoetu menetetään, mutta näitä on olemassa ja mahdollisesti niitä
+löytää hyvin tarjouksin käytettynä. Esimerkkejä FF-ekvivalenssein:
+
+- Voigtländer Nokton 17.5/0.95 on 35/2
+- Mitakon Speedmaster 25/0.95 on 50/2
+- Voigtländer Nokton 42.5/0.95 on 85/2
+- Mitakon Freewalker 42.5/1.2 on 85/2.4
+  
+Näiden lasien terävyys täydellä aukolla on toki toinen asia tyystin.
+Ainakin Steve Huff on myöntänyt, että CV17.5/0.95 on terävä keskeltä.
+
+Speedboosterit ovat myös olemassa, jos haluaa maksaa isoa rahaa siitä
+ilosta, että saa 1-1.3 stoppia vähemmän syväterävyyttä. Metabonesin
+adapteri lupaa jopa Canon EF-tukea (autofokus, aukonhallinta,
+kuvanvakaimet). Tiettyjen objektiivien kanssa varmasti hyvä idea,
+mutta useimmat SLR-lasit voivat olla aika isoja toki käyttää pienissä
+rungoissa. Ehkä netistä voi löytää keskustelua siitä, mitkä lasit
+eritoten olisivat speedboosterin väärtejä.
+
+Speedboosterihan ei tee muuta kuin pienentää kuvaa parhaansa mukaan,
+ideana on saada 75-millinen objektiivi näyttämään 50-milliseltä. Valon
+määrän ja objektiivin aukon pysyessä samana lopputuloksena kuva
+näyttää 50-milliseltä ja syväterävyys on sen seurauksena myös
+"parantunut".
+
+Onko nämä objektiivit nyt yhtään laadukkaita? Mitään hyötyähän mistään
+ei saavuteta, jos myös Olympuksen lasi on pehmeätä lähitarkennuksissa
+kuten Fuji. Parit arvostelut läpiselaamalla selviää, että Olympus
+17/1.8 pelaa vallan mallikkaasti, on terävä alusta alkaen ja bokeh on
+siistiä. Oikein kiva!
+
+** M43 on käytännössä ilmaista Leicaan verrattuna
+
+Testasin parit Olympus-raakakuvat testiksi Darktablessa. Ne aukeavat
+hyvin ja detaljia riittää. En tiedä, miksei Fujifilmin kuvissa mutta
+Olympuksen raakakuvissa on tietynlaista selektiivistä kohinanpoistoa
+sovellettu jo raakakuvaan. Kohinan määrä oli yhdessä ISO 400 -kuvassa
+aika suuri, toisaalta seuraavassa kuvassa oltiin ISO 1600:ssa ja sitä
+ei ollut läheskään niin paljoa. Näyttää pitkälti oikein hyvältä!
+
+Nämä ORF-raakakuvat ovat lisäksi pakattuja, mikä säästää hieman
+levytilaa. Säästöä se on pienikin säästö. Selvästi enemmän kohinaa
+tiedostoissa kuin Leica-kuvissa (ISO 400), mutta siihen varmaan tottuu
+nopeasti. Kaikin puolin: hyvältä tuntuu.
+
+Tässä on yksi iso seikka nykyisestä status quosta: Jos minun
+Leica-workflow'hun kuuluu säännöllisesti kropata kuvia 50 milliin tai
+yli, kuvanlaadullisesti m43 + 25-millinen ei voi tulla kaukana
+jäljessä!
+
+** Kroppiteoria
+
+Toisin kuin Fujilla tai Sonyllä, m43-haut netistä yleensä
+kulminoituvat hyvin nopeasti kroppitekijän vaikutuksiin.
+
+Jätän tämän teorian lyhyemmälle. 
+
+Minulla oli alkuun huolta siitä, että saako neljä kertaa pienemmällä
+kennolla riittävän hyviä valotuksia. Katukuvauksessa on tärkeää
+ylläpitää nopeita suljinaikoja.
+
+Ilmeisesti fysiikka menee niin, että vaikka isompi pinta-ala kerääkin
+enemmän valoa kuin pieni pinta-ala, niin objektiivin suunniteltu
+kuvaympyrä ratkaisee paljon. 
+
+[[https://petapixel.com/assets/uploads/2017/03/cropfactor3-1.jpg][Tämmöinen
+konkreettinen esimerkki]] annettiin, missä kaikki asiat ovat teoriassa
+identtiset (kuvan rajaus, syväterävyys, valotus, ISO-kohinan /määrä/):
+
+- Kroppikerroin 1x (FF)
+  - Polttoväli 85 mm
+  - Aukko F/4
+  - ISO 800
+  - Valotusaika 1/40 sekuntia
+- Kroppikerroin 2x (m43)
+  - Polttoväli 42.5 mm
+  - Aukko F/2
+  - ISO 200
+  - Valotusaika 1/40 sekuntia
+
+Se hämäännys, mikä minulla oli, johtui tuosta ISO-herkkyydestä. Se ei
+ole mikään universaali suure, vaan kuten näkyy, neljä kertaa niin iso
+kenno /kerää/ valoa neljä kertaa niin paljon, ja se näkyy
+ISO-herkkyyden nelinkertaisuudessa.
+  
+Eli saman suljinajan saa molemmissa systeemeissä samoilla aukoilla,
+ISO:illa ja ekvivalenteilla polttoväleillä mutta kohinan määrä
+lasketaan silti näin.
+
+** Tammikuun kamerakuume iskee jälleen!
+
+En todellakaan tiedä, mikä näissä tammikuissa oikein on, kun tekee
+mieli vaan ostaa krääsää. Kai se on se seikka, että ulos ei pääse
+kuvaamaan mielekkäästi ja pimeää on aamusta iltaan. Aikaa on lähinnä
+istua koneella ja lukea läähättää kamerajuttuja.
+
+Nyt yritän vain pyristellä ostohaluja vastaan. 
+
+Miksi pyristellä, tosin? Kuten sanottua, leicakuvat kroppautuvat hyvin
+28:sta 35:een, 50-milliseen, myös pidemmälle. Otettua kuvaa näin
+kropatessa kohinan määrä korostuu kohinarakeen kasvaessa suhteessa
+kuvan mittoihin. Tulokset ovat olleet silti erittäin hyviä.
+
+[[file:./kuvat/L1040323.jpg]]
+
+Toisaalta miksi olla ostamatta, jos talvialennukset ovat nyt, ja
+ihmiset eivät odota uutta Pen-F:ää julkaistavan hetkeen?
+
+Jos siirtymä Leicasta pois tapahtuukin, se on aika isosta rahasta
+kyse. Kolmen tonnin Leicasta tulee reilun tonnin Olympus-setti.
+(Myynti voi olla iso hässäkkä tosin.)
+
+M43:n edullisia hintoja katsellessa alkaa todellakin käydä mielessä,
+että ehkä rahalla on muutakin käyttöä minulla kuin purismi. Leica Q:n
+hinnalla saisi vaikka sun mitä kamaa. Ja olisihan se vähän
+huolettomampaa heilua kaupungilla kameran kanssa, jonka arvo on vain
+neljäsosa Leicasta.
+
+Prioriteetit: kamerakaluston ei tarvitse olla viittä tonnia,
+äänentoisto saa olla. Ja kuten Henri Cartier-Bresson sanoikin,
+"Sharpness is a bourgeoisie concept."
+
+En tiedä. Ei minun kyllä /tarvitsisi/ vaihtaa, ellei tuo
+ultralaajakulmaisuus nyt sitten villitse. Järki sanoo, ettei kannata
+tässä vaiheessa vuotta tehdä mitään ratkaisuita. Kuitenkin kuten
+vanhojen merkkien pitäessä paikkaansa, odottakaa Oly-postauksia parin
+viikon sisään. Jos ei muuta voi sanoa, niin olen ylpeä itsestäni:
+minua ei voi ainakaan merkkiuskollisuudesta syyttää!
+
+** Encore: PEN-F vs GX8
+
+Jos Olympus ja m43 on nyt se lopullinen valinta, jäljelle jää vielä
+hieroa tuota kameravalintaa tarkkaan. Tai sen hieroin jo aiemmin
+päivällä, tässä välilaskelmat ja lopputulos.
+
+Upea Olympus Pen-F vai ruma ja halpa Panasonic GX8/GX80? 
+
+- Molemmissa on riittävän nopea yksittäisen kuvan AF.
+- Panasonic menee selvään voittoon jatkuvan AF:n suhteen.
+- Panasonicissa on kanssa parempi ergonomia (isompi ote kädelle)
+  telekuvaukseen.
+- Olympuksessa on paljon kivoja valokuvaajan apuja (live composition
+  ja muita).
+- Olympuksen keveämpi olemus (ei kyttyrää) lienee parempi kevyiden
+  lasien kanssa.
+- En ole aikomassa yhtäkkiä actionkuvaajaksi, joten C-AF ei ole
+  lainkaan tarpeellinen. 
+- Halpoja nuo rungot kuitenkin käytettynä joten sitten kun joskus
+  tulee käyttöä, jonkun rungon voi ostaa silloin. 
+- Kirjaimellisesti Panasonic GX80, jossa on tarkennushommat kyllä
+  todella hyvin hanskassa, lähtee juuri nyt alle 300 euron käytettynä
+  tori.fi:ssä.
