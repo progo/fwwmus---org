@@ -1,0 +1,181 @@
+#+TITLE: Olympus, alustava päätös
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Olympus, alustava päätös                              :kamera:olympus:
+CLOSED: [2018-02-03 Sat 21:09]
+:LOGBOOK:
+- State "DONE"       from              [2018-02-03 Sat 21:09]
+:END:
+
+Valoa alkaa olla ilmassa, päivät pidentyä. Ilmat eivät kyllä osoita
+lauhtumisen merkkejä, mutta eiköhän ne sieltä nekin! Ja ei varmaan
+tulle kenellekään yllätyksenä, jos nyt ilmoitan, että olen alustavasti
+harkitsemassa Olympus-setin ostamista.
+
+** Monen työkalun omistaja ja työkalujen välillä pallottelu
+
+Vaikka kamerat ovat kaikki kuin sveitsiläisiä linkkuveitsiä, useimmat
+ovat samaa mieltä siitä, että niitä voi kohdella erikoistuneina
+työkaluina: paras kamera actionkuvaamiseen ei ole välttämättä paras
+muotokuvaamiseen. Ainakaan jos ymppäämme mukaan kaikki muut
+suunnittelun ja talouden rajoitteet.
+
+Ostin vuosi sitten pääasiallisen kamerani Fuji X100T:n sivulle
+testiksi Fuji X-T1:n ja pari lasia. Kokonaisuuteni oli silloin
+kinovastaavat 28/35/50 milliä. En oikein tykännyt siitä, että aina
+tahdoin kallistua X100T:n puoleen. Kuukausia jälkeenpäin pystyn
+keksimään tälle epätasapainolle muitakin syitä kuin sen, että en
+tykkää käyttää eri työkaluja samanaikaisesti. Esimerkiksi se, että
+mainitut polttovälit ovat hyvin lähellä toisiaan -- todella moni
+sanookin, että ihminen on joko 35- tai 50-millinen kuvaaja
+sydämeltään. Joten ei ihme, jos näin lähekkäisistä
+polttovälivalinnoista valitsi kultaisen keskitien, joka toimii monessa
+tilanteessa. X100T:n runko oli myös miellyttävämpi käyttää kuin
+X-T1:n. Nappulat olivat mietitympiä, ja hipihiljainen lehtisuljin toki
+on kultainen.
+
+Iso "ongelma" järjestelmäkameroissa on valinnanvapaus ja objektiivien
+kanssa puljautuminen. Jos minulla on kamerani nokalla vaikka Laowa 7.5
+ja kävelen ohikiitävään tilanteeseen, johon sopisi 45 milliä juuri
+sopivasti, ehdinkö vaihtaa lasia ajoissa, ja ennen kaikkea, viitsinkö
+edes yrittää? Laiskuus on yksi paheistani. Tästä käytyäni keskustelua
+tulin siihen tulokseen, että sen ei pitäisi olla mikään häpeä, jos
+kuljen vuodesta toiseen vain yksi lasi nokallani, jos se istuu
+asioihin. Kuten 35 tai 50 milliä ihmisillä. En teoriassa saa kuin vain
+etuja, jos linssi on vaihdettavissa.
+
+Se juttu pitää muistaa tilanteista, että todellisuudessa tilanteen voi
+ikuistaa monella tavalla -- jos minulla on huippulaajakulma kameran
+nokalla, se vain tarkoittaa että joudun miettimään sille sopivan
+asetelman mainitusta tilanteesta.
+
+Myös zoomit tulevat jälleen kyseeseen, mutta pelkään että laiskuuteni
+zoomien kanssa mahtaisi huonontaa tuloksia jonkin verran. Lisäksi
+zoomit ovat omilla tavoillaan kompromisoituneita: usein liian isoja,
+liian hitaita, jne.
+
+** Raakakuvaus erojen tasoittajana
+
+/Raakakuvaus/ on se taikasana, joka tasoittaa eri työkalujen
+käyttämisestä johtuvia eroja. Yksi perin kuuma kombo on heittää
+umpiterävä Ricoh GR isomman M43-setin kylkeen kun halutaan
+hipihiljainen lehtisuljin ja nopea täytesalama tiettyjä tilanteita
+varten. Valovoiman suhteen toki kroppiteorian mukaisesti GR:n 18/2.8
+on täysin korvattavissa M43-lasilla, jos se on vähintään f/2. En tiedä
+itse asiassa, onko M43:lle tehty kompakteja 14-millisiä, muita kuin
+Panasonicin 14/2.5. Ricoh vetäisi lievästi voitolle tässä yhteydessä.
+
+Ja jos oikein villiinnytään, on myös käytetty alkuperäinen Fuji X100
+mahdollinen kamera niille tilanteille, kun täytesalamalle on tarvetta.
+Raakakuvista kehittäminen tasoittaa erot. Tai tietysti, jos siltä
+tuntuu, voinhan aina jättää lehtisuljin-Q:ni kameralaukkuuni ja ostan
+sille jonkun salaman täytesalamointia varten.
+
+Se onkin se ensimmäinen vaihe suunnitelmassani, jos päädyn pysymään
+tässä alustavassa laitehankintapäätöksessäni. Pidän Q:n ja pidän
+Olympuksen rinta rinnan, testailen että miten värit käyttäytyvät. Kuka
+tietää, ehkäpä Olympus vallan hurmaa minut väreillään! Myös lasin
+terävyys ja yleinen kuvien ilme ovat asioita, joita suunnittelen
+testailevani aikani. Uskon että Leica voittaa, mutta uskon myös, että
+ero voi olla loppukädessä yllättävän pieni! Ja tämä on muutenkin ainut
+realistinen suunnitelma. Leica Q:ta on mahdollisesti hankala myydä
+täältä itä-Suomesta käsin, ihan hyvistä syistä.
+
+** M43:n eduista vielä lisää
+
+Viimeksi puhuttiin jo, miten halpaa, pienikokoista ja yleisesti ottaen
+laadukasta M43-lasi on. Vaikka harmittelen, miten paljon Panolympus
+keskittyy tekemään eritasoisia zoomilaseja jättäen kiinteät lasit
+pienemmälle huomiolle, samanaikaisesti olen äimänä, miten teräviä ja
+korkeatasoisia zoomeja etenkin kokoon nähden Panasonic on pystynyt
+tuottamaan.
+
+Esimerkkinä tutkin, onko joku kinovastaava 70-200 hyvä idea tyydyttää
+minun teletarpeet tiettyjen kiinteiden lasien sijaan. No kappas:
+esille tulee tämmöinen kuin Panasonic 35-100 F4-5.6, jota
+arvosteluissa kehutaan teräväksi ilman tarvetta himmennellä kamalasti.
+Isoin jytky: lasi menee neljään senttiin pakattuna ja painaa vain 130
+grammaa! Telepolttoväleille, joille en näe kamalasti käyttöä,
+tämmöinen kevyt lasi laukunpohjalla on mitä ihanteellisin idea
+kuunaan.
+
+Itse asiassa m43-leirissä puhutaan paljon siitä, miten lasit mahtuvat
+takin taskuihin. /Takintaskuoptiikkaa./ How about that. Kameralaukku
+osoittautuu melkein tarpeettomaksi, jos suunnittelen tulevia
+vaateostoksia hieman. Tai ainakin voin käyttää vähän kevyempiä
+laukkuja silloin tällöin.
+
+Täytyy vielä mainita muistaessani: Pen-F + 17/1.8 on pitkälti
+killerimpi paketti kuin Fuji X100 -sarjalainen optiikan erojen
+ansiosta. Ei sperikaalista aberraatiota, erot syväterävyydessä ovat
+muutenkin vähäisiä, ja plussaa nyt että voi ottaa isommalla aukolla
+läheltäkin (metri ja alle) kuvia. Ja nopeampi autofokus.
+
+** Olympus on valittu; milloin toteutan?
+
+Jos kerran olen nyt päätynyt Olympukseen, miksen ole jo tilannut
+pakettia? Haluan varmistua parista asiasta, kokeilla kameraa vielä
+fyysisesti ennen ostopäätöstä.
+
+Isoin juttu on tuo sulkimen äänekkyys. Lehtisuljin on lehtisuljin ja
+verhosuljin on verhosuljin. Olympuksen sulkimen tarvitsee kattaa
+pienempi pinta-ala, joten ehkä se on riittävän hiljainen. Ihmiset
+kutsuvat sitä tyydyttäväksi. Testaan, miltä se kuulostaa kädenmitan
+päästä vrt. Leica. Ehkä testaan vielä Fuji X-Pro2:n siihen kylkeen.
+(Voi minua, jos se on hiljaisempi kuin Pen-F. Sitten menee kaikki
+suunnitelmat uusiksi.)
+
+Toinen juttu on tuo Olympuksen pieni etsin. Leican etsin on selvästi
+omaa luokkaansa laadussa ja koossa. En ollut lainkaan vakuuttunut
+Pen-F:n etsimestä kun sitä puoli minuuttia hypistelin liikkeessä. Nyt
+pitäisi antaa vähän syvällisempi syynäys sille. Ja tutkailla, onko
+Olympuksen S-OVF (optisen etsimen simulointi) mahdollisesti asia, joka
+tekee asioista parempia.
+
+Kiinnostava vaihtoehto on Olympus E-P5 ja erillinen irtoetsin VF-4,
+joka taas tarjoaa ison ja kauniin kuvan sillä kustannuksella, että
+etsin on rumasti keskellä kameraa. Toisaalta nyt etsimen voi kääntää
+90 astetta ylöspäin... Harmittaa, ettei kukaan älyä tehdä /vielä/
+isompaa irtoetsintä Olympukselle. Modulaarisuus!
+
+Kahden viikon päästä käyn vajaan viikon vierailulla Helsingissä. Tulen
+kuvailemaan Leicallani ja pidän nyt erityisesti silmällä kohtaamiani
+tilanteita: tuliko kuvasta hyvä vai pitääkö sitä kropata paljonkin
+että pääsen haluamaani lopputulokseen? Tuleeko vastaan tilanteita,
+joissa olisin toivonut laajempaa kuvaa kuin 28 milliä? Tein vähän
+sumu- ja kuukuvausta keskiviikkona pimeän aikaan ja olisin ehkä mennyt
+vähän pidemmällä kuin 28-millisellä siinä tilanteessa.
+
+** GX8 uudelleen
+
+Panasonic GX8 on sellainen kamerarunko, joka käy järkeen enemmän kuin
+Pen-F. Iso, kaunis OLED-etsin 0.77-suurennoksella. Etsin vielä taittuu
+tarvittaessa pystyetsimeksi. Rungosta saa tukevamman otteen ja lisäksi
+teknisesti kamera on huippuunsa viritetty nopeine autofokuksine.
+(C-AF-tulokset tosin vain Panasonicin laseilla saavutettavissa.)
+
+Sanoin silloin, että GX8 on hyvä valinta kaikilla tavoilla ja että
+Pen-F:ssä maksetaan lähinnä ulkonäöstä monta sataa euroa ylimääräistä.
+Etenkin asiasta tekee harmittavan se, että Pen-F:n C-AF on huono kuin
+mikä.
+
+Asiat eivät ehkä olekaan ihan niin enää; GX8 onkin se runko, joka on
+200 euroa kalliimpi kuin Pen-F, joka ilmeisesti asettautui pysyvästi
+850 euron hintaluokkaan GX8:n ollessa n. 1100 euroa.
+
+Erillisiä kahvoja saa kaupasta, joten se ei ole mikään GX8:n
+yksinoikeus. C-AF on edelleen asia, jota en aio harrastaa siinä määrin
+että sen annan vaikuttaa ostopäätökseen. Ulkonäkö on edelleen asia,
+jolle annan painoarvoa.
+
+Mutta tuo etsinkuva ja sen koko voi olla asia, että pidän asioita
+silmällä. Jos Pen-F:n piskuinen 0.62-kertainen kuva ei kertakaikkiaan
+nappaa, sitten minun täytyy pohtia GX8:ia vahvana vaihtoehtona.
+
+GX7 on tietty myös vaihtoehto: siinä on kaikki herkut ja IBIS löytyy,
+ja runko on kompaktimpi. GX7:n EVF on tosin vähän huonompi heti. Sama
+pätee GX85:een. Autofokus ja ne jutut löytyvät näistä rungoista; EVF:n
+laatu taasen on lähempänä Pen-F:ää.
+
+Varmaan vahvin kilpailija Pen-F:lle on Olympus E-M1, E-M5 tahi sitten
+se hullu versio eli E-P5 ja VF-4.
+
