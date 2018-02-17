@@ -1,0 +1,144 @@
+#+TITLE: Globaali suljin on täällä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Globaali suljin on täällä                                     :kamera:
+CLOSED: [2018-02-17 Sat 13:58]
+:LOGBOOK:
+- State "DONE"       from              [2018-02-17 Sat 13:58]
+:END:
+
+Tällä viikolla saimme kuulla positiivisista läpimurroista
+kamerakennojen kehityksen aallonharjalla. Panasonic ensin tiistaina ja
+Sony perjantaina ilmoitti, että heillä alkaa olla käyttökelpoisia
+toteutuksia globaaleista sulkimista. Iso juttu hiljaisten kameroiden
+ystäville.
+
+CCD-kennoilla on omat juttunsa, ja niillä ei ole ollut varsinaisesti
+ongelmaa ikinä. Tämä koskettaa siis CMOS-kennoja, joita nykykamerat
+käyttävät CMOS-kennojen etujen takia. Lisäksi juttuni painottuvat
+valokuvaamiseen, ei videokuvaamiseen. Lisäksi näitä globaaleja
+sulkimia on kyllä CCD:n lisäksi jo CMOS-kennoille, mutta toteutuksia
+ei ole tuotu kuluttajakameroihin.
+
+** Sulkimista
+
+Mikä tämä globaali suljin nyt siis on, tarina menee lyhykäisyydessään
+oheisesti.
+
+Mekaaninen verhosuljin koostuu yhdestä tai kahdesta suljinverhosta,
+joka suljetaan kahdesti. Ensimmäisen kerran verho sulkeutuu ennen
+valotusta luodakseen pimiön kennolle; kenno ehtii siis 'nollautua'
+pimeässä. Sitten ensimmäinen verho nousee, valotus tapahtuu, toinen
+verho laskeutuu ja päättää valotuksen. Heti kun toinen verho on
+kiinni, data luetaan kennolta muistiin. Sama pätee muille mekaanisille
+sulkimille, tai ainakin aukkosulkimelle (toiselta nimeltään
+iirissuljin).
+
+Tässä datan luennassa kestää tyypillisesti yllättävän pitkään.
+CMOS-kenno on tavattu lukea vaakajuova kerrallaan ylös, ja koko kennon
+luennassa kestää prosessointitehosta ja muista tekijöistä riippuen
+1/10 - 1/60 sekuntia. Sonyn A9 on tällä hetkellä voittaja
+lukunopeudessa, joku paperi taisi mainita lukunopeudeksi 1/150
+sekuntia.
+
+Elektroninen suljin on sitten suljin, joka ei käytä mekaanista verhoa
+hyväkseen lainkaan. Kenno nollataan sähköllä valotuksen alussa, kuva
+luetaan ja valotetaan juova juovalta, ja kuva on valmis. Nopeaa ja
+hiljaista! Mutta vaikka valotus olisi 1/16000 sekuntia, juovien
+lukeminen kennolta kestää silti saman 1/10-1/60-1/150 sekuntia. 1/10
+sekunnissa ehtii kuvassa tapahtua kaikenlaista!
+
+Hybridivaihtoehto näistä kahdesta on sellainen "electronic first
+curtain shutter", eli kenno tyhjätään sähköisesti, mutta valotus
+lopetetaan mekaanisesti. Nykytoteutukset tästä tekniikasta välttävät
+ilmeisesti /kaikki/ sähköisen sulkimen ongelmat, ja äänikin hiljenee
+hieman.
+
+** Hitaan lukemisen ongelmat
+
+Hidas lukeminen ei haittaa tasan yhtään, kun käytetään mekaanisia
+sulkimia. Kenno on pimeässä, kuva on tallessa, eikä muutu, ja
+lukeminen voidaan tehdä rauhassa. Mutta E-suljinta käytettäessä
+havaitaan kolmenlaisia ongelmia:
+
+- Shutter roll eli liikkuvien kohteiden vääristymät kennonluvun
+  aikana. Iso ongelma panoroiville videokuvaajille, mutta ongelma myös
+  valokuvaajille.
+- Vaihtovirtapohjaiset valaisimet voivat tuottaa juovia kuvaan, koska
+  valo ehtii välkkyä päälle ja pois monta kertaa kennonluvun aikana.
+  Työlästä korjata jälkeenpäin. Nykyajan ESL-buumi taitaa vain
+  pahentaa tilannetta.
+- Salaman käyttö hyvin rajoittunutta, jos lainkaan mahdollista. Koska
+  valo välähtää hyvin lyhyen aikaa valotuksen aikana, salama ehtii
+  näkyä vain tietyillä juovilla luvun aikana.
+  
+Sony A9 on riittävän nopea korjaamaan shutter rolliin liittyvät
+ongelmat, mutta ei riitä korjaamaan kahta myöhempää ongelmaa.
+
+** Globaali suljin
+
+Globaali suljin on nyt sitten nimitys sille teknologialle, että
+kennolta voidaan lukea kaikki kerralla atomisesti. Ken tämän taidon
+osaa, pystyy käyttämään E-suljinta ilman mitään mainittuja
+haittavaikutuksia!
+
+Yhtäkkiä meillä on systeemi, joka sallii kaikenpituiset valotukset
+aina 1/32000:n asti (riippuu toki käytetystä teknologiasta, mutta
+Fujissa sai näin nopean valotuksen), täydessä äänettömyydessä, ilman
+mekaanista kulumista.
+
+Ja nyt tällä viikolla saimme lukea sekä Panasonicin että Sonyn
+saavutuksista tällä saralla.
+
+** Sony
+
+Sonyn tekniikka ei ole vielä kovin käyttökelpoinen, mutta se menee
+potentiaalisesti pitkälle. Sony nimittäin päätti heittää jokaiselle
+pikselille oman A/D-muuntimen, joka ratkaisee näppärästi asian.
+
+Ei pelkästään globaali suljin onnistu tällä tavalla. Jos jokainen
+pikseli hoitaa oman valotuksensa, meillä on hyvä potentiaali saada
+luonnollista HDR-kuvaa suoraan kennolta yhden luvun aikana. Jokainen
+pikseli voi nimittäin potentiaalisesti päättää, kuinka pitkään se
+valottaa itseään. Pimeät kohdat voivat valottaa hieman pidempään kuin
+kirkkaat kohdat. Jos tämä onnistuu tehdä fiksusti, tulos on suoraan
+kamerasta ulosvietynä samanlainen kuin ihmissilmän näkemä kuva. Valo-
+ja videokuvaajat molemmat hyötyvät valtavasti tästä.
+
+** Panasonic
+
+Panasonicin
+[[http://news.panasonic.com/global/press/data/2018/02/en180214-2/en180214-2.html][hiljattainen
+paperi]] kuvaa heidän tapansa toteuttaa globaali suljin. Paljon
+hienoja termejä ja hienoa tekniikkaa kyllä. Paljon huhuttiin, että
+Panasonicilla on aito tarve ja tahto saada seuraaviin Olympialaisiin
+käyttökelpoisia 8k-videoon kykeneviä runkoja, ja totisesti tämä
+virallinen uutinen vahvistaa ne. Ollaan totisesti ampumassa kovilla!
+
+Panasonic lupaa tämän teknologian löytyvän GH6:sta, joten se kielii
+kuluttajakameroista lyhyellä aikavälillä.
+
+Mukana menossa on sähköisesti säädettävä ND-filtteri, joka helpottaa
+valokuvaajia mukavasti ja videokuvaajia valtavasti.
+
+Panasonicilla on oma toteutus pikselikohtaisesta valotuksesta, joten
+kaikin puolin tulevaisuus näyttää valoisalta! Katso vaikka kuva 6 yo.
+paperista.
+
+Toivottavasti tekniikka valuu Olympukseen jotain kautta, muuten kaikki
+on ihan ok. Toisaalta mikronelikolmoseen nyt satsaamalla tavalla tai
+toisella mahdollistaa tulevien läpimurtojen hyödyntämisen.
+
+** Hiljaisuus on hyve
+
+Olen suosinut tammikuusta 2016 alkaen lehtisulkimia niiden
+hiljaisuuden takia, ja olen myös valitellut, kuinka (ymmärrettävästi)
+mikään pienikennoinen kamerajärjestelmä ei tee lehtisuljinpohjaisia
+systeemeitä. Niitä löytyy keskiformaatin systeemeissä, ei missään
+pienemmässä. Pokkareissa näitä lehtisulkimia näkee eniten, mutta
+niillä pääsee vain niin ja niin pitkälle.
+
+Esimerkiksi Fuji X100t tuntuu monella tavalla tyydyttävämmältä
+kameralta kuin verraten kovaääninen X-T1. Panasonic saattaa kehujensa
+perusteella olla valmis tuomaan tekniikkaa kuluttajakameroihin parin
+vuoden sisään ja Sony ehkä myöhemmin. Ehkä tämä on myös merkki
+panostaa mikronelikolmosiin, koska tulevaisuus vaikuttaa hiljaiselta!
