@@ -17,42 +17,48 @@ Katsotaanpa, hatusta vedettynä keksin ainakin seuraavia tavoitteita
 ideaaliselta optiikalta:
 
 - suuri maksimiaukko
+- valonsiirtokyky mahd. lähellä teoreettista rajaa
 - fyysisesti pieni linssi
 - fyysisesti kevyt linssi
 - fyysisesti iso/painava/tukeva linssi(!)
 - mahdollisimman laaja skaala polttovälejä
+  - ... sisäisellä zoomitoteutuksella
+- aukkosäätö linssissä
+  - portaattomasti
+  - portaallisesti
+  - ... myös valotusajan säätö linssissä
+- syväterävyysasteikko
 - nopea automaattitarkentaja
   - ... ylipäänsä tarkentaa automaattisesti
 - tarkka automaattitarkennus
 - helppo tarkentaa käsin
+- kuvaympyrä mahd. iso
 - kiinteä maksimiaukko koko polttovälialueella
 - terävä kaikilla aukoilla ja kaikilla polttoväleillä
-  - ... terävä ylipäänsä jollain aukolla
+  - ... terävä ylipäänsä jollain aukolla tai polttovälillä
 - terävä koko kuva-alueelta
   - ... terävä reunoilta
   - ... terävä edes keskeltä
 - minimaalinen vinjentointi kaikilla aukoilla/polttoväleillä
-- minimaalinen krom. aberraatio
-- minimaalinen sper. aberraatio
+- minimaalinen kromaattinen aberraatio
+- minimaalinen palloaberraatio
 - pieni minimitarkennusetäisyys
 - pyöreä/pehmeä bokeh
 - terävät auringontähdet 
 - minimaalinen kooma
 - minimaaliset vääristymät (tynnyri-, yms)
-- kalansilmävääristymä¹
+- hyvä flarensieto
+- kalansilmäpiirto
 - pitää suorat viivat suorina
 - ulkoasultaan katu-uskottava
 - ulkoasultaan bling-bling
 - sääsuojaus
   - ... sumusuoja
   - ... kaatosadesuoja
-  - ... veden alla 5 metriin, jne
+  - ... veden alla 5 metriin
 - kuvanvakain
 - halpa
   
-(1: En ole aivan varma, haluaako kukaan oikeasti kalansilmävääristymää
-lasiltaan.)
-
 Huomannette, että selvästi osa tavoiteltavista asioista on suorassa
 ristiriidassa keskenään. Voin hyvin kuvitella, että vaikka jollain
 ihmetekniikalla saataisiin valmistettua 50-grammainen 100-400-millinen
@@ -79,9 +85,9 @@ ostaja saa itsekin vähän pähkäillä valintojen kanssa. Riittääkö
 Canonin 24-70 f/4 vai pitäisikö laittaa pätäkkää pykälää
 valovoimaisemmalle versiolle (samalla paino kasvaa ja kuvat eivät
 olekaan aina sen terävempiä, ellei himmennä halvemman tasolle). Tai
-pitäisikö ostaa kallis Fujin 14/2.8 vai halpa Voigtländer 15/4.5,
-jälkimmäisen ollessa superkompakti ja katukuvaukseen hyvin istuva,
-vaikka käsitarkenteinen.
+pitäisikö ostaa kallis Fujin 14/2.8 vai edullisempi Voigtländer
+15/4.5, jälkimmäisen ollessa superkompakti ja katukuvaukseen hyvin
+istuva, vaikka käsitarkenteinen.
 
 Itse arvostan fyysisesti pieniä linssejä, nopeata+tarkkaa
 automaattitarkennusta, valovoimaa saa olla, mutta myös sitä, että lasi
