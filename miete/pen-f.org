@@ -1,0 +1,257 @@
+#+TITLE: Olympus Pen-F
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Olympus Pen-F                                   :kamera:olympus:leica:
+CLOSED: [2018-03-06 Tue 18:36]
+:LOGBOOK:
+- State "DONE"       from              [2018-03-06 Tue 18:36]
+:END:
+
+Olympus Pen-F on ollut talossa kolme viikkoa ja summaan vähän
+ensivaikutelmiani ylös. Jatkuva luonnollinen vertailu Leica Q:hun on
+varsin epäreilu, mutta valitettavasti se on nyt ainut kamera, johon
+verrata.
+
+850 euron runko ja 350 euron lasi (Olympus 17 mm f/1.8) muodostaa
+kokonaisuuden, joka on karkeasti pyöristäen neljänneksen Leica Q:n
+hinnasta. Toisaalta ihmiset sanovat, että Q:n objektiivi on niin
+mainio, että kameran siihen saa ihan ilmaiseksi kylkeen; voitaneen
+sanoa, että kokonaisuutena Olympus Pen-F + 17 mm on neljänneshintainen
+Q:sta ja Olympus 17 mm on kymmenesosahintainen Q:sta.
+
+Summailen vähän ensivaikutelmiani ja välittömiä löytöjäni, sekä
+tulevaisuudensuunnitelmiani tässä kirjoituksessa.
+
+** Olympus 17/1.8
+
+Olisi pitänyt uskoa, kun ihmiset sanoivat, että tämä lasi on vähän
+heikko suorittaja. Tämä on varsin karvas putoaminen todellisuuteen Q:n
+jälkeen; lasi on terävä keskeltä, mutta aika pehmeä muualta. Sitä
+taitaa vaivata myös Fuji X100 -malliston kakkulaa vaivaava "field
+curvature", eli joskus ei vaan saa reunoja teräväksi, kiristipä aukkoa
+miten hyvänsä. Maisemakuvaukseen tämä lasi ei totisesti istu.
+
+Mutta kun lasia vähän käyttelee ja makustelee asioita, alkaa asioihin
+tottua. Tämä on nopea ja hiljainen tarkentaja, joskin ihan mikään
+rasvattu salama se ei ole. Mitään moittimista ei siltä osin -- tämä
+päihittää Fujin kevyesti ja on ehkä hivenen nopeampi tarkentaja kuin
+Q.
+
+Ensialkuun teki mieli palauttaa lasi (jota muuten myydään
+"muotokuvalinssinä" -- taitavat itsekin tietää, että tämä ei pysy
+terävänä reunoilta) mutta nyt alan tottua tähän. Komea linssihän tämä
+on, ja kompakti myös. Myös harvoja natiivilaseja, joissa on zone focus
+-puuhiin soveltuva etäisyysasteikko. Harmikseni opin jälkikäteen, että
+m43-kameroissa ei ole sähköisiä etäisyysasteikkoja Fujien tapaan. Hyvä
+ja fyysinen asteikko on jo yksi perustelu pitää lasi.
+
+Kun laitoin Darktablessa oletuksia kireämmät terävöintiasetukset
+kaikille tällä lasilla otetuille kuville, alkoi kaikki näyttää ihan
+siedettävältä silmiin. Kokonaisuus pelaa.
+
+Mutta ehkä tämä lasi ei tarjonnut kaikkein pehmeintä mahdollisinta
+laskeutumista täyden koon Leicasta m43:een. No, tässä vaiheessa kivut
+ovat jo lievittäneet.
+
+** JPEG:t ja Fujifilm
+
+Fujifilm ja Olympus tahtovat vähän kamppailla parhaiden SOOC-kuvien
+tittelistä. Fujilla on takanaan pitkät perinteet filmituotannosta ja
+vankka väritieteiden hallinta; Olympus taas tarjoaa helppokäyttöistä
+värien kustomointia ja mm. värifiltteröintejä paljon monipuolisemmin
+kuin Fujifilmit.
+
+Olympuksen (surullisen)kuuluisa "Mono 2" -väriasetus tuo ihmisille
+mieleen Tri-X-filmin ja sen jyrkät ja tunnelmaiset kontrastit;
+Fujifilmin ACROS/R saattaa päästä lähelle tai saattaa olla pääsemättä.
+Aika moni on sitä mieltä, että Olympus voittaa pelin mustavalkokuvien
+tapauksessa.
+
+En ole itse tietty puuhastellut uusimpien Fujifilmien tai ACROS:n
+kanssa, enkä toisaalta myöskään liiemmin käyttänyt Pen-F:n jpeggejä
+mihinkään, mutta tällä hetkellä sekakuvaajana (väri ja m/v) ilmoitan,
+että Fujifilm voittaa valmisfilmiensä ansiosta. Tiedostan kyllä, että
+Olympuksen mahdollistama reaaliaikainen, paikanpäällä tehtävä
+virittely värisävykohtaisiin saturaatioihin ja varjo/korostuskorjailu
+on *erittäin* potentiaalinen työkalu. (Fujissa on myös mahdollisuus
+tehdä sävynsäätöä, mutta tuloksia ei näe ihan niin sutjakasti kuin
+Olympuksella.)
+
+** Raakakuvaus ja Leica
+
+Nyt kun on lämmitelty vähän puhumalla jpegeistä niin siirrytään isoon
+matsiin.
+
+Teoriassa neljä kertaa pinta-alaltaan olevan kennon pitää olla kaksi
+stoppia parempi ISO-herkistelyssä ja muussa sellaisessa. Totean, että
+mainion IBIS:ksen ansiosta Pen-F ei ole käynyt kovin korkealla
+ISO-herkkyyksissä; toisaalta äkkiseltään subjektiivisesti todettuna
+niin Leica kuin Pen-F näyttävät aika sotkuisilta ISO 10000:ssa. Sen
+verran minä kyllä tiedän, että Pen-F on perusherkkyydellään (ISO 200)
+selvästi sotkuisempi kuin Leica omalla perusherkkyydellään (ISO 100).
+Muuta en ole testannut vielä, ehkä en haluakaan. Kuvat ovat hyvin
+käyttökelpoisia luonnollisesti.
+
+Olympukselle ei tuota tiukkaa, jos joudun nostamaan valotusta
+jälkikäteen 1-2 stoppia. Tämä on ihan mukava havainto, koska harvoin
+valotusta tarvitsee korjata enempää. Yhden kerran olen tainnut Q:lla
+nostaa yli 3 stoppia valoa, eikä tulos ollut kovin hifi silloinkaan.
+Myös varjojen nostelu sujuu Olympuksen kuvilta ihan mallikkaasti, ei
+sinänsä ongelmaa sielläkään.
+
+Tuntuisi äkkinäisesti, että Olympus ei pala pohjaan ihan yhtä helposti
+kuin Q, mutta tämä voi olla ihan yhtä hyvin etsimen
+kirkkaussäädöistäkin kiinni, ja sen sellaisesta. Jos asetan molempiin
+kameroihin samat manuaalisäädöt, on Pen-F selvästi alivalottuneempi
+kuin Leica. DxOMark:n tulosten perusteella Pen-F tekee saman jäynän
+ISO-herkkyyksien kanssa kuin Fujikin, eli kameran ilmoittama ISO 200
+on todellisuudessa lähempänä ISO 100:ta kuin 200:aa. Leica on
+saksalaiseen malliin täsmällinen ilmoittamiensa lukujen suhteen.
+
+Käytin vähän aikaa toistaakseni Pen-kuviin samat syvät värisävyt kuin
+mitä Q tuottaa laatikkosuorasti. Osoittautuu, että kun nostan
+saturaatiota 20 prosenttia (tai mitä yksikköä nyt ovatkaan
+Darktablessa) ja lisäksi lisään vihreisiin sävyihin hieman keltaista,
+olen aika lähellä Q:n tuottamaa jälkeä! Taivaansinisten sävyjen osalta
+kamerat ovat lähellä jo toisiaan.
+
+Yllätyksekseni huomaan, että kumpikin kamera sotkee punaisia samalla
+tavalla -- voi olla Darktablen syytä tämä.
+
+Yksi todellinen ero on mahdollisesti olemassa: tonaalisuus on ehkä
+vahvasti Leican puolella. Tuntuu, että esimerkiksi puiden väripaletti
+kutistuu, vaaleat heijastumat palavat herkemmin. Voi toki johtua
+monesta tekijästä. Tulen tutkimaan tätä puolta vielä lisää jatkossa.
+
+Valkotasapaino on myös hieman useammin mutkalla kuin Q:n tapauksessa.
+Jostain syystä tämä trendi on aina suosinut kompaktikameroita -- Fuji
+X100T:ssä on mainio AWB, X-T1:ssä huonompi; Q:ssa on mainio AWB,
+Pen-F:ssä huonompi. Nyt sentään positiivisena asiana Darktablesta
+löytyy Olympuksen valkotasapainomallit valittavana.
+
+** Pen-F vs Leica: Tokmannin monitoimiavain vs IKH:n titaaninen skalpelli
+
+Vaikka Pen-F on ehkä yksi parhaiten kasattuja m4/3-runkoja, on se
+silti ihan totaalista muoviromua Leica Q:n rinnalla! Vaikkei se nyt
+muoviromua olekaan.
+
+Sanoisin, että Pen-F istuu Fuji X100T:n ja X-T1:n välissä
+käytettävyydeltään, ja Leica Q on taasen X100T:tä parempi. Nappuloiden
+laatu, tuntuma, otteen ergonomia menevät kaikki Leican voitoksi.
+Silti, yllättävän hyvin Pen-F:n nappuloita sai paineltua paksut
+talvihanskatkin kädessä.
+
+Vaikka Q:ssa onkin paras käytettävyys, on se silti piirun verran
+isompi kuin mitä toivoisi. Pen-F:llä on potentiaalia olla hyvin
+näpsäkkä, jahka oikea kombinaatio lisävarusteita löytyy. Pari
+käytettyä varustetta, mukaanlukien puolilaukun ja lisäkahvan,
+hommasinkin jo. Puolilaukku tekee ainakin kamerasta ihan mahdottoman
+pitää, jostain syystä. Suljinlaukaisin on Pen-F:ssä hieman
+epämukavassa paikassa, kaukana kameran oikeasta laidasta. Ehkä joudun
+ostamaan sellaisen "soft release" -painikkeen ergonomiasyistä.
+
+Yhdessä asiassa Pen-F voittaa Q:n kevyesti: virtanappula on upean
+jämäkkä ja mukava operoida. Q:n geneerinen ratkaisu on yhtä hyvä/huono
+kuin Fujissa. Moni tykkää myös Pen-F:n jämäkästä
+valotuskorjausrullasta, mutta itse nautin Q:n pehmeäkäyttöisestä
+versiosta.
+
+En osaa sanoa, kummassa on parempi etsin, Q:ssa vai F:ssä, mutta
+Pen-F:n etsin on parempi kuin Fuji X100T:n EVF. Q tuottaa isomman
+kuvan, mutta toisaalta Pen-F:n terävä OLED helpottaa asettelussa
+paremmin.
+
+Ero Q:n ja Pen-F:n välillä tuo mieleen erään vanhan keskustelun
+foorumeilla, jossa joku vertasi Q:ta terävään laatuskalpelliin. Se on
+veitsenterävä työkalu, joka tekee vain yhden asian, mutta tekee sen
+hyvin. Sepä se onkin Q:n ainut synti -- olla kiinteäoptiikkainen
+28-millinen. Pen-F taipuu mihin tahansa, kunhan vain vaivautuu
+vaihtamaan lasia nokalle.
+
+** Pen-F vs Q: softa
+
+Kun mennään vertailemaan kameroiden ohjelmistoja, ero Q:n voitoksi
+vain kovenee. Leicalla on helppoa, koska sen ei tarvitse hyvän
+maineensa vuoksi toteuttaa kuin joukko ydinasioita -- kunhan ne on
+toteutetty hyvin. Olympus voittaa kustomoitavuudessa, mutta aika vähän
+muuta kotiinpäin kirjoiteltavaa löytyy.
+
+Voisin puhua ilmiselvästä ongelmasta, eli Olympuksen
+valikkorakenteista, mutta se on lyöty hevonen. Q voittaa tässä
+suhteessa hyvin, koska sillä on niin vähän ominaisuuksia, joiden
+konfiguraatioita tunkea valikoihin. (Q ei ole toki täydellinen,
+esimerkiksi autofokusmoodi ja kuvanvakain olisi kiva saada kustomoitua
+jonkun nopeamman napin taakse kuin pitkien valikkosivujen sisään.)
+
+Esimerkiksi manuaalitarkennuksen apuvälineet, focus peaking eritoten,
+on toteutettu Olympuksessa varsin puolivillaisesti. FP onnistuu, mutta
+FP + väriesikatselu ei onnistu samanaikaisesti. Esimerkiksi
+mustavalkovärien ja FP:n käyttäminen samanaikaisesti tarkoittaa, että
+tarkennuksen ajaksi kuva muuttuu värilliseksi. Sama juttu
+yli-/alipalamisen varoitusten kanssa. Q näyttää kaiken tarvittavan
+siististi yhdessä etsinkuvassa ilman, että käyttäjä kokee infoähkyä.
+
+Olympuksessa joudut vaihtelemaan eri näkymien välillä jos haluat
+katsella, palaako taivas puhki vai ei. Puhkipalamista ei voi myöskään
+toteuttaa välkkyvalolla, joten kuvan asettelu ei aina onnistu
+varoitusvalojen kanssa. Mikä vielä kehnoa, eri näkymien välillä
+pallotellaan Info-nappia painamalla, ja Info on aika hankalassa
+paikassa kamerassa. Niin monipuolisesti konffattava kuin Pen-F onkin,
+Info-napin paikkaa et voi vaihtaa!
+
+Autofokus on toinen asia, jossa Q voittaa. Käytän yhden
+tarkennuspisteen autofokusta -- mitä nyt tarkennuspiste on aina
+suorakulmio näissä nykykameroissa. Leica Q:lla on ilmiömäinen kyky
+lukea käyttäjänsä ajatukset ja tarkentaa lähestulkoon poikkeuksetta
+oikeaan kohteeseen laatikon sisällä! Nyt tuntuu alustavasti, että
+Pen-F putoaa tässä ajatustenluvussa Fujifilmin tasolle, eli
+ajatustenluku ei onnistu ihan yhtä luontevasti. Tämä on sääli, sillä
+ehkäpä juuri tämän hyvän AF-algoritmin ansiosta keeper-kuvien
+ottotahti on Q:lla ollut huomattavasti parempi kuin Fujilla oli.
+Ikävä, jos keepereiden tahti putoaa jonnekin Fujin ja Q:n välille...
+
+** Pen-F vs muut M4/3-kamerat
+
+Testasin Verkkiksessä myös Olympuksen muut nykymallit. E-M5.2 on
+kamera, joka käy järkeen kaikilla tavoilla. Siinä on iso ja kaunis
+etsinkuva, fiksumpi ote, eikä hopeinen malli ole todellakaan mikään
+rumilus. Sen suljin on myös hivenen hiljaisempi kuin Pen-F:ssä.
+Käsittääkseni E-M5.2 ei tue tiettyjä Auto ISO -juttuja, joita
+toivoisin blind zone focus -kuvaajana joskus, joten en hypännyt siihen
+runkoon siinä ja silloin. Ja pidän enemmän rangefinder-tyylisestä
+etsimestä rungon vasemmassa nurkassa.
+
+Käteen istui myös hyvin Olympuksen lippulaivamalli E-M1.2. Ei lainkaan
+iso kamera, ja sen suljin on vielä hiljaisempi kuin Pen-F:ssä! Kallis
+laitos silti, etenkin kun vertaa Panasonicin malleihin.
+
+** Summariikki ja tulevaisuus
+
+Kuten aavistelinkin, Leica Q puhaltaa kilpailevat kamerat kevyesti
+jorpakkoon, katsoipa asiaa miltä tahansa kantilta. Jos olisin 50 mm
+-kuvaaja, jos olisin muotokuvaaja tai actionkuvaaja tai JPEG-kuvaaja,
+niin Olympuksella olisi paremmat tsänssit pärjätä tässä kilvassa
+Leicaa vastaan.
+
+Vaan totuus on, että kaikenlainen kilpailu ja paremmuuden määrittely
+on loppupelissä turhaa: Leica Q on yhden käyttötarkoituksen ja yhden
+polttovälin mestari, ja valokuvauksessa pointti on löytää kuhunkin
+tilanteeseen parhaiten istuva polttoväli ja kuva. Kiinteälasinen ja
+-polttovälinen kamera ei voi yksin olla ainut ratkaisu mihinkään
+tämmöiseen tilanteeseen. Sen takia olen kyennyt ylenkatsomaan monia
+Olympuksen välittömiä puutteita ja olen patistanut itseäni löytämään
+toimivia ratkaisuja kohtaamiini ongelmiini.
+
+Olympus Pen-F on kamera, joka on sopivin apuvälinein ja hyvien
+linssien kanssa varmasti täydellinen kumppani pitkälle tulevaisuuteen,
+ja Leica Q pysyy vain yhden asian mestarina.
+
+Telepään tarpeita ajatellen hommasin eBaysta Panasonic 35-100
+-zoomilasin, joka antaa maisemakuvaukselle kaivattua potkua; myöhemmin
+keväällä ajattelen hommata Laowa 7.5 -millisen ultralaajakuvan
+kaikenlaiseen dynaamiseen kuvailuun. Ja saa nähdä, mitä kaikkea muuta
+tämän alkavan matkan varrella tulee noukittua.
+
+Q:n kohtalo on juuri nyt auki. Huonoimmassa tapauksessa en kykene
+myymään mitään pois, ja pidän molemmat kamerat laukussani.
+Parhaimmassa tapauksessa pystyn päätymään jompaankumpaan (mieluusti
+Pen-F:ään) ja myymään Q:n pois ja keskittymään yhteen systeemiin.
