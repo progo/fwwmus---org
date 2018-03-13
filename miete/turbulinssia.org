@@ -1,0 +1,166 @@
+#+TITLE: Turbulinssi - ostajankatumusta ilmassa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Turbulinssi - ostajankatumusta ilmassa                :kamera:olympus:
+CLOSED: [2018-03-13 Tue 18:39]
+:LOGBOOK:
+- State "DONE"       from              [2018-03-13 Tue 18:39]
+:END:
+
+Itseni tuntien ei ollut yllätys, että näitä päivittäin oskilloivia
+tuntemuksia uusista kamerahankinnoista ilmaantuu. Toisaalta uudet
+polttovälit ja IBIS ovat olleet tervetullut lisäys kuvailuihin.
+Sanoisinko, että tilanne on erilainen kuin aikaisemmin.
+
+Oskillointi on sitä samaa vanhaa tuttua. Joka toinen päivä Olympus
+tuntuu hyvältä ja joka toinen päivä tekisi mieli kaikki palauttaa,
+vielä kun on jotain mahdollisuuksia siihen. Tietty runko on ostettu
+kivijalkaliikkeestä ja sidottu takuuseen, joten ei ehkä edes onnistu.
+Tämä vähän helpottaa asioita. Linssi sen sijaan on toinen asia
+kokonaan.
+
+** Olympus 17/1.8 ja sen kompromissit
+
+Tämä pikkulasi on ristiriitainen kokonaisuus samalla tavalla kuin moni
+muu pienikokoinen lasi. Sen pehmeys ja tarkennusalueen taipuminen
+tekee lasista varsin ylihintaisen kuvanlaatuun nähden. Toisaalta
+kiitos m4/3-runkojen puutteellisten manuaalitarkennusavusteiden (tästä
+lisää seuraavassa kohdassa) en voi oikein luopuakaan tästä lasista,
+jos mielin kuvailla zone focusta missään muodossa! M4/3-laseissa ei
+paljoa tapaa noita etäisyysmittoja, ja sovitetussa lasissa on taasen
+yleensä niin paljon polttoväliä, että sokkokuvaus ei onnistu.
+
+Ongelmana on se, että (ylihintainen) Olympus olisi vielä
+palautettavissa Verkkikseen; voisin ostaa terävän Panasonicin tilalle
+ja sitten tarkastella tuo zone focus -tilanne uudelleen myöhemmin. Jos
+ZF onnistuisi helpommin, vaihtaisin varmaan epäröimättä. Kahdeksan
+päivän päästä palautusoikeus viimein päättyy. Yritän pyristellä
+palautushaluja vastaan ja pitää kombo kasassa.
+
+Panasonicin 35-100 -zoomin kävin hakemassa paikallisilta kaupoilta ja
+se on kyllä varsin mallikas tehopesä kokoonsa nähden! Se on myös
+huomattavasti terävämpi ja optisesti melkein täydellinen. (Otin linssin
+vääristymäkorjaukset pois kun ne jostain syystä tekivät vain haittaa
+kuvalle: ehkä kamera korjaa vääristymät jo rungossa. Joskin outoa,
+että Olympuksen omalle lasille Pen-F ei tekisi korjauksia, mutta
+Panasonicille kyllä.)
+
+Myyjän kanssa vähän haasteltiin, ja hän demosi myös aivan
+piskiriikkistä 12-32-zoomia Panasonicilta. Himmeä f/3.5-5.6, mutta
+mielettömän terävä taas kokoonsa nähden; lisäksi bokeh ja renderöinti
+on melkeinpä siistimpää kuin 17/1.8:n kanssa. Melkein tekisi mieli
+palauttaa tuo Olympus ja ostaa tuo zoomi tilalle!
+
+** Pen-F ja sen kompromissit
+
+Tämä runko on kyllä positiivisesti yllättänyt monella tapaa, etenkin
+sen tuottama kuvanlaatu on yllättävän hyvää, ja IBIS eli
+rungonsisäinen kuvanvakain on aika killeri. Yksi hyvä esimerkki tästä
+oli kun eilen otin 100 millimetrin polttovälillä (kinovastaavuus 200
+mm) ja f/5.6-aukolla kuvan huoneenvalossa: valotusaika oli 1/6
+sekuntia, eli tajuttomasti alle yleisen nyrkkisäännön (joka sanoo
+1/FL, eli tässä tapauksessa 1/200 s).
+
+Kuvasta tuli terävä ja tarkka. Kuvan otin ISO 800:lla, mutta
+jälkikäsittelyssä puskin kuvaa ylöspäin vielä 1,5 stoppia, eli
+efektiivisesti kuvan ISO-herkkyys on noin 2000:n tietämillä. Piskuinen
+määrä kohinanpoistoa ja kuvasta tuli oikein bueno m4/3-kuvaksi!
+
+Mutta rungossa on myös monia ongelmiakin. Rungon fyysiset ominaisuudet
+ovat myös osittain vaillinaisia. Etenkin napit ovat loppupelissä liian
+tunnottomia, kuin Fuji X-T1:ssä oli. Elektroninen etsin on kyllä
+toisaalta lunastanut paikkansa melkein kärkipaikalle.
+
+Iso juttu on myös tuo Olympuksen tuottama softa kameraan. Käyttöä
+estäviä bugeja en ole siitä löytänyt, mutta käytettävyys on heikkoa
+myös valikoiden ulkopuolella. (Joskin löydän joka päivä lisää uutta
+potentiaalia kameran kustomimoodeista, joihin voi koodata myös omat
+nappikustomointinsakin.)
+
+Edelleen pahasti kirvelee tuo huonosti toimiva autofokus. Erittäin
+tarkan autofokuksen piti olla peilittömien kameroiden iso
+valttikortti, vaan vain Leica Q on tehnyt tämän oikein. (Mitenköhän
+Leica T/TL/CL hallitsee asian?)
+
+Yksi ongelma on tuo etäisyysmitan puute. Fujifilm tekee oikein
+mallikkaan etäisyysmitan. Jos luovun Olympus 17/1.8:sta, ei minulla
+ole oikein vaihtoehtoakaan blind zone focus -hommiin. Mainioksi
+kehuttu Panasonic 20/1.7 olisi varmasti tiptop, mutta kuinka oikein
+pidän huolta, ettei sen tarkennus vahingossa keikahda johonkin
+äärilaitaan ja kuva menisi piloille. Ilman etäisyysmittaa en oikein
+muuten kuin säännöllisesti uudelleentarkentamalla mutuarviolta
+johonkin läheiseen.
+
+Kirjoitin Olympukselle sellaisesta toiveesta etäisyysmitan lisäksi,
+että entäpä jos kameran "Home point" -käsite laajennettaisiin
+kattamaan myös manuaalitarkennus. HP on siis Olympuksen tapa sanoa,
+että resetoidaan kameran autofokuspiste johonkin käyttäjän
+asetettavaan oletuspisteeseen. Olisi varmaan helppo koodata
+manuaalitarkennukseen samanlainen idea, eli joku ennalta asetettava
+etäisyys, johon kamera tarkentaisi lasin HP-nappia painettaessa.
+Yhtäkkiä kamera olisi tykimpi katukamera kuin katujen kuningas, Ricoh
+GR!
+
+Olympuksen JPEG:ejä en ole edelleenkään käytellyt paljoa, mutta nuo
+kameran tekemät mustavalkokonversiot saavat jalat veltoiksi.
+
+** Tuo mulle Q taivaalta
+
+Tein hauskan skenaariolaskelman: mitä kaikkea saisi Q:n katuhinnalla
+(3k EUR). Kasuaali hintakatsaus tehty 12.3.
+tori.fi/digicamera.net/kameratori.fi-tarjonnasta nopeasti silmäillen.
+
+|                                                    |      |
+|----------------------------------------------------+------|
+| APS-C-kompakti lehtisulkimella:                    |      |
+| - Ricoh GR: 28mm ja huipputerävä                   | 12 % |
+| - Fuji X100: 35mm ja etsin                         | 12 % |
+| M4/3-järkkäri:                                     |      |
+| - Olympus E-P5: kompakti tehopesä                  | 7 %  |
+| - Olympus E-M5: järkivalinta                       | 13 % |
+| - Olympus E-M1: entinen lippulaivamalli            | 13 % |
+| M4/3-lasia maun mukaan kylkeen:                    |      |
+| - Pana 20/1.7                                      | 7 %  |
+| - Himmeä zoomisetti: Pana 12-32 + 35-100           | 10 % |
+| - Laiskan zoomi+kolmas runko: Pana 14-140 + DMC-G3 | 8 %  |
+
+Jos hommaa yhden APS-C-pokkarin ja yhden M4/3-kameran ja kaikki lasit,
+on silti poltettu vain puolet Leica Q -rahoista! Tämä laittaa vähän
+miettimään monen samanaikaisen kamerasysteemin meriittejä: Ricoh GR on
+vähintään yhtä terävä kuin Leica Q, ja sisältää lehtisulkimen nopeita
+synkkailuja varten. Sen kaveriksi Olympus E-M1 tarjoaa tukevan rungon,
+jonka kanssa kuvaa ergonomisesti kaikenlaisia laseja, myös vähän
+actioniakin onnistuneesti, jos on huolellinen.
+
+** Oskilloinnin amplitudi ei ole valtava 
+
+Tavallisesti kuukauden omistamisen jälkeen olisin jo valmis
+tuomitsemaan, mitä haluan myydä pois ja missä haluan pysyä, mutta nyt
+se on vaikea sanoa. Nyt näen paljon potentiaalia uusissa
+polttoväleissä, joita järjestelmäkamera sallii. Näen myös paljon
+haasteita 28-40 millimetrin laseissa, joiden olisi määrä olla se
+pääasiallinen ykköslasi minulle. Olympus 17/1.8 ei ole tietty mikään
+huono linssi, ylihintainen vain ominaisuuksiinsa nähden. (Olkoonkin,
+että osa sen ominaisuuksista ovat varsin uniikkeja m4/3-rintamalla,
+joten siitä ei noin vain luovuta!)
+
+Jos Oly 17/1.8 on kerta "huono", ja Leicasta ei tahdo oikein luopua,
+miksei palauttaa Oly 17 ja pitää molemmat kamerat laukussa? Teknisesti
+ottaen paras ratkaisu, koska nyt Leica tarjoaa parhaat mahdolliset
+28-40 millimetriä ja Pen-F voi tarjota telekuvausmahdollisuudet. Vaan
+eikö Pen-F jää tällä tavalla syrjään kaikesta kutkuttavasta.
+
+Sen myös sanon, että Pen-F näyttää paremmalta, tuntuu paremmalta ja
+tuottaa paremmat kuvat jos en ole koskenut Q:hun pariin päivään. Sen
+hyväksyn täysin, että Q:ta /en tarvitse/ mihinkään, joten siitä voisi
+luopua. Kirvelisi varmasti paljon luopua siitä, mutta tottuisin
+varmaan nopeasti siihen, mitä kivaa saisi ostettua tilalle.
+
+Sen vaan sanon, että myös kirvelee jonkin verran kun sivuutin Leica M8
+-kaupat silloin aikoinani. Luulin, että ko. runkoa vaivaa sama
+hapettumisongelma kuin M9:ää ja hinta oli sen takia alhainen. Silloin
+kaupiteltiin siis M8:n ja Voigtländer-lasin pakettia 1200 eurolla.
+
+Olisi ollut kyllä aika kova juttu silloin viime vuoden toukokuussa jos
+en olisi käynyt katsomassa Leica Q:ta kaupassa. Tietty kamerakuumetta
+oli silloin ilmassa, joten joku hölmö harppaus olisi ollut vääjäämätön
+asia joka tapauksessa.
