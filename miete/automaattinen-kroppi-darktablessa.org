@@ -1,0 +1,55 @@
+#+TITLE: Automaattinen kroppailu Darktablessa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Automaattinen kroppailu Darktablessa         :leica:ohjelmistot:koodi:
+CLOSED: [2018-03-27 Tue 18:16]
+:LOGBOOK:
+- State "DONE"       from              [2018-03-27 Tue 18:16]
+:END:
+
+Leica Q:n nostalgiset kuvanrajaukset ovat kiva idea tehdä terävästä
+28-millisestä lasista 35- tai 50-millinen. Näitä kroppitiloja
+käytettäessä kamera osaa myös rajoittaa valotuksen ja fokuksen
+käytettyjen kehysten sisään. Syntyvät 15- tai 7.5-megapikseliset kuvat
+ovat edelleen aika high endiä. Mutta Darktable ei rajaa raakakuvia
+automaattisesti kuvanottohetkellä visioituihin raameihin. Kokeillaan
+tehdä asialle jotain.
+
+Ensin tehdään presetit 35- ja 50-millisille kroppauksille.
+Matematiikalla päätellään, että kuinka paljon 28-millistä
+6000x4000-kuvaa jää jäljelle, jos näkymä kaventuu 35 milliin (leveys:
+4794 pikseliä) ja 50 milliin (leveys: 3358 pikseliä) vastaavasti.
+
+[[file:./kuvat/28-35-50-mm.jpeg]]
+
+Loin Gimpillä demokuvan, jossa nämä mitat on näppärästi rajattavissa.
+Sitten avasin Darktablella tämän kuvan, tein rajaukset ja tallensin ne
+preseteiksi crop-työkaluun. Sen jälkeen tein vielä tyylit näistä.
+(Vain tyylit lienevät tarpeen tehdä, mutta tein molemmat.)
+
+Yllätyksekseni näyttää toimivan, vaikka darktable raportoi raakakuvan
+dimensioiksi 6120x4016. Nyt testasin hyvin tieteellisesti soveltamalla
+mittanauhaa näyttöä vasten: rajaus näyttää tepsineen symmetrisesti
+kuvan molempien sivujen suhteen.
+
+Exiftoolin käyttäminen johonkin Q:n kroppaamaan kuvaan antaa nopeasti
+tuloksia. Tagi nimeltään /Digital Zoom Ratio/ on 35-millisen kropin
+tapauksessa 1.25 ja 50-millisen kropin tapauksessa 1.8.
+
+Seuraavaksi pääsemme vähän koodaamaan. Darktablen [[https://github.com/darktable-org/lua-scripts/tree/master/contrib][lua-esimerkeissä]] on
+ainakin esimerkki =autostyle.lua=, joka toimii meidän tarpeisiimme.
+Muokkaamme tämän työkalun tunnistamaan tietyn exif-tagin
+DNG-tiedostoista ja soveltamaan juuriluodut tyylit kuvaan
+automaagisesti.
+
+Vähällä työllä ja minimaalisella hikoilulla (Darktable saatiin
+kaatuilemaan aika luotettavasti, jos kroppityylejä soveltaa "livenä"
+Darkroom-tilassa. Lisäksi ohjelma piti kääntää lua-tuen kanssa. Aika
+vähäisiä haasteita tällä kertaa.) mutta lopputulos toimii paremmin
+kuin odotinkaan. Kroppi asetetaan kuviin tuontivaiheessa yhden kerran
+ja pääset suoraan valikoimaan ja skaalailemaan valmiiksikropattuja
+kuvia.
+
+Lopputulos löytyy [[https://github.com/progo/leica-q-autocrop/blob/master/autocrop.lua][Githubista]]. Nyt Darktable on askeleen lähempänä
+Lightroomia.
+
+[[file:./kuvat/03-27-16-44-L1050373.jpg]]
