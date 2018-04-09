@@ -1,0 +1,117 @@
+#+TITLE: Leica M tulee kyllä...
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M tulee kyllä...                                  :kamera:leica:
+CLOSED: [2018-04-09 Mon 14:39]
+:LOGBOOK:
+- State "DONE"       from              [2018-04-09 Mon 14:39]
+:END:
+
+...mutta minä määrään päivän! Hiljattain sain hillittömän puuskan
+lähteä havittelemaan seuraavaa "lottovoittokameraa", vaikka talous ei
+ole tästä edistynyt mihinkään suuntaan. Pääasiallinen syy tähän on
+ollut, että Pen-F ei ole päässyt uusien lasien kanssa "tositoimiin".
+Hyviä kuvia olen kyllä onnistunut nappailemaan sillä, ei siinä mitään.
+
+** Pen-F
+
+Pen-F on hieno kamera kaikin puolin; soma, siro, kompakti, kyvykäs.
+Mutta sen funktionaalinen muotoilu ei istu sataprosenttisesti käteeni
+samalla tavalla kuin Fuji X100T tai Leica Q istuu. Etenkin kismittää,
+että sen tunnoton infonappi jää hankalaan paikkaan, eikä sitä voi
+uudelleenohjelmoida toiseen paikkaan. Tunnottomien nappuloiden lisäksi
+oikeanpuoleinen hihnan "korva" on sijoitettu jokseenkin huonosti ja
+siihen kytketty rannehihna tahtoo jäädä aina eteen kun yritän operoida
+nappuloita.
+
+Lisäksi kameran taipumus alivalottaa jatkuu sitkeänä.
+
+Osa näistä Pen-F:n puutteista hioutuu varmasti pois, kun käytän
+kameraa enemmän tositilanteissa. Ehkäpä jonkin vaihtoehtoisen
+rannelenkin kokeileminen auttaa myös.
+
+** M9
+
+Yhtä kaikki, Pen-F:n ja siihen liittyvän roippeen ostaminen (yhteensä
+noin 1600 euroa uudesta rungosta, oheistilpehööristä, yhdestä uudesta
+objektiivista ja yhdestä käytetystä objektiivista) on yhden jos
+toisenkin kerran tuonut mieleen, että tämä alkaa olla ihan selvää
+rahaa. Ja että M9:t alkavat olla aika hyvissä hinnoissa,
+huollettunakin. 2400 euroa on sellainen hyvähkö hinta, ja nyt
+lauantaina näin yhden ilmoituksen hyvinpidetystä ja juuri huolletusta
+M9:stä hintaan 2050 EUR. Tämä laukaisikin tämän hetkellisen M-manian,
+koska hinta on oikein hyvä!
+
+M9 on perimmiltään kiva kamera. Se on pian 9 vuotta vanha kamera ja
+oli jo uutena teknisesti vanhentunutta kamaa, mutta siitä tuli
+nopeasti kulttiklassikko.
+
+M9 ei ole ehkä aloittelijaystävällisin kamera. Siinä on haasteellinen
+kenno, jota ei voi ali- tai ylivalottaa kuten Olympusta tai Q:ta voi.
+Siinä on hyvin pieniresoluutioinen näyttö, josta on vaikea todeta
+tarkennusta. Kameran softa on myös hidasta. Livenäkymä puuttuu.
+
+Ja vaikka nyt saisi rungon halvalla, on silti keksittävä jotain lasia
+nokalle. Tämä luo kustannuksia, ja riippuu nyt ihan että miten haluaa
+aloitella harrastusta niin voi selvitä 300-400 eurolla tai mennä
+valovoimaisiin laseihin suoraan, 700-1500 euron paikkeille. Nämä siis
+käytettyjä hintoja. Olympuksen lasini ovat kinovastaavat 15 milliä f/2
+ja 70-200 milliä f/4-5.6. Vastaavia M-laseja yllättäen saa samoihin
+hintoihin; Voigtländer 15/4.5 on kaikkien rakastama ja sen saa
+ostettua noin 500 eurolla käytettynä; samaa luokkaa kuin Laowa.
+70-200-zoomia ei kyllä saa M-mountille, mutta halpoja (alle 400 eur)
+f/4-objektiiveja saa 75-, 90-, ja 135-millisinä helposti. Eli
+taloudellisesti sama Olympus-setti, joka maksoi 1600 euroa, maksaisi
+Leica-versioina "vain" 2850 euroa.
+
+Mutta nämä objektiivit ovat vain "avustavia" laseja; itse maalintekijä
+on siellä 28-35-50 millin akselilla. M9 on selvästi kamera, jota ei
+voi jättää avustavaan rooliin, jos sitä ikinä haluaa oikeasti osata
+käyttää. Eli joku 35/2 tai nopeampi pitäisi ostaa.
+
+Ja tästä tullaan siihen viimekuiseen dilemmaan takaisin. *Jos Leica Q
+osaa tehdä mielettömän hyviä 28-kuvia ja enemmän kuin tarvittavan
+laatuisia 35-kuvia, hyvällä autofokuksella, kuvanvakaimella,
+hiljaisella sulkimella ja hyvällä kennolla, niin mitä ihmettä M9 tuo
+oikein pöytään?* M9 35-millisen objektiivin kanssa antaa vain 3
+megapikseliä enemmän resoluutiota kuin kropattu Leica Q. Ja voi olla,
+että eroa ei tule edes näkemään, jos ostan jonkun budjetti-35:n, joka
+ei pärjää nykyaikaisella designilla tehdylle Q:n 28 mm Summiluxille.
+
+Tämä fakta yksinään riittää jarruttelemaan menohaluja riittämiin. 
+
+** Muita selityksiä
+
+Tuossapa se tarinan ydin alkaakin olla. Totuus on se, että 2000
+eurossa M9 alkaa olla hyvä diili, enkä varmasti ottaisi paljoa
+tappiota, jos kamerasta ei tulisikaan elämänkumppania.
+
+Juuri nyt on muitakin rautoja tulessa: salamahommia Q:n kanssa ja sen
+sellaista. Lisäksi talous on aina yksi juttu. Vaikka talous kestääkin
+hyvin, on tässä tullut nyt valitettavasti tuhlattua rahaa materiaan
+enemmän kuin toivoisi. Hyvä vähän toppuutella kesään asti, jos vain
+malttaisi.
+
+Kuvanlaadulla jos haluaa perustella asiaa, on M9:n kohinansieto
+varmaan lähellä samaa tasoa kuin neljä kertaa pienemmän kennon
+omaavassa Pen-F:ssä. Eli varmaankaan isoa voittoa ei nähdä. DXOMarkin
+testeissä myös dynamiikka oli Olympuksessa vahvempi. Ja pikkuinen
+juttu, tuo automaattinen ISO, toimii Pen-F:ssä paremmin kuin M9:ssä.
+
+** M9 vs M240
+
+M9:n katuhinta on siellä 2200-2400 euron hujakoilla. M240:n katuhinta
+on noin 3200 euron paikkeilla. Eikö tuo 800 euron lisäsijoitus
+kannata, kun siihen saa niin paljon vastinetta rahalleen? Livenäkymä
+auttaa käyttämään telelinssejä ja tutkimaan mahdollista
+tarkennusvirhettä. Uusi CMOS-kenno antaa ulos 24 megapikseliä ja
+kuulema noin kaksi stoppia paremman ISO-suorituskyvyn. Lisäksi selvä
+ero dynamiikassa. Lisäksi takanäyttö on paljon terävämpi ja ilmeisesti
+myös akkukesto on parempi.
+
+Niin. Ehkäpä M9 ei ole mikään fiksu ostos lainkaan. Etenkin kun vain
+miedosti huonompi kamera, M8 on huimasti halvempi omistaa ja käyttää.
+Ja sitten M240 on "vain vähän" kalliimpi.
+
+Mutta siinä missä kaikki kyllä kehuvat M240:tä loistavaksi kameraksi,
+samaa sanotaan M9:stä, mutta lisäattribuuteilla. "Taianomainen" ja
+muuta mukavaa.
