@@ -1,0 +1,474 @@
+#+TITLE: Katukuvaamisesta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Katukuvaamisesta                                              :kamera:
+CLOSED: [2018-04-20 Fri 18:14]
+:LOGBOOK:
+- State "DONE"       from              [2018-04-20 Fri 18:14]
+:END:
+
+Kerronpa vähän päässäolevia mietteitäni katukuvaamisen tekniikoista.
+Ehkä jonain päivänä voisin kertoa siitä, mitä hyvässä katukuvassa on
+sisällä, mutta nyt käsittelen vain ulkoisia ja teknisiä juttuja.
+
+Katukuvaa on vaikea määritellä, mutta on helppo sanoa, kun sellaisen
+näkee. Se ei ole pelkkää urbaania arkkitehtuuria, tilannekuvia,
+mustavalkokompositioita, ihmisiä kaupunkioloissa, mutta nämä aiheet
+sivuavat kyllä. Toisin kuin jotkut sanovat, katukuvan ei tarvitse olla
+filmi-Leicalla valotettu 35:n tai 50 millimetrin mustavalkokuva.
+
+On myös aika vaikea sanoa, mikä katukuvissa viehättää. Tämä innostus
+varmaan lähtee siitä, että isot kaupungit viehättävät. Näissä
+kaupungeissa sitten otetaan paljon urbaaneja potretteja ja
+tilannekuvia ja sieltä tämä koko villitys on lähtöisin. Pian
+100-vuotinen perinne! Henri Cartier-Bresson ja pienten kameroiden
+vallankumous ryydittivät tätä teemaa vuosisadan taitteessa ja siitä on
+tullut iso bisnes ja kulttuurillisesti tunnustettu taiteenlaji.
+
+Katukuvaus voi olla aika röyhkeätä yksityisyydensuojan rikkomista ja
+jalankulkijoiden häirintää, mutta tämä riippuu paljon ihan
+valokuvaajan tyylistä. Youtubesta löytää näinä päivinä kaikenlaista
+mukavaa ja informatiivista katseltavaa asian tiimoilta. Take
+"BigHeadTaco" Kayo tekee haastatteluita ja arvostelee kameroita
+pääasiallisesti kanavallaan, mutta välillä häneltä tulee ulos [[https://www.youtube.com/watch?v=vRUmHIomiPE][oikein
+mainio video]], jossa mielestäni tulee katukuvauksen tyyli hyvin
+demonstroiduksi. Eric Kim saattaa jakaa mielipiteitä, mutta häneltä
+syntyvät tulokset ovat mielestäni mainioita, hieman Bruce Gildeniä
+abstraktimmalla sävyllä. Tässä yksi tuore esimerkki [[https://www.youtube.com/watch?v=R3xj6alv01I][Ericistä Osakassa]].
+Ja kun Bruce Gilden tuli mainittua, tässä [[https://www.youtube.com/watch?v=kkIWW6vwrvM][yksi lyhyt demo]]
+newyorkilaisesta legendasta. Osa youtubettajista hoksaa asettaa GoPron
+tai vastaavanlaisen pikkukameran varsinaisen kameran salamakenkään ja
+näitä videoita tutkimalla oppii valtavasti tekniikoita, joilla voi
+parantaa kuviensa sisältöä. Tässä "Real Sir Robin" [[https://www.youtube.com/watch?v=joCvlgHJySI][kahteen eri
+otteeseen]] näyttämässä, [[https://www.youtube.com/watch?v=gyySu2EgFzA][miten manuaalitarkennus]] voi kevyesti piestä
+nykyaikaisenkin autofokuksen. Kameran tekoäly ei aina päihitä oikeata
+ihmisälyä!
+
+** Asioita ja tekniikoita, jotka auttavat katukuvaamisessa
+
+Ilman, että olemme määritelleet oikeastaan että mitä olemme hakemassa
+valokuviltamme, (edelläolleet videot auttavat varmaan saamaan kuvaa,
+mutta niiden katsomista ei vaadita) voimme ehkä approksimoida ideaa
+näin: /turistimoodi, mutta valmis kaappaamaan tilanteita kun ne
+tapahtuvat/. Tässä on muutamia teknisiä apuvälineitä katukuvaamiseen.
+Itse katukuvaamisen hyväksihavaittuja menetelmiä pitäisi varmaan
+purkaa auki toisessa kirjoituksessa joskus. Eric Kimin viimeaikaiset
+(nyt huhtikuun 2018 aikana tulleita) videot Osakasta demonstroivat
+näitä hyvin, myös [[https://kenrockwell.com/tech/fart.htm][Ken Rockwell]] tietää asiasta jotain. Lukemattomia
+muita viestejä varmasti löytyy aiheen tiimoilta.
+
+*** Zone Focus
+
+Paras työkalu saada kaikkein kiitävinkin tapahtuma taltioitua on
+minimoida reaktioaika. Herkkä liipaisinsormi, sopivat kamera-asetukset
+valmiina käyttöön, (kamera luonnollisesti päällä). Mutta mitä jos
+silti aikaa palaa kun olet valitsemassa autofokuspistettä (tai kamera
+jatkuvasti tarkentaa väärään paikkaan) ja siihen vielä
+tarkennusmoottorin hitaus päälle... Tämä kaikki on mielettömästi
+nopeampaa kuin käsitarkenteisten filmikameroiden kanssa rimpuilu,
+mutta entä jos se ei ole kyllin nopeata?
+
+Paras ratkaisu tähän ongelmaan on esitarkentaa linssi tietylle
+etäisyydelle ja himmentää lasi niin kireälle kuin vain mahdollista.
+Näin kamera ottaa aina terävän kuvan kaikesta, mikä osuu
+esitarkennetulle alueelle. Pois jää fokuspisteen valitseminen tai
+varmistaminen, ja myös tarkennusmoottorin käynti. Tarvitsee vain
+osoittaa ja ampua! Tätä kutsutaan /zone focus/ tai /prefocus/
+-menetelmäksi. Sopivaa suomenkielistä termiä samasta asiasta ei ole
+tullut vastaan. Ehdotuksia kuullaan!
+
+Laajakulmaisempien linssien kanssa ZF on erityisen näppärä, koska
+sopivalla aukolla (usein f/8) lasin voi asettaa niin, että tietystä
+matkasta eteenpäin kaikki on kohtuullisesti tarkkana... aina
+äärettömään asti! (Hyperfocal distance.) Kroppikameralla, jossa on
+vastaavasti pienempipolttovälinen lasi, tämä terävyyden raja
+saavutetaan hyvissä ajoin, joten käytännössä vaikkapa kaiken kahdesta
+metristä eteenpäin saa teräväksi.
+
+Mutta ZF ei ole pelkästään tämmöistä. Yhtä hyvin (tätä demonstroi hra
+Robin mainiosti aiemminmainituilla Youtube-videoilla) voit
+esitarkentaa 70 senttiin eli noin kädenmitan päähän. Kireän aukon
+kanssa saat hyvänkokoisen alueen terävää kuvaa käden ulottuvilta ja
+nyt riittää vain opiskella kädenmitan pituus ulkoa ja lihasmuistiin.
+Saat aikamoisia kuvia olemalla lähempänä kohdetta.
+
+ZF on mainio ja hyväksihavaittu tekniikka, mutta hyviä tuloksia
+vaativa kireä aukko tarkoittaa, että pimeässä, tai jo esimerkiksi
+täyspilvisellä säällä voi ISO-herkkyyttä joutua nostamaan
+sietämättömiin lukuihin. Jos kuvaat mustavalkoista, niin sitten pieni
+kohina ei yleensä pilaa kuvaa.
+
+ZF on myös siitä hyvä, että voit kuvata halutessasi sokkona,
+vyötäröltä tai rinnalta. Saat vähän uniikimman perspektiivin kun
+kamera ei ole pääntasolla ja harva ihminen hoksaa, että heitä
+kuvataan. Tätä olen itse erityisesti harjoittanut -- vyötäröltä
+sokkona kuvaamista. Tekniikka on jo poikinut paljon mainioita kuvia,
+ja olen vasta omasta mielestäni ihan alkutekijöissäni!
+
+Sokkokuvauksessa auttaa hyvä toteutus automaattisesta ISO-herkkyyden
+säädöstä. Ihanteellisesti automatiikkaa voi konfiguroida
+tarpeellisesti niin maksimi-ISO:n kuin minimisuljinajankin suhteen.
+Joissain kameroissa on unohdettu kokonaan sokkona kuvattava
+tilannekuvaus ja sen seurauksena minimisuljinaika voi olla jossain
+1/60:n ja 1/120:n tienoilla. Liian hidas vauhti, nopea liike ei
+pysähdy vielä tuossa matkassa!
+
+Koska pienempien kennojen kameroissa on luonnollisesti kroppitekijän
+ansiosta enemmän syväterävyyttä, luulisi että mikronelikolmonen olisi
+paljon parempi valinta kuin täyden koon kenno. Samalla valolla
+tuplasti enemmän ZF:ssä ah-niin kaivattua terävyyttä? Teknisesti näin
+onkin, mutta nyt ainakin Olympus on ylenkatsonut esitarkennuksen
+tarpeellisuutta, eikä ilmeisesti raporttien perusteella Panasonic ole
+sen kummempi asiassa. 
+
+Jos haluat esitarkentaa tiettyyn matkaan, joudut turvautumaan
+sellaisiin linsseihin, joissa on fyysinen asteikko! Tämä rajoittaa
+aika paljon saatavan lasin määrää. Toki kriittiset polttovälit (24,
+35, 50 milliä kinovastaavasti) saa katettua Olympuksen mainioilla
+f/1.8-laseilla, joissa on fyysinen asteikko "snap ring"
+-tarkennusrenkaan muodossa. Tykkäsin Olympus 17/1.8:n fyysisestä
+olemuksesta, kuviin en ihan hullaantunut totaalisesti.
+
+Tässä(kin) suhteessa Fujifilmillä pyyhkii hyvin. Osassa Fujin
+linsseissä on Olympuksen tapainen fyysinen "snap ring", josta tulee
+esiin etäisyysmitta ja kaikkea. Ja niissäkin linsseissä, joissa ei
+tätä herkkua ole, on kameran näytölle ja etsimelle saatavissa
+digitaalinen mitta. Tämä on hyödyllinen, jotta voit aina pitää
+silmällä, ettei esitarkennusetäisyys ole vahingossa vaeltanut pois
+/sweet spotista/.
+ 
+*** Estetiikka ja siro kamera    
+
+Yleinen totuus on, että valtaosassa tapauksia kamera ei ole kuvattava
+kohde, joten sen ulkonäöllä ei ole väliä. Tämä on 100% totta silloin
+kun kuvataan kohteita kaukaa, maisemia, arkkitehtuuria, maksettuja
+malleja. Ja tämä on 85% totta silloin kun kuvataan katukuvia. 15
+prosenttia on aika iso boosti mielestäni.
+
+Kadulla kuvattavat kohteet ovat tyypillisesti tuntemattomia ihmisiä,
+joten helpommin lähestyttävä kamera ja kuvaaja yleensä helpottaa
+vuorovaikutusta. Kamerakokonaisuuden (runko + linssi) koko lupailee
+kaikenlaista. Isot kamerat mielletään ammattikuvaajiin, joten
+pienemmät kamerat pääsevät pälkähästä moninaisemmissa tilanteissa kuin
+isot. Myös estetiikka antaa paljon anteeksi. Nykyään kovasti muodissa
+on retromuotoilu ja 50/60-luvun hopeinen kromi kiiltää jälleen monessa
+rungossa. Koska ammattikamera on iso ja musta, hopeinen pikkukamera
+mielletään leluksi, jolla ei ole pelotetekijää tai mitään.
+
+Paljon riippuu tyylistä, toki. Bruce Gildenin menolla ei tarvitse
+piilotella pusikoissa, tai ostaa pieniä tehokompakteja. Ja jos kuvaat
+mielelläsi telesommitteluja (70 millistä eteenpäin) niin alat olla sen
+verran kaukana kohteista, ettei kameran koolla ole oikeastaan väliä.
+
+Toisaalta laajakuvaajan tarvitsee olla lähellä kohdetta tehdäkseen
+tehokkaita asetelmia, etkä voi välttämättä tunkea valtavaa 24-70 F/2.8
+-lasia 20 sentin päähän bussipysäkillä istuvan naamasta samalla
+tavalla kuin Ricoh GR:ää.
+
+Fujifilmiä saa hopeisena tai mustana, ja mielestäni kumpikin on yhtä
+huomaamaton valinta kaduille. Hopeinen X100 on komea ilmestys, mutta
+samalla sopivalla tavalla leluisan näköinen; ihmiset eivät ota sitä
+vakavasti, ovat rennompia sen ympärillä. Ainakin itse olin mielestäni
+tuikihuomaamaton Fujin kanssa. Sain myös piskuisen kameran kanssa
+helposti lupia ottaa katupotretteja ihmisistä.
+
+*** Hiljainen valottaja on oikea peto
+
+Estetiikan ohella yksi parhaista asioista, mitä kamera voi olla, on
+olla hiljainen. En tarkoita pelkästään merkkiääniä, vaan myös ihan
+kameran fyysisiä ääniä, joilta ei voi välttyä. Suljinääni, linssin
+tarkennusmoottorin kovaäänisyys, sitä rataa.
+
+Hiljaisin suljin kaikista on elektroninen suljin, jota kännykätkin
+käyttävät ja jota näkee optiona melkein kaikissa uusissa
+kameramalleissa. Elektroninen suljin ei ole aivan ongelmaton ratkaisu:
+liikkuvat kohteet, panorointi ja loisteputkivalot ovat sähkösulkimen
+vihollisia ainakin juuri nyt. Kahden vuoden päästä tilanne on
+[[file:./globaali-suljin.org][oletettavasti vallan toinen]]. Mutta nyt paras ratkaisu on joko 4,5
+tonnin Sony A9, jossa on niin nopea elektroninen suljin, että se on
+melkein kokonaan ongelmaton, tai mennä mekaanisella lehtisulkimella.
+
+Autuus on kuvata lehtisulkimella. Niissä on hyvin tyydyttävä, taktiili
+tuntuma, ja ne ovat pitkälti hipihiljaisia, ja käytännössä äänettömiä
+jos ympäristössä on vähänkin taustahälinää.
+
+Mikä on se hiljaisen kameran itseisarvo sitten? Vähän sama homma kuin
+jos olet metsällä ja näet saalistettavan pedon kiikaritähtäimessäsi.
+Aseen ääni ja eläimen reaktiot takaavat sen, että sinulla on vain yksi
+mahdollisuus ottaa osuma rauhassa. Sama idea istuu kameroissa, ja nyt
+äänettömän kameran kanssa et menetä mahdollista suojautumistasi.
+Optimitapauksessa voit ottaa rauhassa niin paljon kuvia autuaasta
+kuvattavastasi, että joku varmasti onnistuu. Jos kamerasi olisi
+kovaääninen, peilikamera vaikkapa, kuvattava herää ensimmäisen otoksen
+jälkeen ja tiedostaa olemassaolosi. Pystyt siis työskentelemään paljon
+paremmin tilanteen ja ihmismassojen keskellä. Tämä auttaa myös tuttuja
+ihmisiä kuvatessa hirveästi. Illanvietto saattaa jopa vallan
+keskeytyä, jos rupeat kuvaamaan kesken jutunteon kovaäänisellä
+kameralla. Hiljainen kamera ei keskeytä mitään. Candid-kuvaa parempaa
+ei olekaan!
+
+Eric Kim käyttää paljon Ricoh GR:ää, jossa on iso APS-C-kokoinen kenno
+ja hipihiljainen lehtisuljin. [[http://erickimphotography.com/blog/contact-sheets/][Tämä esimerkki tässä]] ei ole ehkä paras
+mahdollinen, mutta demonstroi ehkä sitä, miten arvokas asia voi olla
+hiljaisuus ja se, ettei kuvattava herää "poseeramaan" kameralle. [[https://f16.click/gear/fujifilm-x100f-review.html][Kevin
+Mullinsin kaikki tuotanto]] demonstroi loistavasti hiljaisen ja
+huomaamattoman kameran arvoa hiljaisissa oloissa, olkoonkin että hän
+osaa taltioida samanlaisia aitoja reaktioita ihmisiltä myös
+kovaäänisillä kameroilla. Tämän sivun hääotokset: jos ensimmäinen otos
+onnistuu, hyvä! Kiva! Mutta jos ei, lähes äänetön suljin auttaa
+roimasti pitämään matalaa profiilia samalla kun napsit kuvia talteen,
+kunnes tulee voittava kuva vastaan.
+
+** Kameroita, jotka sopivat hyvin katukuvaamiseen
+      
+Vanhaan aikaan suosittiin Leicoja, koska vaihtoehtona oli vain paljon
+isokennoisempia ja isokokoisempia ja hitaampikäyttöisiä ja kalliimpia
+kameroita. Leica on jäänyt brändinä ihmisten mieliin, mutta en
+välttämättä sanoisi, että se olisi ehkä paras valinta katukuvaukseen.
+
+Oheisista olen käyttänyt vain X100T:tä, X-T1:tä, Leica Q:ta ja Olympus
+Pen-F:ää M4/3-kameroista. Osaa kameroista olen hypistellyt kaupassa
+pari minuuttia. Loppu informaatio tulee muilta ihmisiltä.
+
+*** M4/3: teoriassa täydellinen kombo syväterävyyttä ja kompaktisuutta kaupungin kaduille?
+
+Mikronelikolmosilla on ehkä vaikeuksia saada bokeh-pelleilyä talteen,
+mutta ison syväterävyyden hyötypuoli on toki, että ZF/prefocus
+onnistuu teoriassa oikein hyvin. Valonkeruun kannalta kinokokoisen
+kameran F/11:n voi laittaa mikronelikolmosella f/5.6:een ja saada
+kaksi stoppia lisää valoa. Hyvä diili, ehkä. Hyvällä valolla eroa ei
+ole niin isosti. Huonolla valolla M4/3 saattaa olla pari stoppia
+pienemmällä ISO-herkkyydellä, mutta tuleeko se olemaan riittävä asia,
+koska teoria myös sanoo, että pienempi kenno kohisee 2 stoppia enemmän
+kuin kinokokoinen. Lopputulos riippuu paljon käytetystä
+kameramallista ja olosuhteista.
+
+Harmikseni olen huomannut jälkeenpäin, että M4/3 ei ole käytännössä
+paras diili, ellet ole valmis kokonaan luopumaan sokkokuvaamisesta
+vyötäröntason ZF:stä. Minulle se on aika kohtalainen kynnys, vaikka,
+kuten sanoin, en ole juuri päässyt edes kunnolla vauhtiin siinä
+suhteessa.
+
+Osoittautuu, että M4/3-objektiiveissa on vain harvakseltaan ZF:ssä
+tarvittavia etäisyysmittoja. Totta, meillä on kohtuullinen Olympus
+17/1.8 ja hyvä Olympus 12/2, joissa nämä on sokkokuvailua varten.
+Näiden linssien katukuvauskelpoisuus on enemmänkin kuin hyvä -- niiden
+snap ring -toteutus mahdollistaa todella nopeat reaktiot snappaamalla
+linssi esitarkennettuun manuaalitarkennukseen yhdellä ranneliikkeellä,
+toisella olet taas takaisin nopeassa autofokusmaailmassa.
+
+Tarvitaanko edes muita linssejä tähän tarkoitukseen? Teoriassa ei,
+käytännössäkään ei. Tuntuu vain vähän rajoittavalta. Toki voit
+sovittaa vanhaa filmiajan optiikkaa kameran nokalle, mutta riittävän
+lyhyille polttoväleille sitä mahtaa olla vaikea saada. Olympuksen lasi
+on ihan kelvollista, mutta millään tavalla erinomaista se ei
+mielestäni ole. Panasonic tekee heti mielettömästi kiinnostavampia
+linssejä (14/2.5, 20/1.7, 12-32/f3.5-5.6), mutta niissä ei ole mitään
+etäisyysmittoja, osassa ei ole edes tarkennusrengasta! Jos
+zone/prefocus ei ole oma juttu (joskin vahvasti suosittelen
+kokeilemaan!) niin Panasonicin lasi ja joko Panasonicin tai Olympuksen
+rungot alkavatkin olla taas ihan hyvä diili katukuvaukseen.
+
+Autofokuksesta sen verran, että vaikka yhden tarkennuspisteen S-AF on
+sekä Olympuksen että Panasonicin rungoissa huippunopea, on silti
+mahdollista kameralta että se tarkentaa väärään paikkaan
+tarkennusneliön sisällä. Myös kasvontunnistusominaisuudet ovat olleet
+Olympuksessa kohtuuheikkoja.
+
+Mikronelikolmoselta toivoin aika paljon esimerkiksi terävyyden suhteen
+-- kompaktit linssit ovat kyllä halpoja, pieniä ja kevyitä, mutta ihan
+viimeisen päälle komeata laatua niistä ei saa niin vaivatta kuin Leica
+Q:lla. Myös luontainen pienen kennon kohinataso syö jonkin verran
+tonaalisuutta sävyistä. Tämän huomasin ensin kuvia vertailemalla ja
+sitten lukemalla internetistä aiheesta lisää.
+
+*** Ricoh GR
+
+Ricoh GR on isokennoinen (APS-C) älyterävällä semilaajakulmalla
+(18/2.8, kinov. 27 mm) varustettu taskuunmenevä pokkari. Tämä
+objektiivi tässä kamerassa on veitsenterävä, vaikka hieman nopeampikin
+saisi olla.
+
+[[http://www.bigheadtaco.com/2016/02/non-review-ricoh-gr-ii-in-hong-kong.html][BigHeadTacon inspiroiva kirjoitus]] kamerasta on mukavaa luettavaa.
+
+Tämä on aito katukuvaajan kamera monesta syystä. Sen käyttöergonomia
+kevyenä ja yhden käden kamerana on huippuluokkaa. Siinä on
+sisäänrakennettu salama pientä täytettä varten, hiljainen lehtisuljin
+(edelleen, paras asia sitten kameran keksimisen) ja terävä lasi tuo
+ehkä yliluonnollista tarkkuutta otettuihin kuviin, mutta se myös
+mahdollistaa korkealaatuisia tekstuurien taltiointeja ihan toisella
+tavalla.
+
+Katukuvaajien mieleen on myös kameralle uniikki ominaisuus: /snap
+focus/. Sopivasti konfiguroituna voit olla kaupungilla ottamassa
+autofokuskuvia täydellä f/2.8:n aukolla: kuvaaminen tapahtuu kuten
+muissa kameroissa, painamalla suljinnappi puoliväliin, jolloin kamera
+tarkentaa, ja painamalla se pohjaan, jolloin kuva valotetaan. Snap
+focusin ansiosta voit mennä suoraan nappi pohjaan, jolloin kamera
+esitarkentaa määrittämääsi etäisyyteen ja käyttää esimääriteltyä
+aukkoa, ISO-herkkyyttä ja niin poispäin.
+
+Kuvanlaatua riittää, joskin kuulema kohinansieto on aika huono isolle
+kennolle. Muita huonoja puolia on vajaa kourallinen: kamerassa ei ole
+etsintä (erillisen optisen etsimen voi ostaa satasella) joten se voi
+olla vaikea käyttää kirkkaalla valolla. Lisäksi linssin sisäänmenevä
+rakenne altistaa kameran pölylle: iso tyyppivika GR-kameroissa.
+
+*** Fuji X100-sarja
+
+Fujifilm X100-sarja on ollut alustapitäen nätti ja samaan aikaan
+tehopakkaus kaikkea, mitä (katu)kuvaaja tarvitsee. Terävä 35-millinen
+kinovastaava F/2-linssi, nopeasti käsiksipäästävät asetukset (aukko,
+valotus, valotuksenkorjaus, ISO-herkkyys (uusimmassa mallissa)
+fyysisistä rullista) ja ainakin omaan käteen mainiosti istuva
+ergonomia tekee tästä kamerasta oikein hyvän kaduille.
+
+Ricoh GR:ään nähden X100T:ssä on parempi ISO-suorituskyky ja etsin.
+Kummassakin on terävä optiikka, mutta Ricoh on terävämpi, ja se on
+terävä kaikissa tilanteissa. Fuji on pehmeä, jos sillä tarkentaa
+lähelle isolla aukolla. Ricohin voitoksi Fujissa ei ole snap focusta,
+mutta toisaalta M4/3:n tappioksi siinä on näytöllä näkyvä elektroninen
+etäisyysmitta.
+
+Fujin optinen etsin on hieman turha kikka mielestäni, koska se on
+käyttökelvoton autofokuksen kanssa. Fujin autofokuksen osumiseen ei
+voi vain luottaa. Se on myös paljon hitaampi ja kovaäänisempi
+tarkentamaan kuin M4/3 tyypillisesti. Mutta käyttöergonomia on Fujissa
+paljon parempi kuin Pen-F:ssä, rutkasti parempi. Nappien tuntuma,
+sijoittelu. Kokemukseni koskevat vain X100T:tä, ja on syytä epäillä,
+että ensimmäisissä malleissa napit olivat huonompia. Fujia voi
+operoida jonkin verran sokeana, esimerkiksi fokuspisteen voin sokkona
+asettaa takaisin keskelle.
+
+Katukuvauksen kannalta X100F on ihan täydellinen paketti ja X100T on
+se melkein täydellinen. Yksi valitettava pikku puute X100T:ssä on sen
+automaattisen ISO:n puutteellinen säätövara. Minimisuljinajan voi
+laittaa lyhimmillään vain 1/125 sekuntiin, mikä on liian vähän
+liikkuvien kohteiden taltiointiin.
+
+Hipihiljainen suljin, kutkuttavan hyvin toimiva sisäänrakennettu
+salama, kauniit JPEG:t, loistoergonomia, estetiikka. Fuji
+X100-mallisto asettuu omissa kirjoissani ykköspaikalle katukuvauksessa
+tarvittavien ominaisuuksien kannalta.
+
+*** Fuji X -järjestelmäkamerat
+
+Fuji X100 ja Fujin X-kamerat erottelen erilleni sen takia, kun ne
+tuntuvat olevan ihan toista maata keskenään. Kokemusta ei ole tietty
+kuin Fuji X-T1:n verran, mutta parin kuukauden päälle tehty vaikutelma
+on, että X100T on suunniteltu ja kasattu rakkaudella valokuvaajaa ja
+valokuvaamista kohtaan. X-T1 on sitten jotain muuta. Teknisiä
+meriittejä kyllä, mutta tuntuma ei ollut lainkaan niin hyvä kuin
+X100T:n kanssa. AWB, kasvontunnistus, salama-TTL, kaikki toimivat
+paremmin X100T:n kanssa.
+
+Fuji X-Trans II/III -kennoiset kamerat ovat kyllä katukuvaajan ystäviä
+monella tavalla. X-T1/2 on kompakti runko, jossa on valtavan iso ja
+myös fiksusti suunniteltu etsin: voit sovittaa manuaalitarkenteista
+lasia sen nokalle ja tarkentaa samanaikaisesti suurennuslasin kanssa
+ja sommitella yhtäaikaa. Oikea ilo käytellä! Lisäksi PDAF-pikselien
+ansiosta manuaalitarkennusta voi harjoittaa minkä tahansa linssin
+kanssa kuin /split prism/ -peilikameroissa. X-Pro2:ssa voit sommitella
+kuvan optisessa näkymässä ja manuaalitarkentaa alakulmassa näkyvällä
+diginäytöllä. Ei kuulema niin hyvä kuin Leica, mutta aika hyvä
+kuitenkin.
+
+Kameroiden verhosulkimet eivät ole kovin hiljaisia, mutta toisaalta
+X-Pro2:n suljin oli yllättäen hiljaisempi kuin Pen-F:n. Hiljaisuutta
+arvostaville on uusi tiiliskiven näköinen ja muotoinen X-H1, jossa on
+aika hiton hiljainen suljin. Jos se tekniikka siirtyy joskus
+pienempään X-T3:een tai X-Pro3:een niin saatan olla kiinnostunut.
+
+*** Leica Q ja paras katukamera
+
+Leica Q on melkein joka saralla Fujin X100-sarjaa parempi kamera, ja
+täten teoriassa parempi/paras katukuvauskamera.
+
+Katujen kannalta Q:n suurimmat puutteet ovat X100-sarjaan nähden: ei
+sisäänrakennettua salamaa ja kameran suurehko koko. Myös musta, "iso"
+Q on tuntunut olevan lievästi pelottavampi kapistus kuin siro ja
+leluisa X100T. Q painaa selvästi enemmän kuin X100, mutta Q:n
+käyttöergonomia on kyllä sekin aivan loistava. Q:n suljin on myös
+marginaalisesti kovaäänisempi kuin Fujissa, vaikka lehtisuljin onkin.
+Q:ssa on myös lievää tasapainohäiriötä: jos kuvaan lonkalta sokkona
+ZF:ää, tahtoo Q olla vasemmalle kallellaan, kiitos sen painavan
+objektiivin. Fujissa on mainio tasapaino.
+
+Q:n ollessa kinokokoisella kennolla varustettu 28/1.7 sillä on
+rutkasti enemmän versatiliteettia melkein mihin tahansa tilanteeseen
+kaduilla. Sen lasi on älyterävä ja siinä on kaikki kameran operoinnit
+helposti saatavilla: aukko, suljinaika, manuaalitarkennus jämäkän
+renkaan kanssa. Hyvä etäisyysmitta ja sitä rataa. Q:n kanssa kuvien
+keeper-tahti on selvästi parempi kuin Fujissa; raakakuvissa on hyvä
+muovailtavuus, mutta etenkin autofokuksen osuminen on selvästi parempi
+kuin Fujissa, ja se merkitsee jos jotakin.
+
+Kaikin puolin Q on ilo omistaa ja käytellä. Jos omistat Fujia juuri
+nyt, älä mene kokeilemaan Q:ta kauppaan. Eron laadussa huomaa
+selvästi, ja muisto jää kummittelemaan ikävästi samalla kun lompakkoa
+alkaa poltella.
+
+Q:n automaattinen ISO säätyy mihin suljinnopeuteen tahansa. Illan
+tullen Q:n kuvanvakain auttaa napsimaan teräviä kuvia. AWB on hyvää
+tasoa. Kaikin puolin Leica Q olisi ultimaattinen katukamera, mitä nyt
+lopputuloksia katsellen Fujilla saa loppupeleissä ihan yhtä komeita
+otoksia.
+
+Kun puhutaan käytöstä suhteessa lopputuloksiin (tulosteista ja
+muista), sanoisin, että *X100 on parempi/paras katujen kannalta* sen
+estetiikan ja keveyden ansiosta. Ja onhan se vähän edullisempi kamera.
+Q:ta alkaa saada käytettynä 2000-2500 euroon ja Fujia saa käytettynä
+mallista riippuen 300-700 eurolla, tai uutena 1300 euroon. Ja jos ei
+X100 kiinnosta, niin Fujin X-sarja sekin istuu katukuvaystävällisten
+ominaisuuksiensa kanssa parhaassa asemassa. Kompakteja, hyväkennoisia
+kameroita kaikilla ominaisuuksilla Japanin tapaan.
+
+*** Leica M?
+
+Miten Leica M? Katukuvauksen esi-isäin kamerat on nyt unohdetty
+tyystin.
+
+Filmikuvaajalle M on aika hyvä diili. Niitä saa hyväkuntoisina
+"edullisesti" ja ne ovat myös hiljaisia kameroita, kiitos sormivoimin
+kammettavan filmin ja kangassulkimen, joka liikkuu sivuttain. Toki
+lasi maksaa jonkin verran, mutta sitäkin saa joka lähtöön edullisesti.
+
+Digiajan M:t ovat toinen juttu kokonaan. Niitä ei voi oikein
+hinta-laatusuhteeltaan mainioiksi kehua (Sony A7-mallistoa saa uutena
+700 euroon ja sitä rataa) ja sarjan eri versioiden kennoissa on ollut
+uutena kaikenlaista teknisesti ikävää. (M8: kohinainen CCD ja
+UV-alttius; M9: kohinainen CCD ja hapettumisongelma; M240: parempi
+CMOS-kenno, mutta lievää bandingia korkeilla ISO:illa.) M10:ssa on
+hyvä ja moderni kenno, mutta kamera on mokoma kallis kuin mikä.
+
+Nyt edullisiksi muuttuneet M:t (M8, M9) ovat kovaäänisiä sulkimiltaan,
+kovaäänisempiä kuin moni muu verhosuljinkamera. Sokkokuvaus vaatii
+paljon harjoitusta, koska kameroiden keskipainotettuun valotukseen ei
+voi luottaa kamalasti ja raakakuvia ei ehkä pysty pelastamaan kovalta
+alivalotukselta ja ylivalotukselta ei lainkaan. Mutta M on M. Miten
+pieni viive missä tahansa digietsimessä onkaan, M:n täysanaloginen
+optinen etsin on viiveettömämpi. Jotenkin se M-kokemus kiinnostaisi
+nyt kokea, vaikka jo kovaääninen suljin yksinään sulkee paljon pois.
+
+Totuus on tietysti, että samanlaista optista ja manuaalitarkenteista
+elämystä voi ihan hyvin harjoittaa vaikka Canonin kanssa: monessa
+EF-linssissä on kelvolliset etäisyysmitat ZF:ää varten ja optinen
+etsin on peilikamerassa sekin nollaviipeinen, /vaikkakin/ selvästi
+himmeämpi ja pienempi.
+
+Leica M sattuu olemaan kompaktein kinokoon systeemi, jos kinokoko on
+itseisarvo. Minulle se ei ole, oikeastaan. Sonyn rungot ovat
+kinokokoisia, mutta Sonyn rungot plus Sonyn natiivit objektiivit
+ovatkin taas isoja kuin mitkä.
+
+*** Täydellinen katukamera
+
+Joko kuvitteellinen Fuji X200, joka on Fuji X100F mutta uudella
+linssillä, joka ei pehmene lähitarkennuksessa, ja fiksulla
+autofokuksella. Tai jotain muita hienoja ideoita, joilla optiselle
+etsimelle saa oikeata käyttöä. Linssiin Fuji/Olympusmainen snap ring
+-rengas, jossa olisi hyvä tuntuma ja etäisyysmitta. Tämmöinen ratkaisu
+veisi X100-sarjan reilusti Ricohista ohi.
+
+Tai Leica Q, mutta järjestelmäkamerana. Lehtisuljinlinssejä kokoelma,
+ainakin 21, 28, 35, 50, 90 milliä nopeilla aukoilla. Mutta Fuji olisi
+silti parempi katujen kamera.
