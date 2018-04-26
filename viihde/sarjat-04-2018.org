@@ -1,0 +1,96 @@
+#+TITLE: Katsonnassa olevat sarjat
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Katsonnassa olevat sarjat, huhtikuu 2018        :sarjat:bsg:veep:curb:
+CLOSED: [2018-04-26 Thu 12:11]
+:LOGBOOK:
+- State "DONE"       from              [2018-04-26 Thu 12:11]
+:END:
+
+Katselen TV-sarjoja TV-mäisesti rutiinilla aina yhtä sarjaa per ilta.
+Sen päälle katselen lyhyitä komediasarjoja ajan ja fiilisten mukaan.
+Tässä tämän hetken status.
+
+** The Wire, 5. kausi
+
+The Wire on näitä sarjoja, joita kaikki hehkuttaa, mutta joihin ei
+jaksa hypätä mukaan ennen kuin vuosia sarjan päättymisen jälkeen.
+Aloitin sarjan viime syksynä, ja sarjan ansiosta maanantait ovat nyt
+suosikkiviikonpäiväni.
+
+Hyvin hitaasti starttaava sarja on kuin ikiliikkuja parin ensimmäisen
+jakson jälkeen. Tasavarma ja hyvin kirjoitettu höyryjuna vie meidät
+Baltimoren jengiläisten, politiikkojen ja lainvalvojien elämiin. The
+Wire ei ehkä ole maailman paras sarja, mutta selvästi se ylittää
+yleisen keskitason, ja on varmasti HBO:n yksi ylpeyksistä. Tämä on
+ensimmäinen katsomiskertani koko sarjalle, ja seikkailu on ollut kyllä
+kiitettävän hyvä.
+
+** Homeland, 7. kausi
+
+Yhdysvaltain kotimaan turvallisuudesta vastaa bipolaarinen Carrie
+Mathison ja posse. Sarjan laatu heittelee vähän tarinoiden mukaan
+kaudesta toiseen, mutta ensimmäinen kausi on hyvä suositus kelle
+tahansa. Ehkä ehdotonta kärkeä laadussa, tunnelmassa ja tuotannossa
+edustaa neljäs kausi, kun jengi seikkailee lähi-idässä.
+
+On totta, että sarja ehtii väsyä jos jokainen kausi aina pyörii
+terroristi-iskujen ehkäisyssä ja radikaalien tuhoamisessa. Varmaankin
+sen takia Homeland otti uuden suunnan kuudennesta kaudesta alkaen,
+selvästi Yhdysvaltain vuoden 2016 vaaleista inspiroituneena:
+valeuutiset, ulkoisten valtiovaltojen vaikutus kotimaan politiikkaan
+ja kaikki se. Ajankohtaista, ja mielestäni toteutus on ollut oikein
+hyvä, vaikka kuudes kausi hoiperteli vähän. Nykyinen seitsemäs kausi
+on ollut rautainen, joskin kevyt tähän mennessä. Oikein hyvä!
+
+** Battlestar Galactica 2003, 2. kausi
+
+En perusta kaikista tieteissarjoista kun ne tahtovat olla aika lepsua
+kirjoitusta ja parempiakin draamoja on saatavilla. Kuitenkin hetken
+mielijohteesta päätin tutustua BSG:hen. Tämä 15 vuotta vanha rebootti
+alkoi kohtuutylsällä kolmetuntisella minisarjalla, mutta ensimmäinen
+kausi, joka jatkoi välittömästi minisarjaa, oli todella mainio
+odotuksiin nähden. Oikein killereitä tilanteita ja tarinassa on hieman
+enemmän ulottuvuutta kuin odottaisi.
+
+Juuri eilen aloitin toisen kauden, ja saa nähdä, mitä tuleman pitää.
+Pari ensimmäistä jaksoa ovat olleet nyt tiivistä jännitystä ja jatkoa
+edelliskauden hyvin tiukkaan päätökseen.
+
+** The X-Files, 11. kausi
+
+Selvästi viikon heikoin lenkki juuri nyt on uusin kausi X-Filesiä.
+Mulder ja Scully jatkavat sarjan pääosissa. Sarja pyörii myöskin
+ajankohtaisissa teemoissa Homelandin tapaan, mitä nyt kirjoitus on
+kaukana kypsästä. Ei sillä, että X-Files olisi ikinä ollut
+hyvinkirjoitettua draamaa... Aion katsoa kauden loppuun asti. Kiva
+nähdä vanhoja tuttuja.
+
+** Curb Your Enthusiasm, 1. kausi
+
+Aloitin vanhan kunnon "Curbin" alusta. Larry Davidin killerikomedia on
+ehkä parasta viihdettä, mitä puolituntisena formaattina saa ulos
+HBO:sta. Ehkä kirjoitan enemmän tästä joskus.
+
+** Veep
+
+Veep ei ole juuri nyt katsonnassa, mutta hiljattain katsoin sarjan
+toista kertaa päätökseensä. Tässä sarjassa on kyllä sitä jotakin.
+Komedia, mutta ehkä enemmän dramedia kuin mitään muuta? Tämä sarja on
+Parks & Recreationin päivänsäteiden ja keltaisten ruusujen synkkä
+vastinpari. Suorastaan naturalistinen paikoitellen, mutta synkkiäkin
+aiheita saadaan aika hyvin ja luontevasti käsiteltyä huumorin
+saartelemana.
+
+Näyttelijäkaarti Julia Louis-Dreyfusin johdolla on ehdoton killeri, ja
+improvisaatio näkyy ja maistuu tuotannossa. Myös loistava
+demonstraatio, mitä HBO pystyy tuottamaan ulos. Toivottavasti Julia
+jaksaa vielä tulla ja tehdä viimeisen seitsemännen kauden sarjalle
+syöpätaisteluiltaan.
+
+** Portlandia, 8. kausi
+
+Portlandin hipsterit vauhdissa tässä viimeisessä kaudessa. Fred
+Armisen & Carrie Brownstein ovat uskomaton tiimi, ja sarjan vitsit
+ovat viihdyttäneet kauttaaltaan (ehkä ensimmäistä kautta
+lukuunottamatta) ehkä enemmänkin kuin pitäisi. Tämä on hyvää TV:tä,
+IFC:n tarjoamana.
