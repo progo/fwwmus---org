@@ -1,0 +1,119 @@
+#+TITLE: Billingham Hadley Pro (vs Thinktank)
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Billingham Hadley Pro (vs Thinktank)
+CLOSED: [2018-05-16 Wed 17:44]
+:LOGBOOK:
+- State "DONE"       from              [2018-05-16 Wed 17:44]
+:END:
+
+Innostuin kokeilemaan uutta kameralaukkua ja eBaystakin lykästi
+metsästys. Tuloksena on taloudessa pieni ja siro Billingham Hadley Pro
+sen ikonisessa vaaleanruskeassa sävyssään. Billinghamin nimeen melkein
+kaikki vannovat, mutta onko se sittenkään parempi kuin satasta
+halvempi Thinktank Retrospective 7?
+
+Thinktankin (Retrospective 7) minä ostin uutena 165 eurolla reilu
+vuosi sitten. Billingham (Hadley Pro) lähti eBay-huudolla 105 euroon
+posteineen. Laukku on oikein hyvässä kunnossa ja käytön jäljet ovat
+kaikki sellaisia, kuten kuuluukin käytetyssä laukussa olla. Tämä on
+ensinnäkin paljon pienempi laukku kuin mitä kuvista ja
+youtube-videoista pystyi arvelemaan. Speksejä lukemalla tämä kyllä oli
+selvää, Thinktank on sisäisiltä mitoiltaan isompi hieman joka
+suuntaan. Ulkoisesti nämä kaksi laukkua eivät ole järin erikokoisia;
+Hadley on hoikempi syvyyssuunnassa ja ehkä hieman korkeampi.
+
+Billingham viehätti yhdeltä kantilta eritoten: sen käyttämä
+erikoiskangasmateriaali (FibreNyte) lupaa sataprosenttista
+sateenkestävyyttä. Vaikka sateet eivät ole ehkä maailman isoin ongelma
+Suomessa, tuntuu se aika hyvältä idealta laittaa 4 tonnin
+kamerakalusto sateenkestävään kassiin. Thinktankin erillinen huppu on
+kökkö käytellä ja syö paljon tilaa laukussa. (Ehkä laukku alkaa olla
+kypsä tapaus modailuille: nepparit läpän molemmin puolin ja sitten
+joku vastaavasti istuva huppu.)
+
+Hadleyn työnlaatu on kivaa ja kangaspinta on hyväntuntuinen;
+sisälmysten pehmuste on hyvin pörröistä ja pehmeätä. Thinktankin
+materiaalit ovat rujoja verraten.
+
+Hadley on myös miellyttävän keppoinen. Kumpikin tarjoaa riittävästi
+pehmustetta niin, että arvotavarat laukussa pysyvät ehjänä, vaikka
+kassia vähän heittelisi.
+
+Tosikäytössä selviää, että Hadley on tosiaan selvästi pienempi niillä
+osin kun se on merkityksellistä.
+
+** Käytettävyysongelmia
+
+Tarranauhahelvetille Billingham on keksinyt oikein mallikkaan idean
+noilla metallinuppiloillaan ja nahkaremmeillään. Sääli, että se ei ole
+yhtä käytettävä kuin Thinktankin lähettilaukkumalli (velcroa löytyy,
+mutta sen saa siististi eliminoitua). Metallinupit ovat kyllä siisti
+ja nopea tapa saada laukku kiinni, mutta minun käyttötapauksissa läpän
+ei tarvitse olla kiinni. Hadleyta voi operoida ilman kiinnitystä,
+mutta ihan niin esteettinen se ei ole enää vrt. Retro.
+
+Hadleyn pienemmän sisätilan pelastaa osittain hienot etutaskut, joskin
+niitäkin on vaikea käyttää esimerkiksi lompakon tai puhelimen pitoon,
+kun taskuja on vaikea saada auki yhdellä kädellä. Ehkä se
+harjoittelulla helpottuu. Thinktankissa tapaan laittaa lompakon ja
+puhelimen keskelle laukkua, koska sen verran tilaa siellä on kahden
+kameran ja objektiivin lisäksi kyllä.
+
+Thinktank pitää paremmin muotonsa rasituksessa kuin Hadley. Hadley
+mukautuu hieman innokkaasti kantajansa mukaiseksi ja se tarkoittaa,
+että sisusten ääripäihin ei saa mitään neliskanttista sisään niin
+helposti kuin toivoisi. Jos kalustona on yksi kamera linssien kanssa,
+niin ehkä ongelmaa ei ole. Jos kalustona on kaksi pientä kameraa,
+alkaa olla jotain haasteita löytää toimiva layoutti sisällölle. Voi
+olla, että sellaisen vielä keksin. Se on kuitenkin vissi, että Retroon
+mahtuu hieman enemmän tavaraa; esimerkiksi Leica Q istuu nätisti
+poikittain Retrossa, näin syöden vähemmän tilaa. Hadleyhin se mahtuu
+vain poikittain.
+
+** Sopeutumisvaihe on vielä kesken
+
+Uskon, että osaan näistä käytettävyysongelmista löytyy sopiva
+ratkaisu, kunhan käytän laukkua hieman lisää. Mutta samaa määrää kamaa
+sinne ei mene kuin mitä Thinktankkiin.
+
+** Yhteistä
+
+Kummankin laukun saa riisuttua vaikka pyykkilaukuksi poistamalla
+kaiken pehmusteen sisältä. Billinghamissa pehmikkeet lähtevät kerralla
+siistin inserttitoteutuksen ansiosta. Retrossa joudut repimään kaiken
+pois ja sitten uudelleenkasaamaan myöhemmin saman takaisin.
+
+** Pienimuotoinen sadetesti
+
+Nyt on ollut komeita ilmoja (ne kuuluisat toukokuun helteet) ja
+ajattelin ihan katsella, mitä tuo Thinktank tykkää oikeasti pienestä
+sateesta. Puutarhaletkulla sadetin molempia laukkuja ensin 40 ja
+sitten 60 sekuntia kovahkon sateen alla; kummassakin säilyi sisään
+sullotut sanomalehdet rutikuivina.
+
+Se on varmaankin sitten toinen asia, jos sadetan Retroa 2-3 minuuttia,
+jossain vaiheessa se varmaan antaa periksi siinä missä Hadleyn
+luvataan pysyvän kuivana. Mutta tyypillisessä kaupunkiolossa, kuinka
+tyypillinen tilanne on sellainen, että rankkasateen yllättäessä en
+löydä suojaa kahdessa minuutissa?
+
+Voi olla, että toteutan vielä massiivisen 5 minuutin kastelutestin,
+josko se antaisi vähän enemmän informaatiota Thinktankin
+sateenkestosta. Retro sateenkestävällä kannella olisi kyllä paras
+juttu ikinä.
+
+** Täydellinen laukku?
+
+Olisiko täydellinen laukku sitten Hadley One, joka on Hadley Pro:ta
+sopivasti isompi kaikin puolin? Vai Thinktank Retro 6/7/10, jossa
+olisi modattu sateenkestävä päällinen?
+
+Vaikea sanoa. Hadley One on tilava ja kohtuukompaktikin, mutta se
+alkaa olla painavampi kuin Retro 7.
+
+Painavampaa laukkua kuin Retroa en kyllä tahtoisi. Merkit koten
+Wotancraft voivat tarjota loistoratkaisuita, mutta 1,3 kilon
+lähtöpaino kuulostaa vähän kovalta.
+
+Ja ehkäpä sling bagit tulee vielä testattua jossain vaiheessa. Ja
+Lowepron lähettilaukkumallistoa riittää kokeiltavaksi.
