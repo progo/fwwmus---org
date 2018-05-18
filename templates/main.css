@@ -36,10 +36,8 @@ body {
 }
 
 #main {
-    margin-right: 40%;
-    margin-left: 3em;
-    /* font-family: "Georgia", "Times New Roman", serif;*/
     font-family: "Inconsolata", "Courier New";
+    width: 100%;
 }
 
 #main p {
@@ -57,11 +55,6 @@ body {
 #content i {
     color: #ffe5d2;
 }
-
-/*** experiment with markdown style texts */
-/*#content h3:before {
-    content: "# ";
-}*/
 
 #content h4, h3, h2 {
     margin-left: -0.5em;
@@ -174,8 +167,8 @@ pre.src .code-sh-escaped-newline { }
 #sidebar {
     float: right;
     margin-top: 5em;
+    margin-left: 2em;
     width: 35%;
-
     font-family: "Inconsolata", "Courier New", "Courier";
 }
 
@@ -297,29 +290,41 @@ li.tag-3 > * { background-color: #d04a00; }
 }
 
 
-/***** Responsive design stuff ****/
+/***** Text width (responsive stuff) ****/
 
-@media screen and (max-width: 800px) {
-    #main {
-        width: 85%;
-    }
-    #sidebar {
-        /* float: none; */
-        /* margin-left: 5%; */
-        width: 85%;
-        margin-top: 0;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #content {
-        font-size: 133%;
-    }
-}
-
-@media screen and (min-width: 1416px) {
+@media (min-width: 1200px) {
+    // #site-title:after { content: ' 1200+'; }
     body {
         /** This is cool */
         background-size: 100%;
     }
+    #main {
+        width: 800px;
+        margin-left: 10%;
+    }
 }
+
+@media (min-width: 800px) and (max-width: 1200px) {
+    // #site-title:after { content: ' 800-1200'; }
+    #main {
+        width: 600px;
+        margin-left: 3em;
+    }
+    #sidebar {
+        // float: none;
+        // margin-left: 5%;
+        // width: 85%;
+        // margin-top: 0;
+    }
+}
+
+
+@media (max-width: 800px) {
+    // #site-title:after { content: ' 800-'; }
+    #main {
+        margin-left: 5%;
+        margin-right: 8%;
+        width: 87%;
+    }
+}
+
