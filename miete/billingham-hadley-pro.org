@@ -23,9 +23,12 @@ suuntaan. Ulkoisesti nämä kaksi laukkua eivät ole järin erikokoisia;
 Hadley on hoikempi syvyyssuunnassa ja ehkä hieman korkeampi.
 
 Billingham viehätti yhdeltä kantilta eritoten: sen käyttämä
-erikoiskangasmateriaali (FibreNyte) lupaa sataprosenttista
-sateenkestävyyttä. Vaikka sateet eivät ole ehkä maailman isoin ongelma
-Suomessa, tuntuu se aika hyvältä idealta laittaa 4 tonnin
+erikoiskangasmateriaali lupaa sataprosenttista sateenkestävyyttä.
+Olipa laukku joko perinteistä kangasta taikka erityistä FibreNyteä
+(joka lupaa mm. haalistumisenkestoa ja keveyttä), se on myös
+vuorattu ohuella kumipäällisellä, jolle valmistaja lupaa oikein
+tujakkaa sateenkestoa. Vaikka sateet eivät ole ehkä maailman isoin
+ongelma Suomessa, tuntuu se aika hyvältä idealta laittaa 4 tonnin
 kamerakalusto sateenkestävään kassiin. Thinktankin erillinen huppu on
 kökkö käytellä ja syö paljon tilaa laukussa. (Ehkä laukku alkaa olla
 kypsä tapaus modailuille: nepparit läpän molemmin puolin ja sitten
@@ -117,3 +120,43 @@ lähtöpaino kuulostaa vähän kovalta.
 
 Ja ehkäpä sling bagit tulee vielä testattua jossain vaiheessa. Ja
 Lowepron lähettilaukkumallistoa riittää kokeiltavaksi.
+
+** Kahta viikkoa myöhemmin: pidempiaikainen käyttötesti
+[2018-05-28 Mon]
+
+Vaikka Hadley Pro onkin pienempi laukku kuin Retro 7, kaikelle on
+silti löytynyt paikkansa. Laukkuun jää näppärä määrä "lokeroita" kun
+inserttilaatikon laittaa paikoilleen: etutaskujen takana on tilaa
+siinä missä insertin selkäpuolellakin. En ole kokeillut lastata
+salamoita ja kaikkea sellaista krääsää mukaan, mutta sopiva
+konfiguraatio kaikelle muulle on löytynyt: kameroihin pääsee siististi
+käsiksi. Lisäsyvyys vrt. Thinktank on auttanut turvallisesti kasaamaan
+linssejä ja kameroita päälletysten, ja tila on hyvin tehokkaassa
+käytössä!
+
+Oma laukkuni ei olekaan FibreNyteä, vaan tavallista kangasta.
+Tutkittuani asiaa sama sateenkesto luvataan molemmille
+päällysmateriaaleille. Tämä kangasversio tulee sitten vain kulumaan ja
+haalistumaan FibreNyteä nopeammin, mikä voi olla osaltaan hyväkin
+juttu katu-uskottavuuden kannalta.
+
+Laukun siro profiili pituussuunnassa on iso tekijä laukun
+käsiteltävyydessä. Toisin kuin Retro, tämä liukuu nätisti kokonaan
+selkämykselle ja paino jakautuu paremmin kuin olisin odottanut. Huusin
+jo eBaysta kalliilla postikuluilla (kiitos perhanan GSP:n)
+yhteensopivan olkatoppauksen, SP-40:n mutta se saattaa hyvinkin jäädä
+tarpeettomaksi.
+
+Onko tässä laukussa mitään moitittavaa juuri nyt? Aika vähän. En enää
+kaipaa isompaa laukkua (Hadley Onea) koska siinä kuljetttavan kaman
+paino olisi välttämättä isompi. Laukun käyttämä kiinnitys on alkanut
+tulla tutuksi ja sitä voi operoida yhdellä kädellä. En usko, että
+tulen missaamaan tilanteita kiinnityksen takia, mutta toisaalta silti
+nauttisin varmaan, jos tulisi vastaan joku täydellinen lähettilaukku.
+Etutaskujen nepparit ovat vielä vähän asia, jota pitää harjoitella.
+Niiden sulkeminen on aina vähän kömpelöä ja vaatii kahta kättä...
+Mutta hyvin mainiosti tämä on nyt palvellut kamallani, jota kuljetan.
+(Leica Q, Pen-F, Laowa 7.5/2, Panasonic 35-100, 0.5 litran vesipullo,
+lompakko/puhelin/krääsä.)
+
+Jossain vaiheessa pitää tehdä kävely taas Retron kanssa mielenkiinnosta.
