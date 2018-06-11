@@ -1,0 +1,99 @@
+#+TITLE: Katsonnassa olevat sarjat, kesäkuu 2018
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Katsonnassa olevat sarjat, kesäkuu 2018                       :sarjat:
+CLOSED: [2018-06-11 Mon 22:36]
+:LOGBOOK:
+- State "DONE"       from              [2018-06-11 Mon 22:36]
+:END:
+
+Katselen TV-sarjoja TV-mäisesti rutiinilla aina yhtä sarjaa per ilta.
+Sen päälle katselen lyhyitä komediasarjoja ajan ja fiilisten mukaan.
+Tässä tämän hetken status.
+
+** Dexter, 2. kausi
+
+The Wire päättyi ja tahdoin ottaa nyt jotain vanhaa ja tuttua
+uudelleenkatseltavaksi. Tämän uudelleenkatselemisen aloitin juuri ihan
+vastikään.
+
+Kakkoskausi alkoi hyvin näpsäkästi ja minulla on kutina/muistikuva,
+että tämä voisi olla parempi kuin ykkönen. Kaikki kolme ensimmäistä
+ovat priimaa siihen nähden, mitä niistä seuraavat kaudet ovat.
+
+** Mr. Robot, 1. kausi
+
+Kovasti kehutun sarjan aloitin pari viikkoa sitten ja pari jaksoa olen
+sitä nyt katsellut. En ole ihan sinut päähenkilöiden motiivien ja
+etiikan suhteen, mutta oikein remakka ilmapiiri (NYC done right) ja
+mainiolta vaikuttava juonikuvio pitää vielä sarjan seurannassa. Sarjan
+audiovisuaalinen ohjaus on ollut toistaiseksi kärkiluokkaa.
+
+Uskon, että päähenkilöt muovautuvat sopivaan suuntaan sarjan edetessä,
+jolloin sarjasta tulee minulle nautinnollisempi. Jos taas tapahtuu
+toisin päin, elikkä hahmot pysyvät samanlaisina ja juonikuviot
+heikkenevät, todennäköisemmin pudotan sarjan katsonnasta.
+
+** Battlestar Galactica 2003, 2. kausi
+
+Tämä sarja pitää kutinsa ja aiemmin kirjoitin, kuinka aloitin toisen
+kauden ja kuinka kausi alkoikaan kutkuttavasti. Nyt useita jaksoja
+eteenpäin mentynä olen ollut tyytyväinen suoritukseen ja siihen,
+kuinka sarja otti jatkuvajuonisuuden elementit vakavasti.
+
+** Westworld, 2. kausi
+
+Westworldin toista kautta saatiin odotella pitkään, mutta nyt se on
+täällä. Uusi kausi alkoi hyvin rauhallisesti. Vanhat elementit, kuten
+Ed Harrisin hahmo ja muut, on pidetty mukana ja tulos on vahva. Myös
+viitteitä muista puistoista heitellään ilmoille -- tullaankohan niitä
+näkemään enemmänkin sarjan aikana, mahdollisesti myöhemmillä kausilla?
+
+Edellisen kauden yksi teemoista oli se, kuinka puisto robottineen on
+ultimaattinen videopeli. Tämä teema jatkuu siististi nytkin.
+
+** Unbreakable Kimmy Schmidt, 4. kausi
+
+Puolikas kausi Kimmy Schmidttiä tuli ilmoille, ja innoissani
+luonnollisesti aloitin sen heti. Harmikseni sarjan käsikirjoitus on
+saastunut kokonaan poliittisilla ideologioilla. Vaikka samanaikaisesti
+parissa ekassa jaksossa sain nauttia joistain harvinaisen hyvistä
+vitseistä, jätän tämän kyllä väliin. En halua mennä nukkumaan mieli
+mustana.
+
+Kimmy Schmidt on hyvä konsepti, mutta vain ensimmäinen kausi sisältää
+kovasti laadukasta settiä. Tämä neljäs kausi onkin sarjan viimeinen.
+Nauttikoot ne, ketkä nauttivat!
+
+** Curb Your Enthusiasm, 2. kausi
+
+Olen vähentänyt nyt draaman jälkeen katsomiani komedioita, ja
+kokeillut käyttää aikaa mieluummin kirjojen lukemiseen. Pidän CYA:n
+kuitenkin lähtövalmiina; koskaan ei tiedä, milloin on hyvän impron
+tuikkonen.
+
+** Mitä mielessä?
+
+Suunnitteilla oli ottaa *Twin Peaks 3* uudelleenkatsontaan nyt kun
+siitäkin on vuosi kun se alkoi. Päätin viime hetkellä kuitenkin antaa
+sen vielä hautua, ehkä toisen vuoden, ehkä vähemmän.
+
+Hetkellisessä muistikuvassa mieleeni tuli *The Sopranosin* yksi jakso,
+jonka lopussa soitettiin aika oddball-musiikkia (R.L. Burnside - Shuck
+Dub). Ehkä tämänkin sarjan voisi jossain vaiheessa laukaista tulille,
+vaikka siinä onkin sellainen miedosti pinnallinen tuntuma asioihin.
+Nautittavaa kamaa silti, ja oikeilla hetkillä erittäin vahvaa tavaraa.
+Loistava näyttelijäkaarti. Ja hyvää musiikkia.
+
+Pidän myös takaraivossa, että *Boston Legal*:in kakkoskausi on
+näkemättä ja ykköskausi oli ainakin ihan perusvahvaa tavaraa. Miksipä
+ei? Näissä sarjoissa on melkeinpä parasta se määrä eri vierailevia
+näyttelijöitä, joko silloin kuuluisia tai myöhemmin maineeseen
+pääseviä.
+
+Syksyllä katsoin ensimmäisen kauden *Boardwalk Empireä* ja vaikka ehkä
+kausi oli vähän pois omalta alueeltani, jäi se kiinnostaviin
+asetelmiin: toista kautta voisi siis hyvinkin katsella jossain
+vaiheessa.
+
+Ja myös kenties paras komediasarja ikinä, eli *30 Rock* voisi olla
+jossain vaiheessa ajankohtainen uudelleenkatseltava.
