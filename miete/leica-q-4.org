@@ -1,0 +1,146 @@
+#+TITLE: Leica Q täyttää vuoden!
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q täyttää vuoden!                                 :leica:kamera:
+CLOSED: [2018-06-21 Thu 18:29]
+:LOGBOOK:
+- State "DONE"       from              [2018-06-21 Thu 18:29]
+:END:
+
+Vuosi sitten juhannuksena kävin ajamassa Tampereelle asti hakemaan
+Leica Q:n omakseni. Tämä on pitkälti ensimmäinen kamera, joka on
+kestänyt GAS-ilmiötä täydet 12 kuukautta. Ei sillä, etteikö tämän
+rinnalle olisi jotain aina ollut mielessä...
+
+En tiedä, voinko kirjoittaa mitään uutta Leica Q:sta, mutta voin
+kokeilla summata tämänhetkiset mietteeni ja verrata sitä vähän Olympus
+Pen-F:ään, jälleen.
+
+** Olympus ja Leica
+
+Olympus on ottanut jalansijaa kuvailuissani tasaisesti enemmän ja
+enemmän. Se on ehkä sekä osoitus siitä, että alan tottua
+telepolttoväleihin sekä alan tottua itse kameran designiin ja
+toimintoihin. En ole erityisen syvällisesti opiskellut Olympuksen
+vahvuuksia, vaikka juurikin kaikkea opiskelemalla ja käyttämällä
+kamerasta saisi kaiken irti.
+
+Olenkin vähän peloissani miettinyt sitä, että jos hommaisin piskuisen
+Panasonicin pannukakku-12-32:n Olympukselleni niin se saattaisi tietää
+Q:n lopullista tuhoa. Tämä zoomi on melkein kaikilla tavoilla aito
+katukuvaajan zoomi, eikä näytä häpeilevän piirrossa kuin muutamalle
+natiiville kiinteäpolttoväliselle M4/3-linssille. Ja se on
+normaalizoomina rajattomasti versaalimpi kuin kiinteä 28, sanottiin
+mitä sanottiin. Tavallisesti vastustan aina zoomeja niiden luontaisten
+epäkohtien takia, mutta nämä kompaktit M4/3-zoomit kumoavat monia
+stereotypioita zoomeista.
+
+Pen-F:n väriin alan tottua, vaikka vihreiden huono saturaatio aina
+sattuukin silmään ennen jälkikäsittelyn aloittamista. Leica Q tuottaa
+niin mahdottoman rikkaita sävyjä. Tutkailin tuossa arkistoidessani
+[[http://fwwm.us/gallery/satos-winter-17/][vanhoja talvikuviani]]*, ja totesin että Leica Q:n tuottamaa kuvaa on
+niin mielettömän vaikea päihittää Olympuksella, jonka vihreissä on
+selkeitä saturaatioeroja, ja yleinen tonaalisuus on Q:n puolella,
+kuten syytäkin on. Mutta tämä on tavallaan vain ongelma
+A/B-vertaillessa. Jos joku päivä heräisin sängystäni Q:n puoli vuotta
+aikaisemmin myyneenä, niin voisin todeta, että Olympuksen väri on A ja
+O.
+
+*: Olkoonkin ironisesti, että olen tuota galleriaa hiljattain
+täydentänyt Olympus-kuvillani, joissa on tyydyttävä väripaletti
+niissäkin...
+
+** Vahvuudet ja heikkoudet
+
+Jos pitäisi miettiä ääneen, mitä ovat Leica Q:n heikkoudet, selvästi
+kameran linssin polttovälin perusteella se ei istu muotokuvakameraksi
+tai kovin hyvin luontokuvaukseen. Leican huonohkot ihonsävyt ovat myös
+iso syy siihen, että kannattaa tutkailla muita malleja.
+
+Leican vahvuudet ovat hyvin moninaiset, ja ne asettuvat samalle
+akselille omien mielenkiinnon kohteitteni kanssa, mikä nyt varmaan
+onkin pääasiallinen syy siihen, miksi minä niin rakastan Q:ta. Nopea
+ja *tarkka* tarkennus, raudanluja työnlaatu, mainio ergonomia, joka
+onnistuu olemaan lähestulkoon täydellinen kameran ulkonäköä
+sotkematta. Ja kuvanlaatu, oi jestas. Vaikka olen kirjoittanutkin,
+että ehkäpä Fujin X100-mallisto menee Q:n edelle puhtaassa
+katukuvattavuudessa, on Q silti aivan älytön suorittaja.
+
+Olympus ja M4/3 taas tahtoo kaikkien mielissä enempi
+luontokuvauspainotteisempi kamerasysteemi. Kroppikerroin, kevyempi
+telelasi... ilman muuta. Jos kuvaisin lintuja tai eläimiä, olisi
+Olympus minun ykkösvalintani siihen tarkoitukseen. Kamerasysteemi
+istuu myös mainiosti tavalliseen muotokuvaukseen; megapikseleitä
+riittää siihen hommaan mainiosti, ja ylenpalttista terävyyttä ei
+yleensä edes kaivata. Olympus tekee myös mainiot JPEG:t erinomaisilla
+ihonsävyillä, joten jälkikäsittelyssä on helppo säästää aikaa.
+Puhumattakaan hyvästä valikoimasta TTL-salamia ja muita. Olympus
+45/1.8 on halpa ja upea linssi ominaisuuksiinsa nähden.
+
+Olympus on hyvä turistikamera ja matkailukuvien ottaja. Tällä hetkellä
+kameran softan laatu ja M4/3-linssivalikoima luo mielikuvan siitä,
+että katukuvaus ei ole selkeästi prioriteetti kamerasysteemin
+suunnittelijoille. Jos haluat olla katukuvaajana kaikkeen valmis,
+sinulla on kameroiden firmiksen takia oltava joku Olympuksen 12-, 17-,
+25-millisistä f/1.8-linsseistä, joissa on näppärä snap focus -rengas.
+Jos taas haluat upeata piirtoa kaikilla aukoilla, joudut valitsemaan
+hitaammin tarkentavan ja zone focus -epäystävällisen Panasonic
+20/1.7:n. Joudut tekemään rankkoja kompromisseja. Ehkäpä massiivinen
+Voigtländer 17.5/0.95 on villikortti, mutta kyseinen linssi on niin
+iso ja painava, että ergonomisesti kivempia settejä on kyllä olemassa.
+
+Jos Olympus tekisi hyviä korjausliikkeitä firmwaressaan, niin
+Olympus + Panasonicin pannukakkuzoomi olisi täysi killeri niin katu-
+kuin lomakuvailussa.
+
+** Leica vs Leica
+
+Viimeisin intohimo oli huhti-toukokuun taitteessa hankkiutua Leica M
+-kuvaajaksi. Kalliita kameroita ja teknisesti vanhentunutta
+tekniikkaa, niissä on silti puolensa.
+
+Leica M tulee kyllä, mutta olen nyt raudanlujalla tahdonvoimallani
+mennyt eteenpäin uskomuksessani, että M:n voin hankkia sitten kun olen
+asettunut Helsinkiin taloksi. Helsinki on suunnitteilla
+helmi-huhtikuulle 2019. Sen pitäisi olla aika hyvä keikka, ja
+tervetullut maisemanvaihdos.
+
+Jännäksi käy siinä vaiheessa myös, että mikä on sellaisen budjetin
+kanssa peuhatessa paras mahdollinen kamerasetti, jota kuljetella
+laukussa. Leica M yksinään, ja unohtaa suosiolla lähikuvaus? Leica M
+ja Leica Q? Ongelmana voi olla se, että Q hoitaa taas liian hyvin
+kaikki yleisimmät polttovälitarpeet. Entä jos aivopesen itseni 50
+millin mieheksi? Silloin Q:n 28 milliä on sopiva komplementti. Entä
+jos Q pois ja tilalle Ricoh GR. Tai kännykällä kaikki lähikuvat...
+Pitääkö kännykän olla Huawei, jotta siinä on punatäplä? 
+
+** Länsirannikon matka
+
+Syyskuussa yli kolme viikkoa Yhdysvalloissa. Kysymys on, että otanko
+pelkän Q:n vai otanko myös Olympuksen laseineen mukaan. Se onkin itse
+asiassa vaikea pala purtavaksi, nyt kun alan tätä miettiä...
+
+Vuonna 2014, kun ensimmäisen kerran kävin isommalla lomalla, oli
+ajatuksenani jättää kamerat ja muut kokonaan pois. Ideana tietysti se,
+että vaalitaan ja ahmitaan sitä maailmaa parhaan mukaan omin silmin,
+eikä kameran etsimen läpi. Lopulta päädyin ottamaan Pokkarini mukaan,
+eikä matkani mitenkään siitä kärsinyt. Toisella matkallani vuonna 2016
+omistin vain yhden kunnon kameran (Fuji X100T) joten valinta oli
+selkeä. Nyt omistan kaksi kyvykästä kameraa, joille on linssiä sillä
+tavalla, että kumpikin voi tulla tarpeeseen. Joskin Leicalla voi ottaa
+90 % kuvista.
+
+Varmaankin tässä tapauksessa kun matka on käytännössä iso road trip
+niin otan kaiken, mitä vain keksin ottaa mukaani. Autossahan ne
+kulkevat. Todennäköisesti jos järki toimii niin pari ensimmäistä
+päivää kuljen pelkän Q:n kanssa, jotta muistan elää muussakin kuin
+kamerapäätöksissä.
+
+** Summa summarum
+
+Leicalla pyyhkii hyvin, mutta Pen-F on iskostunut takaraivooni.
+Olympus on jo nyt perhanan hyvä paketti, mutta se on valitettavan
+monen askeleen päässä täydellisestä.
+
+Itseni tuntien en laittaisi nyt rahaa sellaiseen vetoon, että
+omistaisin Q:n seuraavana juhannuksena. Mutta on se toki hyvin
+mahdollista.
