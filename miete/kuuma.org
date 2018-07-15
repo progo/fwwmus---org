@@ -1,0 +1,46 @@
+#+TITLE: Liian kuuma!
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Liian kuuma!                                          :sätös:helsinki:
+CLOSED: [2018-07-15 Sun 15:25]
+:LOGBOOK:
+- State "DONE"       from              [2018-07-15 Sun 15:25]
+:END:
+
+Tällä viikolla tuli kesä viimeinkin Suomeen, ja hellekausi.
+Tulevallekin viikolle joka päivä on luvassa yli 25 astetta. Semmoista
+mieltä olen, että nyt on aika lämmintä. Liiankin.
+
+Suomessa toki ollaan eletty rajujen lämpötilavaihteluiden armoilla
+vuosisatoja, ja ainaiseen epämukavaan tilanteeseen on tavallaan
+totuttu. Ihmiset rakastavat valittaa kulloisesta lämmöstä, ja ihmiset
+rakastavat valittaa valittajista. Ymmärrettävää. Valittaminen ei auta;
+sopeutuminen auttaa!
+
+Lyhyen tämmöisen keskustelun käyneenä päädyin itse siihen, että
+minulla on lupa valittaa, koska rakastan Sätöksen talvipakkasia,
+olivatpa ne miten kylmiä tahansa. On totta, että tarpeeksi kovan
+pakkasen tullen voisi tulla huoli talon vesiputkien tilasta (joskin
+joku satunnainen -30 °C ei vielä riitä siihen) ja jo miedommissa
+pakkasissa syntyy huolta auton mekaniikan kestävyydestä. Näitä huolia
+en laske valittamiseksi, koska ne ovat realistisia ja potentiaalisia
+ongelmapaikkoja. Sätöksen kesä on totaalisen surkea vuodenaika muihin
+nähden.
+
+Ja nyt Sätöksen kesä on erityisen sietämätön. Ilmastoimattomassa
+autossani on reilusti yli 60 astetta, ulkona on paarmoja ja muita
+isoja lentelijöitä aivan mahdottomat määrät. Ulkohommat, kuten
+halonhakkuu, eivät toimi tässä säässä ja paarmapaljoudessa mitenkään.
+Sisällä ei voi kuntopyöräillä pyörän aiheuttaman oheislämmön takia.
+
+Ja kaiken muun hyvän lisäksi epäonnessani varasin itselleni viikon
+mittaisen Suomi-ajelun... tässä saakelin helteessä.
+
+Kerrostaloasunnoissa tilanne oli tietty pahempi, joskin ei se nyt niin
+paha ollut kuin täällä. Kun asuin kaupungilla, liikunta suoritettiin
+ulkona eikä sisällä. Paarmoja tai hyttysiä ei ollut. Ja kylmää
+jäätelöä sai parin minuutin kävelyn etäisyydeltä!
+
+Kun muutan takaisin kaupunkiin, saattaa olla, että talvesta tulee taas
+inhokki. Se riippuu tekijöistä. Tämmöiset 30 asteen helteet eivät ole
+mieluisimpia kelejä riippumatta ilmastoinnin tai minkään tasosta,
+mutta kyllä niitä sietää paremmin autottomana.
