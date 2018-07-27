@@ -1,0 +1,136 @@
+#+TITLE: Leica Q:n kuherruskuukausi pian takana?
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q:n kuherruskuukausi pian takana? :kamera:leica:fujifilm:olympus:
+CLOSED: [2018-07-27 Fri 20:14]
+:LOGBOOK:
+- State "DONE"       from              [2018-07-27 Fri 20:14]
+:END:
+
+Pitkään siinä kesti (13 kuukautta), mutta nyt viimeinkin Leica Q:n
+wow-tekijä alkaa miedosti hellittää. Kun kuherruskuukausi on
+vetäytymään päin, alkaa arki?
+
+Leica Q on kunnollista premiumia alusta loppuun saakka, ja kun ensin
+vaikutut upeasta rungon käsittelystä, seuraavaksi vaikutut upeista
+raakakuvista, joita kamera tuottaa.
+
+*Kertauksena* Leica Q:sta on hyvin vaikea mennä ylöspäin, joten
+puolisen vuotta sitten helmikuussa kävin ostamassa Olympus PEN-F:n
+testatakseni että onko ko. mikronelikolmoskamerasta riittävän hyvä
+korvaaja Leicalle. Lopputalven ja kevään mittaan totesin, että Leica Q
+on lyömätön normaalikuvakulmilla (28-50 mm ekv.). Pystyin nyt tosin
+irtautumaan vanhasta yhden kameran kirouksestani ja jätin Olympuksen
+laukkuun toimittamaan ultralaajakulmia ja telepolttovälejä. Tämä idea
+on toiminut ihan kohtuullisesti.
+
+Leica Q on ollut käytännössä aina se pääasiallinen kamera.
+Ymmärrettävää, sillä kun vaihtoehtoina on 15 milliä, 28 milliä tai
+70-200 milliä, niin useimmat kuvaustarpeista täyttyvät parhaiten
+Leican 28 millillä, tarvittaessa kropattuna.
+
+*Leica Q:n alamäki* alkoi luultavasti vasta ihan hiljan, kun kameralle
+tuli uusi firmware-päivitys. Se toi pari oikein kivaa ominaisuutta
+kameraan, mutta oudosti nyt kamera näyttää välillä vähän kuin
+pysähtyvän kesken kuvien oton. Todellisuudessa se ei pysähdy, se vain
+näyttää nyt tietyissä tilanteissa otettua kuvaa ruudulla. Yhtä kaikki,
+kameran käyttökokemus romahti miedosti heti vähän alaspäin.
+
+Muitakin pikku puutteita kamerasta toki löytyy. Leican valitsema tapa
+käsitellä kuvaa johtaa siihen, että kameraa ei tohdi ylivalottaa juuri
+yhtään. Mitä enemmän kuvaan Olympuksella, sitä enemmän arvostan nyt
+liikkumavaraa niin yli- kuin alivalotuksen suhteenkin. Olympusta voi
+ylivalottaa vahingossa jopa stopin verran tietyissä tilanteissa, ja
+kuva on täysin pelastettavissa. Leicalla on toki parempi tilanne
+puhtaiden kuviensa kanssa, joten stopin tai kahden alivalotus ei ole
+mikään ongelma.
+
+Kompaktin ja *kevyen* TTL-salaman puute harmittaa myös. Leica Q ja sen
+täyden koon kenno ei tietty tarvitse salamaa kuin aniharvoin; kuvat
+ovat niin hyvin käsiteltävissä. Kuitenkin joskus täytesalamalla saisi
+kuvan kerralla kuntoon kuvaushetkellä. Ostamani Meike ei ole huono, ja
+täytesalamahommissa manuaalisen salaman operointi on helppoa, mutta se
+on silti 200 grammaa ilman paristoja -- aika kohtalainen patsku.
+
+** Järjetön haikailu takaisin Fujifilmin pariin
+
+Kun Leica Q on nyt uuden firmwarensa kanssa vain 98 % vanhan Q:n
+laadusta, ja Olympuksen tutut ja käsitellyt ongelmat hyvin tiedossa,
+jotenkin tietysti piti lähteä hakemaan ratkaisua epäongelmiini
+vanhasta exästä.
+
+Olympus ei ottanut helmikuussa Leica Q:n paikkaa, koska Olympus 17/1.8
+ei pärjää mitenkään Leica Q:lle. Lisäksi Olympuksen hailakat vihreät
+ovat kaukana siitä, mitä Leican syvät värit antavat darktablessa.
+
+Fujifilmin linssit piirtävät paljon nätimmin kuin Olympuksen
+kiinteäpolttoväliset linssit. Lisäksi raakakuvien tonaalisuus ja
+kaikki se jazzi on aika hyvissä kuosissa. Kohinan puolesta Fujifilmin
+uusin sukupolvi on miltein samoissa kuin Leica Q!
+
+Fuji-linssien viehättävän piirron lisäksi Fuji-kameroiden hyvä softa
+kiinnostaisi. Hyvin toimivia ideoita. Fujin kanssa mikä tahansa linssi
+saa etäisyysmitat näytöllensä. Lisäksi Fujilla on enemmän viehättäviä
+linssivaihtoehtoja UWA-kategoriassa kuin mikronelikolmosilla.
+
+Mutta Fujifilm on nyt vähän sellainen hankala tapaus juuri nyt.
+Fujilinssit ovat kalliita ja painavia; valovoimaiset ovat myös isoja.
+Telekuvaukseen ei ole saatavilla höyhenenkevyitä linssejä toisin kuin
+mikronelikolmosille.
+
+Ne vanhat Fujifilmin kompromissit (X-Pro2:n tyyli vs X-T2:n tylsä
+käytännöllisyys vs X100F:n sielu; yms) ovat edelleen siellä,
+kiusaamassa ja haittaamassa päätöksentekoa.
+
+Kaikin puolin Fujifilm on ollut nyt paljon mietteissä, mutta onneksi
+mitään kunnollista mielihalua siirtyä siihen suuntaan ei ole juuri
+nyt.
+
+** Leica M ja low-fi
+
+Olympus on mitä on, ja Fujifilm painii omien juttujensa kanssa. Leica
+M on yllättävän lähellä Fujifilmien painoa ja ulkomittoja, ja
+tarjoaisi parasta kuvaa. Onko M sittenkin se realistisin vaihtoehto,
+johon tahtoo siirtyä? Enpä olisi niin varma.
+
+Hiljattain olen lukenut [[https://jtinseoul.wordpress.com/][Josh "JT" Whiten mainion kuvapainotteisen
+Soul-blogin]] läpi. JT:n matka Leica M -kuvaajasta low-fi-kameroihin
+vuosien saatossa, tunnelmallisten kuvien kera, on inspiroinut kovasti
+miettimään omia haaveita ja suunnitelmia. Toki isolla kameralla on
+paikkansa, mutta laadukkaan EDC-kameran arvon olen ehkä itse unohtanut
+sen jälkeen kun sen löysin. Leica M on kyllä kompakti, mutta siitä ei
+saa kyllä kameraa jokapäiväiseen arkikuvaamiseen, mikäli tämä on
+kriteeri kameralle. Käytettävyys yhdellä kädellä, potentiaalisesti
+taskuunmahtuvuus, kaikki nämä tämmöiset seikat. Kuinka todennäköisesti
+käyttäisi M10:iä vaikkapa aamumetrossa?
+
+Leica M tekee monia asioita hienosti, mutta on se hieman kömpelömpi
+tietyissä tilanteissa, joissa ei olla vartavasten valokuvamatkalla.
+Kännykät, Ricoh GR(D), Fujin kompaktipokkarit, hitto, jopa oma vanha
+Pokkarini (Canon PowerShot A530). 
+
+Paras, mitä JT:n tekstit voisivat tehdä minulle, olisi inspiroida
+tutkimaan Olympusta ja yrittämään enemmän. Ehkä se voisi sittenkin
+olla yksinään se lopullinen suunta jatkossa? Hommaisi sen 17/1.8:n
+takaisin vaikka ensihätään ja tutkisi asioita uudessa valossa.
+  
+** Tulevaisuuskuvat
+
+Juuri nyt ei tietty olla menossa tasan mihinkään suuntaan, päätinpä
+mitä vain. Iso keikka Yhdysvalloissa tulossa alle 6 viikon sisään ja
+ennen sitä on turha hommata uutta roinaa. Talouskin on parempi pitää
+nyt vakaana niin Yhdysvaltoja kuin seuraavan vuoden Helsinkiä varten.
+
+Paras tilanne voisi ollakin, että Olympus jatkaa kotoutumistaan;
+pelkkä M4/3-setti on selkeä, kevyt, edullinen. Paljon on kiinni tässä
+vaiheessa darktable-magian hallitsemisessa.
+
+Kun päätin keväällä, että Leica M:ää en osta ennen kuin olen asettunut
+taloksi uuteen tukikohtaani, tämä päätös on nyt helppo laajentaa
+kattamaan kaikkia ostoksia. Ei vaihdeta systeemistä toiseen tai tehdä
+mitään radikaalia täällä Sätöksessä. Helsingissä on sitä paitsi
+varmasti helpompaa tehdä kauppaa; voi olla, että helppo F2F-kaupanteko
+johtaa ylenpalttiseen osteluun. Saa nyt nähdä.
+
+Eikä tietty nykysysteemissäkään pysymisessä ole mitään vikaa. Leica Q
+on sellainen kamera, että se ei vanhene ihan noin vain käsiin,
+digitaalisin speksein tai muutenkaan.
