@@ -1,0 +1,124 @@
+#+TITLE: Megapikselit eivät merkkaa mitään
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Megapikselit eivät merkkaa mitään                             :kamera:
+CLOSED: [2018-08-22 Wed 16:04]
+:LOGBOOK:
+- State "DONE"       from              [2018-08-22 Wed 16:04]
+:END:
+
+Megapikseliralli, joka kesti koko ensimmäisen vuosikymmenen
+vuosituhanteen jälkeen, hiljentyi sen jälkeen ja pari yleistä
+kokoluokkaa on vakiintuneet kaikkiin kameroihin (kännykät poislukien;
+siellä luvut seilaavat vähän miten sattuu). Yhden tuuman kennot ja
+mikronelikolmoset ovat turvallisesti 16-20 megapikselissä juuri nyt;
+APS-C:t ja kinokoon kennot ovat tyypillisesti 24 megapikseliä
+standardikoossa ja 36-46 megapikseliä suurresoluutiokoossa.
+
+Ja ihme vinkunaa saa aina kuulla kun uusi kinokoon kamera tulee
+markkinoille 24 megapikselin kanssa. Eikö tuon nyt luulisi riittävän
+valtaosaan tarkoituksista?
+
+** Totuus megapikseleistä
+
+Tarvittava megapikseliluku riippuu kuvan käyttökohteesta. Otatko kuvan
+vain jaettavaksi somessa? Entä muualle internetissä? Haluatko tehdä
+siitä postikortin, kymppikuvan? Entä isommat tulosteet?
+
+Ihmiset siteeravat kaikenlaisia PPI-lukuja että milloin kuva on hyvä
+ja retinakelpoinen ja milloin ei. "300 PPI riittää kaikille" ja muita
+kiinnitettyjä totuuksia.
+
+On totta, että 300 PPI on luku, joka ei jätä ketään kylmäksi, missään
+tilanteessa. Tulostaessa 300 PPI:llä saa 24 megapikselin kuvasta ulos
+puolimetrisen julisteen ja 16 megapikselin kuvastakin vielä
+40-senttisen julisteen. Mutta 300 PPI:n tiheys on kirjaimellisesti
+ylilyönti isommissa töissä.
+
+Seinälle laitettavaa julistetta ei yleensä katsota 20 sentin
+tuntumalla. Kännykkää, tablettia ja vaikka aikakauslehteä sen sijaan
+voidaan katsoakin. Eli pienemmissä medioissa PPI saa olla isompi,
+mutta isoissa töissä 300 alkaa olla liikaa. Yhtäkkiä alkaa tuntua,
+että joku 12-16 megapikseliä on riittävästi melkein kaikkeen
+tulostukseen!
+
+Ollaan realistisia. Useimmat kännykät juuri nyt ovat noin kaksi
+megapikseliä (valtavalla PPI:llä) ja useimmat tabletit ovat 2-3
+megapikseliä nekin (pienemmällä PPI:llä). Somessa jaettava kuva on jo
+ihan reilun kokoinen 1000x1000-koossa, joka tekee tasan yhden
+megapikselin. Yhteen megapikseliin ei tarvita ihan uusinta
+kamerakalustoa.
+
+[[https://www.pointsinfocus.com/tools/minimum-resolution-calculator/][PointsInFocusin tekemä]] laskuri on hyödyllinen ja se myös perustelee
+paremmalla tieteellä näitä asioita retinatarkkuuden (eli missä
+katseluetäisyydessä ja pikselitiheydessä yksittäisiä pikseleitä ei voi
+enää erottaa toisistaan) saavuttamisesta.
+
+Aikakauslehdelle painettu laatukuva on yksi vaativammista kohteista,
+mutta koska sivut ovat niin pieniä niin 250-300 PPI:n tarkkuus
+saavutetaan 6 megapikselillä. Sama pätee kaikkia muita A4-kokoisia
+painotöitä. Ajatella!
+
+Jos teetät hienon maisemakuvan seinälle, sitä saatetaan katsoa metrin
+päästä, jos se on iso tuloste. Vaikka metrinen kuva. Ja kas vain,
+laskuri antaa realistiselta kuulostavan 10 megapikselin arvion. Mutta
+metrinen taulu on jo niin iso, ettei sitä mukavasti voi katsoa metrin
+päästä, vaan joku 1,5 metriä voi olla realistisempi.
+Megapikselivaatimukset vähenevät entisestään.
+
+Ihmiset ovat siitä hassuja, että vaikka valtaosa jopa omaksuu nämä
+asiat, silti monelle tuntuu olevan dealbreaker ostaa uutta kameraa,
+jos siinä ei ole lisää pikseleitä edellismalliin verrattuna. Ja se on
+sääli, sillä joskus vähempi on parempi.
+
+** Isoista kuvista on joskus vain riesaa
+
+Alati kasvava megapikselimäärä aiheuttaa kaikenlaista ikävää
+kaikenlaisissa muodoissa. Huolimattomasti otetut kuvat näyttävät
+enemmän tärähtäneiltä suurennuslasin alla mitä enemmän pikseleitä on
+näytillä.
+
+Tärinän lisäksi ylipäänsä tarkennuksen onnistuminen alkaa tuntua sitä
+vaikeammalta, mitä enemmän pikseleitä on mistä tutkia.
+
+Kun mennään riittävän isoihin megapikselilukuihin, aletaan tarvita
+vähintäänkin kuvanvakaimia kaikkeen mahdolliseen ja mielellään
+kolmijalkoja.
+
+Isot pikselimäärät johtavat kasvaviin tietokonevaatimuksiin
+jälkikäsittelyssä. Suoritintehoa kuluu ja aikaa palaa.
+
+Ihmiset katsovat nyt hyvin lämpimästi vanhoja merkkipaalukameroita
+kohtaan: 12-megapikselinen Canon 5D ja 18-megapikselinen Leica M9 ovat
+molemmat kameroita, joista nyt ajatellaan lämmöllä että ne ottivat
+hyvin orgaanisia kuvia. Isot pikselit ja hyvä (väljä) pikselitiheys ei
+ehkä auta joka asiassa, mutta 1:1-suurennoksessa kuvissa on sellainen
+kiva terävyyden tuntuma; ehkä kukin yksittäinen pikseli tuntuu
+käyttökelpoiselta ilman että se tarvitsee kymmeniä kavereita
+ympärilleen.
+
+** Megapikselit eivät varsinaisesti myöskään haittaa
+
+Ihmiset siteeravat monenlaisia syitä sille, että enempi on huonompi:
+ISO-herkkyys ja pikselikohina kasvaa, ja kaikenlaista.
+
+Olisi hyvä muistaa, että isompi määrä pikseleitä on aina
+kutistettavissa. 36 megapikselin kuvan voi pienentää 24 megapikseliin
+ja tässä prosessissa tapahtuu monia asioita: kohina sulautuu muiden
+pikseleiden kanssa, teoriassa vähenee samalle tasolle kuin jos olisi
+ottanut 24 megapikselin kuvan samalla kennolla. Sama juttu
+epätarkkuuksien ja tärähdyksien kanssa.
+
+Isompaa kuvaa on toisaalta kiva kun voi kropata enemmän.
+36-megapikselistä kuvaa voi kropata paljon enemmän ja silti pitää
+PPI-luvut riittävän isoina loppusijoituskohdetta silmälläpitäen.
+Kroppaus toki asettaa isoja vaatimuksia käytetylle optiikalle. Leica
+Q:sta aina sanon, että se tuottaa ehkä kaikkein kropattavampia kuvia
+ikinä, mutta se ei johdu 24 megapikselin kennosta niinkään, vaan
+enemmänkin sen ilmiömäisestä linssistä.
+
+Jos laskureiden perusteella voimme päätellä, että 10 megapikseliä
+riittää kutakuinkin kaikkeen mitä amatööri tai jopa ammattilainen
+tarvitsee, niin toki 36 megapikselin kuvasta on helpommin
+pelastettavissa 10 hyvin rajattua megapikseliä kuin 24 megapikselin
+kuvasta...
+
