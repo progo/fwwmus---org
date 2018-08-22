@@ -7,7 +7,7 @@ CLOSED: [2018-08-22 Wed 16:04]
 :END:
 
 Megapikseliralli, joka kesti koko ensimmäisen vuosikymmenen
-vuosituhanteen jälkeen, hiljentyi sen jälkeen ja pari yleistä
+vuosituhannen vaihteen jälkeen, hiljentyi sen jälkeen ja pari yleistä
 kokoluokkaa on vakiintuneet kaikkiin kameroihin (kännykät poislukien;
 siellä luvut seilaavat vähän miten sattuu). Yhden tuuman kennot ja
 mikronelikolmoset ovat turvallisesti 16-20 megapikselissä juuri nyt;
@@ -34,12 +34,13 @@ puolimetrisen julisteen ja 16 megapikselin kuvastakin vielä
 40-senttisen julisteen. Mutta 300 PPI:n tiheys on kirjaimellisesti
 ylilyönti isommissa töissä.
 
+Retinalaadulle tarvittava PPI-luku riippuu katseluetäisyydestä.
 Seinälle laitettavaa julistetta ei yleensä katsota 20 sentin
 tuntumalla. Kännykkää, tablettia ja vaikka aikakauslehteä sen sijaan
 voidaan katsoakin. Eli pienemmissä medioissa PPI saa olla isompi,
-mutta isoissa töissä 300 alkaa olla liikaa. Yhtäkkiä alkaa tuntua,
-että joku 12-16 megapikseliä on riittävästi melkein kaikkeen
-tulostukseen!
+mutta isoissa töissä 300 alkaa olla tarpeettomasti liikaa. Yhtäkkiä
+alkaa tuntua, että joku 12-16 megapikseliä on riittävästi melkein
+kaikkeen tulostukseen!
 
 Ollaan realistisia. Useimmat kännykät juuri nyt ovat noin kaksi
 megapikseliä (valtavalla PPI:llä) ja useimmat tabletit ovat 2-3
