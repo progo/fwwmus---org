@@ -1,0 +1,223 @@
+#+TITLE: Syyskuun tapahtumat ja Fuji X-T3
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Syyskuun tapahtumat ja Fuji X-T3 :kamera:matkailu:fujifilm:leica:matkakertomus:
+CLOSED: [2018-10-12 Fri 21:49]
+:LOGBOOK:
+- State "DONE"       from              [2018-10-12 Fri 21:49]
+:END:
+
+Syyskuussa tapahtui jos jonkinmoista kamerarintamalla. Olin onnekseni
+uutisvyörymien aikaan autuaan onnellisena ulkomailla nauttimassa
+niistä vehkeistä, joita kannoin mukanani. Lukuisista kamerauutuuksista
+eniten saattaa viehättää tuo pieniä parannuksia saanut Fujifilm X-T3.
+
+** Yhdysvallat 
+
+Pitkä reissuni Yhdysvalloissa oli nyt sinne suuntaan kolmas laatuaan,
+ja tällä kertaa hieman erilainen, kun vuokrattuna oli auto suurimman
+osan ajasta (3 viikkoa) ja kunkin päivän yöpaikka oli pitkälti avoin
+kysymys. Tämä dynaamisuus maksoi ehkä jonkin verran ylimääräistä vrt.
+huoneiden varaaminen hyvissä ajoin, mutta toisaalta en kyllä varmaan
+lähtisi road tripille ilman samanlaista dynaamisuutta jatkossakaan.
+
+Road tripissä on omat sääntönsä, oma dynamiikka ja on muutenkin
+erilainen homma kuin suosimassani kaupunkilomassa. Auton kanssa sitoo
+itsensä liikennesääntöihin ja ajokelvollisiin teihin. Kaupungeissa on
+välillä kurjaa olla etsimässä pysäköintiä tai ylipäänsä päästä
+haluamaansa paikkaan. Ja valokuvia ei kykene ratin takaa ottamaan.
+Toisaalta autolla pääsee sitten mitä kiehtovimpiin paikkoihin ihan eri
+tavalla kuin ilman. Kaikin puolin hyvä kokemus.
+
+Alkuperäinen matkasuunnitelma (LA-Las Vegas-Grand Canyon-Salt Lake
+City-Seattle-San Francisco-LA) hylättiin hyvissä ajoin ja keskityttiin
+ajamaan Nevadaa vähän syvemmin, eikä kiiruhdettu paikasta toiseen.
+Paperilla realistiselta kuulostanut 280 mailin päivätahti osoittautui
+valokuvapysähdysten ja myöhäisten lähtöjen kanssa aivan liian
+tiukalta. 150-180 mailia päivässä on paljon parempi lähtökohta tulevia
+reissuja ajatellen.
+
+Myös yksi asia, jota etukäteissuunnittelu ei kyennyt ennakoimaan, oli
+motellimajoituksen hinta viimekädessä otettuna. Etukäteen toki
+hoksasin hakea majoitusten hintatasoa samalle päivälle, mutta
+aikavyöhykkeiden takia taisin aina saada hyviä hintoja, koska kunakin
+testaamanani päivänä hain huonehintoja aina aamusta paikallista aikaa:
+totta kai useimmissa pikkukaupunkien motelleissa on tuolloin enemmän
+tilaa. Sen sijaan käytännössä kun päivä kääntyi iltaan, ja päätettiin
+pysähtyä seuraavaan kaupunkiin, oli kaupungin kaikki halvat motellit
+jo bookattu täyteen ja jäljellä oli vain kalliimpia. No, kallis
+tarkoittaa tässä yhteydessä 100-160 taalaa ja halpa 50 taalaa yö.
+Tähän haarukkaan majoitukset kaikki menivätkin: 50-160 taalaa per yö.
+Ja hinnat toki menivät puoliksi. Ei pahan kallista dynaamisesta
+reissusta.
+ 
+** Pelasivatko kamerat?
+
+Mukana oli kaikki oleellinen: Olympus PEN-F ja linssit (Laowa 7.5/2 ja
+Panasonic 35-100/4-5.6) ja Leica Q (28/1.7). Olympuksen oma salama,
+Meike Mk320, pari erilaista kamerajalustaa, kilkkeet ja hötöt. Salamia
+tai jalustoja en kaivanut missään vaiheessa käyttöön, vaikka pariin
+otteeseen niitä olisikin kaivannut.
+
+Leica Q toimisi erinomaisesti ainoana /matkakamerana/ ilman muuta.
+Ottipa sitten kasuaaleja snapshotteja tai tiukkoja ja huoliteltuja
+maisemakuvia. Käytin sujuvasti molempia kameroita ilman häsläystä,
+koska kumpikin kamera toimittaa oman osansa polttoväleistä ilman
+overlappia. Laowan ultralaajakulmaa en jaksanut kovin usein korkata
+päälle, vaikka syytä olisi ollut. Panasonic oli siis Olympuksen
+nokalla selkeän valtaosan ajasta. Illan tullen Panasonicin himmeä
+maksimiaukko pakotti siirtymään Leicaan, joskin mikään kamala
+seuraamus tämä ei nyt varsinaisesti ole.
+
+Kumpikin kamera temppuilee pimeäkuvauksessa jonkin verran,
+valitettavasti. Tämä on helppo selittää käytetyillä tekniikoilla:
+kumpikin kamera tarkentaa vain kontrastin perusteella, joten kirkkaat
+valopisteet ovat pieniä bokehpalloja epäterävinä ja mistäpä se kamera
+sitten tietää erottaa hyvän kontrastin bokehpallon terävästä reunasta.
+Selkeästi tilanne, jossa CDAF on ollut eniten alakynnessä PDAF:iin
+nähden. Eipä silti tullut montaa kuvaa menetettyä tälle seikalle.
+/Hyvässä valossa/ Leica ei juuri tarkenna huti, Olympus sen sijaan
+valitettavan usein... Tästä syystä en ole varma, olisiko PEN-F ja
+äärimmäisen kompakti Panasonic 12-32 ollut niin mukava valinta
+ainoaksi kameraksi.
+
+Hieman kaduttaa myös, etten kokeillut ottaa panoraamakuvia tai
+Olympuksen tapauksessa hirez-kuvia Grand Canyonilla. No, nättejä kuvia
+tuli silti otettua ihan yllin kyllin. Niitä toimitan nähtäville
+myöhemmässä vaiheessa.
+
+** Fotokinan ja syyskuun uutuudet
+
+Kaikenlaista jännää tuli ulos elokuun lopuilta aina syyskuun
+loppuunsa. Leica M10-P, Nikon Z6 ja Z7, sitten Canon EOS-R ja Fujifilm
+X-T3 (ja GFX 50 R) ja Ricoh GRIII ja jopa Panasonic-Sigma-Leica
+-yhteistyöprojekti täyden koon kennolla. Huhhei.
+
+Nikonin peilittömät uutuudet vaikuttavat kyllä ensialkuun oikein
+kivoilta. Ehkä ne eivät päihitä Sonyä jokaisessa osa-alueessa, mutta
+on mielettömän hyvä nähdä noinkin hyvä pelinavaus kameraryhmään, jota
+Sony dominoi tällä hetkellä yksinään. Nikon Z6 alle 2000 euron
+hintaluokassa on etenkin huomionarvoinen kamera, koska se näyttää
+päihittävän saman hintaluokan Sony A7 III:n ainakin työn laadussa ja
+etsimen tarkkuudessa. Jos Nikonille saa sovitettua (ja miksipä ei)
+kaikenlaista legacylinssiä niin Z6 voi olla iso juttu. (Leica M -lasin
+sovitus on aina kysymysmerkki, koska nämä linssit istuvat niin lähellä
+kennoa. Sonykin kärsii tästä, ellei kameroita modaa ohuemmalle
+suojalasille.) Manuaalitarkennettaessa juuri etsimen terävyys ja muut
+sellaiset tekijät nousevat nopeasti ykkössijoille, ja megapikselit
+merkkaavat vähemmän.
+
+Canon EOS-R on sitten taas tuttua Canonia. Runko ei puhuttele minua.
+Isoin juttu on tuo uusi 24-70/2 -linssi, joka on varmasti kovaa huutoa
+ja laittaa varmasti monet ostamaan uutta Canonia taloon.
+
+Leica M10-P taisi tulla jo hyvissä ajoin ennen matkaani. Kyseessä on
+hipihiljainen M10-variantti hipihiljaisella sulkimella. Ilman muuta
+unelmakamera. Harmi kun tämä malli maksaa n. 1200 euroa enemmän kuin
+jo muutenkin hiljaiseksi kehuttu M10. Pitää nyt vaan purra hammasta ja
+mennä eteenpäin.
+
+Ricoh GR3. Positiivisena yllätyksenä tämä kamera sisältää enemmän kuin
+kakkonen, ja pienemmässä rungossa. Toivottavasti sama menestysreseptin
+objektiivi (veitsenterävä 18/2.8) istuu nyt IBIS-kennon edessä, joten
+aivan mieletön suorittaja varmasti. Oletan myös, että uusi kenno on
+nykyaikainen myös ISO-suorituskykynsä puolesta. Vanha GR:n kenno ei
+ollut suuresta koostaan huolimatta kamalan hyvä siinä suhteessa.
+Kamerassa ei ole edelleenkään etsintä, ja nyt siitä vielä poistettiin
+sisäänrakennettu salamakin, joten ostohalut ovat hyvin rajalliset.
+Kamera mahtaa maksaa, kunhan tulee myyntiin, tonnin luokkaa. Hullua
+olisi pyytää vähemmän.
+
+** Fujifilm X-T3
+
+Ja sitten meillä on Fujifilm X-T3. Kamera tuli yllättävän nopeasti
+ilmoille X-T2:sta... valitettavankin nopeasti, sillä nyt firma jätti
+X-Pro3:n julkaisematta, jos sellaista nyt on edes tulossa.
+
+Mutta juuri nyt X-T3 on selkeästi fiksuin kamera Fujifilmin
+mallistossa. Sama kompakti muoto kuin aina. Etsin on iso ja kaunis ja
+valtava ja nyt myös yhtä terävä kuin esimerkiksi Leica Q:ssa. Kenno on
+miedosti megapikselikkäämpi ja piirun verran puhtaampi matalilla
+herkkyyksillä. Ja mikä tärkeintä, nyt näyttää siltä, että runkoa saa
+hopeisena samaan hintaan kuin mustaa, ja heti julkaisusta alkaen.
+
+(Toivoisin kyllä hyvin kovasti, että X-Pro3 tulisi pian ja joillakin
+selkeillä parannuksilla etsimessä. Ja että saisi hopeista versiota
+samaan hintaan kuin mustaa.)
+
+Kuten olen moneen oteeseen sanonut, Fujifilm on kamerabrändinä ehkä
+eniten sellainen valokuvaajan kamera. Olympus on nätti, mutta jotenkin
+sen softa onnistuu olemaan kamalaa juuri katukuvaajille. Kaikkeen
+muuhun kamera kyllä taipuu rennosti, ja katukuvaukseenkin sen pitäisi
+teoriassa olla ihanteellinen, vaan kun ei ole.
+
+Fujifilmillä näitä asioita on mietitty niin hyvin. Löytyy
+tarkennusapuja, on etäisyysmittoja, X-T3:ssa on nyt kokonaan uusittu
+autofokussysteemi ja PDAF-pisteitä on vaikka muille jakaa. Tuskin on
+mitään ongelmia tarkentaa oikein pimeässäkään. Fujilla näyttää
+pyyhkivän erittäin hyvin juuri nyt. Kaikenlaisia herkullisia linssejä
+on katalogi pullollaan, ja uusia lupaillaan pitkin tulevia vuosia.
+Myös kolmannet osapuolet ja kiinalaiset yritteliäät valmistajat
+tuottavat ahkerasti hyvännäköistä kamaa Fujin X-mountille. Ja mikäpä
+siinä -- X-T-kameroissa on ehkä parhaat tarkennusavut mistään
+peilittömistä kameroista: iso ja terävä EVF jakautuu haluttaessa
+kahteen erilliseen näyttöön, jossa voit samanaikaisesti sommitella ja
+tarkentaa suurennuslasia käyttäen. Tämän parempaa ei juuri saa
+peilittömissä.
+
+Muutenkin X-T-rungot ovat likimain parhaita runkoja. Oma ISO-rengas,
+kaikki fyysiset säädöt, kompakti ja nätti runko kaiken muun päälle.
+ISO-rengas oli jo yksinään syy minulle ostaa se X-T1 aikoinaan. Mikä
+ilo oli käytellä, /vaikka/ ne rullat nyt keräsivätkin törkyä sisäänsä
+niin, että ne jumittivat käytellä mitä inhottavimmin.
+Valotuksensäätörulla on myös asia, joka on yksi harvoja asioita
+paremmin kuin Leicassa.
+
+Puhumattakaan, että Fujin lasi on itsessään kelvollista, kaikki hyvät
+rungot (X-T-sarja ja X-Pro-sarja) ovat sääsuojattuja ja moni hyvä
+linssi on sateenkestävää niin mennään jonkin Olympuksen ohi niin että
+tuoli natisee. Ja Fuji X-T3:n takanäyttö kääntyy vain yhdessä
+akselissa niin, että se on katukuvaajaystävällisempi kuin PEN-F:n
+monipuolisemmin liikkuva näyttö.
+
+** Samaa vanhaa vääntöä Fujista
+
+En ole suinkaan unohtanut, että reilu vuosi sitten myin X-T1:n
+nopeasti pois kun kuittasin ko. kameran sieluttomaksi ja enimmäkseen
+turhaksi. Puhumattakaan siitä, miten kovaääninen sen suljin oli!
+Tietysti nämä kaikki asiat olivat esillä kun pääasiallinen kamerani
+tuolloin oli kaikin puolin ~täydellinen X100T.
+
+Iso kysymys tietysti on: miksi nyt olisi mikään muuttunut: miksi
+Fujifilm X-T3 olisi yhtään sen sielullisempi tai hiljaisempi kuin
+X-T1. Miksi löytäisin kameralle nyt mitään käyttöä. Entä pystyykö X-T3
+edes kilpailemaan Olympus PEN-F:ää vastaan. PEN-F on aika hiljainen
+sulkimeltaan, IBIS toimii huiman hyvin ja ylipäätään
+mikronelikolmosille saa keppoista lasia; Fujille ei. Jos taistelua
+käydään kakkoskameran asemasta, mitä ihmettä teen sitten miedosti
+paremmilla kuvilla tai jollakin sääsuojauksella.
+
+Tai oletetaan tilanne, jossa Fujia testanneena toteaisin että nyt
+voidaan myydä Olympus ja Leica pois ja siirtyä Fujiin. Nyt minulla
+olisi X-T3 ja pari linssiä sille; miten päin aikoisin olla
+X100-malliston kanssa. X100F + X-T3 olisi parivaljakkona sellainen
+kuin Leica Q ja PEN-F on minulla juuri nyt. Mutta on jo aika selvä,
+että jotain kitkaa tulisi olemaan.
+
+Fuji voi olla edelleenkin itse asiassa paras valinta katukuvaajalle
+sen erinomaisten ominaisuuksien ansiosta. Pieni kroppikerroin
+helpottaa myös suunnattomasti zone focuksessa, uskokaa pois. Leica M
+on edelleen mietteissä, vaikka sen ongelmat ovatkin moninaiset. Isoin
+ongelma Fujissa tahtoo olla se, että niin paljon loistavaa Leica M
+-linssiä olisi tarjolla, mutta kroppikennolle sovitettuna niiden
+polttovälit eivät oikein houkuttele...
+
+** Tulevaisuuskuvat
+
+Helsinki on edelleen suunnitelmissa, ja se on arviolta kuuden
+kuukauden päässä. Yritän edelleenkin pitäytyä vanhassa päätöksessäni
+pitää kaikki kameraostokset ja -päätökset kurissa ja tehdä ylipäätään
+mitään vasta kun olen asettunut taloksi sinne!
+
+Lähitulevaisuus on nyt vaan ahkeraa kuvienkäsittelyä (lomakuvia on
+paljon ja niiden kevyt käsittely ja valikoiminen on omalla tavallaan
+aikaaviepää puuhaa) ja jotain muuta pientä sellaista.
