@@ -25,8 +25,7 @@ Tehdäänpäs taulukko oikeita/realistisia lukuja käyttäen:
 | - ajoneuvovero             |          |     21 |
 | - polttoaine               |          |    170 |
 | - työmatkavähennys + verot |          |    -55 |
-| Vuokra                     |      990 |        |
-| Vuokra                     |          |    370 |
+| Vuokra                     |      990 |    370 |
 | Jäte                       |          |      5 |
 | Vesi                       |       21 |   2,50 |
 | Sähkö                      |       40 |    105 |
@@ -104,16 +103,16 @@ paikkoja, ja jos niissä innostuu asioimaan, voi ydinkeskustan
 hintalisä olla selkeä kuluerä. Varmaan sopivia ja edullisia paikkoja
 löytyy kyllä kodin ja työpaikan välillä, jossa optimoida, mutta silti
 kannattaa miettiä, voiko etelä-Helsinkiläinen pieni maanalaisässä
-hintakilpailla Joensuulaisen automarket-Prisman kanssa. (Tämä ei ollut
+hintakilpailla joensuulaisen automarket-Prisman kanssa. (Tämä ei ollut
 retorinen kysymys; Helsingissä voi olla logistisista tai
 aluepoliittisista syistä halvempaa kuin Joensuussa. En vain tiedä
 juuri nyt.)
 
-Sillä oletuksella, että vastaisuudessakin matkustan ulkomaille kerran
-vuoteen, matkat Sätöksestä Helsinkiin lennoille jäävät pois
-Helsingissä asuessa, tämän edun arvo on noin 50 euroa / vuosi. Tilalle
-toki tulevat matkustelut kotipuoleen ehkä 2-3 kertaa vuodessa: 100
-eur/vuosi lisää. Joten tappiolle tässäkin suhteessa.
+Sillä oletuksella, että vastaisuudessakin matkustan ulkomaille tai
+Helsinkiin kerran vuoteen, matkat Sätöksestä Helsinkiin lennoille
+jäävät pois Helsingissä asuessa, tämän edun arvo on noin 50 euroa /
+vuosi. Tilalle toki tulevat matkustelut kotipuoleen ehkä 2-3 kertaa
+vuodessa: 100 eur/vuosi lisää. Joten tappiolle tässäkin suhteessa.
 
 ** Edut ja haitat
 
@@ -129,15 +128,16 @@ ne vähähköt päivät joita olen kaupungissa nukkunut ja viettänyt.
 aika paljon päänvaivaa minulle, vaikka huoltojen budjetointi ja
 ennakointi alkaakin olla hanskassa. Vaikka näin onkin, Helsingin
 Seudun Liikenne kuljettaa varsin halvalla paikasta toiseen varsin
-kookkassa liikenneverkossa.  
+kookkaassa liikenneverkossa.  
 
 Auton omistaminen on yksi asia, liikenteessä oleminen on toinen. Minun
 ei tarvitse bussissa istuessani miettiä muita liikenteessäolijoita,
-kaikkia törttöilijöitä ja muita. Voin käyttää korvanappeja ja
-omistautua musiikille paljon hifimmin kuin mitä halvassa autossa
-pystyy tekemään. Parhaassa tapauksessa työmatka taittuu kotoa
-toimistolle puoleen tuntiin kävellen, jolloin päivittäinen
-hyötyliikunta tulee yhdistetyksi työmatkaan.
+kaikkia törttöilijöitä, pimeässä kuikkelehtivaa kevyttä liikennettä ja
+muita. Voin käyttää korvanappeja ja omistautua musiikille paljon
+hifimmin kuin mitä halvassa autossa pystyy tekemään. Parhaassa
+tapauksessa työmatka taittuu kotoa toimistolle puoleen tuntiin
+kävellen, jolloin päivittäinen hyötyliikunta tulee yhdistetyksi
+työmatkaan.
 
 *Valokuvaharrastukselleni* isompi kaupunki toimii paremmin. Sätöksessä
 ei kamalasti pääse ottamaan katukuvia ellei aja kuutta/50:tä/100:aa
@@ -145,13 +145,14 @@ kilometriä ensin lähimpään isompaan väestökeskukseen. Se on aikamoinen
 kynnys toisinaan. Helsingissä parhaassa tapauksessa kävellen tehdyn
 työmatkan varrella ehtii napsia parhaat katukuvat päivittäin.
 Tylsäksihän ne matkat muuttuvat ennen pitkää, se on varma, mutta
-Suomessa ei ole toista yhtä hyvää paikkaa katukuvaukselle.
+Suomessa ei ole toista yhtä hyvää paikkaa katukuvaukselle. Ja aina on
+Turku, Tampere, Tallinna ja Tukholmakin lähellä.
 
 *Sosiaalinen elämä* näyttelee myös pientä roolia. Tuntemani ihmiset
 gravitoituvat kohti etelä-Suomea ja sähköiset yhteydet eivät aina
 riitä. Tuntemieni ihmisten lisäksi uusien tapaaminen esimerkiksi
-harrastetapaamisten merkeissä on luontevampaa. Myös kaupankäynti
-helpottuu hieman.
+messujen ja harrastetapaamisten merkeissä on luontevampaa. Myös
+kaupankäynti helpottuu hieman -- tai hyvin merkittävästi.
 
 *Paremmat työpaikat* ovat selvästi iso homma sovelluskehittäjälle. Ei
 pelkästään palkat ole pykälää korkeampia, vaan työpaikoista on ihan
