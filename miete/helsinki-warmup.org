@@ -1,0 +1,124 @@
+#+TITLE: Helsinki warmup
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Helsinki: warmup                               :asunto:sätös:helsinki:
+CLOSED: [2018-10-22 Mon 20:24]
+:LOGBOOK:
+- State "DONE"       from              [2018-10-22 Mon 20:24]
+:END:
+
+Nyt kun tämän vuoden matkailut on onnistuneesti saatu matkailtua, on
+taas aika kääntää katse siihen toiseen isoon spektaakkeliin: muuttoon
+Helsinkiin. Suunnitelmissa on nauttia yksi viimeinen talvi Sätöksessä
+ja siirtää kirjat etelä-Helsinkiin heti lumien sulettua huhtikuusta
+2019 eteenpäin. Siitä mahtaa tulla metka homma itsessään, asunnon
+hommaaminen näin etäältä käsin. (Eihän se onnistu, minun pitää varmaan
+järjestää itseni sinne ja majoittua vaikka tuttavan luo samalla kun
+metsästän majapaikkaa.)
+
+** Syksyn idylli on täällä, ja pian ohi
+
+Syksy ehti tulla livahtaa sillä aikaa kun olin nauttimassa vapauksista
+rapakon takana. Nyt se on jo melkein ohitse, ensilumia ennustellaan
+tulevalle sunnuntaille ja talvirenkaiden vaihto alkaa olla tapetilla.
+
+Sääli, sillä sehän on juuri mitä parhain vuodenaika. Puut on pilkottu
+ja ne ovat jopa kuivuneet polttokelpoisiksi. Katto ja räystäät on
+harjattu lehdistä ja neulasista puhtaiksi. Jopa piha on haravoitu
+siihen malliin, ettei itsestäni uskoisi. Ilmat ovat olleet mukavia,
+ehkäpä paikoin kosteita mutta mukavan syksyisiä silti.
+
+Ja tätä maalaisidylliä ja Sätöksen taikaa ehti nauttia pari viikkoa
+matkan jälkeen: ehkä Helsingin ei tarvitsekaan olla ihan ajankohtainen
+vielä? Sitten tulivat takaisin melut ja mopopojat ja pimeäautoilun
+ikävyydet. Kaipuu pois syttyi taas.
+
+** Aiemmin kirjoitettua
+
+Mielenkiinnosta lueskelin läpi, mitä olen ääneen kirjoittanut näistä
+asioista aiempina vuosina.
+
+[[file:./satos-vol-3.org][Helsinki Drift]] on kirjoitettu vuosi sitten ja sen ideat ovat edelleen
+ajankohtaisia. (Olen toki päivitellyt sen lukuja ja muita asioita
+tässä kuukausien mittaan.)
+
+Ehkä on parempi palata vanhempiin mietteisiin. [[file:./idylli-realiteetit-satos.org][Idylli, realiteetit ja
+Sätös]] on kesältä 2014, ja se on kirjoitettu ensitilassa Joensuun
+kauhut tuoreessa muistissa. Mikä edelleen pitää paikkansa, on se, että
+iso, vilkas kaupungin keskusta olisi minulle hyvin idyllinen tapa
+asua. Paljon jazzia tässä kirjoituksessa! Ja vanha kirjoitus on myös
+siinä oikeassa, että Sätös ei ehkä edusta kaikkein idyllisintä tapaa
+asua. Totta, osa piha- ja taloaskareista on sellaisia, että niistä on
+oppinut tavallaan nauttimaan. Mutta nämä asiat, joita täällä
+pääasiassa teen, voi tehdä myös kaupunkiasunnossa tehokkaammin ja
+mukavammin.
+
+Sitä ennen kun olin juuri muuttamassa Outokummun keskustasta Joensuun
+keskustaan, [[file:./joensuuhun-hinnalla-milla-hyvansa.org][kirjoittelin kuinka julkiset eivät toimi]] missään hyvin ja
+että jalan on paras mennä kaikkialle. Silloin kuittasin Helsingin pois
+sillä perusteella, ettei edes HSL pysty kaikkeen, kuten esimerkiksi
+tekemään päivittäisestä bussimatkailusta mukavaa. Ehkäpä totta, mutta
+tämän jälkeen vasta hoksasin ottaa huomioon kalliin keskusta-asumisen,
+jossa HSL-lippu ei ehkä olekaan ihan päivittäinen tarve...
+
+Muita tarinoita kovaäänisistä naapureista ei minulla olekaan
+blogissani. Ehkä hyvä näin...
+
+** Helsinki vs Sätös
+
+Sätöksestä odottaa (kuten on lupa odottaa) että siellä on mukava
+maalaisidylli. Naapurit tuntevat toisensa ja ihmiset kutsuvat toinen
+toisiaan iltakahveille toistensa tupakeittiöihin.
+
+Totuus on, että samoja rumasieluisia ihmisiä -- roskaajia,
+päristelijöitä, jonneja -- on täällä samassa suhteessa kuin missä
+tahansa muuallakin Suomessa. Päivänsä saa niin helposti pilalle kun
+palaa töistä ja poratulla putkella päristelevä mopojonne ajaa ohi
+suunnilleen keula ilmassa, ja tien toisella puolella näkee
+kaljatölkkejä ja mäkkärin papereita tien poskessa.
+
+Miksi Helsinki saattaa voittaa tässä suhteessa, tässä on oma
+järkeilyni asiasta: Sätöksestä odottaa hyvää ja kaunista, ja ehkäpä
+sitä se onkin 5-6 päivää viikossa. Sitten tulee kovaääninen
+pärinäjonne ja petyn rikottuun lupaukseen maalaisidyllistä.
+Helsingissä sen sijaan on aina likaista ja ihmiset paskoja ja maa on
+nilkkoja myöten roskassa. Mutta ehkäpä yhtenä päivänä viikossa sitä
+näkee jotain kaunista kaupungilla ja yllättyy positiivisesti.
+
+Pessimistinä on niin hyvä olla, aina silloin tällöin saa olla
+positiivisesti yllättynyt asioiden laidasta.
+
+** Ratkaistuja ongelmia
+
+Aiempina vuosina Helsinki ei tullut kyseeseen monista syistä, ehkäpä
+päällimmäisesti sen takia että kaupungilla ei ollut mitään annettavaa.
+Ja vaikka sillä olisi ollutkin, kohtuuisot ongelmat kuten naapurimelu,
+hintakysymykset ja sensellaiset painoivat liikaa vaakakupissa.
+
+Nyt Helsingillä /on/ jotain annettavaa minulle, [[file:./satos-vol-3.org][hintakysymykseen
+laskettu vastaus]] näyttää aika hyvältä ja naapurimeluunkin minulla
+saattaa olla sellainen riittävä vastaus. Korvatulpat ratkaisivat
+ääniongelmat yöunien puolesta jo tosi hyvin, mutta tämä ratkaisi vain
+puolet ongelmastani.
+
+Ongelmahan on aina ollut tämä minun hifisettini. AKG K1000 on maailman
+paras kuulokesetti, epäilemättä. Minulle ainakin. Mutta se ei nyt vaan
+peitä ääntä vaikka miten päin asian asettelisi. Joensuussa etenkin
+naapureiden kanssa sitten syntyi konflikteja koska en kykene
+nauttimaan elokuvista, jos elokuvan hiljaisella hetkellä naapurista
+päättää kuulua yhtään minkäänlaista ääntä. Oma ongelma, tiedän.
+
+Ratkaisu on aika ilmeinen, mutta K1000:n parhauden nimissä en sitä
+pystynyt näkemään. Hommaan itselleni sellaisen kuulokesetin, joka
+tykisti blokkaa ääntä niin, että tärykalvo soi. Nappikuulokkeilla saa
+varmasti omalla tavallaan parempaa hifiä ulos nykyään kuin
+ikääntyvällä K1000-parilla. Tätä asiaa varten olen jo alkanut
+budjetoida. Kun tarkastelen ongelmiani Joensuussa, pitkälti kaiken
+tämmöisen voi laittaa hiljaisen kuunteluympäristön kaipuun piikkiin.
+K1000 ei ole sillä tavalla sosiaalinen eläin. Pitänen kuulokeparin
+kuitenkin alustavasti ja käytän sitä kovaäänisen musiikin
+soittamiseen. Ja nämä toimivat myös hyvinä ambienssikaiuttimina.
+
+** Tilanne jatkuu
+
+Tämä lämmittely on nyt tässä. Suunnitelmissa on toteuttaa tämä kaikki
+hässäkkä keväällä lumien sulettua.
