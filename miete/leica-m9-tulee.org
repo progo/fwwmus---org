@@ -1,6 +1,6 @@
 #+TITLE: Leica M tulee kyllä...
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Leica M tulee kyllä...                                  :kamera:leica:
+* DONE Leica M tulee kyllä...                 :kamera:leica:olympus:fujifilm:
 CLOSED: [2018-04-09 Mon 14:39]
 :LOGBOOK:
 - State "DONE"       from              [2018-04-09 Mon 14:39]
@@ -10,9 +10,10 @@ CLOSED: [2018-04-09 Mon 14:39]
 lähteä havittelemaan seuraavaa "lottovoittokameraa", vaikka talous ei
 ole tästä edistynyt mihinkään suuntaan. Pääasiallinen syy tähän on
 ollut, että Pen-F ei ole päässyt uusien lasien kanssa "tositoimiin".
-Hyviä kuvia olen kyllä onnistunut nappailemaan sillä, ei siinä mitään.
+(Päivitystä: nyt on.) Hyviä kuvia olen kyllä onnistunut nappailemaan
+sillä, ei siinä mitään.
 
-** Pen-F
+** Olympus Pen-F
 
 Pen-F on hieno kamera kaikin puolin; soma, siro, kompakti, kyvykäs.
 Mutta sen funktionaalinen muotoilu ei istu sataprosenttisesti käteeni
@@ -29,7 +30,46 @@ Osa näistä Pen-F:n puutteista hioutuu varmasti pois, kun käytän
 kameraa enemmän tositilanteissa. Ehkäpä jonkin vaihtoehtoisen
 rannelenkin kokeileminen auttaa myös.
 
-** M9
+*** Pen-F 6 kuukautta myöhemmin.
+
+*6 kuukautta myöhemmin:* Pen-F:n käytettävyysongelmat ovat kaikki
+pitkälti ohi. Rannelenkin ja ranteen kanssa syntyi joku symbioosi,
+eikä ergonomian kanssa ole ollut kamalasti ongelmia. Nappuloiden
+tunnottomuus ei ole myöskään vaivannut kamalasti; kamera ei polta
+ylivalottuneita kohtia kuvasta helposti, joten en ole jaksanut aina
+leikkiä infonapin takaa löytyvillä ylivuotoavusteilla.
+
+Tuo kameran alivalotusongelma johtui kameran käyttämästä
+prosessoinnista; Darktablessa oli jopa valmisprofiili tälle, mutta se
+ei ollut oletuksena aktivoitu. Kun otin sen käyttöön, kuvat alkoivat
+olla samassa valossa kuin mitä kameran etsin minulle lupaa.
+
+Nyt Olympus on myös ehtinyt nähdä maailmaa isosti ja sillä on napsittu
+kuvia riittämiin. Ensikuukausina kamera tietysti tuntui tuottavan vain
+pehmeätä moskaa ja sen jälkeen alkoi harmittaa kun kameran tuottamat
+vihreät sävyt ovat niin kovin hailakat Fuji/Leicaan verrattuna.
+Siitäkin päästiin helposti eteenpäin darktable-automatialla (nostetaan
+simppelisti vihreiden sävyjen saturaatiota /reilusti/ ja laitetaan se
+oletukseksi PEN-F-kuville. Nyt näyttää hyvältä!)
+
+Lisäksi kameran verhosuljin on tietyllä tavalla vaimennettuna aika
+mukavan lupsakka. Ulkotiloissa en hermoile; sisällä ääni on silti
+jonkinlainen ja alan kaivata lehtisuljinkameraa.
+
+Kameran kanssa on oltava vähän huolellinen, että autofokuslinssien
+kanssa kamera varmasti tarkentaa haluttuun kohteeseen. Samaa vikaa
+kuin Fuji X100T/X-T1:llä. Manuaalitarkennuslinssien kanssa on oltava
+tarkkana, sillä etsimen tarkkuus ei riitä ihan silmävaralta
+tarkentamiseen, vaan on käytettävä suurennuslasitoimintoja (voi olla
+hidasta) tai luotettava linssin etäisyysmittoihin.
+
+Lisäksi Pen-F:n PASM-ajattelu on aika kamala verrattuna siihen, että
+aukot ja valotukset saisi valittua suoraan fyysisistä säätimistä.
+Pieniä juttuja. Kameran softa on edelleen kamalaa, mutta enpä ole
+kamalasti juuri yhtään niihin koskenutkaan sen jälkeen kun olen saanut
+kustomimoodit ja säädöt kuntoon.
+
+** Leica M9?
 
 Yhtä kaikki, Pen-F:n ja siihen liittyvän roippeen ostaminen (yhteensä
 noin 1600 euroa uudesta rungosta, oheistilpehööristä, yhdestä uudesta
