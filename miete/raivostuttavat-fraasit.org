@@ -27,6 +27,13 @@ argumentti. Jos vuosi onkin 2017, onko aiemmin tehty perustelu nyt
 vanhentunut vai miten? Osaavimmat kykenevät kertomaan tarkalleen, mikä
 epäkohta mättää. Parempi kun tätä ei käytä minun kuullen lainkaan.
 
+** "Teennäinen"
+
+Terminä teennäinen/pretentious on aikalailla typerimmästä päästä. Ai
+osaat lukea taiteilijan ajatukset ja täten tiedät varmaksi, milloin
+hän teeskentelee? Hyvä homma. Muut käyttävät tätä termiä silloin kun
+he haluavat sanoa: "tekisin asian itse toisin".
+
 ** Taivutuksen osaamattomuus tai jaksamattomuus
 
 Taistelen tuulimyllyjä vastaan, mutta cs-taivutus etenkin ilmiselvästi
@@ -179,7 +186,7 @@ tekstiseinä. Ei saatana.
 
 ** Asiat, jotka eivät häiritse
 
-Löytyy myös muutama asia, jotka eivät nypi minua näin pahasti.
+Löytyy listata myös muutama asia, jotka eivät nypi minua näin pahasti.
 
 - /skripti vs ohjelma/: vaikka näille termeille voisi löytyäkin
   selkeät eroavaisuudet, minua ei haittaa vaikka näitä käytettäisiin
