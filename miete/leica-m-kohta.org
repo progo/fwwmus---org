@@ -1,0 +1,201 @@
+#+TITLE: Leica M tulee kohta...
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M tulee kohta...                 :kamera:leica:olympus:fujifilm:
+CLOSED: [2018-11-16 Fri 20:44]
+:LOGBOOK:
+- State "DONE"       from              [2018-11-16 Fri 20:44]
+:END:
+
+...mutta ei ihan vielä! Hiljattain saamani Fujifilm-villityksen aika
+alkaa olla taas ohi. Palon sai sammutettua samalla tavalla kuin
+aiemminkin: kaatamalla Leica-bensaa liekkeihin. Nämä liekit sammuvat
+sitten helposti palamismateriaalin (seteleiden) loppumiseen. Kuvailen
+myös manuaalitarkennuksen ideaalia ja peilittömien tarjoamia
+tarkennusavusteita.
+
+** Manuaalitarkennusten kuningas ja muut M-systeemin viehätykset
+
+Leica M tunnetaan kaikkialla sen mittaetsinsysteemin ansiosta, ja
+mittaetsimen hienoin(/huonoin) ominaisuus on juuri se, että se on
+kokonaan irrallinen komponentti siitä, mitä linssi näkee.
+Telekuvaajille paska homma; huippunopeille (f/0.95) ja toisaalta
+kovasti himmennetyille (f/8+) linsseille se on hyvä, koska saat saman
+tarkennusavun riippumatta siitä, miten paljon tai vähän
+tarkennusalueen ympärillä on terävänä.
+
+Olympuksella, joka on siis edelleen tiukasti kakkoskameran roolissa,
+käytän kahta linssiä, ja toinen niistä on manuaalitarkenteinen Laowa
+7.5/2. Ultralaajakulmalinssinä Laowan kanssa ei tietysti ole kamalasti
+tarvetta tarkennella mihinkään muualle kuin äärettömään (mikä on sekin
+joskus hankalaa, koska Laowa menee äärettömän ohitse ja varsinainen
+ääretön on hieman eri paikassa kuin missä olettaisi), mutta joskuspa
+tulee tarve silti lähitarkennuksiin. 
+
+Nyt Pen-F tietysti täysiverisenä peilittömänä näkee kaiken linssin
+kautta ja kaikki on etsimessä aina terävänä (mutta ei välttämättä
+todellisuudessa). Tarkennuksen onnistumisen näkee vasta kun kuvaa
+alkaa suurentaa -- myös muuten kätevä /focus peaking/ on joutava
+ominaisuus näin laajojen kulmien kanssa, koska kameran asettamat
+toleranssit terävyydelle tulevat vastaan liian herkästi. Eli
+suurennuslasi on ainut toimiva työkalu huolellisesti tarkennettaessa.
+
+Suurennuslasihommista en kamalasti välitä. En näe kokonaisuutta enää,
+ja kuva heiluu korostetusti ja kaikkea. Tässä kohtaa tulee mieleen,
+miten mittaetsin ei välitä lainkaan siitä, millä polttovälillä linssi
+operoi. Ja mittaetsinratkaisu toimii kauniisti ja kauniimmin kuin
+vaikkapa focus peaking. Ehkäpä joskus suurennus olisi kiva, sitten ei
+mittaetsin auta kamalasti. (Tosin erillisiä optisia suurentajia
+myydään, ja ne asetetaan etsimen eteen.)
+
+** Fujifilm: EVF-kameroiden parhaimmistoa 
+
+Kaikki peilittömät TTL-kamerat eivät silti kulje vanhoja
+loppuunkoluttuja polkuja.
+
+Tulee mieleen Fujifilm X-T1, ajalta kun minulla oli se. Sen iso ja
+kaunis etsin oli 0,77-kertaisella suurennoksella ja muutenkin niin
+riittävän terävä, että kamerasuunnittelijat uskalsivat laittaa
+etsimeen valinnaisesti kaksi eri kuvaa. Tämä /dualview/ oli
+kivannäköinen kun kokeilin sitä hyvin kasuaalisti. En käyttänyt sitä
+ikinä tositoimissa, mutta uskon että se on paras täysin EVF-pohjainen
+manuaalitarkentajan työkalu. Näet vasemmalla puolella ison kuvan koko
+linssin sisällöstä ja oikealla puolella pienemmän ruudun, jossa
+vaikkapa suurennettu pala valitsemastasi alueesta. Tämä sama dualview
+löytyy myös uudessa X-T3:ssa. Muut valmistajat eivät ole käsittääkseni
+toteuttaneet vastaavanlaista ratkaisua, joten siinä mielessä Fujifilm
+on ainut peilitön kameramallisto, jota haluaisin käyttää
+manuaalitarkenteisten linssien kanssa.
+
+Fujin X-T-mallisto on tietty Fujin X-T-mallisto, joten se voi olla
+mahdollisesti sieluton, tunnoton, kovaääninen, joutava kamera minun
+tarpeisiini.
+
+Nyt tulee vuorostaan mieleen Fujifilm X100T, jossa oli myös
+eräänlainen "dualview": jos kuvaat optisella etsimellä, saat
+halutessasi oikeaan alanurkkaan piskuisen EVF-näkymän. Tämä sama
+löytyy jatkajamallista X100F:stä, ja mikä tärkeintä, *myös
+X-Pro2:sta*.
+
+X-Pro2 sallii siis M-mäisen optisen sommittelun ja EVF-pohjaisen
+tarkentamisen käyttäen pientä lätkää, joka näkyy ehkäpä häiritsevästi
+ruudun oikeasta alareunasta, ei keskeltä. Toisaalta vastapainoksi
+tarkennuspisteen paikan saa valita, jos /focus-recompose/ ei ole
+mieleinen tekniikka.
+
+Heitetään tähän päälle ne faktat, että fujisetti on selkeästi
+halvempaa, fujin autofokuslasi on yleisesti ottaen erinomaista, rungot
+ja linssit ovat kevyempiä, sääsuojaukset monessa rungossa ja
+linssissä, manuaalifokusavut, nopea autofokus, kenno suoriutuu
+ISO-herkkyydessä selkeästi paremmin kuin M240 ja on likimain samaa
+tasoa kuin M10... Eli paperilla Fujifilm voittaa kevyesti kaiken?
+
+No tavallaan voittaa, mutta tavallaan tulee pari pattitilannetta
+vastaan linssien suhteen. Leican optiikka on se syy, miksi Leicaan
+mennään. Fujille saa kyllä sovitettua M-lasia, ja kuten sanottua,
+Fujin fokusavusteet ovat hyviä, joten mistä kiikastaa? Vanhasta kunnon
+kroppifaktorista! En minä välitä yhden stopin syväterävyyden
+hävittämisestä niinkään, vaan siitä, että haluan kuvata kolmevitosta
+kuvakulmaa. Jollain hulppean komeasti piirtävällä linssillä. Fujin
+omat 23-milliset ovat ihan kivoja, mutta 23/1.4 on iso ja painava ja
+23/2 ihan kiva, mutta ehkä vähän tylsä. Pääpointti on se, että
+kumpikaan ei pärjää piirron laadussa (kovasti subjektiivinen seikka,
+tosin) Leican, Zeissin tai Voigtländerin 35-millisille M-linsseille.
+Ja Leica taasen ei tee 23-millisiä M-linssejä. Hyvin kallis
+24-millinen löytyy; sitten on kolmansilla osapuolilla 25-millisiä
+ratkaisuita. (Ja jos haluan pysyä natiiveissa Fuji-linsseissä niin
+tulee eteen koko X100F-vs-muu-maailma -vääntö...)
+
+X-Pro2 pitää arvonsa aika hyvin. 900-1100 euroa käytetystä rungosta,
+josta ei tule tippumaan kuin ehkä 200 pois jos ja kun X-Pro3 tulee
+jossain vaiheessa. Kennohuollettu Leica M9 on ehkä 2400 euroa; M240:n
+hinta on pian samoissa: 2800 eurolla saa helposti hyvän rungon.
+
+Ehkä paras homma ikinä olisi, jos Fujifilm julkaisisi X-Pro3:n uudella
+X-Trans 4 -kennolla, mutta kinokoossa ja Leica M -mountilla.
+(Tutkailin muuten, onko M-lasi hyvä kumppani Fujin GFX-runkojen
+kanssa; ilmeisesti parisuhde ei ole järin kutkuttava.)
+
+** Leica M:n sietämätön viehätys: olet itse ohjaimissa
+
+Olen suoltanut kaikenlaista liirumlaarumia siitä, miten Fujifilm ei
+viehätä, vaikka olen listannut lähinnä hyviä puolia ja pelkkää kehua.
+
+Manuaalitarkennus on vääjäämättä pitkässä juoksussa aina epätarkempaa
+hommaa kuin nykyaikainen automaattitarkennus. Kohde kävelee sinua päin
+tai sinusta poispäin; tarkennus+sommittelu muuttuu ihan arpapeliksi.
+Valovoimaisimmat aukot jäävät helposti hyödyntämättä hutien pelossa.
+
+Tästä huolimatta romanttinen ja yltiöoptimistinen mielikuva lännen
+nopeimmasta tarkentajasta kiehtoo. Kuuluisat Leicakuvaajat, kuten
+Thorsten von Overgaard ja muut tuottavat jatkuvasti huippusisältöä
+manuaalitarkenteisilla kameroillaan, luoden ja ylläpitäen vaikutelmaa,
+että riittävällä harjoituksella kuka tahansa pääsee
+loistotarkkuuksiin. Koska loppupeleissä ihmisälyn pitäisi vielä
+päihittää tekoälyn.
+
+Kova harjoittelu palkitaan viimekädessä. Kun elät ja hengität
+manuaalitarkennusta ja sormesi lihasmuisti osaa ulkoa tyypillisen
+muotokuvaetäisyytesi, voidaan puhua oikeasta M-elämäntavasta.
+Tarkennusvirheet omistat suosiolla. Minua ainakin inhottaa jo nyt jos
+kameran autofokus tekee virheen, jota en huomaa kuin vasta kotona. Jos
+tekisin itse manuaalitarkentaessa saman virheen, se varmaan
+harmittaisi vähemmän. Harjoituksen puutetta! Omista virheesi.
+
+Leica M on myös muilla tavoilla mystisiin mittoihin asti mainetta
+kerännyt systeemi. Sen kuvausviive sulkimen painamisesta sulkimen
+aukeamiseen on kuulema digikameroiden parhaimmistoa. Vaikka näitä
+millisekunteja ei ihminen ehdi mielessään laskemaan, jokainen
+millisekunti vaikuttaa silti negatiivisesti alitajunnan kautta
+käyttötuntumaan. Kuvauksen välittömyys, kameran ilmiömäinen
+yksinkertaisuus. Mitä lännen pyssysankari tekisi revolverilla, joka
+miettisi ylimääräiset 0,04 sekuntia ennen kuin päästäisi luodin
+matkaansa?
+
+Kiitoksena näistä nopeuksista kameran valotus on tietty varsin
+alkeellinen. Taas yksi tekijä, joka asettaa valokuvaajan tekemään
+asian itse, oikealla älyllä. Jos valotat väärin, oma syy!
+
+** Fantasiat vs. todellisuus
+
+Nämä ovat nyt ne fantasiat. Lierihattu liehuen ratsastat
+auringonlaskuun samalla näpsien vasemmalta ja oikealta täysin teräviä
+kuvia etsimeen edes katsomatta. Mikähän lienee se (karu) todellisuus?
+
+*Fujifilmin* kanssa karu todellisuus voisi olla jotain tämmöistä:
+nautit noin parin tonnin sääsuojatusta setistäsi ja käyttelet sitä
+nautinnolla valossa kuin valossa. Illan päätteeksi kuitenkin aina
+kuvia katsellessa kaivelee mielikuopassa kuinka näissä kuvissa
+jotenkin puuttuu se "3D-pop" jota Leicakuvaajat demonstroivat niin
+hyvin arvosteluissaan. Fujilinssien manuaalitarkennus ajaisi kyllä
+asiansa, mutta tunnottomuus ajaa käyttämään enemmän kuin tyydyttävää
+autofokusta 99-prosenttisesti ajasta. Kaikki haaveet lännen
+nopeimmasta tarkentajasta on taas sullottu pöytälaatikon perukoihin.
+Kuvat ovat upeita järkikoossa katseltuna, mutta pikselitiiraillessa
+joitain outoja artefakteja esiintyy yksityiskohdissa X-Transin takia
+ja puret hammasta. Lisäksi X-Transia purkavat demosaiikkialgoritmit
+vaativat ikääntyvältä i5-kokoonpanolta jo vähän liikaa, ja käsittely
+tuntuu laahaavan liiaksi. Kaikin puolin Leicahammasta kolottaa, ei se
+minnekään mene, teitpä mitä tahansa.
+
+*Leican* kanssa karu todellisuus on luultavasti Fujia hieman karumpaa.
+Aktiivinen harjoittelu on tuottanut selkeätä tulosta kuukausien
+varrella, mutta silti tositilanteissa ja äksönissä kuvat tahtovat olla
+hieman epätarkkoja. Valtaosa kuvista tahtoo olla huonosti aseteltuja,
+koska focus-recompose tuntuu olevan pidemmillä polttoväleillä
+riskialtis kokeilu. Kuvailet ensin ostetuilla Voigtländereillä ja
+Zeisseillä ja lompakko+järki ei anna ostaa mitään hienompaa. Zone
+focus pysyy edelleen vaikeana taiteenlajina, koska 35 milliä on 35
+milliä. Koska taivas palaa niin helposti, alivalotat aina stopin
+alaspäin ja nostat jälkikäsittelyssä takaisin: kuvat tahtovat olla
+hyvin kohinaisia hyvin usein. Sentään kohina on kroppikennoja nätimpää
+ja "filmimäisempää". Eksoottisia kuvakulmia ei tule kokeiltua, koska
+talous ei riittänyt M240/M10-linjalle, joten livenäkymää ei ole
+saatavilla ja etsimen kanssa ei jaksa aina kykkiä maassa makaamassa.
+
+Vaikeata on.
+
+** Tulevaisuus
+
+Toukokuuhun on alle 6 kuukautta aikaa, joten ei enää kauaa.
+Fujifilmiltä tullee jotain oikein kiinnostavia kamerauutuuksia taas
+tammi-helmikuun taitteessa. Helsinki ensin, sitten kamerat.
