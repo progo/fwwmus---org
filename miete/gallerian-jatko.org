@@ -1,0 +1,65 @@
+#+TITLE: Gallerian jatkokehitys ja Flickr
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Gallerian jatkokehitys ja Flickr                :blog:flickr:galleria:
+CLOSED: [2018-11-24 Sat 20:47]
+:LOGBOOK:
+- State "DONE"       from              [2018-11-24 Sat 20:47]
+:END:
+
+[[http://fwwm.us/gallery][Kuvagalleria]] on kasvanut ja rönsyilee hieman. Ongelma on ollut
+tiedossa jo hyvän aikaa, mutta hankala saada tälle mitään kelvollista
+aikaan. Onko uudistuva Flickr kenties sittenkin parempi idea? Lisäksi
+vaikea uskoa, että galleriani [[file:./galleria.org][täytti jo vuoden]] -- meni ihan ohi.
+
+** Flickr uudistuu
+
+Moni on varmaan kuullut, että Flickr uudistaa käyttöehtojaan.
+Tämmöiset muutokset olivat odotettavissa kun valokuvahommiin
+erikoistunut SmugMug osti palvelun Yahoon käsistä aiemmin. Isoin
+muutos on, että ilmaiskäyttäjät eivät enää saa teratavun ilmaistilaa,
+vaan ilmaiskäyttäjät rajataan tuhanteen kuvaan tai videoon. Tämä
+vihastuttaa monia, mutta näen potentiaalia ratkaisussa.
+
+Tuhat kuvaa on siinä mielessä vähän, että parin viikon lomareissukuvia
+ei voi dumpata tunnuksensa alle varmuuskopioiksi. Tuhat kuvaa on
+toisaalta iso määrä siihen, että haluaa demota parhaita kuviaan
+maailmalle. Toivomus voisi ollakin, että tulevaisuudessa Flickr:n
+kuvia selatessa saa nähdä hieman laadukkaampaa sisältöä kuin mitä
+siellä nyt näkee. (Näen toisaalta nytkin siellä aika hyvää sisältöä
+lähinnä.)
+
+Itse en käytä Flickriä juurikaan muuhun kuin mainittuun lomakuvien
+dumppaamiseen. En paljoa muistanut koko palvelun olemassaolosta ennen
+kuin polemiikki alkoi. Nyt pohdin, että uskaltaisikohan kuvia passata
+tämmöiseen Flickr:n tapaiseen paikkaan koko maailman pällisteltäväksi.
+Tili on pseudonyymin alla; tehnen uuden tunnuksen jahka tunnusta ei
+ole enää sidottu Yahoohon. Tiedä vaikka tämä ylimääräinen näkyvyys
+poikii jotain mukavaa pitkässä juoksussa. Luonnollisesti Flickr tai
+mikään mainoksilla ratsastava kolmannen osapuolen palvelu ei tule
+olemaan /pääasiallinen/ tai ainut kuvien lähde, joten ei sitä pelkoa
+että tulisin Flickr:stä riippuvaiseksi. Kaikki hyväksi havaitsemani
+kuvat tulisivat olemaan aina myös [[http://fwwm.us/gallery][fwwm.us:n]] alla.
+
+** Gallerian haasteet
+
+Oma kotikutoinen galleria ei toimi nykymuodossaan järin hyvin. Se on
+koodattu hätäisesti sillä ajatuksella, että jokainen tietty
+valokuvausmatka poikii pari näyttämisen arvoista työtä. Tämä ajatus ei
+ole väärin, mutta se on johtanut siihen, että gallerian eri albumit
+ovat epäsemanttisia hakuammuntoja. "Kuopio syyskuussa", "Kuopio
+heinäkuussa", "Joensuu talvella", "Joensuu 23.2.2018"... vähän joutava
+jakaa samanlaisia kuvia eri karsinoihin tällä tavalla.
+
+Ja kun kuvia kertyy, minun funktionaalinen lähestymistapa johtaa aika
+hitaisiin prosessointiaikoihin.
+
+Haluaisin melkein replikoida joitakin Flickr:stä löytyviä
+kuvanhallintatyökaluja johonkin paikalliseen ratkaisuun, joka loisi
+samanlaista staattista kamaa kuin nykyinen. Mutta kuvien pitäisi olla
+tagattuja, sama kuva saisi löytyä useammasta eri kokoelmasta ja niin
+poispäin. Ehkä simppeli Geeqien tai Darktablen kuvanhallinta voisi
+riittää, olettaen että sieltä löytyy itselleni toimiva workflow. Olen
+myös hieman kokeilemassa erilaisia juttuja pythonilla, ehkä lopullinen
+sovellus tulee olemaan Electron-sovellus, tai jotain tältä väliltä.
+Motivaatio ei ole ollut hääppöinen. Ehkä se tulla putkahtaa sieltä
+ulos joku päivä kun päätän vähän häkkäillä.
