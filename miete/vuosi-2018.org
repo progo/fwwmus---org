@@ -1,0 +1,73 @@
+#+TITLE: Vuosi 2018
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2018                                         :uv:retrospektiivi:
+CLOSED: [2018-12-29 Sat 20:03]
+:LOGBOOK:
+- State "DONE"       from              [2018-12-29 Sat 20:03]
+:END:
+
+Vuosi sitten kirjoitin vuoden [[file:./vuosi-2017.org][2017 kertauksessa]], että
+vähätapahtumainen oli. Nyt tuntuu entistä vähätapahtumaisemmalta!
+
+Vuodelle 2018 oli muutama ennakoitu peliliike luvassa: Helsinkiin
+muutto ja ulkomailla käynti mahdollisesti. Isoja hommia molemmat.
+Päädyinkin sitten suosiolla olemaan fiksu ja jakamaan nämä eri
+vuosille. Lähes kokonainen kuukausi Yhdysvalloissa osui kuluneen
+vuoden syyskuulle ja nyt sitten Helsinki on aika varma tapaus
+vuodelle 2019.
+
+Matkailu ja valokuvailu jäikin tänä vuonna vähän vähemmälle, se jäi
+tuon ison ulkomaankeikan harteille. Siellä tulikin tietty kuvattua
+valtavat määrät laatua, kaiken opitun kulminoiduttua. Ehkäpä kuitenkin
+omaa taitoa ei tullut venytettyä rajoille samalla tavalla kuin vuonna
+2017, enkä minä silloinkaan venytellyt kamalasti mitään.
+
+Edellisvuoden lupauksiin kuului painonpudotus, ja vaikka muutamilla
+suunnanvedoilla paino onkin edellisvuoteen nähden laskussa, lasku on
+todella lievä. Kun Helsinki alkoi olla ns. päätetty homma, aloin
+luottaa sen varaan, että muutto ja elämäntapamuutos ratkaisisi asian
+puolestani. Toki luotan tähän edelleenkin. Mutta hei, paino on kuin
+onkin pudonnut edellisvuoteen nähden, joten ei huono?
+
+Myös asia, joka on ollut varmasti koko vuoden ajatuksissa, mutta sain
+viimein vuoden loppua kohden toteutettua, on uusi
+journalointisysteemi, joka kattaa päiväkirjamerkintöjä ja muuta
+sentapaista. Ratkaisua pitäisi vielä jaksaa tuunailla eteenpäin, mutta
+kaikki aikanaan. Toki joku joukko omia ohjelmia on taas tullut
+kirjoiteltua, en nyt vain muista kamalasti, mitä.
+
+** Kamerahommelit
+
+Aloitin vuoden 2018 pelkkä Leica Q laukussa. Se sai sitten
+alkutalvesta seuraa Olympuksen M43-kameran kanssa. Parivaljakkona
+kaksikko teki sopua ja on ollut hyvä kombinaatio. Tämä kahden kameran
+rinnakkaisolo ei onnistunutkaan aiempina vuosina, ja nyt oli mukava
+kyllä itseni kannalta kun löysin tavan käyttää eri kameroita
+rinnatusten. Iso kehitys!
+
+Kuitenkin muutama mieto juttu Olympuksessa ja M43:ssa sai haikailemaan
+johonkin uuteen suuntaan. Ensin keväällä haikailin Leica M9:n puoleen,
+mutta sen jälkeen kamerakuume väheni isoa matkaa odotellessa. Vaikka
+matkakuvissa ei ollut tasan mitään vikaa, matkan jälkeen alkoi taas
+vähän kuume oirehtia ja nyt se kulminoitui ihan viimehetkillä Leica
+M-P 240 -kameran hommaamiseen. Iso investointi, ja saa nyt nähdä,
+mihin tästä voi järkevästi edetä.
+
+Tämän koko ruljanssin kanssa tullaan näkemään, miten paljon
+lopputulokset (kuvien laatu) merkkaavat kuvauskokemuksen rinnalla. Ja
+toisaalta Leica M:n avulla uskon, että pikselintiirailun synnistä
+pääsen eroon. Tämä voi olla aika lupaava kehitysaskel vuodelle 2019.
+
+** Suunnitelmia vuodelle 2019
+
+Helsinki on se iso homma tulevalle vuodelle. Autottomuus.
+Hyötyliikunta. Säännölliset ja tiheät kävelyreissut. Katukuvaus.
+
+Manuaalitarkenteinen Leica M saattaa pyöriä nyt kovasti mielessä kun
+mietin tulevan vuoden suunnitelmia. Varmaankin paras UV-toive
+itselleni on kunnolla sitoutua käyttämään M:ää ja toteamaan syvällisen
+testauksen kanssa, että onko tämä nyt paras juttu ikinä, vai ei. 
+
+Kuvagallerian uudelleenmiettiminen lienee kanssa tarpeen seuraavan 12
+kuukauden aikana. En nyt lupaile liikoja aiheesta. Nopeastihan sen
+rykäisee kuntoon, kunhan vain inspiraatiota tulisi.
