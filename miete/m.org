@@ -1,0 +1,313 @@
+#+TITLE: Leica M
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M                                                 :leica:kamera:
+CLOSED: [2019-01-03 Thu 20:56]
+:LOGBOOK:
+- State "DONE"       from              [2019-01-03 Thu 20:56]
+:END:
+
+No niin, tein sen taas. Ostin kamerahömppää keskellä pimeintä kautta.
+Ja näköjään voitin lotossa ISOSTI, ainakin uusimpien lelujen hinnan
+perusteella.
+
+** Lottovoitto talvella
+
+Vuonna 2015 aloin innostua kamerahommista ja silloin sanoin itselleni,
+että joku tonni pokkarikamerasta on ihan älytön raha, mutta
+lottovoiton tullen (en lottoa kuin harvoin) tuollainen kiva lelu olisi
+kiva ostaa. No ei mennyt montaa päivää kun totesin, että ei tässä
+tarvita lottovoittoa. Tonni pokkarista tuntui aika pahalta, mutta
+olipa se myös (Fuji X100T) aika komea ja toimiva peli.
+
+Vuonna 2017 totesin, että tuo Leica Q on aikamoinen peli sekin, mutta
+neljän tonnin kamera vaatii jo oikeasti lottovoittoa että sen voi
+perustella itselleen. Ostin senkin sitten itselleni kolmella tonnilla.
+
+Leica M, sama juttu. Nyt minulla on tuossa sellainen. Hopeinen Leica
+M-P (Mikael Puhakka) typ 240.
+
+Ja tietysti tämäkin ostos tapahtui sydäntalvella, kuten on ollut nyt
+jokainen talvi aina vuodesta 2015 lähtien. Aina on ollut
+ylitsepääsemätöntä kamerakuumetta pimeimpään vuodenaikaan, kun mikään
+kuva ei onnistu ja kaikki on kurjaa. Kameran ostin ensin ja linssi
+tuli paria viikkoa myöhemmin: nyt kamera-linssikombo on ollut
+käytössäni 4-5 päivää. Sisäkuvia ja yksi aurinkoinen talvituokio
+ulkona on onneksi osunut tähän aikajanaan.
+
+** Leica M ensisilmäyksellä
+
+Leica Q:n työnlaatuun vaikuttuneena ja myös nyt tottuneena M oli
+kotoisan oloinen ensimmäisestä kosketuksesta lähtien. Kamera on
+tukevaa tekoa ja 35/2-linssin kanssa kokonaisuus on kompaktiksi
+paketiksi vaikuttavat 970 grammaa. Tuntuihan kaikki tuo massa aika
+karsealta ensihätään, mutta siihen tottui helposti, kaikkien massan
+tuomien etujen ansiosta. Niistä myöhemmin.
+
+Runko on hyvää työtä, ensituntumaltaan kaikki nappulat ovat Q:n tasoa
+ja kaikki rullat ja pyörylät ovat piirun verran parempia. Koska
+takanappuloita ei M-käytössä juuri tarvita mihinkään, ei niiden
+tarvitsekaan olla maailman parhaita. Rullat ovat hyvin tyydyttäviä;
+peukalon taakse jäävä valotuksen kompensointi on hyvin miellyttävä ja
+suljinajan puolistoppeja on ilo asetella. Myös virtanappula on
+parempaa työtä kuin Q:ssa. Ei sillä, että Q:n tekisi mieli heittää
+roskiin namiskukkeleidensa takia.
+
+Linssi on maailmaa nähnyt ulkoisesti, ja siinä on vähän väljiä osia
+seassa, joten kovaa kritiikkiä on mahdotonta antaa. Pieneksi ja
+siroksi lasiksi Summicron 35 V on mielettömän tiheätä tavaraa, yli 300
+grammaa pienestä kakkulasta. Ja kaikki säädöt ovat mielettömän
+tyydyttäviä operoida. Kovat stopit tarkennusrenkaan päissä ja
+tyydyttävästi, vaikkakin väljästi kliksuva aukkorengas on erittäin
+miellyttävä operoida. Kuten toivoin/povasin, tarkennusrengas on
+sulavampi käyttää kuin Q:n jämäkäksi vaimennettu rengas. Linssi
+kaipaisi pientä CLA:ta, koska uskon että se voisi toimia
+sulavamminkin. Nyt en aio tehdä mitään, koska se operoi tiptop runkoni
+kanssa. Linssin mukana tulee muovista painettu vastavalosuoja, joka on
+selvästi kokonaisuuden heikoin lenkki. Se toimii kyllä juuri kuten
+pitääkin, mutta ensin luulin pitkään, että se on joku todella halpa
+kiinankopio. 
+
+Nautin kovasti siitä, että kamerassa ei yksikään osa liikahda sitä
+käynnistäessä. Suljin pysyy alhaalla ja linssissäkään ei tietysti
+mikään iiris kuristele itseksiään.
+
+** M toiminnassa (ensivaikutelmat): 35 Summicron ASPH
+
+35 Summicron ASPH (versio 5) on filmiajan linssi, suunniteltu vuonna
+1996 ja sai jatkoa vasta vuonna 2016. Tätä moni pitää Leican parhaana
+vahvuutena; pieniä linssejä joissa on valtava piirto. Toki tämä viides
+versio on kooltansa tuplaten, kun vertaa pariin edelliseen
+suunnitteluun. Silti pieni, jos haluaa verrata linssin kykyjä vaikkapa
+Fujifilmin tuotoksiin nähden. Etenkin jos mukaan halutaan heittää
+kuvaympyrän ekvivalenssit.
+
+Linssi on hulppea, mutta Leica Q:hun nähden sillä on hyvin vähän
+mahiksia olla paras. Filmiaikaan mikrotason (pikselitason) terävyys ei
+ollut mikään tärkeä juttu: oleellisempaa oli saada aikaan mainio
+makrotason terävyys tai mikrokontrasti. Tässä 35 Summicron onnistuu
+kivasti.
+
+Kyllä, osoittautuu että Leica Q:n linssi on oikeasti aikamoinen peto.
+Osa ei halua uskoa tätä, koska Q:ta joudutaan korjaamaan optisesti
+aika kovasti että siitä saa kalun. Mutta niin terävyys kuin kontrasti
+ovat mielettömän tasokkaita. Selvästi huippuluokan linssi, tietysti se
+auttaa kun se on sovitettu kennoa vasten yksilöiden. Pokkarit taas
+ykkösenä!
+
+Terävyyttä saa aina lisättyä jälkikäsittelyssä ja hyvä kontrasti ja
+komea piirto auttaa kaikessa muussa. 35 Summicronin bokeh on juuri
+sellaista luonteikasta tavaraa, jota halusinkin aidolta Leicalta.
+Sopivan taustan kanssa se on enemmän hattaraista kuin kermaista, jos
+ruokavertaus uppoaa kaaliin? Tosin hankalissa etäisyyksissä niin Q
+kuin Summicron tuottaa kamalan hermostunutta bokehia, joten ehkä
+kumpikaan ei ole #1 bokehkuningas.
+
+Linssi tarkentaa piirun verran alle 70 senttimetrin, mikä saattoi
+hämätä vähän joissakin testikuvissani. Mittaetsin jää 70 senttiin,
+vaikka linssi menee 65 senttiin tai sinnepäin. Tämä on sitten vähän
+hankala kun luulee olevansa mittaetsimen sallimissa rajoissa, vaikka
+todellisuudessa ei. Mittaetsin on siitä hieno, että se löytää selkeitä
+eroja etäisyyksissä, olipa tarkennus 100 metriin tai puoleen
+kilometriin. On vain opittava tuntemaan linssinsä rajat, milloin
+ollaan turvallisesti hyperfokaalissa etäisyydessä ja milloin ei.
+
+** M toiminnassa (ensivaikutelmat): MP typ 240
+
+Runko ilman linssiä tuntuu keppoisalta, mutta siitä tulee aito
+tappoase linssin kanssa. Ensimmäinen yllätys oli, miten paljon ikkuna
+syö valoa. Selvästi puhutaan jostakin puolikkaasta stopista, ellei
+jopa enemmästä. Kuvanhan piti olla kirkas ja briljantti ja
+timantinterävä. Terävä se kyllä on, kuten Leican optiikalta on syytä
+odottaa. Fuji X-Pro2 mahtaa olla jopa kirkkaampi, tosin tekniikkakin
+on ihan eri näissä kameroissa: mittaetsin taitaa vaatia valokontrastia
+ollakseen paras mahdollinen.
+
+Toinen hämmennys oli kameran tarjoamien kehysten näkyminen etsimessä.
+35-milliset reunat tahtovat näkyä vain hädintuskin; 28 ei ole kyllä
+kovin mielekäs. Kumpikin näistä kehyksistä on niin kaukana reunoilla,
+että tarkkaa sommittelua reunoille en usko että voi tehdä. Ehkä 35:lle
+harjoittelun ja kokemuksen kerttyessä, mutta 28 tuntuu ihan
+mahdottomalta. Ja että jotkut ihmiset olevinaan voivat sommitella
+24-millisiäkin tällä 0.62-kertaisella etsimellä...
+
+Sen sijaan viisikymppistä kuvaavalle etsin on kuin omiaan. En ole itse
+50-miehiä, mutta ehkäpä katselen nyt maisemia enemmän 50-raamien
+kautta (tässä mallissa on kehysten esikatselu) ja varmaan jossain
+vaiheessa ostan jotain suht. edullista 50-millistä kokeiluun.
+
+Tarkennuslätkä on selkeä ja tyydyttävä operoida. Tarkennus oli helppo
+omaksua ja hyvin harvoin on tullut otettua hutitarkennuksia ilman,
+ettei sitä heti kuvanottohetkellä jo tiennyt. Nyt parin päivän käytön
+jälkeen on helppo yhtyä siihen, että tämä tarkennusmenetelmä on
+manuaalitarkennuksista paras ja nopein saada kerralla oikein. Se
+toimii kaikilla polttoväleillä samalla tavalla, joten UWA on helppoa
+ja niinpoispäin.
+
+Kilon järkäle on massiivinen kevyempiin kameroihin hyvin tottuneena.
+Huomasin ihan huomaamattani yhden kestovirren pitävän hyvin paikkansa:
+painava paketti toimii itse omana kuvanvakaimenaan. Huomasin ottavani
+lähitarkennettuja kuvia itselleni varsin alhaisilla suljinajoilla
+(PEN-F:stä opittu huonoille tavoille) ja kuvat tulivat ulos mainiosti.
+Paino syö sulkimen rekyyliä.
+
+Vakautta lisää myös se seikka, että kameraa on operoitava useimmissa
+tapauksissa kahdella kädellä. Q:ta ja Olympusta tahtoo monesti pitää
+vain yhdessä kädessä, vaikka kamera olisikin silmällä.
+
+Ja se kuuluisa "shutter lag" on ainakin yhdellä tavalla
+paikkansapitävä. Kun kameraa operoi "klassisessa moodissa", se reagoi
+suljinnappulaan mielettömän lyhyeltä tuntuvassa ajassa. Olipa se
+sitten todellisuudessa yhtään sen nopeampi tai hitaampi kuin vaikkapa
+joku Sony, se nostaa käyttötuntumaa ja käyttökokemusta mielettömästi.
+
+Kun yhdistetään kameran rekyylittömyys, etsimen jatkuvuus (suljin ei
+blokkaa etsintä) ja lyhyt suljinviive, tuli heti sellainen mielikuva,
+että tällä saa leikattua näytteitä oikeasta elämästä vähän kuin
+lihamestarin leikkelekoneella -- jos ajatellaan meidän aistimamme
+avaruus 3+1-ulotteisena makkarapötkönä. Tunne on aika hyvä. Tämä on
+juuri kuten luvattiin.
+
+** Kenno ja tekniset operaatiot
+
+Kenno tuottaa hyvää kuvaa, kuten on syytä toivoakin kinokoon kennolta.
+Etenkin punainen väri tulee aivan jumalaisena tiedostoon. AWB ei ole
+vielä epäonnistunut. ISO-herkkyys on tavallaan Q:n tasoa: saat oikein
+mainiot tiedostot 3200:een asti. 6400 on myös erittäin hyvin
+käsiteltävissä, mutta nyt kuvissa voi olla sitä peljättyä bandingia.
+Darktablen hiljan julkaistu versio 2.6 sisältää pari valmista
+presettiä kohinanpoistoon, ja yksi näistä valmispreseteistä tekee
+kerrassaan mainiota työtä. Kohina ei ole ongelma, vaikka toki joku ISO
+10k saattaa jäädä saavuttamattomiin. Eiköhän tuo tule joskus testattua.
+
+Matalammilla herkkyyksillä ei ole mikään homma eikä mikään nostaa
+varjoja pari stoppia. Ehkä Q on aivan piirun verran parempi, mutta ei
+tämä ole ollut ongelma aiemminkaan.
+
+Uusimman firmwaren (2.0.5.0) kanssa kamera käyttäytyy pitkälti yhtä
+loogisesti kuin Q:kin, eli aika hiton loogisesti. Jopa automaattinen
+ISO toimii aivan kuten toivookin.
+
+** Manuaalitarkennuksen ihanuus
+
+Onko iso lehmä lasikaupassa nyt tuo M:n manuaalitarkennus? Ilokseni
+voin kertoa, että RF-tarkennus tulee selkärangasta melkein heti ja
+hutitarkennuksia ei ole tullut tehtyä kuin muutamia hassuja.
+
+Tietysti hyvin tarkasti tarkentava autofokus (kuten Q:n) on aina
+tarkempi, nopeampi, parempi kuin manuaalitarkennus. Ehkäpä tarkennan
+tiptop, linssi vain ei ole niin terävä kuin Q:ssa.
+
+Manuaalitarkennushommissa on hyvä muistaa, että "perfect is the enemy
+of good". Olkoonkin, että järin omituisesti tämmöinen sentimentti
+tulee esille Leica M:n ostettuani. Kuvat ovat kaikki tarkennettu hyvin
+normaaleihin katseluetäisyyksiin; pikselintiiraajat eivät saa Q:sta
+kyllikseen. Toiveenani onkin, että pääsen eroon tästä paheesta.
+
+Kumpikin kamera on 24 megapikseliä, mutta Q:n kuvat ovat paljon
+kropattavampia kuin M-kuvat, ainakin toistaiseksi. Ja jos
+manuaalitarkennus on se juttu, mikä syö terävyyttä pikselitasolla niin
+voi herätä kysymys siitä, miten paljon oli hyötyä kasvattaa
+pikselimäärää M9:n 18 megapikselistä.
+
+Mutta silti, tämä teknologia on selvästi paras tapa tarkentaa
+manuaalitavaraa. Sulava, puhtaasti mekaaninen ja tyydyttävä. Saa
+nähdä, miten paljon mielipiteeni muuttuu liikkuvien kohteiden
+kanssa...
+
+Mitä enemmän käyttelen näitä, sen paremmin lihasmuisti oppii linssin
+tavat: missä on lähitarkennusetäisyys, minne asettuu 4 metrin paikka,
+niin poispäin.
+
+Nopeasti rupesin miettimään, mitä kaikkea hienoa tämä oikeasti
+mahdollistaakin, miten näitä opittuja asioita voi myöhemmin hyödyntää
+taas autofokuskameroiden kanssa. Rupesin esimerkiksi jo tässä
+tuumimaan, että "back button focus" on aika hyvä juttu samanlaisista
+syistä kuin manuaalifokuskin. Jos hommaan Fujia joskus, pitää
+tutkailla että mitä se mahdollistaa. Idea on siis ensisijaisesti
+vapauttaa suljinnappula kaikesta turhasta funktiosta. Suljinnappulan
+tarkoitus on laittaa suljin valottamaan, ei laittaa autofokusta
+tulille. Ja se on joskus kamalaa tuhlausta tarkentaa samaan kohteeseen
+useita kertoja, vaikka se toki kasvattaa tilastollista
+osumatarkkuutta. Fujissa on tämä loistava puoli, että kameran ollessa
+manuaalifokustilassa se on todellisuudessa hybridifokustilassa, jossa
+back button focus toimii kuten AF-tilassakin, mutta linssiä saa
+pyöritellä ja fokusta tuunata.
+
+** Ostajan katumus
+
+Melkein kaikesta ostamastani on tullut jonkinasteista
+ostajankatumusta. (Leica Q on ainoana kamerana säästynyt tältä.)
+Vaikka kaikki merkit viittaavat katumuksen syntymiseen, siltikin tuli
+vähän yllätyksenä, että Leica M tuottaisi sitä. 
+
+Hinta on vähemmän yllättäen isoin tekijä. Ostatko joko käytetyn
+M-rungon ja siihen yhden (1) kovasti käytetyn linssin, vai samalla
+rahalla uusimman Fuji-rungon ja 6 linssiä kaveriksi (tai kaksi
+Fuji-runkoa ja 2 linssiä), kaikki upouutena.
+
+OVF vai EVF, itse en ole nykyaikaisesta kamerasta huonoa EVF:ää vielä
+löytänyt. Niitä on ilo käytellä, isoja ja pieniä. Siksi OVF on vähän
+askel jännempään suuntaan. Puhumattakaan, että M:n OVF on niin himmeä
+ollakseen niin kirkkaaksi kehuttu. EVF on niin kirkas kuin mihin
+käyttäjä sen säätää. OVF:n edut ovat kuitenkin ilmeiset
+hämäräkuvauksessa, joskin tälläkin saralla kaikkein uusimmat EVF:t
+ovat aika buenoja.
+
+Pikselintiiraajalle manuaalitarkennuksen luontainen epätäydellisyys
+voi kirvellä -- nyt pikselitasolla tarkastellessa manuaalitarkennettu
+M on erittäin lähellä pienempikennoisia kilpailijoitaan. [[file:./megapikseleista.org][Järkevissä
+mittakaavoissa]] tutkittuna pikseleitä ei erota ja linssien piirron
+uniikkius korostuu. Nyt Leicalla on etulyöntiasema Fujiin nähden. Voin
+vain toivoa, että pikselitiirailun synti lakkaa olemasta. Tosin mitä
+sitten tapahtuu: voisin olla silloin kypsää kamaa takaisin
+Fujileiriin?! Kaiketi hyvä juttu joka tapauksessa.
+
+Ensin ostajankatumus oli niin isona, että luin jopa Overgaardin Leicaa
+ylistäviä tekstejä yllättäen Fujilasit silmillä!
+
+Fujikama on toki myös selkeästi (ehkä neljänneksen) kevyempää. Kädessä
+paino ei tunnu, mutta olkalaukussa kyllä... Leican kanssa ennen pitkää
+opitut manuaalifokustaidot siirtyvät kyllä sopivien linssien kanssa
+myös Fujin maailmaan, joten tämmöisiä "vaaroja" on olemassa. Kaikin
+puolin tämä sentimentti vahvistuu: mitä enemmän käyttelen Leica M:ää,
+sen enemmän arvostan Fujin tekemiä designratkaisuja. Fujin ei ehkä
+tarvinnut kopioida juuri Leicaa omiin kameroihinsa (vanhoja
+filmikameroita on aivan pilvinpimein näitä samoja ratkaisuja täynnä),
+mutta Fuji ja Leica ovat digimaailman kaksi tekijää, jotka tekevät
+asioita omalla, miellyttävällä tavallaan. Puhun PASM-ajattelun
+puuttumisesta ja muusta sellaisesta hyvästä.
+
+Mietin myös, miten tämä koko Leica M -tarina tulee aukenemaan, mikä on
+loppupelini tämän suhteessa? Olisiko ideaali tykästyä M-systeemiin
+niin kovasti, että kaikki vähempi ja elektronisempi jää romukoppaan
+ainiaiksi? Jos tähän lopputulokseen joskus päädyn, onko se hyvä vai
+huono lopputulos? Kaikenlaista pohdintaa tuleekin tehtyä.
+
+** 2019 Leica King
+
+Kipinä Leicaan, kuka tietää mistä se ikinä syttyi. Kipinä hyvään
+manuaalitarkennuksen elämään, kuka tietää mistä se oikeasti syttyi.
+Muistan vaan kerran nähneeni Leicalla otetun kuvan tyhjästä
+koripallokentästä. Terävässä kuvassa kaikki oli fokuksessa, ja
+keskellä kuvaa ilmassa möllötti koripallo. Kuvaa en enää kykene
+löytämään, mutta jos pallo tuli näkökenttään äkillisesti, ei
+autofokuskameralla tyypillisillä asetuksilla kuvaa olisi ehtinyt
+napata. Manuaalitarkenteisella kyllä, olettaen että olit zone
+fokusoimassa jo aikaisemmin.
+
+Unohtaen sopivasti sen, että olin jo Fujilla mukavasti
+[[file:./katukuvaus.org][zonefokusoimassa]] vuonna 2017 ajattelin, että mitä voinkaan oppia ja
+mitä voinkaan tehdä zone focusilla, jos samanaikaisesti sormet
+tuntevat linssin alueet hyvin ulkoa. Tätä romantisoitunutta mielikuvaa
+tukevat myös Robin Schimkon youtubevideot.
+
+Ehkä tämä oli se M:n kipinä. Leica-lasi toki toisena isona
+tulenlähteenä. Tässä sitä nyt ollaan. Aika on puolellani, kamerat on
+ostettu ja maksettu; näistä ei pääse eroon kuin myymällä. En halua
+tehdä hätiköityjä päätöksiä kameran suhteen, se on yksi synneistäni
+kanssa. Jos Leica M löytyy minulta vielä vuoden päästä, se on aika
+hyvä voitto henkilökohtaisille luonteenpiirteilleni.
+
+Kun Helsingin aika tulee keväämmällä, on luvassa uuden kaupungin
+kuherruskuukausi ja mikä sen hedelmällisempää aikaa laittaa kameroista
+hulppein kovaan käyttöön.
