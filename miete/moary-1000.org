@@ -1,0 +1,41 @@
+#+TITLE: Moary täyttää 1000
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Moary täyttää 1000                            :elokuvat:sarjat:python:
+CLOSED: [2019-01-05 Sat 12:03]
+:LOGBOOK:
+- State "DONE"       from              [2019-01-05 Sat 12:03]
+:END:
+
+[[https://github.com/progo/moary][Moaryn]] käyttö elokuvapäivyrinä alkoi elokuun puolivälissä 2012 ja nyt
+6,5 vuotta myöhemmin tietokantaan on kertynyt 1000 elokuvamerkintää.
+
+Tahtina sellaisen 155 elokuvaa vuodessa tarkoittaa noin kolmeatoista
+elokuvaa kuukaudessa, eli kolmea elokuvaa viikossa. Ensialkuun katsoin
+kaksi elokuvaa viikossa ja loput päivät sarjoja, joku vuosi sitten
+aloin katsoa kolme elokuvaa viikossa (pe-su). Nyt joulun alla jätin
+kaikki sarjat tauolle epäsäännöllisten arkipyhien sun muun takia ja
+olen katsonut pelkästään elokuvia pois pitkältä backlogiltani. Ensi
+viikolla takaisin vanhaan järjestelyyn: on Deucea, Dexteriä,
+Battlestar Galacticaa jo vähän ikävä.
+
+Moary on säilynyt alkuperäisessä komeudessaan kaikki nämä vuodet,
+säilyttäen simppelin CLI-rajapintansa. Tämän simppeliyden ansiosta
+jokainen elokuva on tullut kirjattua ylös tunnollisesti. Ei ole montaa
+elokuvaa ylipäätään tullut nähtyä, joita ei olisi moaryyn ylös
+kirjattu.
+
+Koodikanta on vähän sotkuisen näköinen. Ymmärrettävää tietysti,
+ihminen kehittyy ajan kanssa ja mikä oli hyvännäköistä koodia yhteen
+aikaan, on se puolta vuotta myöhemmin jo luultavasti karseannäköistä.
+En aio koskea siihen kamalasti. Kun se toimii, niin se toimii.
+Alkuperäisen koodauksen jälkeen (6 vuotta sitten) olen lähinnä kerran
+tai kaksi koskenut IMDBpy-riippuvuuksiin ja sen hajoiluihin.
+
+Sitten käänsin koodikannan Python 3:ksi, taas IMDBpy:n takia. Sitten
+lisäilin vähän kustomoitavuutta moaryn listatoiminnallisuuteen, koska
+aika-ajoin halusin katsoa, olenko katsonut jonkun elokuvan mutta ilman
+tietämättä että mitä mieltä olin elokuvasta sillä katsomiskerralla.
+Konffasin silloin listaformaatin kustomoitavaksi
+komentoriviargumentilla.
+
+Yksinkertainen toimii!
