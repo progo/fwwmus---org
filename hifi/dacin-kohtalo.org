@@ -1,0 +1,52 @@
+#+TITLE: Electrocompaniet ECD-1 ja hifiharrastelun jatko
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Electrocompaniet ECD-1 ja hifiharrastelun jatko             :hifi:dac:
+CLOSED: [2019-01-19 Sat 20:01]
+:LOGBOOK:
+- State "DONE"       from              [2019-01-19 Sat 20:01]
+:END:
+
+Norjalaisfirman laatudac ECD-1 on taas tullut siihen pisteeseen, että
+sitä pitäisi huollattaa jossakin. Tämä DAC on ostettu jenkkilästä
+tammikuussa 2009, eli aikalailla 10 vuotta se on minulla ollut. 
+
+Se alkoi vikuroida melkein heti kun ostin sen, ensin lyhyitä hetkiä ja
+sitten lopullisesti vuonna 2011. En köyhänä opiskelijana juuri
+tuolloin halunnut allokoida rahaa dacin huoltamiseen, joten meni
+kutakuinkin vuosi ennen kuin sain aikaiseksi laittaa se eteenpäin.
+Tilapäisratkaisuna ostin halvan käytetyn dacin, josta luovuin sitten
+kun ECD-1 tuli kuntoon.
+
+Korjaustyö ei onneksi ollut mahdotonta geneeriseltä
+elektroniikkapajalta, ja sain dacin eheänä takaisin ihan edullisesti.
+Seuraavat ~7 vuotta ECD-1 palveli ahkerasti, oikutellen vain
+aniharvoin.
+
+Nyt kun huollon aika on taas käsillä, hieman jahkailen optioitteni
+kanssa. Suhteeni hifiin on kovasti keventynyt kymmenen vuoden
+takaisesta -- nyt olen ollut ihan kohtuullisen tyytyväinen ajaessani
+musiikkia suoraan äänikortista vahvistimelle. Toisaalta korjaus omalla
+mututuntumalla (laitteen antamien oireiden perusteella) ei tule
+olemaan taaskaan kuin maksimissaan ehkä pari sataa.
+
+Helsingissä tulee varmasti suunnattua katse uusiin suuntiin --
+nappikuulokerintamalle. Mikä DAC-vahvistin-kuulokekombo toimii
+milloinkin on ihan auki. ECD-1 on ainakin vähän pehmeänsutjakka
+yläpäästään, mikä voi olla ongelma jos tuleva kuulokesetti on vaimea
+ylhäältä. Näistä ei nyt voi tietää etukäteen.
+
+Taloudellisesti esimerkiksi hajallisen DAC:n pienellä alihinnalla
+kaupittelu olisi fiksu, mutta kuka ostaa kun nykyään on niin paljon
+hyviä budjettivalintoja ja saa ehjänä kaupasta. Tietysti jos
+hulluttelisi ja myisi olevinaan ehjänä, mutta sitten kun ostaja toteaa
+laitteen huonoksi, tarjoutuisi maksamaan huollot...
+
+Valintoja, valintoja. Luultavimmin laitatan kuntoon nyt ensialkuun.
+Juuri nyt esimerkiksi Xboxista ei saa oikein ääntä ulos fiksusti,
+kiitos huonot liitännät omaavan telkkarin. Nappikuulokeskene vaatinee
+oman aikansa päästä sisään, jona aikana K1000 ja nykyinen kombo
+palvelee muikeasti.
+
+Ja varmaan pitää ihan ensimmäisenä laittaa kapistus takaisin seinään
+ja todeta, olisiko se tullut takaisin henkiin viikon levon aikana. Ei
+olisi varsinaisesti mikään iso yllätys sekään!
