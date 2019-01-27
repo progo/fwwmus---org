@@ -1,0 +1,65 @@
+#+TITLE: Youtubesta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Youtubesta                                  :youtube:helsinki:podcast:
+CLOSED: [2019-01-27 Sun 12:23]
+:LOGBOOK:
+- State "DONE"       from              [2019-01-27 Sun 12:23]
+:END:
+
+TV:llä pyörivät videot ja kuntopyörä ovat kulkeneet käsi kädessä
+nelisen vuotta nyt. Pitkä aika totisesti. Kun tulee Helsingin aika,
+laitan pyörävanhuksen menemään paremmille poljentamaastoille.
+
+Helsingissä ulkoilmakävelyiden pitäisi olla kingi, eikä pieneen
+asuntoon mahda kuntopyörää huvittaa ahtaa. Koska pyöräni on ollut
+alusta alkaen liian rimpula, tavallinen reipas kävely on luultavasti
+paljon fiksumpi liikunnan muoto joka tapauksessa.
+
+Kuntopyörän paras ominaisuus onkin ollut se, että se on telkkarin
+edessä sopivasti. Ensiaikoihin katselin talk show -ohjelmia, ja kun
+niiden aika meni ohitse, siirsin katseeni Youtube-sisältöihin. Kamera-
+ja valokuvausaiheista tavaraa pitkälti, näitä katselen mielelläni.
+Ohjelma valitaan ensisijaisesti sillä, miten nopeasti saa ajan
+kulumaan. Viihdyttävyys ensisijaisuutena.
+
+Näinä päivinä kuntopyöräohjelma on noin 50 minuuttia noin kuutena
+päivänä viikossa. Se tarkoittaa, että uutta videota saa olla
+jatkuvasti etsimässä. Onneksi Youtuben valikoimassa riittää katsomista
+kyllä. Joskus tosin iskee eteen tilanteita, että joutuu tyytymään
+vähemmän laadukkaisiin sisältöihin.
+
+Ongelma on ehkäpä se, että Youtubesta tulee myös tavaraa, jota
+katsoisin mielelläni myös jatkossa. Ei kovin paljoa verrattuna
+kaikkeen youtubeen, jota kulutan, mutta kuitenkin jotain pientä. En
+ole tottunut katsomaan youtubea lainkaan, ellen ole kuntopyörän
+selässä. Saa nähdä, miten herkästi hyppään katselemaan videoita ilman
+liikunnallista aspektia.
+
+Onneksi tietysti seuraamastani sisällöstä voi helposti pudottaa
+kaikenlainen tauhka, jota nyt tulee katseltua ajanpolton takia.
+Jäljelle saattaa jäädä 2-3 kanavaa kaikista kymmenistä, joita nyt
+seuraan. Esimerkiksi kamera-arvostelut olen aina tykännyt lukea
+tekstinä, videoina arvosteluita katson juurikin vain ajankäytön takia.
+Yllättävän rattoisasti kuluu aika näinkin.
+
+** Podcasteista
+
+Podcastit lipeävät ehkä läheltä, ja liittyvät Helsinki-muuttoon, joten
+käsitelläänpä niitäkin tässä nyt.
+
+Autoillessa töihin ja takaisin on mukava polttaa aikaansa podcastein.
+Olen ehkä aiemmin sanonutkin, mutta aika kuluu paljon nopeammin
+haastatteluiden, keskusteluiden tai äänikirjojen parissa kuin musiikin
+kanssa. Jos nyt ajelen autolla Oku-Joensuu-väliä noin 4 kertaa
+viikossa, tehden noin 3-3.5 tuntia tarvetta podcasteille per viikko,
+tilanne ei ole kovin paha. Minulla on valtava pino Craig Fergusonin
+radioshow'ta kuuntelematta, samoiten Aisha Tylerin podcastia. Kumpikin
+näistä ohjelmista on jo lopetettu, mutta kuuntelematonta backlogia on
+satoja tunteja. Saattaa miedosti harmittaa, jos tulevaisuudenkuvissani
+näille ei löydy sopivaa ajanhetkeä kuluttaa pois?!
+
+Tietysti Helsingin joukkoliikenne ei ole täydellinen. Matka ytimestä
+jonnekin mielivaltaiseen espoolaiseen tai vantaalaiseen määränpäähän
+voi viedä kevyesti tunnin. Näinhän sitä tarvetta keskustelulle vielä
+löytyy. Toki paljon vähemmän kuin kolme tuntia viikossa, mutta ehkäpä
+silti ainakin tunnin verran viikkotasolla.
