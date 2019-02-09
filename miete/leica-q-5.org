@@ -1,0 +1,88 @@
+#+TITLE: Leica Q ja Q²
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica Q ja Q²                                           :leica:kamera:
+CLOSED: [2019-02-09 Sat 19:28]
+:LOGBOOK:
+- State "DONE"       from              [2019-02-09 Sat 19:28]
+:END:
+
+Leica Q:n seuraajaa (minun tekstissäni Q²) huhuillaan nyt kovasti
+seuraavaksi kesäksi. Isoilla speksillä luvattu kamera tarjoaa vain
+miedosti kiinnostavia propositioita minulle.
+
+Huhut, jos pitävät paikkansa, tarkoittaisivat että Q jatkaa 28 millin
+linssin kanssa, uusi kenno olisi Panasonic S1R:ssä nähty 47
+megapikselin hirviö. Upea dynamiikka ja ISO-suorituskyky, mutta hirviö
+kuitenkin.
+
+Harmi vain, että omasta mielestä Leica Q omistaa jo kaikki
+28-milliseltä kameralta vaaditut ominaisuudet. Kuvanlaatu Q:n 24
+megapikselin kennosta on parasta, mitä olen nähnyt; ergonomia ja
+tarkennus ja kaikki se tuuba on jo nyt parempaa kuin mitään
+kilpailevista kameroista.
+
+Jos Q²:n ainut oikea vetonaula on tuoda 47 megapikseliä
+pokkarikameraan (Sony RX1Rii teki sen jo) niin minusta se on aika
+hiton turha päivitys. 24 megapikselillä voi tulostaa kaikenlaista jo
+nyt. Tiedostot ovat pikselitasolle asti teräviä. Kasvava pikselitiheys
+aiheuttaa vain enemmän ongelmia diffraktiorajan kasvaessa, toki tämä
+on sitten hallittavissa tietyin tavoin.
+
+Q² voi tuoda megapikseleitä, se voisi tuoda (joskin epäilen)
+sääsuojauksen, se voisi tuoda paremman EVF:n, se voisi tuoda paremman
+designin (joskin mahdoton edes kuvitella, miten). Kaikki asioita,
+jotka eivät omassa vaakakupissa paina niin paljoa, että jaksaisin edes
+himoita moista kameraa. Etenkin kun tämän kameran hinta tulee olemaan
+varmasti enemmän kuin Q:n jo suolainen 4k.
+
+Onko mitään keinoa, mitään speksiä, mitään millä Q² olisi jollain
+tavalla kiinnostava kamera, minulle?
+
+Polttovälin on muututtava. Q antaa kaikin puolin täydellisen
+28-millisen kuvan ulos. Jos Leica pelaisi palloa minun sääntöjeni
+mukaan, olisi Q² varta vasten suunnitellusti eräänlainen komplementti
+Q:lle. Ehkä siinä olisi 50-millinen linssi, joka vetäisi vertoja
+APO-Summicronille. Ehkä siinä olisi nopea 35, joka olisi kuin 35
+Summilux FLE, mutta käytännössä kyseisen M-linssin hinnalla. Mutta 35
+on liian samankaltainen kuvakulma kuin 28, joten komplementtina se on
+liian lähekkäinen. 
+
+Jokerikorttina vitsailinkin jo, että Q² voisi olla ultralaajakulmien
+kamera. 16-millinen linssi, jossa on kroppivaraa hyvin 35-milliseen
+kroppiin asti (10 megapikseliä). Se olisi kamera, jota voisi vakavasti
+harkitakin. Jos se tulee kuvanvakaimen kanssa ja painii WATE:n kanssa
+samassa sarjassa piirron suhteen.
+
+** Kroppaukset ja megapikselit
+
+Q²:n huhuttu 47 megapikseliä on seksikäs luku. Q:n 24 on ihan
+riittävä, mutta kun näissä kameroissa tuo kroppaushomma on
+korostetusti esillä, mitä tämä voisi tarkoittaa lukuina?
+
+Q tarjoaa nätin kroppauksen 35 milliin ja 50 milliin; 24 megapikselin
+kuva kutistuu vastaavasti 15:een ja 7.5 megapikseliin vastaavasti.
+
+Q²:n kanssa nämä luvut olisivat 30 megapikseliä (35 mm:n kroppaus) ja
+14 megapikseliä (50 millin kroppaus). Kumpikin luku on huimaava siinä
+suhteessa, että siinä riittää isosti tulostusvaraa.
+
+** Q ja M
+
+Nyt kun olen päässyt M:n makuun, on tuleva Q myös hieman heikennetyssä
+asemassa sen suhteen. Q50 olisi ehkä hankala valinta muotokuvaajalle,
+koska Q²:n oletettu 5 tonnin hintalappu on sen verran iso, että siihen
+rahaan ostaa kaikenlaista seksikästä M-lasia siihen polttoväliin.
+
+Q² 50 millin linssillä ja 47 megapikselin kennolla tarjoaisi 20
+megapikselin kropin 75-milliseen kuvaan. Kutkuttava idea, mutta
+maksaako tästä kamerasta 5 tonnia sen sijaan että ostaisi mainioksi
+kehutun Leica 75 Summarit-M -linssin vajaaseen tonniin käytettynä.
+
+** Minun pitäisi olla hyvin tyytyväinen
+
+Jos itse olen enemmän kuin tyytyväinen Q:hun, eikä Q² tuo mitään
+eksoottista pöydälle, minun pitäisi olla hyvin tyytyväinen. Ehkäpä
+olenkin! Ehkäpä tämä oli vain pieni "rantti" siitä, että Leica päättää
+(huhujen perusteella) tehdä numeropeliin perustuvan päivityksen.
+Toisaalta nämä ovat vain pelkkiä huhuja, joihin perustuva pieni teksti
+tämä on.
