@@ -1,0 +1,194 @@
+#+TITLE: Leica M kuukautta myöhemmin
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M kuukautta myöhemmin                             :kamera:leica:
+CLOSED: [2019-02-14 Thu 20:39]
+:LOGBOOK:
+- State "DONE"       from              [2019-02-14 Thu 20:39]
+:END:
+
+Leica M ja 35 Summicron ovat olleet talossa nyt kuutisen viikkoa.
+Seuraa havaintoja ja mietintöjä ensimmäisen kuukauden perusteella.
+
+Tammikuun aikana tuli otettua noin 1000 valotusta, mikä on ihan hyvä
+tahti meikäläiselle. Tämä on myös kutakuinkin neljäsosa siitä, mitä
+kameran kaksi edellistä omistajaa ottivat yhteensä! Itselleni asettama
+"vuosi ja 10k ruutua" -tavoite tulee varmasti täyttymään helposti,
+kunhan kelit alkavat parantua ja Helsingin aika koittaa. Alkaa se uusi
+kuherruskuukausi, jos nyt ensimmäinen vietettiin tammikuussa.
+
+Tammikuu oli myös oikein valoisa ja kaunisilmainen kuukausi
+tammikuuksi. Kuuntaitteessa alkoi harmaus ja kurjuus tulla takaisin,
+joten nämä helmikuun kaksi ensimmäistä viikkoa on kamera ollut vähällä
+käytöllä -- siksi kommentoin ensikuukaudesta, vaikka 1,5 kuukautta on
+todenmukaisempi lukema.
+
+** Akkukesto
+
+Akkukesto on kiinnostava. Akku kestää teoriassa aika hyvin: -20:n
+talvipakkasessa 200+ valotusta myöhemmin akku oli vajunut n. 10
+%-yksikköä. Jostain syystä lataus tahtoo ehtyä vähäisellä käytöllä
+suhteellisesti nopeammin kuin aktiivisella käytöllä. Luulisin, että
+akulla saa kevyesti otettua 700 kuvaa päivässä, mutta kestääkö sama
+akku 700 kuvaa otettuna tasaisesti viikon aikana...
+
+Omalla käytölläni (muutama kuva viikossa ja pari kertaa kuukaudessa
+isompaa päiväkäyttöä) tuntuu melkein, ettei tämä akku ole sen
+kummoisempi kestoltaan kuin mikään Fujin tai Q:n akkukesto. No, ei sen
+tarvitsekaan olla.
+
+** PEN-F 
+
+Tammikuun lopuilla tuli myös pitkästä aikaa otettua PEN-F käsiin;
+tarvitsin jotain kapeampaa kuvakulmaa ja toki PEN-F ja Panasonic
+35-100 on tällöin paras valintani. Eihän se kamera ole mihinkään
+muuttunut, mitä nyt ehdin jo unohtaa, miten ahtaasti osa nappuloista
+on tässä rungossa pakattu. Lisäksi lähdin ottamaan kuvia turhan
+innokkaasti, luottaen liikaa kameran hyvään kuvanvakaimeen: eihän se
+ihan kaikkeen kykene.
+
+** OVF
+
+Optinen etsin on kyllä mitä erinomaisin juttu. Silmä tietää toimia
+jotakuinkin paremmin, kun se katsoo maailmaa ikkunan läpi eikä
+suinkaan tiiraile mitään LCD-paneelia. Esimerkiksi jo vajaan kuukauden
+käytöllä 35-millinen kuvakulma alkaa iskostua ihan eri tavalla
+aivoihin kuin mitä muilla kameroilla olen havainnut. 35-millisen
+maailman raamit näkee jo mielessään ennen kuin kameran laittaa
+silmälle. Lisäksi eri kuvakulmien esikatselu auttaa ja kannustaa
+isosti valitsemaan tilanteeseen parhaiten istuvan linssin.
+
+Lisäksi kehysviivojen avulla on helppo asettaa kamera viivasuoraan
+talon tai puunrungon avulla. Kuvat tahtovat valottua suoraan.
+
+Toki edelleen kiusaa se, että etsin ei omalla kohdallani anna nähdä
+28-millisiä kehyksiä kovin mukavasti; puhumattakaan mistään
+24-millisestä mitä moni sanoo että onnistuu. Jos 28 näkyisi hyvin,
+olisi Leica Q ehkäpä herkemmässä joutua myyntiin.
+
+** 35 Summicron
+
+Olen toipunut siitä "alkujärkytyksestä", mikä oli 35 Summicronin
+suorituskyky. Jos pikselintirkistely kiinnostaa, on Leica Q ilman
+muuta oikea kamera sitä varten. Mutta kokonaisuutena 35 Summicron on
+silti huiman kiva suorittaja, kun tietää vähän, mitä odottaa. Keskellä
+aina terävä ja kokonaisuutena kuva on veitsenterävä f/4:n jälkeen
+kevyesti.
+
+Toisaalta 35 Summicron on hyvä, toisaalta nyt alkaa arvostaa
+esimerkiksi Fujin 23-millistä uudella tavalla: miten lähelle
+"esikuviaan" se pääsee suorituksessa. Iso vau.
+
+** Luovuuden rajoitukset
+
+Manuaalinen "kaikki" tarkoittaa tietynlaisia rajoituksia kuvaukseen.
+Ja rajoitteethan ovat itse asiassa paras asia, mitä luovuudelle voi
+käydä. Ehkä tämä menee uuden kameran innostuksen piikkiin, mutta M:llä
+tulee helposti otettua sellaisia kuvia, mitkä olisi onnistunut millä
+tahansa kameralla, mutta ei vaan tullut otettua. Se on aika valtava
+juttu valokuvaajalle. Leica M tuntuu lunastavan tekemänsä lupaukset
+siitä, että se tuo oikeanlaista piristystä valokuvaukseen.
+
+** Kennon suorituskyky
+
+Talvisia maisemia ja auringon tultua mukaan kuvioihin alkaa nähdä,
+mihin M240:n kenno kykenee. Kennon "ominaisväri" on tosi kiva ja
+tonaalisuus on samanlaista mitä Q:lla. Juuri nyt en juuri kaipaa
+kennolta mitään hienouksia, jos se tarkoittaa että ominaisväri kärsii.
+
+Actionkuvausta ei tullut harrastettua, joten ISO 3200 tai 6400 ei
+tullut juurikaan tarpeeseen. Tokihan se olisi kiva, jos ISO 6400 ei
+menisi raidoille, mutta kyllä se varmaan hädän keskellä menettelee.
+
+** Jälkikäsittelystä
+
+Koska 35 Summicron ei ole pikselitasolle asti niin täydellinen kuin
+Q:n 28 Summilux, olen vähän tutkaillut taas RawTherapeeta kumppaniksi
+Darktablelle.
+
+Rawtherapee on kyllä päheä, mutta se tekee vähän omaa juttuansa.
+Sieltä löytyy kaikki, mitä leicamies voi toivoa. Flat field
+-korjaukset, deconvolution-pohjainen terävöitys, kristallinkirkas
+käsittelytulos.
+
+Mutta sitä on niin vallan innoissaan Darktablesta. Pitäisi oppia
+käyttämään Darktablea silloin kun se riittää ja ottamaan RT esille
+silloin kun joku hyvä kuva ansaitsee kunnon käsittelyn. Tuo
+deconvolution-terävöinti on jo itsessään ihmeidentekijä.
+
+** Valotuksesta
+
+M:n "puolimanuaalinen" valotuslogiikka on oiva tapa oppia tämä puoli
+valokuvauksesta kantapään kautta luuytimeen.
+
+Mitä enemmän valotan (hyvin tai huonosti) M:llä, sitä enemmän alan
+havaita, itseasiassa miten usein Q:n normaali, nykyaikainen
+täysautomaattivalotus erehtyy. Valoa on hyvä osata lukea, olipa kamera
+mikä tahansa.
+
+Valotusta alkaa oppia käyttämään, mutta edelleen kysymysmerkkinä on
+tuo nopeatempoinen kuvaus. Jos menen kaduille manuaalisesti mitatun
+valon kanssa, miten herkästi mahtaa unohtua säätää valotusasetukset
+muuttuvan valon myötä... Toisaalta nopeatempoinen katukuvaus ei
+välitä, jos kuva on vähän rakeinen. Parhaat "hifi-työt" tehdään joka
+tapauksessa huolellisesti sommitellen, olipa kamera mikä tahansa.
+Silloin riittää aikaa myös katsoa valotus kuntoon.
+
+** Fuji
+
+Tutkailin hiljan vanhoja Fujilla ottamiani kuvia. Mukava nähdä, miten
+paljon sommittelu ja sensellainen on kehittynyt itselläni niistä
+ajoista, joista ei edes ole kuin pari vuotta!
+
+Fujin kuvat ovat vähän kuin M-kuvatkin: niiden voimavara piilee kuvan
+yleisilmeessä, ei missään pikseleissä. Siltikin, hieman vähemmän tekee
+mieli palata siihen suuntaan juuri nyt kuin vaikkapa syksyllä.
+
+Yhtä kaikki, kuten sanoinkin niin mitä enemmän käytän Leica M:ää niin
+sen enemmän alan arvostaa Fujifilmin tekemiä suunnitteluratkaisuja
+heidän kameroissaan. 
+ 
+** Systeemin suunnittelua ja jatkosuunnitelmia
+
+Yksi kamera ja yksi linssi, se riittää monelle Leica M -kuvaajalle
+mainiosti. Itse luotan siihen, että M on loistava alusta rakentaa oma
+pyhä kolminaisuus (UWA, normi, tele). 
+
+Normi on minulle tuo 35 Summicron. Tekee mieli myös kokeilla, miten
+50-millinen sujuu M:llä. Yhden 50-millisen lasin ostinkin jo
+systeemille, mutta siitä ehkä joskus toiste.
+
+UWA on se, missä Leica M loistaa. Vaikea tarkentaa manuaalisesti
+EVF-kameroilla, koska melkein kaikki on aina "terävänä". Mittaetsin
+loistaa tässä kilpailussa. Suunnittelen jotakin kohtuullista
+21-millistä. Tai jotakin vähemmän kohtuullista, jos nyt käy hyvä lykky
+talousasioissa.
+
+Televalintoja on monenlaisia: 75 ja 90 ovat molemmat käypiä
+vaihtoehtoja, mutta harmittavasti vaihtoehtoja 75:een ei ole järin
+kamalasti markkinoilla. Voigtländeriltä on pari 75:sta, joista
+kumpikaan ei ehkä käy maisemakuvaukseen niin hyvin kuin
+muotokuvaukseen. Leican oma 75 Summarit f/2.4 on sitten taasen vain
+vähän kalliimpi linssi, mutta kaikkien mielestä paras mahdollinen.
+Kaipa se on sitten se Leica 75 Summarit se minun maisemalasi.
+90-millisiä on hirvittävästi saatavilla, ja halvallakin. Pitää vain
+olla huolellinen että mikä niistä istuu hyvin etäisyyskuvaukseen:
+ilmeisesti moni linssi on liian tuunattu lähitarkennukseen,
+kaukotarkkuuden kärsiessä. No, 90 ei ole minun kuvakulmani
+varsinaisesti.
+
+Ehkäpä kiusallisin ongelma itselleni on se, että Leica Q ja Leica M
+35-millisen kanssa leikkaavat aika hyvin toisiaan. Jommankumman
+pitäisi joutaa myyntiin, mutta yhä vakaammin uskon, että Q on
+sellainen aarre, josta ei ole järkevä luopua. Pian niiden hinnat
+alkavat tippua ja kaikenlaista sitä. Toisaalta 35-millisenkään
+myyminen ei tunnu hyvältä kun ottaa huomioon, miten hyvin sitä voi
+käsitellä. Ja toisaalta joskus aito 28 on parempi kuvakulma kuin 35,
+jolloin Q oikeuttaa paikan kamerakokoelmassa. Tämä leikkaus tulee
+silti olemaan piikkinä lihassani (lompakossani?) jonkin aikaa.
+
+Nämä ovat kaikki asioita, jotka voivat nyt malttaa odottaa Helsinkiä
+ensin. Olympus on muuten lähtöä tekemässä. Laowan myin jo pois, PEN-F
+ja Panasonic odottavat omaa hetkeään.
+
+Q + M ei ole paha parivaljakko, vaikka siellä nyt onkin se kuvakulmien
+leikkaavuus. Sitten nähdään taas selvemmin, mihin on hyvä edetä.
