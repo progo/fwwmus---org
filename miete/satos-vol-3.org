@@ -1,6 +1,6 @@
 #+TITLE: Sätös vol 3: Helsinki Drift
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Sätös vol 3: Helsinki Drift                       :asunto:autot:sätös:
+* DONE Sätös vol 3: Helsinki Drift              :asunto:autot:sätös:helsinki:
 CLOSED: [2017-10-15 Sun 20:34]
 :LOGBOOK:
 - State "DONE"       from ""           [2017-10-15 Sun 20:34]
