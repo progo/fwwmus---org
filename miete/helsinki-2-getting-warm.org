@@ -1,0 +1,105 @@
+#+TITLE: Helsinki: Getting Warm
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Helsinki: Getting Warm                                      :helsinki:
+CLOSED: [2019-02-20 Wed 20:55]
+:LOGBOOK:
+- State "DONE"       from              [2019-02-20 Wed 20:55]
+:END:
+
+Parin kuukauden päästä on jo huhtikuun loppu.
+
+Helsinki on nyt nostettu keskusteluihin ja muistuteltu näistä
+suunnitelmista monen kanssa. Käydyissä keskusteluissa on paljon puitu
+Helsingin yleisesti koettuja haittapuolia, nostaen paljon epäröintiä.
+
+Tämä on tavallaan uudelleenlämmitetty [[file:./satos-vol-3.org][Sätös-tekstini vuodelta 2017]].
+
+** Aalto laskee
+
+Kelit alkavat parantua ja valoa on ulkona "aamusta iltaan" --
+tarkoittaen, että autoilu alkaa olla taas nautittavampaa ja
+sumuvalopelleily on vähenemään päin. Autokin on nyt pelannut
+moitteetta! Lisäksi muistutan itselleni, että ei se joukkoliikenteen
+kanssamatkustajisto sen valoisampaa porukkaa ole -- päinvastoin!
+
+Ja muunlaisia huolia -- en ole oikeastaan katukuvannut yli puoleen
+vuoteen nyt isosti: entäpä jos se ei olekaan enää iso juttu minulle?
+Mihin minä sitten tarvitsen ihmispaljoutta enää.
+
+Ja jos maisemakuvaus tai vastaava on jatkossa isompi tekijä, eikö
+autollisena nyt kuitenkin ole paljon joustavampi ajaa sopiville
+paikoille. Omaa autoilua voi aina kehittää ja opetella pysähtymään
+useammin. Bussin kanssa saattaa olla rajallista tuo liikennöinnin
+kehittäminen.
+
+Ja Sätöksessä on todella mukava laittaa pesällinen puuta palamaan ja
+nauttia tulen pätskeestä. Käydä autolla isossa automarketissa halpaa
+ruokaa ja sitten kantaa ostokset kaikki ne 5 metriä sisään. Käydä
+omassa saunassa ja mennä ilkosin ulos jäähylle. Nauttia äänettömästä
+kuutamosta. Nauttia väljästä huoneratkaisusta!
+
+** Aalto nousee
+
+Aina kun alan epäröidä ja miettiä koko hommaa uusiksi, alkaa mielen
+aalto taas nousta voimakkaasti. Helsinki ei ole mikään hetkellinen
+päähänpisto.
+
+Ensinnä vaikka autoilu on kivaa kesällä, seuraava talvi on taas nurkan
+takana. Katsastus, auton huolto, nousevat verot ja maksut. Vuosi
+vuodelta se muuttuu hankalammaksi propositioksi. Ja (koputan puuta nyt
+kovasti) auto on nyt pelannut hyvin (mitä nyt akku ei kestä pakkasia
+enää juurikaan), seuraava puolen tonnin yllätysremontti voi odottaa
+minkä tahansa mutkan takana!
+
+Autoilu on kaupungissa kanssa yhtä tuskaa. Näet ajaessa jonkun kivan
+putiikin tai valokuvattavan kohteen? Onnea auton pysäköimiseksi. Kun
+sanoin, että autoillessa voin opetella pysähtymään aina hyvän
+tilanteen kohdalle, sama kikka onnistuu myös bussilla matkustaessa.
+Vähän enemmän voi tulla kävelyä, mutta nyt puhutaan yleensä vain
+sadoista metreistä.
+
+Siitä puheenollen, yleinen elämäntapamuutos takaisin kävelyllisempään
+elämään on/oli yksi isoimpia syitä lähteä harkitsemaan kaupunkia.
+Joensuussa asuessani oli juuri mukava, että päiväliikunta oli sillä
+hetkellä suoritettu kun töistä pääsi kotiin. Täällä saa vähän olla
+aina allokoimassa aikaa kuntopyörän selkään.
+
+Nämä elämäntapamuutokset voivat kattaa muitakin aspekteja elämästä.
+Toivoisin ainakin. Joensuussa asuessa vielä tuli käytyä vähän
+kulttuurijutuissa kuten elokuvissa ja jazzeissa, täältä Sätöksestä
+käsin erittäin harvoin. Ihan puistattaa, miten eristyksiin olen
+tosissani itseni ahtanut täällä.
+
+Mitä tulee siihen pelkoon, että katukuvaus voisi väistyä ja joku
+urbaani maisemakuvaus tai vastaava tulee tilalle. No tulkoot! Paistaa
+se aurinko kauniisti Helsingissäkin ja kuvattava ei todellakaan ole
+vähenemään päin. Sätöksessä saa kuvata autenttisia luonnonvaraisia
+mäntyjä ja koivuja kauniissa keskitalven auringossa, Helsingissä
+sitten kaikenlaista muuta. Kyllähän sieltä löytyy jopa peltoakin,
+hevosineen ja traktorinmunineen.
+
+Sätöksessä voi olla ehkä kiva ja kuiva ilma, Helsingissä ei
+luultavasti palella ikinä ja suihkusta ei kuuma vesi lopu kesken. Ja
+kevään tullen mopopojat tulevat rikkomaan Sätöksen hiljaisuuden
+kanssa, ei tietty mitään Helsinkiin verrattuna, mutta ei Sätöskään
+ihan täydellisen hipihiljainen aina ole.
+
+** Lopullinen muistutus
+
+Ei siihen kuole, vaikka sinne muuttaisi ja huomaisi tehneensä ison
+virheen. Sieltä pääsee aina pois. Jos auto tuntuu sittenkin
+loistoidealta, sitten ostaa sellaisen takaisin. Jos halvempi
+kaupunkielämä tuntuu hyvältä, muuttaa jonnekin muuhun kaupunkiin, tai
+radan varteen.
+
+** Aikataulu
+
+Parin kuukauden päästä puhutaan huhtikuun lopusta. Tällöin on määrä
+lähteä Helsinkiin asuntoa jahtaamaan. Halpa AirBnB luultavasti jostain
+Tikkurilan läheltä. Toivomus on napata asunto sitten niin, että
+kesäkuussa viimeistään voisi asua siellä. Kesäloma on toukokuun
+lopusta juhannukseen. Etätyöt onnistuvat edelleen Helsinkiin
+muutettua.
+
+Pitäisi bookata AirBnB että pääsee jonkinlainen päätöksen lopullisuus
+iskostumaan takaraivoon.
