@@ -28,12 +28,15 @@ nyt. Tiedostot ovat pikselitasolle asti teräviä. Kasvava pikselitiheys
 aiheuttaa vain enemmän ongelmia diffraktiorajan kasvaessa, toki tämä
 on sitten hallittavissa tietyin tavoin.
 
-Q² voi tuoda megapikseleitä, se voisi tuoda (joskin epäilen)
+Q² voi tuoda megapikseleitä, se voisi tuoda (joskin epäilen*)
 sääsuojauksen, se voisi tuoda paremman EVF:n, se voisi tuoda paremman
 designin (joskin mahdoton edes kuvitella, miten). Kaikki asioita,
 jotka eivät omassa vaakakupissa paina niin paljoa, että jaksaisin edes
 himoita moista kameraa. Etenkin kun tämän kameran hinta tulee olemaan
 varmasti enemmän kuin Q:n jo suolainen 4k.
+
+*Epäilin sääsuojausta, mutta sellainen siinä sitten on. Toteutuneesta
+kamerasta lisää lopussa päivityksen muodossa.
 
 Onko mitään keinoa, mitään speksiä, mitään millä Q² olisi jollain
 tavalla kiinnostava kamera, minulle?
@@ -86,3 +89,40 @@ olenkin! Ehkäpä tämä oli vain pieni "rantti" siitä, että Leica päättää
 (huhujen perusteella) tehdä numeropeliin perustuvan päivityksen.
 Toisaalta nämä ovat vain pelkkiä huhuja, joihin perustuva pieni teksti
 tämä on.
+
+** Q² todellisuutena
+
+Kyllä, Q² on pitkälti se huhuttu kamera, josta puhuttiin. Sääsuojaus
+tuli tosin puskista: roiskeentiivis highend-pokkari on jotakin, jota
+ei markkinoilla ole.
+
+Design ja linssi pysyy samana. Painoa tuli 100 grammaa lisää, joten
+aika potkasta kamerasta puhutaan. En tiedä, onko painavampi Q² samalla
+tavalla ergonominen kuin Q.
+
+EVF on nyt OLED. En tiedä, havaitsisinko itse eroa terävyydessä.
+Nostin Q:n laatikostaan tuossa hiljan ja ihastelin miten terävä sen
+etsin oikeasti on.
+
+Q²:n hinta ei pompsahtanut ihan kamalasti, mutta uutukaisen hinta
+viidessä tonnissa vrt. mitä maksoin omasta käytetystä.
+Lottovoittajalle loistava kamera, niinhän se tarina meni.
+
+Kenno on se paljon kohuttu 47 megapikselin järkäle. En tiedä, onko
+sille jo tehty testit, mutta sen ISO alkaa nyt 50:stä ja jos kohina
+pysyy hyvänä 12k-24k:hon asti ilman mitään bandingia niin onhan siinä
+toki puolensa silloin. Kennohan ei ole välttämättä prikulleen sama
+mitä Panasonicin S1R:ssä on. Vaikka teoriassa taitaa olla.
+
+Nyt kun Q² on todellisuutta, voidaan olla aika varmoja siitä, että
+Leica SL² sisältää saman kennon, ehkäpä myös joskus tuleva M11. Vaikka
+pikseleitä onkin "liikaa", en pane pahakseni muita nykypäivän kennojen
+ominaisuuksia. Parhaassa tapauksessa Leica toteuttaa joistakin
+Canoneista tutun sRAW-moodin.
+
+Ison pikselimäärän kennolla voisi M11:ssä tehdä muutakin kivaa. Ehkäpä
+50-millisen linssin kanssa voisi kameralle sanoa että ottaa 75 millin
+kroppikuvia. Tai 90-millisiä.
+
+Hienoja aikoja, vaikka ottaisikin huomioon 24 megapikselin
+riittävyyden!
