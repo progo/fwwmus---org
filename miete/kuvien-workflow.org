@@ -1,6 +1,6 @@
 #+TITLE: Valokuvien workflow'sta
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Valokuvien workflow'sta                              :fujifilm:kamera:
+* DONE Valokuvien workflow'sta                 :fujifilm:kamera:organisointi:
 CLOSED: [2017-06-17 Sat 12:52]
 :LOGBOOK:
 - State "DONE"       from ""           [2017-06-17 Sat 12:52]
