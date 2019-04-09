@@ -1,0 +1,155 @@
+#+TITLE: M asettuu taloksi
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE M asettuu taloksi                                       :kamera:leica:
+CLOSED: [2019-04-09 Tue 20:57]
+:LOGBOOK:
+- State "DONE"       from              [2019-04-09 Tue 20:57]
+:END:
+
+Leica M-P typ 240 ja Leica 35 Summicron ASPH ovat olleet talossa
+reilut 3 kuukautta nyt, noin 14 viikkoa. Kamera alkaa olla raudanluja
+kädenjatke ja vanhat romut alkavat tuntua jokseenkin liian
+"digitaalisilta". Hyvä ongelmako?
+
+Kameran ergonomia muuttui peukalotuen kanssa kertarykäisyllä
+loistokuntoon. Overgaardin suosituksesta voisi kaiketi joskus kokeilla
+myös sellaista pitkää kaulahihnaa. Idea on, että kamera roikkuu vyöllä
+asti. /Always wear a camera./
+
+Linssin kanssa alkaa syntyä parempi symbioosi. Vaikka kuvat ovat aina
+tarkentuneet ihan oikein, nyt ne jostain syystä alkavat tarkentua
+paremmin, terävämmin.  Miellyttävä ilmiö.
+
+** Q
+
+Olen jo pidempään valitellut, että 35 Summicron ja Q:n 28 Summilux
+ovat liian lähellä toisiaan polttovälin suhteen. Jommankumman olisi
+hyvä lähteä, jotta feng shui säilyy.
+
+Nyt tämä tilanne eskaloituu entisestään kun löysin kolmen kuukauden
+hiljaiselon jälkeen jotain käyttöä Q:n laajalle kuvakulmalle. Kamera
+toimii ja käy ja kukkuu aivan kuten pitääkin, mutta perhana kun se
+jotenkin haisee vähän digitaaliselta yhtäkkiä. Autofokus on loistava,
+tarkka ja kaikkea, mutta jotenkin heti nyppii sen tapa ravata
+polttopisteitä läpi ennen kuin se päätyy kohteeseensa.
+
+Sitä mukaa kun 35:n kanssa syntyy parempi symbioosi ja kuvat
+terävöityvät, Q:n upean Summiluxin etumatka hiipuu. Q on edelleen
+täydellä f/1.7:n aukolla terävämpi ja käyttökelpoisempi kuin 35
+täydellä f/2:n aukollaan, mutta hieman kuristettunakin 35 säilyttää
+paljon Leica-taikaa ja Q sen sijaan menee kliinisemmäksi.
+
+Ylipäätään sitä alkaa arvostaa ja ehkä kaivata -- no ei ehkä kaivata,
+mutta nyt ensimmäisenä ainakin sitä alkaa ymmärtää, miksi jotkut
+valitsevat tietoisesti "huonompia" linssejä arvokameroidensa nokille.
+Persoonallinen piirto ja eläväiset suunnittelunkukkaset luovat magiaa
+tyhjästä.
+
+Ehkä Q:n on mentävä, ehkä keksin jonkun epätoivoisen syyn pitää se
+nurkissa vähällä käytöllä. Harmillinen tilanne tuottaa sisäistä
+konfliktia, koska Q:n piti olla se tuhatvuotinen kumppani, se
+kiintopiste kameraelämässäni. Mikään ei ole ikuista!
+
+** PEN-F:n kohtalo ja mikä kakkoskameraksi?
+
+PEN-F on menossa, se on aika pitkälle päätetty se. Kamerasta saa ulos
+hyvin laadukkaita kuvia, mutta jos en asettaisi itse valokuvaamisen
+aktille näin paljoa painoarvoa kuin annan, en olisi ostelemassa mitään
+ylikalliita M-kameroita. Haluan nähdä, mihin M:n kanssa pääsee.
+
+Mutta jos sekä Pen-F että Q menee, sitten olen pelkän M:n varassa,
+mikä ei ole ihan ykköstilanne välttämättä. Joskus on kiva voida ottaa
+kuvia yhden käden voimin ja joku hipihiljainen lehtisuljin on aina
+kiva.
+
+Ricoh GR (tai GR2) on monien Leicamiesten valinta kakkoskameraksi.
+Itse suunnittelin myös alkuperäistä Bayer-kennollista Fujifilm X100
+-runkoa. Kumpaakin toivottavasti alkaa saada kesän mittaan 200 euroon
+nyt kun Ricoh GR3 tuli markkinoille. Kumpikin näistä kameroista on
+pieniä ja 'kevyitä' ja hitaita tarkentamaan, mutta kuvat ovat upeita
+ja sitä rataa. Mieto epämukavuus tulee siitä, että GR:n 28-millinen
+tai Fujin 35-millinen kuvakulma on taas turhaa toistoa 35 Summicronin
+suhteen. Mutta jos tämä kakkosrunko maksaa vaikka sen 200 euroa, ei se
+ehkä tunnu niin pahalta. Ja GR2:lle on saatavilla laajakulmalisäke,
+mikä voisi olla kiinnostava idea.
+
+*Villikortti* olisikin miettiä asiaa toisin päin. Ricoh tai Fuji
+olisivat hyviä APS-C-lehtisuljinpokkareita mutta entäpä jos pitäisin
+Pen-F:n laukussa kakkoskamerana vaikkapa 25-millisen kanssa. Koska
+50-milliselle ei ole välttämättä Leica M -lasia tulossa vähään aikaan.
+Ja Olympuksen kuvanvakain on niin hyvä, että siitä olisi varmasti
+etua.
+
+Valintoja, valintoja.
+
+** Linssejä
+
+Vaikka tässä tekstissä jo summailin ääneen, miten kliiniset linssit
+eivät välttämättä olekaan maailman pelastus, ja myös kuinka en ole
+varmaan ostamassa M:lle 50-millistä objektiivia, nyt kuitenkin
+houkuttelisi ostaa ensimmäisenä oikea 50-millinen systeemiin.
+(Jupiter-8:ia ei ehkä lasketa.) Ja vielä olisin haaveilemassa
+linssistä, joka on hyvin suorasukainen, ehkä jopa kliininen valinta.
+On tämä kyllä.
+
+Tästä tuli nyt lista polttovälejä ja en ole ostamassa kaikkea. 
+
+- 15mm :: Voigtländerin 15/4.5 on isosti tunnettu käsite. M4/3:lle
+     hyvän aikaa käyttämäni Laowa 7.5 tosin osoitti, että ehkä
+     kuvakulma on liian laaja ollakseen käyttökelpoinen kaikkialla.
+- 21mm :: UWA-valintana 21 on ihan hyvä. Vaihtoehtoina on joko
+     käytetty Zeiss 700-800 eurolla, upouusi Cosina Voigtländer 700
+     eurolla tai käytetty Leica Summilux 4400 eurolla. Luonnollisesti
+     Leica kiinnostaisi eniten, mutta tuo Zeiss olisi varmaan fiksu.
+- 35mm :: No tämä minulla on jo. Jos lotossa jytkähtäisi, alkaisin
+     varmaan vähän tutkia noita luonnelinssejä ja etenkin
+     Voigtländerin 35/2.4 Color-Skopar olisi kiinnostava todeta.
+- 40mm :: Kiinnostava idea, ehkä eniten siksi että Cosina
+     Voigtländeriltä on huippusuosittu ja -valovoimainen 40/1.2
+     saatavilla. Mutta en todellakaan tiedä, miten tuo elämä sujuu
+     ilman kehysviivoja. Pitäisi kuvata 50-millisillä kehyksillä ja
+     kuvitella saavansa kuvaan hieman ylimääräistä... Voisihan se
+     toimia.
+- 50mm :: Niin, yllättäen 50 voisi olla sekin ihan kiinnostava
+     kokeilla. Mutta todellisuus on se, että 50 tuntuu minusta aika
+     tiukalta kroppaukselta. Joku sanoikin nohevasti, että
+     50-millisellä kuvattaessa sinulla on aina kuvassa joku päähenkilö
+     ja sitten sivurooleja. 35-millisellä kuva sallii useita pääosia,
+     mutta 50-milliseen kuvaan mahtuu pääsääntöisesti vain yksi. En
+     siis ole varsinaisesti 50-miehiä, paitsi jos joskus alan
+     muotokuvaajaksi. Yksi syy, miksi innostuin tästä jälleen, on se,
+     että tuo kehysviivat vievät etsimessä sopivannäköisen palasen
+     ruutua.
+- 75mm :: Tämä on varmaan seuraavaksi hankittava linssi. Maisemakuvia
+     välillä ottaneena havaitsin, että sellainen 50-80 milliä sisältää
+     paljon hyväksihavaittuja kulmia. Harmiksi tämä polttoväli ei ole
+     kovin saturoitunut valikoimasta: vaihtoehtona on joko Cosina
+     Voigtländerin edulliset muotokuvaorientoituneet linssit tai
+     sitten hieman kalliimmat Leican valinnat. Onneksi ei nyt niin
+     kalliita linssejä kuitenkaan.
+- 90mm :: Tähän luokkaan on saatavilla kaikenlaisia hienoja valintoja,
+     mutta maisemakuvauksen kannalta tämä alkaa olla vähän
+     pitkänsutjakka omaan tarpeeseen. Joku halpa 90-millinen olisi
+     kiva kokeilla jossain vaiheessa, edullista tarjontaa riittää
+     isosti.
+- 135mm :: Jaa'a. Jos 90 oli liian tele minun käyttötarkoituksiin, on
+     135 sitten selvästi enemmän. Mutta ei kamalan kalliita linssejä
+     silti nämäkään, joten joskus sitä kai voisi huvitella. Etenkin
+     jos on jotain urheilua kiikarissa.
+- 180mm+ :: Moni loistokuva on otettu telepolttoväleillä, ja linssejä
+     löytyy joka lähtöön. Ei vain M:lle natiivina. Leica M tukee toki
+     livenäkymää, joten tarkentaminen ja sommittelu onnistuu. M-P240:n
+     livenäkymä on vain aika antiikkinen, että nämä hommat ovat aika
+     matalalla prioriteetilla.
+
+** Helsinki
+
+Helsinki odottaa ihan nurkan takana. Pääsiäiseen ei ole kuin reilu
+viikko ja sen perään olenkin siellä asuntojahdissa. Nyt ei ole aika
+ostaa linssejä, yritän uskotella itselleni.
+
+Asunnon löytymisen jälkeen on kuukauden verran muuttomylläystä, sen
+jälkeen alkaa uusi arki siellä. Sitä arkielämää pitää pyöritellä
+vähintään kuukausi, mielellään kaksi, ennen kuin alkaa hahmottaa uudet
+menot ja uudet budjetit. Tuskastuttavaa varmasti. M + 35 riittää kyllä
+pitkäksi aikaa.
