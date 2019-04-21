@@ -1,0 +1,104 @@
+#+TITLE: Helsinki: jahti
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Helsinki: jahti                                             :helsinki:
+CLOSED: [2019-04-21 Sun 16:49]
+:LOGBOOK:
+- State "DONE"       from              [2019-04-21 Sun 16:49]
+:END:
+
+Pääsiäinen on täällä, ja suuri jahti alkaa hyvin pian.
+
+Huomenna on pääsiäismaanantai, ja matkaan pääkallopaikalle. Tulevalle
+viikolle on puolentusinaa asuntonäyttöä luvassa. Luonnollisesti
+valtaosa niistä on pakkautunut tiistaille. Oma ennakkosuosikkini ei
+kelpaa muille ihmisille, ja siihen on luvassa näyttö perjantaina,
+ah-niin kovin pitkän ajan päässä.
+
+** Kahden asunnon tarina
+
+Ennakkosuosikkini on Kruununhaan pohjoisen pään urbaania idylliä
+huokuva tietty kookas asunto viidennessä kerroksessa. Meritullinkadun
+ja Liisankadun kulma. Huippusijainti, sisukset ihan ok. Vuokra on
+tarjonnan suhteen yläkanttiin vähän, mutta silti minun itselleni
+asettamissa rajoissa.
+
+Upeaa seutua tuo Kruununhaka. Kevätkäynnilläni 2017 istuskelin
+Meritullinkadun pohjoispäässä ajotien päättävän pienen
+kävelykatuosuuden puistonpenkillä, katsellen alamäkeen arkipäivän
+vilinää. Koululaiset olivat tulossa koulusta ja mietiskelin, että
+täällä sitä vaan ihmiset asuvat, eivätkä varmaan enää muista arvostaa
+asuinalueensa hienoutta. Kaupunkifiilille varmasti yksi Suomen
+parhaita alueita, eräänlainen Helsingin TriBeCa ehkäpä.
+
+Kaisaniemen metropysäkki ihan äärellään, ratikat 4,5,7 hieman
+lähempänä. Minimaalinen kävely Kauppatorille ja vain miedosti pidempi
+matka Hakaniemen torille.
+
+Ja sitten meillä on toista tyyliä edustava lounaisen Kampin 50-luvulla
+rakennettu "työväentalo" (Wikipedian mukaan siihen aikaan aluetta
+rakennettiin juuri työväen tarpeisiin) -- voisin kuvitella, että tämä
+on se vuosikymmen, kun rakennusten laatu alkoi heiketä ja varakas väki
+alkoi muuttaa pois kerrostaloista. Omia mihinkään pohjautumattomia
+mielikuvia vain.
+
+Tämmöisestä työväentalosta löytyy siistiksi rempattu kaksio
+kaukaisilla näköaloilla. Mutta sen lähinaapurusto on perin huonoa:
+peruskoulu samalla korttelilla. Paljon jonneja siis, muutama vilkas
+Espoon väylä potentaalisesti kuuloetäisyydellä ja muuta. Mutta en
+hutki ennen kuin tutkin.
+
+Pieni rahallinen säästö olisi toki asunnon alhaisemman vuokran
+ansiosta mahdollinen, mutta jos paikka tuntuu sietämättömältä
+jonneliikenteen suhteen, pitää varmaan pysytellä Krunikassa.
+
+** Koko kaupunki on lähinaapurustoani
+
+Mihinkään tiettyyn kaupunginosaan tai tiehen ei tietty pidä fiksautua.
+Se on toki vaikeata välttää fiksautumista kun olet ensin löytänyt
+unelma-asuntosi ja sen näyttöä odotellessa tutkit kaikki sen
+lähitienoot ympäri ja lähikaupat ja menopaikat ja kulkuyhteydet ja
+valokuvaukselliset pisteet ja kaikki. Mutta se alue ei ole menossa
+minnekään, vaikka sitten asunto ei ihan tärppäisikään ihan siitä
+nurkilta.
+
+Se voi olla jopa parempi, jos oikein idylliseksi koettu alue ei
+talloudu umpitutuksi kotikentäksi vaan siellä voi käydä muuten vain
+katselemassa, ja se paikka "kuluu" hitaammin. Ja hakemistani paikoista
+on aina lyhyt matka muille hakemilleni paikoille.
+
+Ehkä tässä mielessä tutkien tuo lounais-Kampin kammottavan naapuruston
+paikka olisikin ehkä juuri se paras mahdollinen paikka. Pääsee
+nopeasti aina johonkin naapurialueeseen, Etu-Töölöön ja Punavuoreen on
+etenkin lyhyet välimatkat. Niin, tämmöisiä tekijöitä on.
+
+** Kompromisseja
+
+Etäältä käsin on vaikea tehdä hyviä päätöksiä: aikarajat ja
+taloudelliset tekijät ovat aika merkittäviä tässä vaiheessa.
+Helsinkiläisen on taasen helppo jahdata uutta asuntoa omassa rauhassa
+ja pitää kiinni omista standardeistaan.
+
+Varasin itselleni 2 vajaata viikkoa aikaa etsiä ja löytää
+mahdollisimman hyvä asunto. Kaksi viikkoa on lyhyt aika löytää mitään
+täydellistä muutenkaan, joten on varauduttava johonkin pinnallisesti
+epätäydelliseen. Epätäydellinenkin asunto voi yllättää positiivisesti.
+
+** Virta tuo joka päivä jotain uutta
+
+Ja sitten on nämä volatiilit, nopeasti menevät paikat, joita tulee ja
+menee. Joka päivä saa löytää jotain uutta ja ihmeellistä. Ylimmän
+kerroksen poikamiesyksiöitä Kalevankadun sykkeessä, todella
+romanttisesti remontoituja katutasonpaikkoja Ullanlinnassa. Kaikkea
+löytyy, jokaiseen makuun.
+
+Ja nämä ovat toki hieman pienempiä kuin Krunikan 41-neliöiset paikat,
+ovat myös pääsääntöisesti hivenen halvempia. Sen takia myös
+lounais-Kampin paikka vähän syö hohtoaan.
+
+Nyt olen vain lukenut ilmoituksia ja soitellut ja varaillut
+näyttöaikoja. Ei tässä oikein Outokummusta käsin muutakaan voi. Ensi
+viikolla alkaa se oikea jahti, ja tulen näkemään asuntoja, jotka
+laittavat varmasti Krunikan ennakkosuosikkinikin häpeään
+ominaisuuksiltaan ja asuinpaikoiltaan, ja ovatpa myös jonkin verran
+halvempia paikkoja. Mutta ne ovat myös asuntoja, joista käydään
+kiivasta taistelua. Jännittävä viikko luvassa!
