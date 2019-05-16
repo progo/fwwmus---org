@@ -1,0 +1,130 @@
+#+TITLE: Sätös ja Helsinki: muutto
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sätös ja Helsinki: muutto                      :asunto:helsinki:sätös:
+CLOSED: [2019-05-16 Thu 18:54]
+:LOGBOOK:
+- State "DONE"       from              [2019-05-16 Thu 18:54]
+:END:
+
+Sätös on viikkoa vaille valmis kokemus. Loppukeväinen aurinko, vihreys
+ja hyttysettömyys tietysti luovat ja jättänevät ihanteelliset
+mielikuvat paikasta. Seitsemän yön päästä on perjantai, jona muutan.
+
+Talosta on jo viety työpöytä ja sohva eteenpäin; talo on sisältä
+paljas ja avara ja sotkuinen. Se on myös hyvä, se antaa hyvän kuvan
+mukaan lähtevistä jutuista -- "kaikki loput". Muutamia artikkeleita
+löytyy sieltä sun täältä, joille ei olekaan nyt sijaa Helsingissä.
+Esimerkiksi miedosti tunnearvokas jalkanaulakkoni ei olisi kuin tiellä
+Töölön pienessä asunnossa. Onneksi näitä ehtii kuskailla jonnekin
+tässä.
+
+En varmaan muistanut kirjoittaa, mutta lähdin kahden viikon
+asuntojahdille pari viikkoa sitten, ja uusi asunto löytyi onneksi jo
+ensimmäisenä varsinaisena jahtipäivänä. Paperit kirjoitettiin 24
+tuntia myöhemmin. Alue vaikuttaa uskomattoman hyvältä
+liikenneyhteyksien kannalta. Lähimmälle isolle (= halvemmalle)
+kaupalle on 500 metriä, se on likimain ainut huono puoli. Paikka on
+Etu-Töölön takaosassa.
+
+** Töölö
+
+Töölö ei tainnut koskaan olla minulle se ykkössijan paikka, vaikka
+täälläkin on hirveästi urbaania idylliä (valikoiduissa paikoissa).
+Hyvät liikenneyhteydet silti painavat isosti vaakakupissa Ullanlinnaan
+verrattuna. Ja hintataso on Kallion kanssa samaa, hieman
+siedettävämpää tasoa.
+
+Lähin isompi (halvempi) kauppa on K-Supermarket tällä kertaa.
+Yllätys on iso, kun huomaan että ko. kaupan hintataso on hyvin lähellä
+meidän paikallisia S-marketteja. K-kauppaa on mukava tukea, ja onhan
+siellä vähän erilainen valikoima siitä, mihin olen tottunut.
+Toivottavasti siellä on vielä itsepalvelukassat niin hyvä tulee!
+
+Kilometrin päässä onkin jo kaikki Kampin palvelut. Pasilaan tulee
+sitten Prisma jossain vaiheessa, josta ainakin pitäisi olla siisti
+tulla Töölöön myös.
+
+** Toteutuuko idylli nyt?
+
+[[file:./idylli-realiteetit-satos.org][Vanhoja tekstejäni]] on nyt mukava lueskella. Kaupungin idylli vs.
+maaseudun realiteetit. Töölössä ei ole putiikkeja samalla tavalla kuin
+Ullanlinnassa, mutta jos sitä allenmaista fiilistelyä haluan, ei sinne
+pitkään mene kävellä.
+
+Asunto nyt ainakin vaikuttaa olevan juuri sellainen oikeaoppinen
+paksuseinäinen 20-luvun talo, jonne ei turha meteli kantaudu. Upea
+homma. Töölössä on pari jazz-paikkaa ja sitten Punavuoressa varmaan
+loput. Kävelymatkan päässä on myös oikea vanhanaikainen itsenäinen
+elintarvikekauppa.
+
+Näistä varmaan kirjoitan myöhemmin lisää. Asetuttuani taloksi. 
+
+** Helsinki aiemmin keväällä
+
+Kävin toki Helsingissä maaliskuun lopuilla lyhyen tapaamisen
+merkeissä. Pitkän ja monotonisen Sätös-talven jälkeen maaliskuinen
+matka toi aivan uudenlaisia tunnelmia pinnalle.
+
+Junassa esimerkiksi oli hyviä tilaisuuksia olla kohtelias
+kanssaihmistä kohtaan. Tämä on asia, joka ei työmatkaliikenteessä
+henkilöautoillessa ole aivan niin helppoa. Saati että sitä
+haluaisikaan olla, kohtelias. Mutta siellä perhana junassa ajattelin
+että tämmöinenkin positiivisten eleiden elämä voi onnistua.
+
+Sillä matkalla majoituin Ruoholahdessa. Siistiä seutua, mutta
+arkkitehtuuri muistutti liikaa jotain Joensuuta. Tosi kätevästi pääsee
+Kamppiin tai Rautatieasemalle ja kaikenlaista hyvää palvelua on
+saatavilla -- mm. 24-tuntinen Citymarket. Ruoholahteakin uskaltaa
+kehua huokeana matkakohteena ulkopaikkakuntalaiselle, joka
+haluaa/tarvitsee käydä Helsingissä.
+
+Tapaamisen jälkeen minulla oli reilusti aikaa ja päivä oli lämmin.
+Kävin Aurinkolahdessa nauttimassa lämpimästä auringosta. Paljon
+tulikin vain istuskeltua, koska kamerat eivät sillä kertaa olleet
+mukana matkassa. Totesin, miten paljon luontoa Helsingissä näkee ja
+kokee esimerkiksi ihan arkisten lokkien muodossa. Sätöksessä ei vielä
+maaliskuussa paljoa linnuista kuullut.
+
+Sitten tietty panin vielä oikein merkille, miten paljon helsinkiläisen
+liikenteestä tapahtuu kiskoilla. Ratikat, lähijunat ja metro. Kaukana
+siitä, miten se on Pohjois-Karjalassa. Junia jos näemme, ne ovat
+rahtijunia. Hauska pieni yksityiskohta.
+
+** Helsinki jahdin aikana
+
+Onkohan minulla vielä pari huomiota tuosta pariviikkoisesta, joita
+tein asuntojahdissa. Vapun yhteydessä kaupunki oli jumiutua, ei tuo
+liikenneverkko ihan kestä kaikkea. Vappuaaton alkuillasta nautiskelin
+tiheistä vuoroväleistä ja ajattelin, että hyvä kun näin. Mutta paria
+tuntia myöhemmin alkoivat yhteydet tahmata. Ratikat eivät kamalasti
+kestä isoja laumoja humalaisia opiskelijoita, ja linjoille päätettiin
+tehdä jotain korvaavia ratkaisuja, jotka näyttivät olevan sitäkin
+ruuhkaisempia. Onneksi töölöläisenä voin aina kovan paikan tullen
+kävellä kotiin.
+
+Vappupäivänä liikennemeno vähän jatkui kun henkilöautoilijat ja
+ratikat ja kaikki muodostivat hyvän suman Punavuoreen ja
+Kaartinkaupunkiin -- kaikkialle eteläiseen Helsinkiin. Taaskin,
+hankaluudet koskettavat lähinnä Kampista etelään kattavia yhteyksiä,
+ja jalankulkijoita ei kosketa mikään.
+
+Jahdin jälkeen tulin kotiin ja hyppäsin autoon: olihan sekin aika
+mainio tunne istua mukavasti kuskinpenkissä ja pöristellä eteenpäin.
+Kallista lystiä, mutta omat juttunsa siinä. Nyt siis tässä
+kontekstissa, että tulin alkuillasta ja ajelin vain kotiani maalle. Ei
+liikennettä, ei hikeä. Kaikki autoilun mustat kääntöpuolet
+(pysäköinnin etsiminen väestötiheissä paikoissa, (yllätys)huollot,
+kävelykunnon heikkeneminen) ovat edelleen hyvin mielissä.
+
+** Uljas uusi maailma
+
+Muutto tapahtuu aivan kesälomani alussa, joten minulla on neljä
+viikkoa aikaa asettua taloksi. Vasta työhön mentäessä alkaa varmasti
+asumisen todelliset varjopuolet tulla eteen. Mutta nautitaan nyt tästä
+kuherruskuukaudesta ensin niin hyvin kuin on mahdollista.
+
+Viimeinen viikko Sätöksessä ja täällä on ollut mukavaa nyt.
+Mopoilijatkaan eivät enää nosta karvoja pystyyn, koska päiväni täällä
+ovat luetut ja toisekseen meluun on nyt /pakko/ tottua. Pitää varmaan
+pakottaa itseni käymään saunassakin vielä yhden viimeisen kerran
+täällä.
