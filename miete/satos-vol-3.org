@@ -14,21 +14,26 @@ metsässä?!
 
 Tehdäänpäs taulukko oikeita/realistisia lukuja käyttäen:
 
-|                            | Helsinki |  Sätös |
-|----------------------------+----------+--------|
-| Vuodessa                   |   12 612 |  9 498 |
-| Kuukaudessa                |     1051 | 791,50 |
-|----------------------------+----------+--------|
-| Liikenne                   |          |        |
-| - julkinen                 |     (50) |        |
-| - auton huolto+vakuutukset |          |    173 |
-| - ajoneuvovero             |          |     21 |
-| - polttoaine               |          |    170 |
-| - työmatkavähennys + verot |          |    -55 |
-| Vuokra                     |      990 |    370 |
-| Jäte                       |          |      5 |
-| Vesi                       |       21 |   2,50 |
-| Sähkö                      |       40 |    105 |
+|                            | Helsinki | Töölö |  Sätös |
+|----------------------------+----------+-------+--------|
+| Vuodessa                   |   12 612 | 10680 |  9 498 |
+| Kuukaudessa                |     1051 |   890 | 791,50 |
+|----------------------------+----------+-------+--------|
+| Liikenne                   |          |       |        |
+| - julkinen                 |     (50) |  (50) |        |
+| - auton huolto+vakuutukset |          |       |    173 |
+| - ajoneuvovero             |          |       |     21 |
+| - polttoaine               |          |       |    170 |
+| - työmatkavähennys + verot |          |       |    -55 |
+| Vuokra                     |      990 |   850 |    370 |
+| Jäte                       |          |       |      5 |
+| Vesi                       |       21 |       |   2,50 |
+| Sähkö                      |       40 |    40 |    105 |
+
+Uutta [2019-05-16 Thu]: Uutena juttuna on tuo Töölö-sarake. Siinä
+seisoo nyt toteutuvat kulut sen suhteen, mitä vuokrapaperissani lukee.
+Eli erotus Sätökseen nähden on 100-150 euroa kuukaudessa sen mukaan,
+miten ratkaisen liikennejärjestelyitäni.
 
 Erotus on olemassa, ei kovin pieni, muttei suurensuurikaan: 250 euroa
 ilman kuukausittaista HSL-lippua ja 300 euroa lipun kanssa. Laskelman
