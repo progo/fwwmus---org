@@ -1,0 +1,72 @@
+#+TITLE: K1000:n aikakausi alkaa olla ohi
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE K1000:n aikakausi alkaa olla ohi                                :hifi:
+CLOSED: [2019-06-23 Sun 20:25]
+:LOGBOOK:
+- State "DONE"       from              [2019-06-23 Sun 20:25]
+:END:
+
+10 vuotta myöhemmin voisi olla viimein sopiva hetki vaihtaa uuteen
+kamaan. Jos kykenen.
+
+ECD-1 oikuttelee; tietokoneen äänikortti (M-Audio) hoitaa ne asiat
+"ihan ansiokkaasti". K1000 alkaa kehittää uutta vikaa; kaapelissa on
+kosketushäiriötä. Ehkä tämä, yhdistettynä kerrostalon juttuihin, on
+korkea aika ja viisas hetki toteuttaa niitä itselleni lupaamiani
+kuulokeuudistuksia.
+
+Tämä Töölön asuntohan on ensinnäkin sen verran hiljainen, että K1000:n
+kanssa voi teoriassa mennä iloisesti eteenpäin. Ja sitten samalla ei.
+Joku naapuri kantapääastelee sen verran ahkerasti, että se jumputus
+vuotaa musiikkiin. Toisaalta ikkunoita aukipitäessä tulee ulkomaailman
+pieniä ääniä. Ei mitään järisyttävää kyllä, mutta odotettavissa on
+jotain. Suljetut kuulokkeet, jotka vaimentavat hieman kaikenlaista
+tuollaista, antavat paljon anteeksi.
+
+Yhdistetään tähän K1000:n omat tyyppiviat (pientä rattlea bassojen
+kanssa) ja "puutteet" äänisignatuurissa (laiha basso ja miedosti laiha
+keskialue) niin johan alkaa mieli mieliä jotain uutta.
+
+Kuitenkin K1000:n kirkas ja heleä yläpää on maailmanluokkaa. Ja upea,
+vaivaton äänikuva. Mikä tahansa suljettu kuulokepari tulee olemaan
+karvas pettymys ainakin alkuun. Varmaan homma lähtee siitä, että
+järjestän K1000:t jonnekin huoltoon ja kuuntelen halpoja
+nappikuulokkeita viikon ajan. Ajatukset ja korva uudelleenorientoituu
+tässä sitten uusille urille. Kun kaikki on valmista, voin hommata
+jotain suunnitelmissa olevaa huippuhifiä ajoon.
+
+** Mitä mielessä?
+
+Beyerdynamic T5p.2 on yksi ennakkosuosikki. Kuulokkeiden toistoa
+kehutaan hirveästi ja Beyereille tavallisia sävyongelmia ei kuulema
+ole tässä viritetyssä T5p:n kakkosversiossa.
+
+Toisaalta magnetoplanaarinen ja suljettu MrSpeakers Aeon Flow Closed
+(AFC) olisi siitä seksikäs valinta, että se on magnetoplanaarinen peto
+kaikella hyvällä, mitä kyseinen tekniikka onkaan kuohuttanut
+harrastajayhteisössä pitkiä aikoja. Yllättävän halvat myös
+huippuluokan kuulokkeiksi, menevät Beyereitten kanssa samaan 800 euron
+hintaluokkaan.
+
+Ja sitten vähän itseltäni sivuutettu merkki Denon on kuulema kova peto
+lippulaiva-D9200:n kanssa. Kuulema ylätoiston kirkkaus on "omaa
+luokkaansa". Tämä remarkki yksinään voisi luoda toivoa, että D9200 on
+riittävän lähellä K1000:tta tässä suhteessa. Näiden kanssa saattaa
+joutua vielä vahvistinpelleilyyn, koska jonkin verran kuulee puhetta
+huonosta taajuuskäyrästä, ns. V-virityksestä. Kallista lystiä, mutta
+D9200 on jotenkin tekstien perusteella ollut paljon mietteissäni.
+
+Hetken aikaa oli myös suunnitelmissa ottaa tuo AKG:n N90Q, hifitason
+suljettu *ja* vastamelutekniikalla varustettu kuulokepari. N90Q:n
+perimmäinen ongelma on, että se käyttää valtavan paljon digikäsittelyä
+äänessään ja vastineeksi ei edes tarjoilla langatonta
+Bluetooth-kuuntelua. Digijutut vanhenevat aina käsiin; jossain
+vaiheessa tulisi N90Q versio 2, ja tulisi houkutuksia ostaa uutta.
+
+** Aikailu ei kannata
+
+Jos aikailen ja jahkailen näitä asioita taas viikkotolkulla, viikot
+muuttuvat kuukausiksi ja niin poispäin. Ennen pitkää asiat ovat kuin
+Joensuussa; K1000:n kanssa nautin kaikesta suunnattomasti kunnes joku
+haittaääni naapurista pilaa koko illan. Pitäisi ratkaista tämä asia
+kerralla!
