@@ -1,0 +1,75 @@
+#+TITLE: Focal Elegia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Focal Elegia                                                    :hifi:
+CLOSED: [2019-07-02 Tue 12:31]
+:LOGBOOK:
+- State "DONE"       from              [2019-07-02 Tue 12:31]
+:END:
+
+K1000:n rapeutumisen ja yleisten tekijöiden vallitessa päätin tarttua
+tuumasta toimeen, ja kävin koekuuntelemassa paria kiinnostavaa
+suljettua kuuloketta liikkeessä torstaina. 899 euron Focal Elegia
+tarttui mukaan.
+
+Minulla oli määrä kuunnella Denon D9200, Beyerdynamic T5p (2. gen) ja
+mahdollisesti ujuttaa Focal Elegia mukaan. Elegia polarisoi
+kansakuntaa puolin ja toisin, ja D9200:sta kuulee paljon kehuja. Minua
+etenkin alkoi kiinnostaa kun harrastelijapalstoilla puhuttiin
+K1000:sta ja D9200:sta samassa lauseessa.
+
+Beyereitä ei ollutkaan demottavaksi, joten vertailuni oli D9200:n
+(1600 eur) ja Elegian (900 eur) välillä. Liikkeessä kumpikin laite soi
+todella hienosti suljetuiksi kuulokkeiksi ja olin vaikuttunut, miten
+lahjakkaasti ylä-äänet soivat, vaikka K1000:n suoritus edelleen
+kummitteli tuoreessa muistissa.
+
+K1000:n neutraaliin ja "laihaan" soundiin on hyvin tottunut 10
+vuodessa, sillä napakaksi kehuttu D9200 oli vähän veltto alapäästään
+ja sillä oli erittäin korostunut taajuuskaistale yläpäässä. Mutta
+siinä oli jännittävä ja rytmitajuinen soundi. Elegia oli sen sijaan
+yllättäen ihan yhtä kirkasääninen kuin D9200, mutta ilman korostumia.
+Taloustajuineni totesin nopeasti, että jos suljettuja pitää katsella
+niin Elegia on se valinta. Melkein puoleen hintaan, mukavammat päässä,
+parempi äänieristys, tasaisempi taajuusvaste, napakampi bassotoisto.
+Kyllä näitä tekijöitä nyt on kun nopeasti miettii.
+
+Kotona alkoi heti ostajankatumus, kun Elegia omalla tavallaan ei ole
+niin jännittävä soimaan. Dynamiikka jää jälkeen K1000:sta, (joskin
+myös vahvistimella ja lähteellä on tähän iso osallisuus) ja
+diskantissa oli tietynlaista karheutta ja epäsointia. Lisäksi
+basso-osasto on yllättävän laiha. Panin ne sisäänajamattomuuden
+piikkiin. 
+
+Muistan sitten lukeneeni, että huipputasolla suljetuissa kuulokkeissa
+on usein tehtävä kompromisseja bassovasteen takia, koska niitä on niin
+vaikea saada miksautumaan muun ääniskaalan kanssa; tässä suhteessa
+avoimilla kuulokkeilla on kuin onkin mainio tilaisuus voittaa. Jopa
+K1000 tuntuu tavallaan bassokkaammalta, kun puhutaan keskibassoista.
+Mataliahan se ei toista, ja Focal löytää uutta ääntä joistakin
+kappaleista. Ja toisaalta toisissa (olkoonkin bassovoittoiseksi ja
+mahd. huonosti miksatuissa) kappaleissa basso pääsee kuin pääseekin
+myrkyttämään lopun ääniskaalan.
+
+Kumpikaan kuunnelluista ei ollut täydellinen K1000:n korvaaja, mutta
+jälkeenpäin mietin että olisiko D9200:n puutteiden ja jännittävän
+soundin kanssa ollut kivempi elää. Ja että ehkä ei kannata ostaa tasan
+mitään kuulokkeita uutena ilman kotikuuntelua.
+
+Pari iltaa kuuntelin niitä ja sisäänajelin. Ehkä ääni vähän tokeni,
+ehkä ei. Päätin että laitan tuon hyllyssä lojuvan ECD-1:n nyt kuntoon,
+koska se on varmaankin se halvin tapa lähteä hakemaan parannusta
+ääneen. Yllätyksekseni se hörähti käyntiin nätisti -- ilmeisesti 6
+kuukauden lepo teki terää.
+
+Nyt ECD-1:n kanssa Focal saa paljonkaivattua energiaa ääneensä
+kauttaaltaan. Ehkä ostajankatumus alkaa olla takana päin näin
+viidentenä päivänä? Ehkä vain alan tottua Focal-soundiin ja lisäksi
+alkaa unohtaa K1000-tasoisen dynamiikan.
+
+Mukavat päässä nämä ainakin ovat, ranskalaiset ovat aina olleet siitä
+kuuluja.
+
+Mutta ehkä, just ehkä, voisin vielä soittaa liikkeeseen ja kysellä
+mahdollisuudesta palauttaa ja kokeilla Denoneita...
+
+Nämä olivat siis ensivaikutelmat 5 päivän myötä.
