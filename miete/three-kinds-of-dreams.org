@@ -1,0 +1,198 @@
+#+TITLE: Three Kinds of Impossible Dreams: miten toteutui
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Three Kinds of Impossible Dreams: miten toteutui   :kamera:leica:fuji:
+CLOSED: [2019-07-10 Wed 18:11]
+:LOGBOOK:
+- State "DONE"       from              [2019-07-10 Wed 18:11]
+:END:
+
+Marraskuussa 2018 eli noin 8 kuukautta sitten olin ihan tyytyväinen
+Q+PEN-F -kuvaaja, ja minulla oli kaikki tarpeelliset polttovälit hyvin
+katettuna kompaktissa kahden kameran paketissa. Mutta sitä on aina
+tyytymätön... johonkin, milloin mihinkin. Kirjoittelin tuolloin lyhyen
+kolumnintapaisen kamerafoorumille siitä, miten voisin ottaa suuntaa ja
+fokusta laitteiston suhteen johonkin kolmesta vaihtoehdosta.
+
+** Marraskuinen teksti
+
+Tässä teksti [[https://www.mu-43.com/threads/three-sorts-of-impossible-dreams.101344/][alkuperäismuodossaan]]. Miedosti jargonia.
+
+#+begin_quote
+ *I'd like to be a M4/3 shooter.* Go all-in with M4/3. Sell my Leica Q
+ to fund a second-hand small body like E-P5 plus a big overseas
+ vacation. Shoot tiny, excellent, lightweight glass like Panasonic
+ 14/2.5 and the 12-32. Abandon my dreams of becoming a master manual
+ focuser and surrender myself to the more-than-capable autofocus
+ mechanisms of modern cameras. And my camera bag would be so light!
+ I'd own the small sensor and prove every hater wrong. Have that
+ absolute gem of a 35-100 f/4-5.6 which stabilises with IBIS very well
+ down to tenths of a second no matter the FL. Fight the poor
+ diffraction limits on the lenses, poor ISO noise perf and the slight
+ lack of tonality larger systems retain but overall the images are
+ "good", considering how little I paid for all this, and I don't need
+ better IQ, I keep correctly telling myself but never believing...
+
+ *I'd like to be a Leica M shooter.* Ditch my Oly and perhaps keep the
+ Q but use an M as my main driver. Practice manual focusing like hell
+ trying to become the ultimate manual focuser, the fastest lens in the
+ west. Hoping some day real human intelligence beats artificial one in
+ real life shooting scenarios. Regardless of those hopes stick to
+ focal lengths below 50 because can't get reliably focus-recomposed
+ sharp images with anything longer. Underexpose everything by a stop
+ to protect the ever brittle highlights and suffer the noise the old
+ CCD sensor (because can't afford anything built within the last
+ decade) gives me when I push the expo in post. Rob a bank to fund all
+ this, or alternatively focus on vintage Leica glass. Develop back
+ issues because the brass is worth it. Shoot an Olympus six months
+ every 2 years when the Leica spends quality time at Wetzlar being
+ readjusted.
+
+ *I'd like to be a Fujifilm shooter.* Noticing how fondly I regarded
+ the X100T and M43 not quite delivering the quality of tone I want to
+ I aim for the compromise between M43 and M. Shooting badass weather
+ sealed bodies all day with great bodies that are really designed for
+ an enthusiast photog in mind. When the time comes to pixel peep the
+ images I curse to myself how the lenses cost as much as
+ good-condition second-hand Leica M glass but having none of that 3D
+ pop goodness and there's the X-Trans shenanigans to boot...
+
+ You know what. Can't be happy no matter what :)  
+#+end_quote
+
+** Miten tarina on edennyt
+
+Teksti on mielestäni kestänyt ajan hammasta aika hyvin monelta osin.
+
+*Mikronelikolmosiin* olisi kiva pulahtaa menemään pää edellä
+kompaktien ja teknisesti näppärien runkojen ja huokean lasin takia.
+Jotenkin se lasin piirto on vain se tekijä, että niin ei vain voi
+tehdä ellei aloittaisi kokonaan puhtaalta pöydältä.
+
+PEN-F ja kaveriksi vaikka E-P5 tosiaan olisi kompakti kahden rungon
+paketti, nyt en ostaisi Laowaa uudelleen vaan menisin varmaan kehutun
+Olympuksen oman UWA-zoomin 9-18 kanssa. Se on himmeä lasi, mutta
+näyttää piirtävän aika upeasti. Teleoptioita palvelisi edelleen
+kompakti ja kevyt Panasonic 35-100. Normikuvakulmille varmaan
+Panasonicin 14- ja 20-millisiä, ehkä, /ehkä/ Voigtländerin
+17.5-millinen järkäle ja ehkä myös viihteellisiin kokeiluihin
+Mitakonin huokea ja laadukas 25/0.95... mutta varmaan pitkin hampain
+Olympuksen 17/1.8 olisi varmaan ostettava takaisin pääasialliseen
+käyttöön...
+
+Tottapuhuen M4/3 ja Fujifilm taistelevat liiaksi näissä liigoissa.
+Fujin runkoja saa about samoihin hintoihin kuin Olympuksen runkojakin,
+vain Fuji-lasi on selkeästi kalliimpaa niin uutena kuin käytettynäkin.
+Jos IBIS on ehdoton, (ja se mahdollistaa kyllä paljon), on Olympus
+loistovalinta. Mutta Fujin valikoimissa on enemmän kompakteja laseja,
+joissa on hyvää kinomaista piirtoa.
+
+M4/3:n kohinat ja tonaliteetit ovat hieman ansainneet arvostusta sen
+jälkeen kun ostin Leica MP240:n -- vanha fullframe ei ihan aina
+pärjääkään uudempaa kroppikennoa vastaan. Yksi fakta on ehdoton:
+edelleenkään en tarvitse tasan mihinkään highend-kuvanlaatua ja
+tiedän sen sisimmissäni, vaan en halua uskoa.
+
+Tästä päästäänkin nykytilanteeseen, joka vastaa joiltain osin *Leica
+M* -kuvaajan tavoitettani. Olympus on kerännyt pölyä laatikossaan ja
+olen kuvannut M:llä pitkälti dedikoidusti reilut puoli vuotta nyt. Q
+on myös jäänyt vähälle rakkaudelle.
+
+Tässä unelmassa moni ajatus ja oletus meni mönkään.
+Manuaalitarkennusta ei tarvinnut harjoitella isosti vaan
+käyttökelpoisia kuvia alkoi tulla putkahdella heti uuden kameran
+saatuani. 50 milliä sujuu hyvin, jopa 90 milliä menee vain vähillä
+virheillä. Varmaan nopea 50, saati nopea 90, on toinen juttu kokonaan,
+mutta en voi sanoa että yksikään kokeilemani polttoväli tuottaisi
+suutareita. Lisäksi kameran valotusmittaria on helppo ymmärtää ja
+käyttää hyvin luotettavin tuloksin, jos otat aikasi valotuksen
+suhteen. Jos kiirehdit, on helppo mennä hieman yli tai ali, mutta
+kuvissa on silti jonkin verran pelastamisen marginaalia. Ei paljoa,
+mutta yllättävän usein riittävästi.
+
+Zone focus -taitoni ovat kehittyneet hyvin sitä mukaa kun sormien
+lihasmuisti oppii linssin metkut. (Focus tab on se avainsana, joka
+mahdollistaa lihasmuistin kehittymisen!) Sulavasti toimiva tarkennus
+ja luotettava mittaetsin auttavat nekin isosti. Siinä mielessä Leica M
+on ollut minulle loistojuttu ilman paljoja huonoja puolia.
+Taloudellinen investointi on isoin kompastuskivi, toisen rungon
+tarve/kaipuu/ongelmat on toinen.
+
+*Fujifilm* on upea väliinputoaja, joka on lähempänä Leican sydäntä
+kuin ikinä arvasinkaan. Vasta M:n omistamisen jälkeen olen alkanut
+havaita, miten hyvin Fuji oikeasti on suunniteltu ja toteutettu.
+Suorat kontrollit ja retromuotoilu, softakoodista puhumattakaan vievät
+Fujin Olympuksen ohi kevyesti. Sääsuojatut, huokeat rungot taas tuovat
+Fujia lähemmäksi Leicaa. Yhden Leica M -rungon hinnalla voisi ostaa
+2-3 Fuji-runkoa kevyesti. Edelleen mietityttää kalliihkot
+Fuji-linssit, joissa on kyllä speksit kohdillaan ja huolitellen
+valitut kompromissit, mutta kun Leicalookkiin tottuu niin siihen
+tottuu.
+
+** Nykyinen tyytyväisyys/-mättömyys
+
+Olen itse asiassa ollut erittäin onnellinen Leica M -kuvaaja. En ole
+missannut kuvia kameran takia yhtään enempää kuin muillakaan
+alustoilla. Edes kuvien tarkennuksissa ei ole ollut suurempaa
+moitittavaa -- vanhempien sukupolvien Fujit ja Olympukset
+tarkentelivat miten sattuu jopa Single Point AF -tilassa, joten Leica
+M on ollut hulppea diili tämän asian suhteen.
+
+Olen kerännyt pienen ja kenties riittävän valikoiman lasia Leicalle
+nyt: löytyy hidas 21 mm, nopea 35 mm, nopea mutta säätämätön 50 mm,
+hidas 50 mm, ja hidas 90 mm.
+
+Vaikka en näekään 28-millisiä kehyksiä kovin hyvin, silti tällä
+hetkellä tuntuisi itsestäänselvältä itselleni että mieluummin ottaisin
+28 Summicronin tai Summiluxin M:lle kuin Leica Q:n.
+Manuaalitarkenteisten linssien käytettävyys optisen mittaetsimen
+kautta on perin hieno elämys kaikin puolin. Q:n suunnattomat edut
+katukuvaajan työkaluna alkavat hiipua ja väistää kuvauskokemuksen
+tieltä.
+
+MP240 on hyvä runko ja upeata työnlaatua. Se palvelee minua oikein
+hyvin, mutta samanaikaisesti M10:n reilu parannus ISO-suorituskyvyssä
+ja mm. fyysisessä ISO-rullassa kutkuttaa kovasti. Myös sovitetun lasin
+käyttö on ollut pettymys M240:n kanssa. Livenäkymä ja elektroninen
+etsin on aika karmea käyttökokemus, johon M10 tarjoaisi lieviä
+parannuksia. Tällä hetkellä itse jään mielelläni odottamaan M11:ta,
+joka toivottavasti korjaa etenkin livenäkymän ongelmia ja toisaalta
+myös toisi parhaan mahdollisen kennosuorituskyvyn kehille.
+
+Linssejä en mielelläni vaihda tien päällä, minkä takia jotkut kuvat
+ovat jääneet ottamatta. Toinen runko olisi poikaa niin että voisin
+pitää vaikkapa 21+50 -komboa samanaikaisesti kaulassa, tai vaikka
+jotain 35+90 -komboa. Mutta toinen runko on kallis propositio,
+puhumattakaan suuresta lisäpainosta kameralaukussa. Niinä päivinä kun
+M:n keulalla on 50, voisin hyvin pitää Q:ta mukana, tai kun M:n
+keulalla on 35 niin PEN-F:n keulalla voisi olla sovitettu 50, mutta
+jotenkin se ajatus ei miellytä. Pitäisi totutella ajatukseen. Tai
+opetella vaihtamaan linssejä tien päällä. Kun M11 tulee joskus, se voi
+olla potentiaalinen ostos ja silloin MP240 jää hyväksi kakkosrungoksi.
+Mutta siihen on pitkä aika. Digitaaliset Leica-rungot ovat aina olleet
+kamala taloudellinen propositio ja nyt alan viimeisen kautta ymmärtää
+asian. Olenkin haaveillut nyt lähinnä Leica-lasista, joka ei tiputa
+arvoaan samalla tavalla kuin nuo rungot.
+
+Vaikka yhdistettynä Leica-linssien suosiminen runkojen yli ja
+taloudelliset perusteet opetella vaihtamaan linssejä voi tulla pian
+hyvin kyseeseen, tämä pieni tyytymättömyys ISO-suorituskyvyn kanssa ja
+livenäkymän kanssa ja kakkosrunkojen hintojen ja painojen kanssa
+johtaa heti haaveisiin, että puhtaan pöydän tullen voisin olla valmis
+menemään tyrät rytkyen Fujiin. Halpoja käytettyjä runkoja, kertaalleen
+kalliita laseja, kaikkea. Mikronelikolmosten kompaktit zoomit kyllä
+menetetään, mutta esimerkiksi 50/2 ja 60/2.4 ovat molemmat kivoja
+omilla tavoillaan, palvelevat omia tarpeitani hyvin. Leican myötä
+hyville tavoille oppineena varmaan siirtyisin back button focus
+-kuvaajaksi ja ottaisin niin hyvän kultaisen keskitien
+manuaalitarkennuksen ja automaattitarkennuksen välistä että tuskin
+edes kompromissiksi voisi sanoa.
+
+Yksi muinoisia Fujiin liittyneitä murheita minulla oli se X-Transin
+tuottama kuva kun pikselitirkisteli kuvia liian läheltä. Leica M:n
+myötä alkaa oppia, että kuva saa olla epätäydellinen 100%:n näkymässä,
+jos se on täydellinen 27%:n näkymässä. Nämä oppi tulee hyödyksi, jos
+menen eteenpäin joskus.
+
+Kaikin puolin tyhmänrohkea päätös mennä Leica M:ään joulukuussa 2018
+on ollut jymymenestys. Olen oppinut niin paljon kaikenlaista, mikä
+olikin pääasiallinen toivomukseni systeemistä.
