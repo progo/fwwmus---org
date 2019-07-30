@@ -1,0 +1,104 @@
+#+TITLE: Katukuvaamisesta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Katukuvaamisesta                                          :katukuvaus:
+CLOSED: [2019-07-30 Tue 19:22]
+:LOGBOOK:
+- State "DONE"       from              [2019-07-30 Tue 19:22]
+:END:
+
+Nyt olen asunut Helsingissä 2 kuukautta ja olen kastellut varpaitani
+tässä katukuvaamisen 'luvatussa kaupungissa'. 
+
+En voi sanoa, että olisin mitenkään vielä päässyt vauhtiin näissä
+hommissa, mutta olen monta kertaa epäonnistunut olemaan riittävän
+innoissani kuvauskeikasta, jättänyt sen kesken liian helposti. Olen
+miettinyt tarkkaan syitä, miksi näin voi käydä. Lista on kirjoitettu
+itse itselleni, mutta valppaavaisen lukijan on hyvä huomata piilevä
+punainen lanka kunkin ohjeen takana.
+
+** Ohjeet
+
+*Kahvi ja kofeiini auttavat näkemään.* Eric Kim ja muut tätä aina
+muistavat hokea, mutta jotenkin se pitää kokea kantapään kautta. Se
+on totta. Jos et ole tarpeeksi stimuloitu, et jaksa pysähtyä
+ällistelemään jokaista outoa kivenmurikkaa ja heijastavaa peilipintaa
+-- asioita, joista voi saada mestaritöitä ulos kunhan vähän
+työskentelet näkymää.
+
+Kesän kuumalla kahvia ei tietysti tee mieli nauttia, mutta espresso
+tekee terää, tai jääkahvi. Minun pitäisi harrastaa tätä paljon
+useammin, mutta en piheyttäni harrasta. Juo kahvia aina kun
+mahdollista!
+
+*Ole herkkä ottamaan särkylääkettä.* Pitkän kuvauspäivän aikana
+kehittyvä jalkakipu tai valoisuudesta johtuva päänsärky tappaa luovan
+mojon herkästi. Jos jalat ovat olleet useana päivänä kipeät, ja aiot
+taas suunnata ulos, ehkä korkkaa burana hyvissä ajoin ennen ulos
+jalkautumista. Halpa ja hyvä tapa poistaa yksi tekijä vähemmäksi.
+
+*Pysähdy pääkallopaikoille ruoalle/juomalle inspiroituaksesi.* Jos
+hyvien kuvien ottaminen tuntuu olevan työn takana, mutta alueet ja sää
+näyttää suosivan kuvausonnea, pysähdy eväälle johonkin sellaiseen
+paikkaan, jossa voit katsella kaupungin vilinää. Se voi tuoda
+inspiraatiota, se antaa jaloille pienen lepohetken ja hiilarit voivat
+tuoda kaivattua pommia aivojen luovaan lohkoon.
+
+*Hyvää iltapäivävaloa tekisi mieli odotella...* mutta oletko valmis
+tuhlaamaan koko keskipäivän kotona odotellessasi sitä? Totuus on, että
+hyvä valo ei ole kaikki kaikessa. Joskus kaikkein kirkkain keskipäivän
+valo voi olla juuri se, mitä kuvasi tarvitsee. Itse totesin, että
+rannoista saa aika hyviä kuvia valossa kuin valossa. Lisäksi
+kaupunkien liikekeskukset ovat vilkkaimmillaan keskipäivisin, täynnä
+turisteja ja varakkaita -- skene on erilainen kuin "aidommaksi koettu"
+iltapäiväkommuutin ihmisten sakeuttama kaupunki, mutta ei välttämättä
+huonompi.
+
+*Positiivisuus on katukuvaajan tärkein työkalu.* Ole positiivinen,
+hymyile ihmisille ja esiinny muutenkin lempeänä ja
+helpostilähestyttävänä. Itse menen usein ulos naama mutkalla, ja voin
+kuvitella että se ei ole paras tilanne vastaantulijoiden reaktioiden
+kannalta. Ihmiset haluavat yleensäkin vältellä tuntemattomia,
+*etenkin* jos tuntematon näyttää olevan sotapolulla jotakuta vastaan!
+
+Ja elämäniloinen asenne, joka ei ole minun luontainen piirre lainkaan,
+on tärkeä katukuvatessa. Jos menet ulos koko maailmaa vastaan,
+vihastut pienistäkin asioista, supatat yksinäsi spårassa kovaäänisistä
+juopoista tai jotain, positiivisuus ja hymy kaikkoavat naamalta. Tämä
+riippuu kovasti valitsemastasi katukuvauksen tyylistä, mutta itselleni
+positiivisuus on melkeinpä pakollinen elementti.
+
+*Pukeudu kelin mukaan*, mutta ylipukeudu. Kuvien kalastelu ja yhden
+tilanteen työskentely tietää paljon paikallaanoloa ja vilpoisuutta.
+Paras tilanne on pukeutua vaatekertoihin niin, että kerroksia on
+helppo poistaa. Liian kuumassakin on ikävä olla, vettä menee ja sitä
+rataa. Mutta valokuvauksen kannalta mieluummin liian kuuma kuin liian
+kylmä.
+
+Yksi kesäpäivä lähdin ulos, mutta totesin kelin aivan liian
+vilpoisaksi shortseille. Maltoin käydä vielä sisällä vaihtamassa ne
+pitkiin housuihin. Pitkät olivat paikoin liian kuumat, mutta
+enimmäkseen paras valinta sille reissulle!
+
+*Älä epäröi!* Tämä on niin yleistä ja niin helposti vältettävä
+ongelma. Jos kävelet jossain kadulla ja sivusilmäsi havaitsee
+kiinnostavan valon, kohteen, jotain ja aivosi rekisteröi sen vasta 20
+metriä myöhemmin, suosiolla kävele se matka takaisin ja työskentele
+mielenkiinnon kohde talteen! Jos vähänkin mietityttää, ota kuva!
+
+Pidä kamera kädessä tai kaulassa (silloinkin kädessä) niin paljon
+ajasta kuin mahdollista. Tämä vähentää epäröinnin määrää
+huomattavasti, alentaa kynnystä ottaa kuva heti kun näet sen
+ensimmäistä kertaa.
+
+Hyvän kuvan missaaminen kaduttaa, ja tuplasti niin, jos sen missaat
+epäröinnin takia ja tilaisuus meni ohi.
+
+Muista myös missatuista tilanteista se, että elämä on kaoottista ja
+satunnaista. David Cain [[https://www.raptitude.com/2019/07/how-life-happens/][kirjoitti hiljan aiheesta]] ja tämä pätee
+monella tavalla katukuvaukseen. Jos haluat kahvia, mene kahvilaan ja
+istu ja juo se rauhassa. Mitä tahansa tilaisuuksia missaatkin kahvilla
+ollessasi, yhtä monta tulee tilalle sen ansiosta, että viivästytit
+etappejasi kahvitauon verran. Eli stressata ei kannata ikinä.
+Ymmärrät, että vuorokauden 1440 minuutista joudut missaamaan ison
+määrän. Mutta samalla kokeile keskittyä siihen paikkaan, jossa olet
+juuri nyt ja siinä ajassa.
