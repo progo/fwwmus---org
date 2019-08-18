@@ -1,0 +1,92 @@
+#+TITLE: Tulot, menot, ja talous
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Tulot, menot, ja talous                                    :talous:bj:
+CLOSED: [2019-08-18 Sun 12:00]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-18 Sun 12:00]
+:END:
+
+Kitsastellen elämällä on hyvä rakentaa itselleen turvallinen
+tulevaisuus, mutta miten hyvin kitsastelu palvelee tätä hetkeä?
+
+Kirjanpidon pitäminen on erinomainen tapa opettaa itselleen
+taloudellista selkärankaa. Ledgeriä olen pitänyt vuodesta 2011 tai
+sieltä main, ja se kesyttää osteluita omalta osaltani. Kun tiedän,
+että kaikki on aina kirjattava ylös, tulee pikkuturhuuksia osteltua
+vähemmän.
+
+** Piheys huono
+
+Mutta ehkäpä kirjanpidosta huolimatta olen luonteeltani pihi ihminen.
+En ostele makuvesiä. En pysähtele kahveille tai syö ulkona usein. Kun
+teen valokuvauskävelyitäni pitkin Helsingin kantakaupunkia ja ohitan
+niin monenlaisia idyllisiä kahviloita ja ravintoloita, tulee välillä
+ajateltua että sitä voisi hullutella ja käydä siinä ja siinä syömässä
+tai kahvilla. Joskus jopa lupaan itselleni että näin teen tulevalla
+kävelyllä. Ja sitten kun oikea hetki olisi koittanut, pihi puoleni saa
+kävelemään reippaasti ohi.
+
+Joskus se harmittaa olla pihi tällä tavalla: missaanko jotain jos en
+osallistu kuluttamiseen kuten muut? Jos ei muuta, uskon että
+valokuvausharrastukseni tavallaan keräisi inspiraatiota ja voimia jos
+luovan puhdin loppuessa lataisin akkujani hienossa
+ulkoterassimiljöössä sen sijaan, että lompsisin kotiin syömään
+makaronisuttujani.
+
+** Piheys hyvä
+
+Piheys toki auttaa myös luomaan pidempiaikaisia unelmia. Jos raha
+palaisi ravintoloissa ja juottoloissa niin olisiko minulla varaa
+kasuaalisti ostella Leica M -kameroita kokeilunnimissä? 
+
+Nyt olen innostunut, työkavereiden innoittamana ja muutenkin,
+rakentamaan hyvänkokoista sijoitusportfoliota viisivuotistavoitteiden
+kanssa. Jos tämä tavoite onnistuu, on seuraavan viisivuotistavoitteen
+jälkeen kasassa jo oikein sievoinen paketti!
+
+Pihi eläminen ja pennin venyttely helpottaa sekä rahan säästämistä
+toki, mutta myös sitten sen käyttämistä, jos varhainen eläköityminen
+on ideana. Jos menot eivät paisu tulojen kanssa samaa tahtia, ne menot
+pysyvät sitten varmaan samalla alhaisella tasolla sittenkin kun alat
+elää omilla säästöilläsi. Sama piheys nopeuttaa säästöjen kertymistä
+ja sama piheys myös hidastaa säästöjen ehtymistä! Tuplavoitto!
+
+** Hyviä ongelmia
+
+Juuri nyt säästöissäni ei ole kummoista pesämunaa, kiitos
+taloudellisesti huterien kameraostosten. Mutta onpa silti sillä
+tavalla rahaa jemmassa, että taannoin voitin tyhjästä 400 euroa ja se
+raha ei tunnu ei sitten missään. Se on olemassaolevien säästöjen
+päällä nyt säästöt + 400 euroa, edelleen kohtalainen (ja kohtalaisen
+pieni) luku.
+
+Huomasin oman virheeni kyllä melkein heti: voitettua 400 euroa ei
+olisi pitänyt heti laittaa menemään Nordnettiin, vaan koittaa keksiä
+sille jotain fiksua ja kouriintuntuvaa käyttöä. Esimerkiksi ostaa
+terveellisempiä ruoka-aineita seuraavat 3 kuukautta ja syödä paremmin?
+
+** Money for nothing
+
+Pihinä en kehtaa tuhlata rahaa turhuuksiin ja se on tavallaan ikävä.
+Mutta olen myös kehitellyt 'vaarallisen' paheen rahapeleistä ja
+etenkin Blackjackista.
+
+Tässä tulee sellainen uusi, hauska ilmiö vastaan. Ravintolaelämykseen
+ei viitsi laittaa 25 euroa, mutta blackjack-pöydässä saattaa helposti
+mennä 5x20 euron panosta kerralla. Tämän käsittämättömyyden voi
+selittää sillä, että ravintolaruoka on elämyksen jälkeen ollutta ja
+mennyttä, kassa on miinus 25 euroa. Mutta blackjack-pöydässä
+laskennallisesti euron panos tuo takaisin 98 senttiä. Ja koska joskus
+ollaan plussalla ja joskus ollaan miinuksella, plussalla ollessaan kun
+lopettaa niin silloin on tehnyt rahaa tyhjästä. 
+
+Talous on ratkaistu!
+
+Heh. No ei ihan. Tietysti kasinot ottavat omansa pois pitkässä
+juoksussa, mutta tämmöinen hulluttelu on tarjonnut minulle tavan
+"pestä rahaa" ja hullutella sitten vaikka ravintoloissa. Jos yhtenä
+päivänä voitan 150 euroa ja juhlistan asiaa 25 euron ruoalla
+ravintolassa, ja toisena päivänä häviän 150, olen samassa tilanteessa
+kuin joku, joka menee suoraan ravintolaan kulkematta blackjack-pöydän
+kautta. Ja tällä kertaa oma omatunto sallii pienen
+ravintolahulluttelun.
