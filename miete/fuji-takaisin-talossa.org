@@ -1,0 +1,86 @@
+#+TITLE: Fujifilm on takaisin talossa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Fujifilm on takaisin talossa                   :fujifilm:kamera:leica:
+CLOSED: [2019-09-14 Sat 11:26]
+:LOGBOOK:
+- State "DONE"       from              [2019-09-14 Sat 11:26]
+:END:
+
+Fujifilm löysi tiensä takaisin talouteeni, mutta missä asemassa? Leica
+M on totaalisesti ottanut isännän paikan, syrjäyttäen kaiken muun.
+Syrjäytti Olympuksen, syrjäytti Q:n. Mikään ei enää tunnu miltään, kun
+on saanut maistaa M-pilleriä. Mutta Fuji, kuin rikkaruoho, ujuttautui
+takaisin kameratalliini.
+
+Tämä tapahtui onnekkaiden sattumien seurauksena. Olen yrittänyt
+kaupitella Q:ta jonkin aikaa, mutta kauppa on käynyt ennätyksellisen
+huonosti. Ei yhden yhtä yhteydenottoa muuten niin vilkkaissa
+piireissä. Kun reilu vuosi sitten viimeksi kokeilin kaupitella Q:ta
+eteenpäin, oli kysyjiä pitkin ja poikin.
+
+Viimein, yhdistettynä Fujintuikkoseen, laitoin kauppailmoitukseen
+maininnan, että Q voisi vaihtua myös Fujifilm-settiin, jos hyvä
+tarjous tulee vastaan. Melkein oitis sopiva ostaja ilmaantui. Leica Q
+vaihtui upouuteen Fujifilm X-T3:een ja viiteen linssiin.
+
+Fujifilm X-T3. Tästä kamerasta silloin vähän hehkuttelin jo viime
+syksynä. Olisipa hyvä jos voisi aloittaa puhtaalta pöydältä Fujin
+parissa. Nyt kun Q vaihtui Fujiin välirahatta, ja diili oli
+kokonaisuudessaan oikein hyvä, tämmöinen tilanne tavallaan toteutui.
+
+Leica M:n parissa ja koko sen homman lieveilmiöiden kanssa
+puljautuminen kehitti itselleni kiinnostusta Fujia kohtaan, ja meni
+käytännössä päivä tai kaksi, kun tajusin että näiden kahden
+järjestelmän välillä ei voi noin vain valita yhtä. Ja jos pitää
+valita, kevyesti menisin Leican suuntaan!
+
+Fujifilm X-T3 tuo hyvin mieleen, miksi X-T1 ei ollut oikein mieleeni.
+Kamera on hyvin näppärä ja ominaisuuksia sopivasti pullollaan. Mutta
+se on silti vain hieno tietokone. Mutta sentään tämän tietokoneen
+käyttöjärjestelmä palvelee katukuvaajan tarpeita paljon paremmin kuin
+Olympus. Ja miten hiljainen onkaan kameran suljin M:n rinnalla!
+
+Fujin linssit ovat kompastuskivi. Lasi on hyvää ja tukevasti tehtyä ja
+sääsuojattua kyllä, mutta verraten kalliin hinnan saa kyllä maksaa
+varsin kliinisestä suorituksesta. Kyllä, Leica M -kuvauksen ympärillä
+pyörivä karakteristiikkakeskustelu tarttuu minuunkin nyt. Fujin kuvat
+ovat niin digitaalisia, että ihan silmiin sattuu. Lisäksi olen varmaan
+ehtinyt tottua kinokoon kennon tuottamaan kuvaan liiaksi. Isompi kenno
+ei ole vain matalampaa syväterävyyttä - se on ilman muuta
+huolellisemmin piirrettyjä yksityiskohtia ja parempaa toleranssia
+linssin epäkohdille. Tiheäpikselinen kroppikenno paljastaa puutteet
+paremmin.
+
+Toinen pieni kompastuskivi on tuo X-Trans. Fujin APS-C-kuvia
+tiiraillessa tulee pitkälti Olympus mieleen suorituskyvyssä.
+Olympuksen µ4/3-kenno ja Bayerin tuottamat kuvat tuntuvat
+muistikuviltaan aika perhanan hyviltä. Tietty minun ei pitäisi
+pikselitiirailla ikinä. Mutta happama kuva on silti tästä kaikesta.
+Toki Olympuksen kenno voi muuten vain olla parempi suorituskyvyltään
+ja värimatriisilla ei ole mitään tekemistä ongelmien kanssa.
+
+Fujilla on kliinisiä ja tehokkaita suorittajia, ja sitten sillä on
+vanhempia linssejä, joissa on hyvää piirtoa ja tyyliä. Mutta se
+tapahtuu sitten autofokuksen ja sääsuojattomuuden kustannuksella.
+Haluanko lähteä ostelemaan näitä linssejä kun pelkona on että Fuji on
+minulle kuolinmarssi, turhaan tehtävää elvytystä. Yksi klassisen
+piirron linssi, 18/2, tuli diilin mukana. Sitä kaikki aina muistaa
+haukkua, mutta se oli heti ensimmäinen, joka viehätti piirroltaan.
+ 
+Fuji on tullut taloon ja tämä paketti on helposti liikuteltavissa
+eteenpäin, jos siltä tuntuu. Minun pitäisi kai pitää tästä kiinni,
+koska tälle alustalle on helpompi sovittaa kaikenlaista kivaa linssiä
+ja valokuvaajan työkalut ovat hyvät. Olympuksen maanmainio kuvanvakain
+puuttuu tietysti, mutta kaikenlaista muuta fiksua on käytön kannalta
+niin paljon Fujissa että ei ole oikein mieltä edes miettiä Olympuksen
+pysymistä. Maisemakuvauskamerana Olympus on loistava, mutta sittenkin
+Fujissa on siihen hommaan enemmän megapikseleitä ja sääsuojausta.
+
+Tässä vaiheessa tekisi mieli tehdä joitain kokeiluja, mutta hankala
+jaksaa vaivautua tekemään tämmöisiä kun sydän tietää kuitenkin, missä
+mennään.
+
+Minun ensireaktio näihin Fujin linsseihin ja tietokonemaiseen
+suoritukseen oli alitajuntaisesti tuplata alas Leica-rintamalla.
+M-alustan yksi legendaarisimpia linssejä, Summilux-M 50mm ASPH, on
+tulossa eBaysta. Leica M on jäänyt!
