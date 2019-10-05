@@ -1,6 +1,6 @@
 #+TITLE: Linsseistä
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Linsseistä                                :kamera:objektiivi:fujifilm:
+* DONE Linsseistä                          :kamera:objektiivi:fujifilm:leica:
 CLOSED: [2017-01-23 Mon 13:14]
 :LOGBOOK:
 - State "DONE"       from ""           [2017-01-23 Mon 13:14]
@@ -36,18 +36,30 @@ ideaaliselta optiikalta:
 - kiinteä maksimiaukko koko polttovälialueella
 - terävä kaikilla aukoilla ja kaikilla polttoväleillä
   - ... terävä ylipäänsä jollain aukolla tai polttovälillä
+  - ... terävä lähelle tarkennettessa
+  - ... terävä äärettömyydessä
+- tarkennus pysyy samana zoomatessa
+- polttoväli pysyy samana tarkennettaessa
 - terävä koko kuva-alueelta
   - ... terävä reunoilta
   - ... terävä edes keskeltä
 - minimaalinen vinjentointi kaikilla aukoilla/polttoväleillä
 - minimaalinen kromaattinen aberraatio
 - minimaalinen palloaberraatio
+- suurikontrastinen piirto
+  - ... matalakontrastinen piirto
+- erinomainen mikrokontrasti
+  - ... pehmeä ja filmimäisempi mikrokontrasti
+- tarkennus pysyy aukkoa muutellessa
 - pieni minimitarkennusetäisyys
 - pyöreä/pehmeä bokeh
+- hullu/kontrastinen bokeh
 - terävät auringontähdet 
 - minimaalinen kooma
 - minimaaliset vääristymät (tynnyri-, yms)
 - hyvä flarensieto
+  - ... kuvan pitää olla täydellinen aurinkoon kuvatessa
+  - ... kontrasti voisi tippua sopivasti kuvatessa aurinkoon
 - kalansilmäpiirto
 - pitää suorat viivat suorina
 - ulkoasultaan katu-uskottava
@@ -56,7 +68,8 @@ ideaaliselta optiikalta:
   - ... sumusuoja
   - ... kaatosadesuoja
   - ... veden alla 5 metriin
-- kuvanvakain
+- optinen kuvanvakain
+- perspektiivikontrollit (tilt/shift)
 - halpa
   
 Huomannette, että selvästi osa tavoiteltavista asioista on suorassa
@@ -66,7 +79,7 @@ f/2.8 -telezoomi, niin osa haluaisi tukevuutta lasiltaan ja
 kilogramman massaa.
 
 Tottakai ideaalinen lasi ei vääristele mitään ja sen maksimiaukko on
-f/0.95 ja se painaa vain 200 grammaa ja siinä on sisäisesti zoomaava
+f/0.7 ja se painaa vain 200 grammaa ja siinä on sisäisesti zoomaava
 mekanismi, tarjoaa polttovälit 10 millistä 800 milliin.
 
 Näin ei tietysti ole, ja näin päästään aloittelijoiden kysymyksiin,
@@ -101,3 +114,29 @@ Moni valinta tässä listassa kiteytyy myös siihen, mitä haluaa kuvata.
 Lintu- ja metsämiehet tuskin häiriintyvät painavista seteistä ja
 arkkitehtuurikuvaajat taas tahtovat terävyyttä. Ja budjetilla
 kuvaaville taas kaikki on hankalaa.
+
+(Päivitys) *Nyt vuosia myöhemmin*, ensin siirryin pois Fujista kesällä
+2017 Leica Q:hun, siirryin Leica Q:sta Leica M:ään loppuvuodesta 2018,
+ja nyt linsseiltäni olen alkanut vaatia aivan uudenlaisia asioita.
+Fujista siirryin eteenpäin osittain sen takia, kun sen piskuinen 23/2
+omaa palloaberraatiota lähelle tarkennettessa. Leica Q:n linssi on
+käytännössä täydellinen, mielettömän iso suorittaja, jossa on hyvin
+vähän optisia ongelmia.
+
+Myöhemmin siirryin Leica M:ään ja ensimmäinen asia, joka piti
+hyväksyä, oli se, että valtaosa M-lasista on kompromisseissaan
+teknisesti ottaen huonompaa kuin mitä Q:n sisäänrakennettu 28-millinen
+tekee. M-laseissa ei tarvitse paljoa välittää autofokuksesta tai
+makrokuvaominaisuuksista. Vastaavasti M-lasi on herttaisen jämäkkää
+työtä, näiden käsitarkennusominaisuudet ovat verrattomat ja nämä ovat
+somia, kompakteja jalokiviä. Ja kuvakin on ihan hyvä kokonaiskuvassa
+katsoen.
+
+Iso juttu on se, että kuvankaan ei tarvitse enää olla täydellinen. Q:n
+bokeh ei ole millään mittapuulla täydelliseksi luokiteltavaa. M:n
+linssien kanssa samanlaisia tuntemuksia bokehin suhteen: eloisa ja
+kontrastikas bokeh on miellyttävämpi tapa luoda kuvia kuin tasaiseksi
+sumennokseksi menevä "kliininen" mutta "ideaali" bokeh. Olen jo parin
+linssin kanssa havainnut, että parempi ei olekaan aina parempi. Joskus
+epätäydellisyyksiä on sallittava (oman maun mukaan) jotta
+subjektiivinen täydellisyys linssissä saavutetaan.
