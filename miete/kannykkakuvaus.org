@@ -101,19 +101,36 @@ sekunnin murto-osassa kuvanoton jälkeen.
 
 Myös syväterävyysefektit, jotka olivat aika kamalia pari sukupolvea
 sitten, ovat nyt [[https://www.stevehuffphoto.com/2019/09/27/the-future-of-imaging-is-now-the-iphone-11-pro-max-a-camera-with-a-built-in-phone/][käytännössä saumattomia]]. Kuvat ovat teräviä,
-bokehikkaita ja kaikin puolin skarppeja töitä, jotka olisivat hyvin
-voineet tulla isosta kamerasta. Menimme jo erään pisteen ohi, kun
-taannoisessa kamera-arvostelussa sanottiin isokennoisen (APS-C)
-kameran ominaisuuksista sellaista, että kannattaa harkita
-puhelinkameraa jos haluat bokehia kuviin.
+bokehikkaita (ja sovelluksella voisi hyvinkin emuloida erilaisia
+epäterävyyspiirtoja, luonteikkaita ja kliinisiä tarpeen mukaan) ja
+kaikin puolin skarppeja töitä, jotka olisivat hyvin voineet tulla
+isosta kamerasta. Menimme jo erään pisteen ohi, kun taannoisessa
+kamera-arvostelussa sanottiin isokennoisen (APS-C) kameran
+ominaisuuksista sellaista, että kannattaa harkita puhelinkameraa jos
+haluat bokehia kuviin.
 
-On ok antaa kännyköille kaikkia laskennallisia apuvälineitä, jotta
-pienestä kennosta saa mahdollisimman paljon irti. Miksi sitten tuntuu
-perverssiltä, että samoja apuvälineitä sulautettaisiin isokennoisiin
-kameroihin. Sitä ideaa aina väläytellään, ja tottahan se on, että jos
-pienikennoinen kuva plus viimeisen päälle oleva laskennallinen
-kuvankäsittely on hyvä, niin sama laskennallinen kuvankäsittely
-isokennoiselle kuvalle on paljon parempi.
+Katukuvaajat voivat iloita, sillä nyt sama laite tarjoaa molemmat
+maailmat. Matalan syväterävyyden muotokuvia (tarviten normaalisti
+isokennoisen kameran ja valovoimaisen linssin) ja syvän terävyysalueen
+katukuvia (tarviten normaalisti pienikennoisen kameran tai
+isokennoisen kameran ja paljon valoa) saa nyt näppärästi samalla
+laitteella, tarviten yhtä vähän valoa kummassakin tapauksessa. Yhdellä
+menun napsautuksella. Ei huono käänne.
+
+Nopean laskennallisuuden ansiosta tietysti on varmaan ihan seuraavan
+kulman takana myös valokuvaus, jossa otat ensin kuvan ratkaisevasta
+tilanteesta ja sitten voit valita syväterävyysalueen koon ja paikan,
+tai jättää kaikki paikat teräväksi. Focus-recompose jää pois kokonaan.
+On vain "shoot-select focus-select bokeh style-distribute".
+
+Mutta kiinnostavasti on OK antaa kännyköille kaikenlaisia
+laskennallisia apuvälineitä, jotta pienestä kennosta saa
+mahdollisimman paljon irti. Miksi sitten tuntuu perverssiltä, että
+samoja apuvälineitä sulautettaisiin isokennoisiin kameroihin. Sitä
+ideaa aina väläytellään, ja tottahan se on, että jos pienikennoinen
+kuva plus viimeisen päälle oleva laskennallinen kuvankäsittely on
+hyvä, niin sama laskennallinen kuvankäsittely isokennoiselle kuvalle
+on paljon parempi.
 
 Varmaankin oma vastalause on tähän se, että kamerat ovat kalliita
 laitoksia ja niihin ei ole samanlaista päivitysrutiinia kuin
