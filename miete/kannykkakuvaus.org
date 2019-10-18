@@ -1,0 +1,153 @@
+#+TITLE: Kännykkäkuvaus
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kännykkäkuvaus                                          :kamera:leica:
+CLOSED: [2019-10-18 Fri 12:16]
+:LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 12:16]
+:END:
+
+Uusimmat sukupolvet älypuhelimista alkavat viimein rikkoa omia
+korkeita rimojani siitä, miten paljon kännyköillä saa aikaan vs. isot
+digikamerat. Raja murenee viimein jonkun iPhone 11:n tai Pixel 3:n
+kohdalla puhelinten hyväksi.
+
+Nuo arvostelut ja uutiset iPhone 11:n kameroista ovat tavallaan
+inspiroivia, mutta myös masentavia. "Digikuvaamisen" aikakausi saattaa
+olla tekemässä hitaasti loppuaan.
+
+** Aikakauden loppu
+
+On pakko viimein tunnustaa, että yksi valokuvaamisen aikakausi on taas
+lopuillaan. Yksi varhainen aikakausi valokuvaamisessa oli
+näkökameroiden ja lasilaattojen käyttäminen; toinen
+mobiilivallankumous tuli kun kevyt ja näppärä valokuvafilmi
+keksittiin. Leican "pieni kamera, iso kuva" -idea 1930-luvulla jatkoi
+tätä mobiiliaikakautta. Sitten 1990-luvulla alkoi digitaalikuvaamisen
+vallankumous. Ja nyt tuntuu, että on viimein ne hetket käsillä, kun
+kännykkäkuvaaminen tulee oikeasti kaappaamaan valokuvaamisen ja
+aloittamaan uuden aikakauden.
+
+Filmin keksimisen myötä kantamusten määrä keveni huomattavasti ja
+valokuvaaja jaksoi leikitellen kantaa satoja valotuksia mukanaan,
+siinä missä aiemmin parikymmentä valotettua levyä alkoi jo tuntua
+selässä. Filmikameratkin luonnollisesti voitiin rakentaa paljon
+pienemmiksi ja näppärimmäksi. Kääntöpuolena jouduttiin kärsimään
+filmin epätarkkuuksista ja pienenevästä filmialasta -- rakeisuus ja
+terävyys kärsivät, mutta ajan myötä tekniikka, filmit ja filmikamerat
+kehittyivät. Etenkin Leican idea panostaa kameroiden ja linssien
+tuotantotoleransseihin kannusti puristamaan kaiken irti pienestä
+negatiivista.
+
+Digikuvaamisen myötä vanha filmikuvaus syrjäytyi samalla tavalla
+siirtyen unholaan; nyt kuva tulee heti loistavissa väreissä ilman
+hidasta ja onnettomuusaltista kehitysvaihetta. Samalla tavalla
+kuvakoot pienenivät ja alkuaikoina kärsittiin filmiä huonommasta
+kuvanlaadusta ja värisyvyydestä ja dynamiikasta. Meni kymmenisen
+vuotta ja oltiin filmistä ohi.
+
+Nyt kännykkäkuvaaminen piskuisin kennoin ja laskennallisen
+valokuvauksen kanssa tekee teräviä kuvia, jotka ovat paikoin
+vertailukelpoisia minkä tahansa isokennoisen kameran kanssa. Pienemmän
+kennon haasteet (kohina, syväterävyys, detalji) voidaan korjata alati
+kehittyvällä softalla, joka vuosi paremmin kuin edellisenä.
+
+Hitto, taannoin [[https://www.dpreview.com/reviews/image-comparison/fullscreen?attr18=lowlight&attr13_0=google_pixel3&attr13_1=sony_a7sii&attr13_2=google_pixel_2&attr13_3=apple_iphonex&attr15_0=jpeg&attr15_1=jpeg&attr15_2=jpeg&attr15_3=jpeg&attr16_0=59&attr16_1=100&attr16_2=411&attr16_3=125&attr126_0=2&normalization=full&widget=1&x=-0.07836691410392374&y=0.32082343626286625][näytettiin vertailussa]] että Pixel 3 voittaa tai
+ainakin on yhdenveroinen täyden koon kennoisen Sony A7S2:n kanssa
+(isot pikselit) detaljeissa. Tämän pitäisi olla iso herätyssoitto
+niille, ketkä eivät suostu tunnustamaan pienen laitteen teknologisia
+kykyjä.
+
+Pian, ellei jo tänä päivänä, nykyaikaiset isot digijärkkärit kokevat
+saman kohtalon kuin filmikamerat pari vuotta sitten: niitä kuvataan
+vain nostalgiasyistä, tuntuman tai hyvän kokemuksen takia.
+Käytännöllinen ja tarkka kuva tulee otettua aina taskusta löytyvällä
+tehotyökalulla.
+
+** Purismi ja laskennallinen valokuva
+
+Fysiikan lait sanovat, että isompi linssi ja isompi kenno on aina
+parempi kuin pieni linssi ja pieni kenno. Kännyköissä korjataankin
+syntyvät puutteet ohjelmallisesti otettua kuvaa käsittelemällä.
+
+Tämä seikka aina nostaa itse kunkin sisäisen puristin karvat pystyyn,
+mutta itse näen asian niinkin, että valokuvaamisen yksi haasteista on
+aina ollut se, että yritetään tavoitella ihmissilmän näköä. Ihmissilmä
+ei ole sen kummoisempi kuin yksi pieni linssi, hyvä näkökyky syntyy
+kirjaimellisesti siitä että kaksi samanlaista linssiä kytketään
+tietokoneeseen ja tietokone rakentaa siistin kuvan. Ihmisen näkökenttä on kirjaimellisesti biologista laskennallista valokuvaa.
+
+Esimerkiksi huolellisesti toista silmää sulkemalla ja katsomalla
+johonkin lähelle voit nähdä, miten silmä toimii kuin tavallinen
+linssi, luoden 2D-kuvan jossa on syväterävyys ja on bokeh, jopa
+bokehpalloja. Kun toinen silmä on myös käytössä, aivot tekevät kovasti
+työtä poistaen kaiken epäterävyyden pois -- pitkälti päinvastoin kuin
+mitä kännykkäkamerat tekevät. Silmä ei myöskään ole mikään
+huippulaajakulmainen linssi vaan aivot rakentavat saumatonta
+panoraamakuvaa lennosta.
+
+Kännyköiden pienillä kennoilla on hyvin vähän asiaa pimeäkuvaukseen,
+mutta niin ne perhana vain keksivät keinot tehdä [[https://craigmod.com/roden/031/][loistavaa]] jälkeä
+pimeässäkin. Nopeasti valottavat elektroniset sulkimet ja nopea
+kuvankäsittely ei hidasta prosessia vaan yhdellä suljinnapsautuksella
+ottaa 4-5 kuvaa kevyesti, jotka kamera osaa fuusioida toisiinsa,
+vaikka käsi tärisisikin kylmästä.
+
+Näitä hommia voi replikoida käsipelillä, ota sarja kuvia ja
+tietokoneella lataa kaikki kuvankäsittelyohjelmaan tasoina ja
+käsipelillä synkkaa kuvat kaikki samoihin asentoihin ja voit maalata
+pois yhdellä tasolla näkyvän ihmisen jne. Työtä on tietysti valtavasti
+kun tällä tavalla tekee. Kännykkä ja optinen kuvanvakain tekee tämän
+sekunnin murto-osassa kuvanoton jälkeen.
+
+Myös syväterävyysefektit, jotka olivat aika kamalia pari sukupolvea
+sitten, ovat nyt [[https://www.stevehuffphoto.com/2019/09/27/the-future-of-imaging-is-now-the-iphone-11-pro-max-a-camera-with-a-built-in-phone/][käytännössä saumattomia]]. Kuvat ovat teräviä,
+bokehikkaita ja kaikin puolin skarppeja töitä, jotka olisivat hyvin
+voineet tulla isosta kamerasta. Menimme jo erään pisteen ohi, kun
+taannoisessa kamera-arvostelussa sanottiin isokennoisen (APS-C)
+kameran ominaisuuksista sellaista, että kannattaa harkita
+puhelinkameraa jos haluat bokehia kuviin.
+
+On ok antaa kännyköille kaikkia laskennallisia apuvälineitä, jotta
+pienestä kennosta saa mahdollisimman paljon irti. Miksi sitten tuntuu
+perverssiltä, että samoja apuvälineitä sulautettaisiin isokennoisiin
+kameroihin. Sitä ideaa aina väläytellään, ja tottahan se on, että jos
+pienikennoinen kuva plus viimeisen päälle oleva laskennallinen
+kuvankäsittely on hyvä, niin sama laskennallinen kuvankäsittely
+isokennoiselle kuvalle on paljon parempi.
+
+Varmaankin oma vastalause on tähän se, että kamerat ovat kalliita
+laitoksia ja niihin ei ole samanlaista päivitysrutiinia kuin
+kännyköihin. Voisi inhottaa jos parin tonnin tekoäly-Sonystä loppuu
+päivitykset paria vuotta myöhemmin. Tietty tämä ei ole vahva
+argumentti, koska rahalla saa ja hevosella pääsee.
+
+Varmaan olen vain sen verran puristi, että idea tuntuu luonnottamalta.
+Jonkun pitäisi kaiketi toteuttaa hyvä prototyyppi ja tuottaa tuloksia.
+
+** Mitä kännyköillä ei voi kuvata?
+
+Kännyköiden tilarajoitteet tekevät teleoperaatioista mahdottomia,
+mutta mitäpä muuta telepolttoväli on kuin kropattu laajempi
+polttoväli? Laskennallinen valokuvaus saattaa kyetä jonain päivänä
+ottamaan 20 megapikselin kuvia pari kappaletta ja interpoloimaan
+niistä jotain sellaista, jonka voi rajata viiteen megapikseliin.
+Prosessilla on varmasti joku rajansa, mutta nyt ollaan kehittelemässä
+näitä, hakemassa rajoja.
+
+Mutta nyt toistaiseksi kauaskantoisia kuvia haluavalle ei kännyköistä
+ole työkaluksi.
+
+Ja jos kännykät jonain päivänä pystyisivätkin ottamaan hyviä
+"200-millisiä" kuvia, on laitteen tähtääminen vähän hankalaa.
+Kännyköiden ergonomia ja toisaalta iso mörkö, eli etsimen puute
+hankaloittaa vielä tätä aspektia.
+
+Etsimiin on olemassa ratkaisu puettavan teknologian muodossa, vaikka
+se vähän kömpelö ratkaisu onkin. Ja ergonomiaa varten on jo nyt
+joitain oivaltavia kolmansien osapuolten juttuja keksitty, kuten nämä
+teleskooppiset tatit, jollainen asennetaan puhelimen selkäpuolelle ja
+josta saa sormilla hyvän ja tukevan otteen. Jossain vaiheessa saattaa
+markkinoille tulla paksumpi kännykkäkotelo, jossa on kämmentukea ja
+kahvaa ja useita fyysisiä nappuloita, joilla ohjata kameran
+operaatiota. Historian tuntien näillä on heikko kysyntä loppupeleissä,
+koska paljas puhelin on kätevin kaikista.
