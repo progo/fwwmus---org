@@ -1,0 +1,233 @@
+#+TITLE: Leica M vuoden!
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M vuoden!                                         :leica:kamera:
+CLOSED: [2019-12-20 Fri 19:48]
+:LOGBOOK:
+- State "DONE"       from              [2019-12-20 Fri 19:48]
+:END:
+
+Leica M on palvellut nyt noin 51 viikkoa tai pyöristettynä vuoden
+päivät. Rungon sain vuosi sitten ja ensimmäinen linssi sille saapui
+viikkoa myöhemmin välipäivinä. Hulppea(n hintainen) kamera on ollut
+onneksi ahkerassa käytössä, joten ostajankatumusta ei ole pahemmin
+esiintynyt. Käyttöraportti!
+
+** Ensimmäiset asiat ensin
+
+Ensimmäinen linssi alustalle oli Leican oma Summicron 35mm f/2 ASPH.
+Upean kompakti ja nätisti piirtävä linssi omaa selkeästi
+"leicalookkia" siinä mielessä kuin minä asian miellän. 3D-poppia,
+terävyyttä siellä missä tarvitaan ja upea bokeh. 
+
+Mutta kompakti linssi on myös paikoin selkeästi pehmeämpi piirtäjä
+(mieto focus shift ehkäpä, field curvature, yms) kuin mitä Leica Q:n
+sisäänrakennettu kiinteä 28-millinen tekee. Oli siis jonkinlaista
+kulttuurishokkia ensin pakko kohdata: tämä (paljon/jonkin verran)
+kalliimpi kamera, kaikkien kehuma optiikka, on *näin* paljon huonompaa
+kuin mitä Leica Q tekee?!
+
+Mutta samanaikaisesti jotenkin on pakko nähdä kuvissa jotain tiettyä
+ylimääräistä /selkeyttä/, jota Leica Q:n kanssa ei ollut nähnyt
+samalla tavalla. Nämä erot ovat hiuksenhienoja, mutta kun kuvaa ja
+tarkastelee tuhansia kuvia kullakin niin nämä erot alkavat tulla hyvin
+selviksi. Ero voi tulla myös kennoista, ja varmasti osa tuleekin. M:n
+tapa signaalikäsitellä valo on erilainen kuin Q:ssa. Kumpikin kamera
+palaa puhki herkästi mutta M:n kuvissa on jotain ekstraviehättävyyttä.
+
+Oli pakko viimein myöntää: Leica Q:n päivät ovat lyödyt. Vaikka Q:n
+linssi on kerrassaan hulppea, täydellinen, /lyömätön/, miedoin
+epätäydellisyyksin varustettu Leica 35mm näyttää ja maistuu paremmin.
+Aito M-lasi näyttää luonnollisemmalta, vaikka tämä on kiistatta
+vain makuasia.
+
+Linssin lisäksi näiden kahden eri kameran käyttötavat (nykyaikainen
+automaattinen tehotarkentaja ja huippusuorittaja vs. täysmanuaalinen
+painava rotohka) loivat kontrastia ja nopeasti huomasin suosivani
+täysmanuaalista lähestymistapaa optisen etsimen kanssa.
+
+** 50-millisten aikakausi
+
+Ensimmäiset 6 kuukautta olin pitkälti pelkän M + 35-millisen kanssa.
+Tämä oli hyvää aikaa ja muita kameroita ei tullut paljoa harjoitettua
+sinä aikana. Q kävi parilla spesifisellä kuvauskeikalla ja Olympus
+istui sitäkin enemmän laatikossaan. Selkeästi nyt oli uusi ääni
+kellossa.
+
+Kesäkuussa ja Helsinkiin muutettuani alkoi kokonaan uusi aikakausi.
+Ensisijainen tarve oli hankkia UWA, koska se on asia jossa Leica
+loistaa hyvin. Cosina-Voigtländerilta oli juuri tullut pari uutta
+Classic-linjaston linssiä, joista yksi oli kehuttu 21/3.5
+Color-Skopar. Heitin samaan ostoskoriin kaveriksi osittain sattumalta,
+osittain kiinnostuksesta, ensimmäisen vakavan 50-millisen linssini.
+Molemmat ostokset osoittautuivat erinomaisiksi.
+
+Näin linssivalikoimani kasvoi kesäkuussa 21, 35, 50 millimetrin
+sarjaksi.
+
+En ole ollut 50-millisen ylimpiä ystäviä. Kuvakulma on tuntunut liian
+kapealta, kliiniseltä. Koska Leicassani on kehysviivojen esikatselu
+mukana, olen voinut vilkuilla vähän etsimeni kautta että miltä se nyt
+näyttäisi kuvata ja rajata maailmaa 50-millisellä. Ei näytä läheskään
+niin pahalta. Voi olla, että en vain pidä ko. kuvakulmasta silloin kun
+pitää sommitella linssin läpi. Nyt sitten päätin mennä viiskymppiseen
+sillä verukkeella että Voigtländerin 50 Heliar on legendaarisen hyvä
+suorittaja, eikä nyt maailman kalleinkaan. Se on mahdottoman kompakti
+linssi ja kevyt kuin mikä. Sitä on helppo pitää mukana.
+
+Juhannuksen tietämillä saatuja linssejä lähdin ekan parin viikon
+aikana verkkaisesti kokeilemaan, mutta sitten heinäkuussa menin
+palleja myöten viiskymppiseen osallistumalla erään kamerafoorumin
+"Single in July" -haasteeseen, jossa on määrä sitoutua yhteen kameraan
+ja yhteen linssiin kokonaiseksi kuukaudeksi, ja ottaa kuvia joka
+päivä. Koska 50 mm oli osittain vieras minulle, otin sen mietona
+haasteena, ja se oli aikamoinen menestystarina oppimiseni osalta!
+
+Sen jälkeen 50 mm on ollut vakiokuvakulmiani.
+
+** 50-millisten aikakausi, osa 2
+
+[[https://www.stevehuffphoto.com/2017/08/28/the-voigtlander-50-f3-5-heliar-v-4-on-the-leica-sl-f3-5-is-the-new-f1-4/][Voigtländer 50 Heliar]] on taivaallinen piirtäjä, mutta valitettavasti
+liian hidas pimeäkäyttöä varten (f/3.5). Kesän kääntyessä syksyksi
+tiesin, että joku valovoimainen linssi pitäisi ostaa talven pimeitä
+varten. Täysin Leicaan hurahtaneena aloin miettiä jotakin kolmesta
+legendaarisesta Summiluxista:
+
+- 50 mm Summilux ASPH     (~3k €)
+- 35 mm Summilux ASPH FLE (~4k €)
+- 21 mm Summilux          (~4.5k €)
+  
+Kaikissa on vauhdikas f/1.4:n valovoima ja hengästyttävä piirto,
+hengästyttävästä hintalapusta puhumattakaan. Suluissa käytettyjen
+tyypilliset hinnat. Selkeästi liian kallista minulle, mutta mitä
+hittoa tässä rahalla muutakaan.
+
+Syksyn lähestyessä tulin siihen tulokseen, että rahastoihin ja
+taloushommiin olisi myös kiva alkaa laittaa isosti säästöön, ja laadin
+itselleni oman säästö- ja tavoiteohjelman. Tämän jälkeen on ollut
+miedosti käteisköyhä olotila ja näiden kalliiden Summiluxien ostohimo
+on laantunut.
+
+Aloin katsella muiden valmistajien nopeita viiskymppisiä, onneksi
+niitä on riittämiin Leican alustalle.
+
+Canonin vanha LTM-linssi 50/1.4 on lempinimeltään "Japanin Summilux"
+ja kuvissa onkin kyllä mitä taivaallisin piirto. Voigtländerillä on
+myös natiiveja M-mountille tehtyjä ratkaisuja erilaisissa
+hintaluokissa. Zeissilla toki myös. Vaikka valintaa on isosti,
+käytettyjen markkinoilla ollut senhetkinen valikoima rajasi valintaa
+helppoon ja sopivaan joukkoon, ja arvostelujen perusteella löysin oman
+suosikkini budjettilinsseistä: [[https://www.stevehuffphoto.com/2013/06/19/the-voigtlander-50-1-5-aspherical-vm-lens-review/][Voigtländer 50/1.5 Nokton]]! Tämä linssi
+jakaa vähän mielipiteitä, mutta minusta tämä on pitkälti täydellinen
+lasi. Se toimii myös virheettömästi rungossa ja on aika kevyt kantaa
+myös. Oikein mainio kaikin puolin! Täydellinen, suorastaan. Mielestäni
+linssin piirto edustaa "aitoa leicalookkia", vaikkei Leicaa ole
+nähnytkään.
+
+Hullunmyllyksi tämä meni heti Noktonin jälkeen kun kirjaimellisesti
+paria päivää myöhemmin Noktonin saannin jälkeen menin "vahingossa"
+ostamaan 50 Summiluxin tuosta kalliiden Summiluxien listalta.
+Kuusinkertaisella hinnalla varustettu linssi ei varmasti ole
+kuusinkertaisesti parempi suorittamaan.
+
+Summilux 50 mm f/1.4 ASPH on monien mielestä yksi Leican
+merkittävimpiä saavutuksia. Melkein APOkromaattinen huippusuunnittelu,
+linssi on myös varsin edullinen moneen muuhun Leicalta tulevaan
+huippulinssiin. Lisädraamana olin itse kyllä ensinenässä vallan
+pettynyt siihen, miten tavanomainen ja epäkarakteristinen (kliininen)
+kuva sieltä syntyy. Bokeh on tietyn koulukunnan mukaisesti
+täydellistä, minusta se on liian sulavaa, liian pehmeää. Olisi ihan
+sama valokuvata vaikka Canonilla jos tätä haluaisi!
+
+Noktonin ehdin palauttaa kauppaan, mutta sitten se piti käydä
+ostamassa takaisin kun totesin Summiluxin olevan tuollainen. Nyt
+minulla on kiinnostava asema Summiluxin suhteen. Ei se paska ole tasan
+millään mittarilla, mutta ehkäpä Noktonin kanssa jompikumpi on turha,
+ja juuri nyt olen ainakin ollut sitä mieltä että Summilux joutaisi
+vaihtoon. En tee hätiköityjä päätöksiä nyt, kuten tein Noktonin
+kanssa.
+
+Näin minä menin nollasta sataan viiskymppisten suhteen parin lyhyen
+kuukauden aikana. Ensin en tykännyt ko. polttovälistä yhtään ja kolmea
+kuukautta myöhemmin minulla on hyllyssä 3 upeaa viiskymppistä, joista
+yksi monien mielestä maailman hienoimpia viiskymppisiä. 
+
+** Muita kokeiluja
+
+Voigtländer 21/3.5 Color-Skopar, 50/1.5 Nokton, 50/3.5 Heliar, Leica
+35/2 Summicron ASPH ja 50/1.4 Summilux ASPH ovat siis vakavat (ja
+hintavammat) linssini tallissani. Suosikkia on vaikea valita, mutta se
+on varmaankin edelleen tuo 35 Summicron. Mikä piirtäjä se onkaan!
+
+Muita kokeiluja ja vähemmän vakavia valintoja olen suoritellut tässä
+vuoden aikana:
+
+- Ensin ihan alkuvaiheessa, tammikuussa jo ostin yhden viiskymppisen:
+  neuvostoliittolainen M39-mountille ollut 50-millinen f/2 Jupiter-8
+  ei ollut alkujaankaan ostettu vakavaan käyttöön. Valitettavasti sen
+  kohtuullinen tarkennusvirhe estää siitä nauttimisen isommissa määrin
+  muutenkin. Kiristettynä f/5.6:een se on ihan käypä lasi ja antaa
+  huomattavan viehättävän retropiirron. Pitäisi vaan saada jotenkin
+  korjattua tuo tarkennusvirhe.
+
+- Kameratorin juhannusalennuksista ostin mielenkiinnosta kehutun
+  90-millisen Elmar-C-linssin, joka on Leican ja Minoltan
+  yhteistyösuunnittelu Leican halpisfilmirunkoon CL. Tämä on
+  huomattavan hyvä diili muotokuvalinssiksi, huiman terävä ja
+  sopivasti vanhanaikainen piirto siihen hommaan. Mutta harmikseni
+  totesin, että tämä linssi pehmenee ja heikkenee sitä mukaa, mitä
+  kauemmaksi haluaa tarkentaa. Haluan vielä jonkun 90-millisen, mutta
+  tämä ei ollut se. Sain myytyä sen takaisin Kameratorille ihan hyvään
+  hintaan, joten en köyhtynyt kokeilusta juuri yhtään.
+
+- Toinen paljon kehuttu ja edullinen muotokuva/televalinta tuli
+  huudettua eBaysta: Voigtländer 75-mm Color-Heliar f/2.5. Tämä n. 240
+  euroa maksanut linssi piirtää kerrassaan upeasti! Minulla on ollut
+  hieman hankaluuksia löytää ja tulla sinuiksi linssin mahdollisen
+  tarkennusvirheen kanssa (jostain syystä kuin tuntuisi, että runkoni
+  on 1:1 säädöissään M-linssien kanssa mutta miedosti vinossa
+  LTM-linssien kanssa), mutta tiedän linssin teräväksi ainakin kun sen
+  kiristää stopilla maksimista. Edullinen, terävä ja kevyt kantaa
+  mukana, tämä linssi on erinomainen valinta.
+
+** Tulevaisuudensuunnitelmia
+
+Kokonainen vuosi ollaan menty ja tilanne omistettujen linssien suhteen
+on aika hyvä. Tällä hetkellä käyttökelpoisia linssejä löytyy välillä
+21-75 millimetriä. Kamerassa on kehysviivat kuudelle eri
+polttovälille: 28, 35, 50, 75, 90, 135 mm -- periaatteessa olisi kiva
+omistaa jotain kuvattavaa jokaiselle näistä polttoväleistä. 28, 90 ja
+135 puuttuvat juuri nyt. 28:lle ja 135:lle välttää joku huonomminkin
+suorittava valinta, mutta tietysti ihan jotain sekundaa tai vikaan
+tarkentavaa en haluaisi ostaa. Saa nähdä, mitä tapahtuu.
+
+Katseeni kääntyy kiinalaisiin idän ihmeisiin. *7Artisan* on ollut
+parrasvaloissa. Heidän 50/1.1 ja 35/2 ovat olleet ihmisten
+mielenkiinnon kohteina. Minua voisi kiinnostaa heidän nopea
+28-millinen, se kun olisi halpa ja piirtää hyvin ja paikkaisi sen
+aukon linssikatalogissani. Ja nyt saman firman sisäinen, ilmeisesti
+kilpaileva tiimi *TTArtisan* on tuonut markkinoille pari kappaletta
+erittäin, /erittäin/ kiinnostavia optiikoita M-mountille. Ensin
+syksyllä tuli [[https://www.35mmc.com/24/09/2019/ttartisan-35mm-f-1-4-asph-review-by-vincent-bihler/][nopea 35/1.4]], joka näyttää toimivan ja piirtävän
+erittäin edullisella rahalla oikein hyvin. Nyt jouluksi heiltä
+tulee/tuli ulos nopea 21-millinen f/1.5. Se on isonsutjakka linssi,
+mutta taas kerran hyvin edullinen jos vertaa mitä Leican oma
+Summilux-M 21/1.4 maksaa. Nämä linssit ovat edullisia, niissä on
+hienosäätövara tarkennuksen kanssa ja kaikkea muuta upeaa. Olisipa
+Voigtländerillä ja muilla samanlainen meno päällä. Ultranopea
+21-millinen olisi iso juttu. Erittäin mielenkiintoisia aikoja elämme.
+
+Tuo kommellukseni 50 Summiluxin kanssa on nostanut myös ideoita ja
+mietteitä esille sen suhteen, että mitä oikeastaan haluan sitten
+minulle täydelliseltä linssiltä. Ei perfektiota, ei täydellisyyttä,
+jos se syö optisesta karakteerista? Ei näinkään voi toisaalta sanoa,
+en vain välitä 50 Luxin karakteerista niin paljoa kuin ajattelin
+pitäväni. Tämä havainto itsestäni ja maustani välittömästi tekee
+Leican 35/1.4 Summilux FLE:stä (uusimmasta designista) jotenkin tylsän
+idean: kallis linssi ja jos se /myös/ tarjoaa vain tylsää kuvaa niin
+en minä sitten kai sitä halua edes kokeilla? 
+
+Nämä mietteet ohjaavat tulevan vuoden hankintoja, jotka lienevät
+hieman maltillisempia. Luonteikkaita ja epätäydellisiä linssejä saa
+onneksi kaikilta valmistajilta edullisemmin.
+
+Vuosi 2020 tulee olemaan valtava valokuvauksen vuosi.
