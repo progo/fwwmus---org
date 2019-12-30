@@ -1,0 +1,153 @@
+#+TITLE: Vuosi 2019
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2019                                         :retrospektiivi:uv:
+CLOSED: [2019-12-30 Mon 18:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-12-30 Mon 18:57]
+:END:
+
+Vuosi 2019 meni vauhdikkaasti -- nykyisin valitettavan yleinen teema.
+Vuoden merkittävä tekijä on selkeästi tämä toukokuinen muuttoni
+Outokummun Sätöksestä Helsingin ytimeen. Muuta jännittävää ei
+ollutkaan, aikani täällä on kulunut sutjakkaasti uusia paikkoja
+tutkiessani.
+
+** Helsinki
+
+Ensin vietettiin nautinnollinen talvi Sätöksessä ja ajastin itselleni
+pääsiäisen päälle huhti-toukokuun taitteeseen pariviikkoisen
+asuntometsästyksen Helsinkiin. Etukäteissuunnittelu ja aggressiivinen
+hyökkäys vuokramarkkinoille oli toimiva idea, ja loistava
+vuokra-asunto löytyi heti ensimmäisenä varsinaisena jahtipäivänä. 
+
+Muuton ajastin aivan kesälomani alkuun, jolloin olisi kokonainen
+kuukausi aikaa asettua taloksi. Pitkä kuukausi ilman sen kummempaa
+agendaa oli vähän tylsä, olisi pitänyt ottaa kaksi + kaksi viikkoa eri
+vuodenaikoina. Ensimmäinen kesä oli hyvä ja ei ainakaan liian kuuma.
+Pehmeä laskeutuminen takaisin pienen kerrostaloasunnon
+kesärealiteetteihin.
+
+Muuttokuorman kanssa oltiin Sätöksen uuden isännän kanssa myös hyvin
+huolellisesti etukäteen suunnittelemassa ja pakkaamassa. Muuttopäivänä
+mentiin todella sutjakkaasti Suomen halki. Aamukahdeksalta oltiin
+kuorman kanssa Sätöksentiellä ajamassa, neljältä iltapäivällä oltiin
+kaikki tavarat saatu kannettua asuntoon sisälle.
+Potentiaalienergioiden laki oli valtavan toimiva taas, kamalan
+raskasta ei ollut mikään kun kannettiin autosta tavarat aulaan ja
+siitä hissillä kerrokset ylös.
+
+Nyt 6-7 kuukautta laskentatavasta riippuen Helsingin Töölössä asuneena
+en voi kuin kehua paikkaa. Oli hyvä valinta. Kyllä minä hieman kaipaan
+takkatulen hajua ja ääntä ja kuivattavaa vaikutusta, ja nyt talven
+tullen olisi kiva jos edes olisi jotain lunta maassa. Välillä tuntuisi
+hyvältä vähän ajella omalla autolla maisemia kuvaamaan. Mutta kaikin
+puolin on ollut erinomaista. Tämä on ollut hyvä ja fiksu päätös.
+
+** Valokuvahommat
+
+2019 oli valokuvauksen vuosi totisesti! Vuosi sitten ostamani Leica M
+on osoittautunut varsinmoiseksi tehopeliksi ja inspiroivaksi
+työkaluksi. Hyvin manuaalisena vekottimena se pakottaa valokuvaajan
+luottamaan omiin vaistoihinsa, ja se on mitä piristävin asia.
+
+Leicassa on omat rajoituksensa, mutta niistä huolimatta (ja osittain
+niiden ansiosta) kameralla on tullut paukuteltua isoja lukemia ylös.
+Alkuperäinen huoleni oli, että tulisin johonkin päätökseen M:n suhteen
+liian hätäisesti, ja asetin itselleni tavoitteeksi käyttää sitä
+vähintään vuoden ja kuvata sillä vähintään 10k ruutua. Vuosi on tullut
+täyteen ja 10k ruutua tuli jo elokuussa vastaan; nyt lopetellaan
+vuotta lukemiin 17060 tai sinnepäin.
+
+Myymässä sitä en ole! Tässä on systeemi, joka varmasti jää muita
+systeemejä pidemmäksi aikaa haltuun. (Samaa sanoin Q:sta, aikaisemmin
+Fujista.) Kompakti, upea kuva ja painokin on loppujenlopuksi vain
+miedosti muita vaihtoehtoja isompi.
+
+Pikselintiirailusta en ole harmikseni päässyt pois. Leicalla on
+näköjään ihan liian helppo tarkentaa oikein. Leica Q:ta en saanut
+myytyä suoraan, vaan hyväksyin vaihtokaupan Fuji X-T3:een ja
+setteihin. Vaihto oli taloudellisesti hyvä, nyt vain vähän mietin että
+miten Fuji ja Leica suhtautuvat keskenään. Fuji on paperilla fiksu,
+upea, ellei jopa täydellinen. Ei vain ole sitä sydäntä samalla tavalla
+kuin Leicassa. Toistaiseksi olen antanut Fujien lepäillä laatikoissaan
+aika pitkälti.
+
+Näiden lisäksi lähdin kehittämään itseäni myös valokuvauksen taidossa.
+Ostin reilulla satasella erilaisia kehuttuja sommittelusta ja
+vastaavista kertovia tekstejä, olen niitä nyt tässä lukenut
+iltalukemisina. Lisäksi Helsingin myötä osallistuin syyslukukaudella
+erilaisille kansalaisopiston valokuvakursseille. Pääasiassa ideanani
+oli verkostoitua paikallisten valokuvaajien kanssa ja toissijaisesti
+kuunnella ja oppia uutta. Verkostoituminen ei ennustettavasti ollut
+helppoa, enkä siinä oikein onnistunut. Vähän opin uutta tosin, mikä
+oli mukava! Ostamistani kirjoista olen myös oppinut runsaasti
+katsantakantoja ja kaikenlaista.
+
+** Muita hommia
+
+Elokuvien kulutus on taas kasvanut, kun on enemmän vapaa-aikaa
+käytettävissä, ja ajan voi organisoida ennakoitavammin.
+
+Hifihommissakin tapahtui aika isoa mylläystä nyt kun mietin. AKG K1000
+jäi nyt syrjään kun hankin suljetut studiokuulokkeet niiden
+äänenvaimennusominaisuuksien ansiosta. K1000 on edelleen kuningas,
+mutta ei käy kieltäminen etteikö laadukas kuuloketoisto ole tullut
+aika lähelle K1000:tta vuosien kehityksen saatossa. Suljetut
+kuppikuulokkeet sallivat lisäksi uusia juttuja musiikin nauttimisessa,
+vielä pitkälti kokeilematta. Tämä osa hifistelystä on potentiaalisesti
+vielä koluamatta auki, vahvistinsynergioista ja muusta nyt
+puhumattakaan.
+
+Painonpudotusaspekti on ollut Helsinkiin muuton jälkeen taka-alalla.
+Vaa'an toin mukanani muuttokuormassa, mutta en ole vielä ottanut pois
+muuttopakkauksestaan. Mutuilen mielessäni, että sillä saralla
+edistytään ihan hyvin, tai ei ainakaan kerätä painoa.
+
+Kuten jo sovin itselleni, muuttovuonna 2019 ei tarvinnut miettiä
+mitään isoja ulkomaanmatkoja. Sellainen tehtäköön nyt vuonna 2020, ja
+suoritetaan Yhdysvalloissa luultavasti.
+
+Kesällä tai alkusyksystä sain kipinän aloittaa rahansäästö
+indeksirahastoihin ja muihin instrumentteihin aiempaa
+aggressiivisemmin. Nyt on tavoitteena laittaa noin 10 k€ syrjään
+vuosittain. Näiden tavoitteiden kanssa on ollut vähän haasteita
+odottamattomien valokuvaukseen liittyvien heräteostosten takia, mutta
+ei ole onneksi maailman mahdottomin operaatio. Opintolainaa on
+jäljellä n. 1200 euroa, mutta en vielä taida maksaa loppuja pois.
+Korot ovat minimaaliset ja pitää varmaan rakentaa pesämuna matkaa
+varten -- mainittu kymppitonnin säästötavoite toki huomioonottaen.
+
+Viime vuoden vaihteessa suunnittelemalleni kuvagallerian
+uudelleenkirjoitukselle/-luomiselle on nyt suurempi tarve kuin
+koskaan. Ei vain ikinä toteutunut, vaikka kuinka yritin patistaa
+itseäni tarttumaan toimeen ennen Helsinkiin muuttoa. Idea olisi hyvä,
+mutta harmittavasti se olisi vähän kömpelö tuossa Darktablen rinnalla.
+Pakko se on silti tehdä, koska Lightroom tai vastaava ei ole
+realistinen vaihtoehto enää. Ottamieni kuvien määrä on raketoinut sen
+mukaan, miten paljon olen ollut nyt ulkona kuvailemassa, käytännössä
+päivittäin ennen kuin nämä pimeät talvikuukaudet alkoivat.
+
+** Vuodelle 2020
+
+Varmaankin polttavin homma olisi tuo kuvagalleria. Annan itselleni
+vähän ylimääräistä työtä ja lisähaastetta sen kanssa kun kirjoitan sen
+hienoilla hipsteriteknologioilla jotta se toimii myös nykyaikaisempana
+taidonnäytteenä sitten mahdollisille rekryäjille. Ja Clojurea on
+tullut muutenkin kirjoiteltua rikollisen vähän tässä!
+
+Painohommista en osaa sanoa, mitä tekisi. Ei ole kamalasti
+kiinnostusta ruveta karsimaan ruokavaliosta juuri nyt. Pömppömaha ja
+läskireidet säilykööt. Kuntoiluohjelmat ovat olleet nyt
+kävelypainotteisia. Saa nähdä, mitä senkin kanssa mahtaa syntyä ajan
+saatossa.
+
+Ulkomaanmatkaa pitää hieman huolehtia etukäteisvalinnoin niin, että se
+varmasti olisi lähelle yhtä loistava menestys kuin edellinen. Se
+Cali/Nevadan keikka 2018 oli kyllä loistava kaikin puolin. Tekisi
+melkein mieli suorittaa identtisesti samanlainen uudelleen, mutta
+kyllähän sen tietää, että toistettuna kokemus ei ole läheskään yhtä
+hieno. Parempi mennä muualle.
+
+Kamerakuumetta voi olla, pimeinä kuukausina on se taipumus. Nyt on
+hyvä kutina, että maltan pitää malttini. Tuo säästötavoite on jotenkin
+niin isosti otsalohkossa kiinni nyt.
