@@ -1,0 +1,86 @@
+#+TITLE: TV-kokeiluja 4K:ssa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE TV-kokeiluja 4K:ssa                                     :rauta:xmonad:
+CLOSED: [2020-01-14 Tue 17:09]
+:LOGBOOK:
+- State "DONE"       from              [2020-01-14 Tue 17:09]
+:END:
+
+Kahden näytön työpöytäratkaisuni on näillä näkymin saamassa täyden
+uudelleenmylläyksen. Samalla saattaa mennä moni kymmenvuotinen
+ratkaisu uusiksi.
+
+Moninäyttöinen osaaja olen ollut aika pitkään, varmasti nyt 14 vuotta
+nyt ainakin? Mitähän tähän osaisi sanoa. Ruutualan tuplaaminen toisen
+näytön avulla on paljon näytön kasvattamista efektiivisempi tapa tuoda
+ruutualaa lisää. Vertaa, miten tila käyttäytyy samankokoisessa
+kaksiossa vs yksiössä. Kaksi näyttöä on hyvä, kolme on upea ratkaisu.
+
+Mutta nyt on ollut hiljan tarvetta uudistaa olemassaolevia näyttöjäni
+-- paraikaa 20" Eizo ja 24" Asus. Yhdessä ne tuovat noin 3.6
+megapikseliä tehollista ruutualaa käytettäväkseni. Tämä on ihan hyvä
+luku monessa asiassa, mutta koodaushommissa se vähän kiristelee,
+täytyy sanoa. Kolmas näyttö ja pari lisämegapikseliä tuo riittävästi
+mehua lasiin, mutta tässä kohtaa aloin miettiä, voinko parantaa
+muitakin aspekteja samalla.
+
+Erilaisia ideoita palloteltuani päädyn aika radikaaliin
+ajatukseen/kokeiluun: 4K-telkkarit ovat halpoja ja nyt on tammikuun
+alennusmyynnit menossa. HiDPI-4K-näytöt ovat kalliimpia, vaikka hyvin
+tyydyttäviä kapistuksia. Nyt ideana on toteuttaa skaalaamatonta
+"loDPI"-kuvaa jolloin 4K-näytöstä saa irti 8 tehollista megapikseliä.
+(150% skaalauksen kanssa tehollista työpöytäalaa jäisi 3.68
+megapikseliä, mikä ei ole karsean huono sekään, mitä nyt vain se on
+nykytilanne.)
+
+Kun puhutaan pikselimitoista ja fyysisistä mitoista niin sattumoisin
+käy niin, että 4 kopiota nykyisestä päänäytöstäni (Asus 24" FullHD)
+laitettuna 2x2-matriisiksi vastaa melkein kaikilla tavoilla yhtä
+48-tuumaista 4K-telkkaria. Pikselit, fyysiset tuumat ja pikselitiheyskin
+kaikki täsmäävät. Ajatus kaikesta tästä tilasta huimaa jo valmiiksi!
+Tuntuu myös hullulta olla palaamassa takaisin yhden näytön
+käyttäjäksi, mutta numerot eivät valehtele -- saan tietyllä tapaa
+tuplasti lisää pikseleitä nykysettiini nähden ja jotkut asiat
+muuttuvat vaivattomiksi.
+
+** TV:n soveltuvuus tietokoneen monitoriksi
+
+Olen tietty vähän huolissani televisioiden soveltuvuudesta
+monitorikäyttöön. Jostain oikeasta syystähän ne maksavat niin paljon
+vähemmän kuin oikeat näytöt. Mutta esimerkiksi LG:n speksejä lukiessa
+moneen kysymykseeni löytyy vastaukset:
+
+- input lag :: mittausten mukaan peli/työpöytätilassa ollessaan viive
+  on täysin samaa ~10 millisekunnin luokkaa kuin työpöytämonitoreissakin.
+- katselukulmat :: LG on IPS-paneeli, joten radikaalitkin katselukulmat
+  lienevät ihan riittävän hillittyjä.
+- lämmöntuotto :: luultavasti viimeistä huutoa oleva EU-määräysten
+  mukainen TV käy yhtä viileänä kuin nykyiset pari näyttöäni yhdessä.
+- katseluetäisyys :: merkkailin seiniin 49-tuumaisen LG:n ääriviivat
+  ja kyllä se ihan siedettävältä vaikuttaa. Niskanhan pitäisi
+  teoriassa pysyä hyvin notkeana. Käytännössä kaikki pikselit eivät
+  ole kuitenkaan täydessä käytössä, vaan silmien välittömään
+  näkökenttään mahtuu paljon olennaista, ja sitten sivualueille mahtuu
+  paljon epäolennaista.
+- paneelin laatu :: Tämä on se iso juttu. Paneelin laatuun kuuluvat
+  tekijät, kuten mahdollinen värinä, humina, väritoisto, sävytasot,
+  välke, taustavalaisun taso. Pitää nyt vain elää ja katsella.
+
+** Ikkunalogistiikka, Xmonad ja tiletys
+
+Tilettävä Xmonad on ollut minulla käytössä jonkun kymmenisen vuotta
+nyt. Se palvelee niin näppärästi ja sen isoin vahvuus kilpailijoihin
+nähden on erittäin fiksu monen näytön tuki.
+
+Tiletys on luontaisesti ikkunanhallintafilosofiana hieman tilankäytön
+suhteen tuhlaavainen, mutta vastineeksi saa selkeätä johdonmukaisuutta
+ikkunanhallintansa.
+
+Nyt on pientä huolta siitä, että onkohan kahdeksan megapikselin kanssa
+tiletysalgoritmit kestämätön idea alkuunsakin. Lisäksi yhden näytön
+kanssa Xmonadin monen näytön vahvuudet häviävät. Olen vapaa tutkimaan
+kenttää ja ehkäpä löytämään joitakin uusia ideoita. 
+
+Näitä asioita on tullut mietiskeltyä tässä toimitusta odotellessa.
+Tuskaisen paljon häslinkiä kotiintuonnin kanssa. Odottavan aika on
+pitkä!
