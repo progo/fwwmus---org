@@ -1,0 +1,190 @@
+#+TITLE: 4K-TV näyttönä ja XMonadin käsittämätön tehokkuus
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE 4K-TV näyttönä ja XMonadin käsittämätön tehokkuus       :xmonad:rauta:
+CLOSED: [2020-01-27 Mon 18:33]
+:LOGBOOK:
+- State "DONE"       from              [2020-01-27 Mon 18:33]
+:END:
+
+[[file:./tv-4k-kokeiluja.org][Aiemmin kirjailin]] visioistani kokeilla isoa 4K-telkkaria tietokoneen
+työpöytänä. Pikselitiheys ihan jo paperilla implikoi, että sen ei
+pitäisi olla mahdoton diili lainkaan. Pari eri LG:n TV:tä käytyäni
+läpi löytyi kultainen keskitie.
+
+LG:n IPS-paneeliset 4k-telkkarit ovat kehuttuja töllöjä
+hintaluokissaan. Ensin ostin Gigantin tammialennuksista 49-tuumaisen
+halpamallin 49UM7000. Olin vähän varuillani paneelin koon suhteen,
+mutta pienempi 43" versio ei ollut alennuksessa ja olisi ollut paljon
+kalliimpi. Päädyin siis 49-tuumaiseen.
+
+** UM7000
+
+No tämä malli (UM7000) oli ja ei ollut hyvä. Väritoisto ja
+tonaliteetti oli mielestäni mainio. Input lag on mainio, kuten
+luvattuakin. Mutta katselukulmat eivät olleet ihan sitä, mitä IPS:ltä
+olin odottanut! Lisäksi mallissa oli dynaaminen taustavalo, jota ei
+mikään asetus saanut pois päältä. Varmasti asia, joka häiritsee
+kuvankäsittelyä.
+
+Valokuvia käsitellessä näytti kyllä komealta katsella kuviaan
+valtavalta kuvalta. Mustan taso ei päätä huimannut, mutta kirkkaat
+sävyt toistuivat paljon paremmin kuin työpöytä-Asuksessa.
+
+Muissa hommissa eli koodaus- ja surffaushommissa paneelin isoin kiusa
+oli sitäkin isompi. Sen pikselirakenne on sellainen LG:n oma
+viritelmä, RGBW, eli tyypillisten RGB-pikseleiden lisäksi sekaan on
+heitetty valkoista antavia pikseleitä. Tämä hävitti näytöille
+tyypillisen "pikseliterävyyden" vallan tyystin ja etenkin värillinen
+teksti näyttää kuin se olisi läpikäynyt JPEG-kompression.
+
+Tämä oli isoin syy sille, että uutta piti lähteä katselemaan.
+Selvitin, että LG käyttää noita RGBW-paneeleita sikinsokin eri
+malleissa, eikä tätä tietoa löydä spekseistä. Verkkokauppa.comiin
+lähdin seuraavaksi, sillä siellä on heidän sanojensa mukaan Helsingin
+isoin valikoima telkkareita näytillä myymälässä. Isosti olikin
+valikoimaa. Lähdin katselemaan paria ennalta googlattua LG:n mallia,
+joissa on hyvät RGB-paneelit.
+
+** UM7450
+
+Verkkiksessä tehty tutkimusmatkailu kannatti isosti. Otin kännykällä
+(paras makrokuvaaja) kuvia paneeleista läheltä ja se paljasti hyvin,
+missä mallissa on RGBW-pikselit ja missä ei. RGBW-paneeleissa koko
+pikselirakenne on enemmän hunajakennomainen kuin puhdas matriisi!
+
+Vaikka nyt esimerkiksi UM7400-malliston "tiedetään" olevan
+RGBW-roskaa, oli Verkkiksessä hyvin näytillä ja alennuksessa tämmöinen
+43-tuumainen UM7450 jossa oli mallinimestä huolimatta RGB-paneeli. Sen
+laitoin heti tilaukseen kotiintuonnilla ja käyttöönoton jälkeen nyt
+olen tätä käytellyt kolmisen vuorokautta.
+
+Ero tuohon UM7000:aan on varsin iso, vaikka internetin
+asiantuntijoiden mukaan eri malleissa olisi pitänyt olla pitkälti sama
+paneeli ja kuvanlaatu; vain älyominaisuudet ja muut jutut olevinaan
+paranevat isompiin lukuihin mentäessä. Ensimmäinen asia, jonka
+huomasin melkein heti kun laitoin tasaisenharmaita ikkunoita auki
+uudelle näytölle: tämän TV:n taustavalaistus on huimasti tasaisempi.
+7000:n huono ja epätasainen, keskipainotteinen taustavalo saattoi jopa
+hyvinkin olla viallinen, koska niin selkeä ero näiden kahden välillä
+on. Reunoja kohti himmenevä valo on myös omiaan selittämään
+IPS-paneelille huomattavan huonot katselukulmat. Tässä mallissa on
+paremmat kulmat, vaikka toki paneelikin on pienempi.
+
+Input lag, kuvanpäivitysvauhti ja kaikki asiat ovat joko vähintäänkin
+samat tai selkeästi paremmin tässä mallissa. Ja kasvanut pikselitiheys
+(90 -> 110) on miellyttävällä tavalla parempi, mutta ei vielä vaadi
+käyttöliittymän skaalausta tai mitään.
+
+Liikkeessä kun katselee 43-tuumaista ja 65-tuumaista rinta rinnan,
+alkaa 43 näyttää aivan epätoivoisen pieneltä. Mietinkin jo, että
+noinkohan 43 on hyvä, etenkin kun 49:n kanssa ei tullut koon suhteen
+ongelmia. Liikkeessä nyt kaikki alle 90-tuumainen näyttää pieneltä.
+Kotona ja käytössä tämä 43" on kerrassaan *täydellinen*.
+
+** XMonadin käsittämätön tehokkuus ikkunoidenhallinnassa
+
+Monesta näytöstä yhteen siirtyessäni oli pientä huolta siitä, miten
+tilettävä ikkunanhallinta vastaa tähän haasteeseen. Onhan kuitenkin
+"fakta", että tilettävä ratkaisu parantaa käytettävyyttä
+ikkunaekonomisuuden kustannuksella: jos sinulla on vaikka 6 ikkunaa
+auki työpöydällä ja kaksi niistä ei tarvitse kuin hyvin vähän
+työpöytäalaa, tiletyksen kanssa tyypillisesti kukin saa aika
+tasaisesti saman verran tilaa.
+
+Xmonadin oletusratkaisuilla (Tall + Full) ei pötkitäkään pitkälle. Ne
+ovat hyvin tuhlaavaisia näin isojen näyttöjen kanssa. Ei onneksi
+tarvinnut kamalan pitkään kaivella kun alkoi löytyä käytön myötä hyviä
+ideoita.
+
+*** 4K-layoutteja
+
+Tässä toistaiseksi löytämiäni layoutteja. Niitä ei tarvitse onneksi
+ollakaan kuin muutama niin kaikki käyttötapaukset on katettu.
+
+Kolmeen sarakkeeseen asetteleva "ThreeColumn" on hyvä lähtökohta.
+Hienosäädin tätä ideaa niin, että keskimmäinen sarake (XMonadin
+terminologiassa "master") jakautuu tarvittaessa vertikaalisesti niin,
+että joko minulla on yksi iso master-ikkuna tai kaksi kapeampaa
+master-ikkunaa keskellä. 4K-resoluution kanssa neljään sarakkeeseen
+jaettu ruutu tarkoittaa noin 960 pikselin palstaa. Tämä riittää
+mainiosti surffaamiseen ja vieressä voi editoida tekstiä näppärästi.
+Ja jos tulee tarve tuplata selainikkunan leveys, se on vain
+pikanäppäimen takana!
+
+[[./kuvat/xmonad-4k-layouts/3col-middle.png]]
+
+Sitten saman ThreeColumn-layoutin jalostusidea sillä idealla että
+nettiselain esimerkiksi dokkareita tai lopullista tuotetta katsellessa
+saa olla mielellään sen 960 pikseliä leveä, mutta Emacsille tai
+IDE:lle on hyvä pyhittää vähintäänkin tuplalevyinen kaistale, tässä on
+normaali ThreeColumn mutta heijastettuna niin että master-ikkuna on
+oikealla puolella. Emacs osaa jakaa itse itsensä tarvittaviin
+palasiin, sama pätee varmasti muille editoreille ja IDE:ille. Sitten
+ideana on antaa selainten pyhittää nuo kaksi vasemmanpuoleista kapeaa
+suikaletta sillä, mitä nyt tarvitaankaan. Lisäikkunat tulevat vielä
+jakamaan tätä vasemmanpuoleista tilaa entisestään. Masterille on
+mahdollista pyhittää enemmän kuin 50% näytöstä, se on vain ihan hyvä
+lähtökohta.
+
+[[./kuvat/xmonad-4k-layouts/3col-big.png]]
+
+Demonstraation nimissä 4x3-gridi (kuvassa tosin vain 3x3) on
+4K-näytöllä täysin käyttökelpoinen idea. Nettiselaimessakin riittää
+leveys ihan hyvin, pituutta saisi olla enemmän. Tässä kohtaa
+staattisten tilettävien ikkunahallintojen käyttäjät voivat tulla
+ilakoimaan heidän hyvillä työkaluillaan. XMonad dynaamisena
+tilettäjänä ei "anna" käyttäjän puuhastella niin tarkkaan ikkunoiden
+jaon suhteen, mutta näen tämän kompromissin aivan fantastisena.
+Esimerkiksi annettakoon se, että nyt kun elokuvia katsellessani
+vaihdan 4K-näytöltäni tuohon Philipsin FullHD-näytölle, kaikki ikkunat
+skaalautuvat niin hyvin kuin voivat skaalautua, ja kaikki pitävät
+vanhat paikkansa ruudulla. Tätä ei mikään Windows tai Openbox tai muu
+osaa tehdä, vaan ikkunat ovat aina sekaisin resoluutionvaihdosten
+jälkeen. Ei Xmonadissa!
+
+[[./kuvat/xmonad-4k-layouts/grid.png]]
+
+*** Xmonad-konffi
+
+Huomaan huvituksekseni, että Xmonadin konffini on viimeksi nähnyt
+paljon tuunausta vuonna 2013. Sen jälkeen olen kait löytänyt itselleni
+toimivan setin layoutteja ja konffia. Esimerkiksi kahden pienen
+FullHD-näytön kanssa Xmonadin oma Tall-layout on enemmän kuin pätevä,
+kun yhdistää heijastumaversion siitä (master on oikealla vasemman
+sijaan).
+
+Paljon [[file:./xmonad.org][vanhaa säätöä]] heitin surutta romukoppaan. Nimetyt työtilat ja
+99 työtilan katto oli jokseenkin turha ja vähällä käytöllä jo
+aikaisemminkin. Nyt kun yksi ruudullinen vetää 2-4 vanhan työtilan
+verran tavaraa sisäänsä niin kymmenellä selviää hyvin pitkälle. Juuri
+nyt konffissa on 11 työtilaa konffattuna. Odotan että normaali tilanne
+tulee olemaan että vain 2-3 työtilalla on elämää.
+
+Iso uudistus ja parannus vanhoihin konffeihin nähden oli nyt ottaa
+käyttöön 2D-navigointi. Vanhan systeemin "fokusoi edellinen/seuraava
+ikkuna" toimii riittävän hyvin silloin kun ruudulle ei mahdu kuin sen
+3-4 ikkunaa mukavasti. Nyt se muuttuu auttamattoman hitaaksi ja
+kankeaksikin. 2D-navigoinnissa HJKL vie minut ilmansuunnittain siihen
+suuntaan, mihin sitten haluankin mennä.
+
+Vanhan systeemin monipuoliset "heitä ikkuna näytölle X" -pikanäppäimet
+on poistettu kokonaan. Kun näyttöjä on vain yksi niin ei siinä paljoa
+tarvita. Tämä oli hyvin joustava tapa käyttää 2-3 pienempää näyttöä,
+kun yhdellä näppäinyhdistelmällä pääsit suoraan haluamaasi näyttöön
+kiinni ja sitten ikkunan fokusointi kolmella eri yhdistelmällä vei
+nopeasti perille. Juuri tätä minä vähän pelkäsinkin että onkohan yhden
+ison näytön kanssa Xmonadille liian kova pala? No onneksi
+2D-navigointi ja kustomoitu ThreeColumn-layout vastaavat tähän
+kysymykseen: ei lainkaan.
+
+** Kokeilu näyttää olevan iso menestys
+
+Kaikin puolin tällä hyvin valitulla 43-tuumaisella LG:llä saa ihan
+normaalia työpöytä-Asuksen suorituskykyä suhteessa hyvin halpaan
+hintaan. XMonadin sai hyvin kesytettyä uusiin haasteisiin ja nyt
+kelpaa mainiosti.
+
+Tässä on vielä lopuksi ihan toimintakuva siitä, miten 4K:n 8 miljoonaa
+pikseliä voi taittua arkikäytössä.
+
+[[./kuvat/xmonad-4k-layouts/actionshot.png]]
