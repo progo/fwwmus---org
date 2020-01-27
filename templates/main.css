@@ -72,6 +72,9 @@ a {
     background-color: #dedb73;
 }
 
+#main .figure img {
+    width: 100%;
+}
 
 .org-dl dt {
     font-weight: bold;
@@ -253,8 +256,6 @@ pre.src .code-sh-escaped-newline { }
     background-color: #ad1414;
 }
 
-
-
 #sidebar li > * {
     display: block;
     /* width: 100%; */
@@ -313,6 +314,7 @@ li.tag-3 > * { background-color: #d04a00; }
         width: 600px;
         margin-left: 3em;
     }
+
     #sidebar {
         // float: none;
         // margin-left: 5%;
