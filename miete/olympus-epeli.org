@@ -1,0 +1,144 @@
+#+TITLE: Olympus Epeli
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Olympus Epeli                          :kamera:olympus:leica:fujifilm:
+CLOSED: [2020-02-08 Sat 18:59]
+:LOGBOOK:
+- State "DONE"       from              [2020-02-08 Sat 18:59]
+:END:
+
+Fuji X-T3 on myyty pois. Yhden kamerasysteemin omistajana en pitkään
+kärsinyt olla, kun piti taas ostaa jotain kakkosjärjestelmäksi. Tällä
+kertaa olin taloudellisesti fiksu ja menin tiukalla budjetilla.
+
+** Ideaalinen kakkossysteemi
+
+Minulla on ollut ykkössysteemeitä ja kakkossysteemeitä jonkin aikaa.
+Leica Q:n aikaan tämä kokeilu alkoi, kun ostin Pen-F:n uutena, ja se
+yllättäen sopeutui hyvin kakkossysteemiksi pienen itse-etsiskelyn
+myötä.
+
+Leica Q:n tarkennuksen /laatu/ yksinään jo takasi sen, että Pen-F ei
+oikein soveltunut korvaamaan sitä mitenkään järkevästi. Sitten kun
+valta vaihtui ja Leica M tuli, oli luonnollisesti sen
+manuaalitarkennus ja koko se kokemus sen ympärillä riittävästi syytä
+sille, että M tuli suoraan ykkössysteemiksi.
+
+Näissä peilittömissä on teoriassa loistavan tarkka tarkennus, mutta ei
+se jostain syystä läheskään aina käy toteen. Leica Q:n kanssa kyllä,
+mutta ei Olympuksen, eikä Fujien kanssa. Kun kuvasin kaupungilla
+ominaiseen tapaani hyvin vauhdikkaasti ja huolimattomasti näitä
+peilittömiä ratkaisuja niin sekä kameroiden tarjoama käyttöliittymä
+tarkennukseen liittyviin ominaisuuksiin että itse tarkennuksen laatu
+molemmat yhdessä tekivät näistä kameroista epävarmempia tarkentamaan
+kuin manuaalitarkenteinen Leicani. Pystyn sohimaan Leicani kanssa aika
+nopeasti ja huolimattomasti ympäriinsä ja saan kuvan tarkennettua
+siihen suuntaan, mihin sen pitää ollakin. Tämäkin kokemus jo yksinään
+takaa paljon nautintoa kuvauskokemukseeni.
+
+Kakkossysteemiltäni ei tarvita tämmöisiä asioita lainkaan. Toki
+haluaisin, että rahalleni saisi vastinetta, 850 euron Olympus tai
+monen tonnin Fujifilm-paketti... Siksipä nämä saivat mennä. 
+
+Saatoin viimein oivaltaa, että ehkä vaadin "kalliilta"
+ylijäämäkameroilta liikaa koska ne maksoivat minulle myös pitkän
+pennin. Tämä toki suhteellista, koska Leica M on ylivoimaisesti
+kallein paketti. Tunnen silti saavani suhteessa hirveän hyvin
+vastinetta tarkennushommissa ja muissa käyttökokemuksiin liittyvissä
+jutuissa.
+
+Mutta takaisin hintakysymykseen. Ehkä jos minulla "pitää olla"
+kakkossysteemi olemassa, jota en käytä tai käytän vähän, entäpä jos se
+systeemi maksaisi vain pennejä verrattuna ykkösjärjestelmääni!
+
+** Olympus E-PL5 
+
+Asiasta toimeen. Jos totesin itselleni että 850 euron Pen-F ei ole
+hyvä ja että +1000 euron Fujifilm X-T3 ei ole hyvä niin varmasti
+sitten alle satasen maksava vanha aloittelijanrunko on sitten hyvä?
+
+Teoriassa kyllä. Jos minulla on jossain rungossa kiinni vain pari
+kymppiä niin ei se tunnu sitten niin pahalta, jos se homehtuu omia
+aikojaan jossain laatikossa.
+
+Asetin lisävaatimukseksi rungon ja systeemin keveyden prioriteetiksi.
+Lisättynä se fakta, että minulla on ennestään jo yksi hyvä ja kevyt
+M4/3-linssi laatikossa, päädyin tarkastelemaan Panasonicin ja
+Olympuksen vanhoja hinnat-alkaen-runkoja. Lopputuloksena on, että
+kävin ostamassa 70 eurolla Olympus E-PL5 -rungon. 16 megapikseliä ja
+kohtalaisen nykyaikainen kuvanlaatu. (Totesin, että M4/3 nyt ainakin
+on jännittävästi "junnannut" paikoillaan kuvanlaadun suhteen nyt jo 7
+vuotta. Teoriassa hyvä siis, jos saa nykyaikaista kuvanlaatua noinkin
+vanhoista ja halvoista rungoista.)
+
+[[file:./kuvat/epeli-panasonic.jpeg]]
+
+Epeliksi ristitty kamera on piskuinen, ahdas, kevyensutjakka ja
+heppoinen aloittelijanmalli. Kuvanlaatu siinä on tosiaan luvatusti
+tosi hyvää vanhaksi rungoksi. Tarkennusnopeus, kuvanvakain ja
+sensellaiset asiat ovat miedosti jäljessä uudempia
+mikronelikolmerunkoja, kuten voisi odottaakin. Mutta näin parin päivän
+omistajuuden perusteella olen ollut tyytyväinen.
+
+Kameraa riivaa sama Olympuksen firmis ja olympusmainen ajattelu, mutta
+nyt kun hinta on vain alle kymmenesosa Pen-F:n hinnasta niin olen
+aivan toisella asenteella liikenteessä.
+
+Lisäksi se on vain plussaa, jos Epeli ei ole täydellinen kamera. Leica
+voi näyttää vahvuutensa ja olla kingi jatkossakin. Ihanteellisesti
+nämä kaksi löytävät toisensa toisiaan täydentävinä systeemeinä.
+
+** Panasonic 12-32
+
+Ostin Epelille ja olemassaolevalle Panasonicille 35-100 kaveriksi
+normaalizoomin Panasonic 12-32. Nyt minulla on melkein katettuna hyvä
+perusalue kuvakulmia 24:stä 200 milliin asti. Panasonic 35-100 on jo
+yksinään piskuinen ja himmeä linssi, mutta sitäkin hienompi
+suorittaja: terävä ja kontrastikas ja kaikkea. Pakko oli kokea myös
+tuo kaikkien kehuma pannukakkukokoinen 12-32. Se on ylittänyt kaikki
+korkeatkin odotukseni isosti.
+
+Nyt jään miettimään, miten asiat olisivat ehkä menneet, jos olisin jo
+muinoin ostanut molemmat nämä Panasonicit kaksikkona. Olisiko jo
+silkka zoomien käytännöllisyyden riemu ajanut pois Leican otteesta
+hyvissä ajoin? Tämä Panasonic 12-32 on ehkä kittilinssi ja optisesti
+vaillinainen, mutta perhana jos se ei piirrä upeasti ja sillä tavalla
+kuten minä tykkään.
+
+Panasonic suorittaa tosi hyvin ja kattaa paljon katukuvaajan suosimia
+polttovälejä. Viritin Epelinkin niin, että zone focus on aika helppoa
+kokeilla seuraavan kerran kun sitä pääsee kokeilemaan. Epelin shutter
+delaykin on aika miellyttävän lyhyt MF-moodissa. ISO-suorituskykyä en
+ole vielä analysoinut ihan kokonaan, mutta ISO 400 ja kaksi stoppia
+lisää valotusta jälkikäsittelyssä (eli teoriassa ISO 1600) on todella
+siistin näköistä.
+
+** Onnistumisia ja epäonnistumisia
+
+Epelin ulostulo on kyllä hyvä. Silti tarkennuksen suhteen, kuvanlaadun
+ja muiden asioiden suhteen Leica on kingi, kuten on järkevääkin
+odottaa.
+
+Ennen kaupantekoa onnistuin ylihypettämään itseni odottamaan aivan
+mahdottomia tältä kameralta. Oston jälkeiset vaikutelmat olivatkin
+välittömästi kädenlämpöisiä, hyvin vaisuja.
+
+Mutta jo se fakta, että sama irto-EVF käy minun Leicaan ja Epeliin,
+tuo energiaa tähän hommaan. Ja tuo Panasonic 12-32, voi mahdoton. Ja
+ilman EVF:ääkin näytön varassa toimiminen on ihan omanlainen tapansa
+valokuvata. Ei parempi, ei huonompi, vaan omanlaisensa tapa. Ja miten
+edullisesti! 70 euron runko ja 69 euron zoomilinssi ja se tarjoaa niin
+nautittavaa kuvaa ulos, Fujit jää melkein toiseksi oman maun
+mukaisissa vertailuissani.
+
+Näiden erittäin positiivisten ensikokemusten nimissä luonnollisesti
+aloin jo unelmoida +isoista kirkkohäistä+ skenaariosta, jossa tämä
+uusi relevaatio löisi minut vapaaksi Leican ikeestä, näkisin järjen
+valon näissä kuvaushommissa.
+
+On aivan liian helppo näköjään unohtaa, miten Pen-F tai fiksummin
+suunniteltu X-T3 eivät kestä kilpailla Leicaa vastaan. 
+
+Samanaikaisesti sitä ei käy kieltäminen, että yhden Leica-linssin
+myymällä voisi ostaa Olympus 7-14mm f/2.8 Pro:n, Olympus 12-100 f/4
+Pro:n, Panasonic Leica 25 mm f/1.4:n, ja niille vielä laadukkaan
+Panasonic-rungon...
