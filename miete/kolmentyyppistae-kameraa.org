@@ -1,0 +1,191 @@
+#+TITLE: Kolmentyyppistä kameraa
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kolmentyyppistä kameraa                         :kamera:leica:nikondf:
+CLOSED: [2020-03-02 Mon 20:03]
+:LOGBOOK:
+- State "DONE"       from              [2020-03-02 Mon 20:03]
+:END:
+
+Hyvät, pahat ja rumat. Nyt olen nauttinut Leica M -elämästä pitkin
+siemauksin, eikä loppua näy. Tietysti jollain tavoin pitää kai olla
+aina miettimässä, miten saisi rahaa palamaan uusin valokuvausvälinein.
+
+** Rangefinder
+
+Leica M on kuuluisasti rangefinder-kamera, ja tässä tekniikassa on
+omat plussansa ja miinuksensa.
+
+Plussat:
+
+- Tarkka ja selkeä käsitarkennus, joka toimii
+  polttoväliriippumattomasti.
+- Selkeä, kirkas OVF-kokemus.
+- Sommittelu voi olla helpompaa pidemmillä polttoväleillä.
+  
+Miinukset:
+
+- Manuaalitarkennus ainut tapa tarkentaa.
+- Lähitarkennusetäisyys fyysisistä syistä pitkänpuoleinen 70 cm.
+- Sommittelua rajoittaa parallax-virhe ja kehysviivojen lukumäärä.
+
+Rangefinder-kamera on mekaniikkaa alusta loppuun saakka. Valotus
+mitataan mekaanisella sensorilla. Tarkennus on mekaaninen,
+tarkennusavut ovat optisia. Digitaalisuus astuu kuvioihin vasta ihan
+loppumerkeillä, kun suljin avataan ja kennon pikselit valottuvat.
+
+Rangefinder tarkennustapana on sitä parempi, mitä laajemmasta
+polttovälistä puhutaan. Se on ältsin nopea tapa varmistaa fokus.
+Pidemmälle mentäessä, 90-millisiin vaikka siirryttäessä alkaa
+systeemin luontainen vaativuus olla ihmissilmälle liikaa. Tähänkin on
+vielä mahdollista vaikuttaa hankkimalla hienoja etsimeen ruuvattavia
+suurennuslaseja. Fysiikan lait takaavat sen, että isompi etsinkuva
+tuottaa tarkempaa tarkennusta.
+
+** TTL ja ei-TTL
+
+Niin paljon kuin rangefinderissä on etuja, se että se ei ole TTL
+(through the lens) -tarkennusta tai sommittelua, on myös haitta.
+
+Ironisesti tahtoo olla, että mitä laajempaa kuvaa on ottamassa, sen
+enemmän rangefinderin tarkennus toimii paremmin kuin vastaavat muut,
+mutta että sen vaikeampi on myös sommitella sivuikkunan kautta. Eli
+voitat jotain, häviät jotain. Lisäksi ultralaajakulmien kanssa alkaa
+olla tuo 70 sentin tarkennusetäisyys ongelma, koska kehys pitäisi
+saada täyteen sisältöä ja 70 senttiä on pitkä matka
+ultralaajakulmalle.
+
+Miksei kukaan valmistaja tee hienoa TTL-kameraa (DSLR:ää) mekaanisin
+tarkennusavuin, leikkolasein ja muin keinoin? No tyhmä kysymys tietty,
+Canonin malleille ja muille saa asennettua näitä. Voidaan myös pitää
+halutessaan autofokus toimintakykyisenä ja miettiä jotain
+retro-DSLR:ää kuten *Nikon Df:ää*.
+
+Nikon Df (ja peilijärkkärit) ovat tätä nykyä aika paljon kuin Leica.
+Toisin kuin peilittömät kamerat, on peilikameroissa tyypillisesti
+vedetty ilman ylenpalttista digitalisaatiota. Tarkennus ja
+valotusmittaus on erillisin sensorein ja kun annat kameran
+automaattitarkentaa, se tapahtuu mekaanisin avuin, tai vähintään
+tarkennusperiaate on puhtaasti optiikan lainalaisuuksien sanelema.
+
+Nikon Df vielä kaikista peilijärkkäreistä on lähinnä suorakontrollista
+työkalua, yksinkertainen ja samalla mielettömän tehokas (siinä on
+silloisen lippulaiva-D4:n sisukset) kapistus. Myös yksi kevyimmistä ja
+hiljaisimmista kinokoon peilijärkkäreistä.
+
+Jos rangefinderille pitäisi olla lähiten samanhenkinen, mekaaninen
+kamerakumppani, joka tarjoaisi hyvän optisen TTL-sommittelun niin
+Nikon Df on erittäin vahva, erittäin kiinnostava valinta.
+
+** OVF ja EVF
+
+Optinen etsin OVF on loistava, mutta tietysti sekin on joskus
+epätäydellinen. Joskus elektronisen etsimen, EVF:n, kanssa on upea
+työskennellä, saat valotuksen kerralla kuntoon ja muuta mukavaa.
+
+Etsimen teknistä toteutusta tärkeämpänä ominaisuutena on peilittömän
+kameran kannan ominaisuudet. Käytännössä kaikki nykypäivän peilittömät
+linssikannat ovat niin lähellä kennoa että niihin saa sovitettua
+vanhoja (D)SLR-linssejä.
+
+Tämä joustavuus siitä, että voin teoriassa heittää mitä tahansa lasia
+peilittömän kameran nokalle, on teoriassa kiehtova asia. Mitä tahansa
+pitkälti. Nikonin tai Canonin peilikameran kanssa olisi kiva peuhata,
+mutta se iso kiusa on se, että siihen ei saa sitten paljoa muuta kuin
+Canikonin omia linssejä. Ei sovitettua Olympus-lasia (ilman kallista
+tai työlästä sovittamista) ei mitään. Peilittömälle riittää ostaa
+laadukas ja tyhmä sovitinrenkula ja se on sillä selvä!
+
+*Leica SL* olisi tämmöinen tämänhetkinen unelmakamera sovitetun lasin
+kanssa puuhaamiseen. Nikon Z6, Sony A7R4, Canonin tuleva R5, näitä on
+monia jotka toimisivat upeasti samassa tarkoituksessa.
+
+Leica SL on kallis ja iso rotohka vähillä ominaisuuksilla, mutta
+vahvasti pelkään, että juuri se olisi, Leican suunnittelufilosofialla
+ja kaikella, runko jota rakastaisin eniten käyttää näistä lukuisista
+vaihtoehdoista.
+
+** Kolmen kopla, vai yksi yli muiden?
+
+Eli kukin näistä, rangefinder, OVF-kamera (DSLR) ja EVF-kamera
+(peilitön) tekee vähän omia juttujaan eikä voi yksinään korvata kahta
+muuta.
+
+Voidaanko näistä yhden DNA:ta muuttaa niin, että se palvelisi kaikkia?
+
+- DSLR on jäykin muuttumaan, koska niiden bajonetti on syvällä
+  kennosta heiluvan peilin takia. Kaikki tätä "matalammalla"
+  istutuksella olevat linssit eivät mene millään sovittimella sisään.
+  Lisäksi samalla tai lähelle samalla syvyydellä istuvat linssit eivät
+  sovitu DSLR-kameroihin ilman linssin purkamista palasiksi, eli sekin
+  on ikävä.
+- Peilitön on joustavin ja luonnostaan ottaa vastaan kaikenlaista,
+  koska peilittömien kannat ovat nykyaikaisesti hyvin matalia ja
+  kaikki syvemmät menevät sitten tyhmien sovittimien kanssa näppärästi
+  sisään. Peilittömiä vaivaa sellainen liika japanilaisuus vain, Leica
+  SL ja Hasselblad X1D ovat ehkä etulinjassa taistelemassa tätä
+  rintamaa vastaan. Näistä kallis Leica SL on monikäyttöisempi. Oli
+  miten oli, TTL-kameroita nämä silti ja joskus rangefinder on vain
+  liian kiva...
+- Rangefinder-kamera on luonnostaan kuin peilitön kamera; matala
+  istutus joten iso osa, valtaosa muista linsseistä sovittuu nätisti
+  rangefinderin päälle. Uudemmissa Leicoissa on livenäkymät ja
+  irtoetsimet, joten rahalla pääsisi. Mitään autofokusta ei tulla
+  saavuttamaan tosin.
+  
+Eli moderni rangefinder-kamera, kuten oma M240-P tai M10 tai M10-P
+tekee aika ison osan peilittömien sovitusjutuista oikein, lisäksi
+sallien rangefinder-linssien käytön ja rangefinder-ikkunan käytön.
+Aikamoista, olenko sitten istunut tyhmänä tässä tietämättäni että
+Graalin malja makaa 2 metrin päässä Billinghamissaan?
+
+Oma M240-P on teoriassa ok, mutta sen livenäkymä on antiikkista laatua
+monella tapaa. Sen käyttäminen ei ole suurta herkkua. Toisaalta kuka
+tässä onkaan puhunut siitä että kaikki M-lasit pitäisi vaihtaa
+vauhdilla johonkin naarmuisiin vintage-Canoneihin.
+
+M10-P saattaa olla hyvä, saattaa olla että sekin on liian antiikkinen
+romu. Leica SL on ainakin tiedetysti fantastinen työkalu, ongelmana
+sillä on suuri koko ja paino. Mutta etuina tietysti olisi että yksi ja
+sama hieno runko hoitaisi kaiken.
+
+Jos olisin rahoissani, olisi kaikille kolmelle oma soppensa
+sydämessäni. Nikon Df niille yön pimeille kun kyseisen kameran
+hämäränäköä ja autofokusta tarvitaan; Leica SL kun halutaan
+fiilistellä jonkun esoteerisen SLR-linssin kanssa syysmetsissä ja
+Leica M kaikkeen muuhun.
+
+** Tulevaisuuskuvat ja talouskysymys
+
+Nykyisin käytännössä kaikki linssit ovat Leican M- tai LTM-linssejä.
+Niitä on hyvä ja laadukas kokoelma hallussani. 
+
+Jos ostaisin SL:n tai M10:n niin kaikki linssit menisivät siihen
+kevyesti sovittimella tai heittämällä. Jos ostaisin Nikon Df:n tai
+muun DSLR:n, ei mikään linssi menisi siihen vaan Df:lle pitäisi sitten
+alkaa rakentaa uutta linssikatalogia alusta alkaen. Koska M tekee
+35-50-milliset kuvat niin hyvin, Df:lle voisi ostaa yhden hyvän
+28-millisen ja katsoa siitä eteenpäin mitä tekee. 
+
+Siitä huolimatta, tyhjästä alkaminen turhauttaa ja on kallista.
+
+SL:n ostaminen nykyisen MP240:n rinnalle olisi halvempaa kuin MP240:n
+päivittäminen M10P:ksi. Toisaalta M10P:n ostaminen tarkoittaisi että
+minulla olisi yksi hyvä kamera, joka palvelee kaikessa. "Master of
+everything." M10 on myös piirun verran parempi kuvanlaatuhommissa kuin
+vanha SL.
+
+Syksyllä käynen sellaisessa kaupungissa, jossa on Leica Store. Silloin
+pääsen hypistelemään M10:tä ja ehkä SL2:ta paikanpäällä, todeta niiden
+livenäkymien kelpoisuudet ja kaikki.
+
+Vuoden päästä keväällä Leica julkaisee mahdollisesti M10:n seuraajan.
+Jos tämä seuraaja tekee isoja parannuksia livenäkymähommiin niin se on
+vahva idea. Jos se ei saa isoja parannuksia livenäkymähommiin niin
+käytetty M10P voi olla aika realistinen idea.
+
+Polttavin kysymys lienee, maltanko lainkaan odotella niin pitkälle!
+
+Hauska tai surullinen juttu tässä on se, että mikään ei pitele minua
+jo nyt ostamasta jo jotain kiinnostavaa vintagelasia ja sovittamasta
+sitä M240:n päälle, ja se myös osaltaan auttaisi valitsemaan suuntaa
+hommilleni.
