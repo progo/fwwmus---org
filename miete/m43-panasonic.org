@@ -1,0 +1,121 @@
+#+TITLE: Panasonic GX80 ja M4/3:n uusi ponnistus
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Panasonic GX80 ja M4/3:n uusi ponnistus     :olympus:kamera:panasonic:
+CLOSED: [2020-03-11 Wed 19:41]
+:LOGBOOK:
+- State "DONE"       from              [2020-03-11 Wed 19:41]
+:END:
+
+[[file:./olympus-epeli.org][Olympus EPL5 tai "Epeli"]] on toistaiseksi lähinnä epäonnistunut
+tehtävissään. Tai sanotaanko, että ne pari vähäistä kuvaustehtävää,
+joita olen sille antanut, ovat epäonnistuneet noin 50 % ajasta. Sen
+tarkennus etenkin Panasonic 35-100 -telezoomin kanssa on erityisen
+epäluotettavalla tasolla. Aikani kokeilin manuaalitarkentaa sitä mutta
+ei se ole tämän systeemin hengen mukaista sellainen.
+
+Panasonic on ollut sellainen epäseksikäs vastine Olympukselle.
+Kaikesta huolimatta ihmiset saavat sillä tuloksia aikaan ja
+lopputuloksissa ei ole mitään epäseksikästä. (James Popsys Youtubessa
+on suositeltavaa katsottavaa siitä, miten Panasonicilla tykitellään
+maisemakuvia.) Ajattelin että kun minä pidän µ4/3:sta systeeminä ja
+ajatuksena niin paljon, että kyllä minun on annettava sille oikea
+mahdollisuus.
+
+Voitaneen ehkä todeta, että olen itse aika kypsä Olympuksen hommille.
+Hyvät kuvat Olympus ottaa kyllä ja E-M1-mallisto on edelleen
+mietteissäni, mutta se Olympuksen lähestymistapa tarkennukseen ei ole
+oikein sinut itseni kanssa. Lisäksi Olympuksen klassisen hankalat
+valikot ja kaiken hyvän lisäksi Epelin "shutter shock" kiusaa hieman
+minua. Lisätään siihen se fakta että Epeli on painavahko kokoonsa
+nähden, on melkeinpä sitten 'sama' hypätä suoraan keskiluokan
+kameroihin takaisin.
+
+On vain järkevää uhrata verraten vähän rahaa sille, että oikein kokee
+tämän Panasonic-leirin tuotteet. Oletan ainakin että yksi keskimalli
+GX80 riittävästi edustaa koko Panasonicin µ4/3-mallistoa.
+
+Halusin kakkoskameraltani halpuutta ja keveyttä. EPL5 on halpa mutta
+ei järin kevyt. *Panasonic GX80* ei ole kumpaakaan, tosin sanottakoon
+että 250 euroa ei ole maailman kallein investointi todella
+tasapainoisesta ja pätevästä tuotteesta.
+
+[[./kuvat/pan-epl-pan.jpeg]]
+
+** GX80
+
+Itselleni asettamani lupaus alle satasen rungoista ei käy toteen,
+mutta toisaalta en voi kyllä väittää etteikö tämä GX80 hauku 250 euron
+hintansa aika hyvin. Se on monella tapaa sama kamera kuin Pen-F mutta
+oli jo uutena selvästi halvempi. Valittujen Panasonic-linssien kanssa
+kuvanvakaimen luvataan tuovan melkein Pen-F-tasoista vakausta, joskin
+tätä en omien ensivaikutelmien saattelemana voi mitenkään
+allekirjoittaa.
+
+Rungon laatu, nappulat ovat huipputasoa. Näytön laatu ja katselukulmat
+ovat huipputasoa. Panasonic-firmis ja valikot ja
+kosketusnäyttötoiminnot ovat huipputasoa. Automaattitarkennuksen laatu
+ja nopeus ovat Panasonic-linssien kanssa huipputasoa. (Tositestit
+tosin vielä tekemättä, eli pian nähdään onko GX80 Leica Q:n tasoa vai
+ei.) Näyttö on mallia "tilty screen" eli selvästi parempi kuin Pen-F:n
+tyhmä ratkaisu.
+
+Rullat ja käynnistysvivun muistelisin Pen-F:ssä paremmiksi. 
+
+Tämän Panasonicin EVF on selkeästi kameran heikoin lenkki. Se on tosi
+surullinen. Mutta se ajaa asiansa, mitä muuta voi oikein pyytää
+etsimeltä? Vastapainoksi kaikki kirjoittelijat joka paikassa kehuvat
+tämän GX80:n näytön laatua ja kirkkautta kaikissa olosuhteissa. Se on
+todella hyvä, ällistyttävän hyvät katselukulmat kyllä.
+
+Huvittavasti 4 vuotta vanhempi EPL-5 on internetin kuvanlaatutesteissä
+saanut paremmat pisteet kuin tämä GX80. Kuten kirjoitin
+Epelipostauksessa, mikronelikolmosten kanssa ollaan junnattu
+kuvanlaatuasioissa hyvän aikaa.
+
+** Panasonicin tietokonekikat
+
+Panasonic on aika tietokone kyllä. Tämän faktan voi myös valjastaa
+omaa etua ajamaan. Entäpä jos 4K-kuvamoodi onkin tulevan kesän
+ykköshitti katukuvauksen maailmassani? Tämä on siis sellainen
+ominaisuus että kamera ottaa 4K-videota, mutta pakaten sen niin, että
+siitä saa otettua laadukkaita (pakattuja) 8-bittisiä still-kuvia ulos. 
+
+Todennäköistä lienee, että näitä hienouksia ei tule käytettyä. Kuten
+Olympuksen Livetimen ja muiden juttujen kanssa, niitä ei vain jaksa
+tutkia tarpeeksi. Epelin kanssa sentään tein yhden testivalotuksen
+Livetimellä. Ihan kiva. Epelin paras puoli lienee kyllä, että halpana
+runkona sitä ei tarvitse myydä pois.
+
+Panasonic tunnistaa erilaiset tarkennuksen oikut, jokseenkin paremmin
+kuin Olympus, joka tuntuu että se tahallaan antaa ulos epäoptimaalisia
+tarkennuksia perinteisen operoinnin kustannuksella. Voin toki olla
+täysin väärässäkin.
+
+Kamerassa on hyvä määrä automaattitarkennustyökaluja ja osa niistä
+näyttää myös valokuvaajalle rohkaisevan suurennetun esikatselukuvan
+siitä, mihin kamera tarkensi.
+
+Kaikin puolin yltiöpositiivinen Leica Q:n tarkennuskokemus jos löytyy
+tästä Panasonicista niin se voi olla valtava juttu.
+
+** Olympus 75-300
+
+Jotta ei hommat ihan liian järkeviltä näytä, tänään vielä
+heräteostoksena laitoin tilaukseen käytetyn Olympus 75-300
+-megazoomin. Himmeä ja terävä lasi, joka kaipaisi Olympuksen huippuja
+kuvanvakaimia avukseen, saa nyt nähdä onko tällä mitä arvoa. Hinta ei
+häkellytä joten kaipa tämän kanssa sitten parit uudet kävelyt jaksaa
+tehdä joten on sillä maksettu pois.
+
+** Uusi yritys
+
+70 euroa Epeliin, toinen 70 euroa Panasonicin pannukakkuun, sitten 250
+tähän GX80:aan ja vielä kiellon päälle 270 euroa jonninjoutavaan
+telezoomiin. Kaikki tämä kuukauden sisään!
+
+Alitajuntaisesti taisin päättää kaiken tuon Df-mietinnän jälkeen että
+µ4/3 ansaitsee vielä uuden mahdollisuuden osoittaa taitonsa.
+
+Ja totta vieköön, asiat olisivat upeasti jos pystyisin tulemaan
+tajuihini jonkun kameran kanssa.
+
