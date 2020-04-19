@@ -1,0 +1,54 @@
+#+TITLE: Rutiinit uudelleen valokuvaajan silmin
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Rutiinit uudelleen valokuvaajan silmin                      :rutiinit:
+CLOSED: [2020-04-19 Sun 11:21]
+:LOGBOOK:
+- State "DONE"       from              [2020-04-19 Sun 11:21]
+:END:
+
+Helsingin talvi oli "pitkä" ja "synkkä" mutta nyt siitä ollaan
+selvitty suosiolla yli. Suomalaisen talven yksi etu on se, että
+keskipäivällä kohdattava valo on usein hyvälaatuista ja tulee
+alhaisesta kulmasta koko valoisan päivän ajan. Nyt jään
+harmittelemaan, kuinka samanlaiset lauantaiset keskipäivän kävelyt
+eivät enää olekaan mielekkäitä.
+
+Kesäajassa ollaan tukevasti -- aurinko nousee ennen kuutta ja laskee
+yhdeksän jälkeen. Valoa on runsaasti, ja nyt pitäisi olla valokuvaajan
+mielestä kivaa? Arkipäivät ovat nyt kivoja koska töissä malttaa olla
+täyden päivän, koska päivän/illan paras valo on vasta edessäpäin.
+Talvikaudella se uuvutti nähdä kaunista valoa ulkona, mutta itse
+homehtui työhommissa ainakin neljään asti, jolloin valo oli kaikonnut.
+
+Vastapainoksi viikonloput ovat vähän hankala homma. Todellisuudessa se
+vähän harmittaa, että viikonloput menevät odotellessa iltaa ja
+ilta-aurinkoa. Oma (talvi)rutiinini on aina ollut että käydään
+kuvailemassa ihmisten aikaan ulkona ja sitten vetäydytään kotiin
+katselemaan tuotoksia ja valmistautumaan illan rutiininomaiselle
+tv-sarja/elokuva/kirja-akselille.
+
+Olen kyllä onneksi nyt aika luonnollisesti muuttanut joitakin
+aspekteja rutiineistani. Viikonloppupäivät käytän niin, että teen omia
+koodiprojektejani kotona iltapäivään asti, jolloin otan päiväkävelyni.
+Jos tekee yhden useampituntisen kävelyn päivässä niin se on aika hyvä
+idea ajoittaa parhaalle mahdolliselle valolle.
+
+Myös on hyvä idea kokeilla tehdä kaksi kävelyä, jos vain nousee
+aikaisin aamusta; näin voi taltioida päivän molemmat hyvän valon
+hetket aamulla ja illalla. Nyt tietysti aurinko nousee niin
+harmittavan aikaisin, ettei aina huvita.
+
+Vaikka päiväkävelyn shiftautuminen myöhemmälle ja myöhemmälle voisi
+rutiinien puolesta onnistua, on myös tämä henkilökohtainen harmittelu
+ilta-ajan levottomuuksista kaupungilla. Joudun tulemaan ulos
+mukavuusalueeltani, on yllättävä paljastukseni itse itselleni. Ei
+kovin iso juonenkäänne sentään -- mukavuusalueelta on itse kunkin
+poistuttava, jos mielii kehittyvänsä.
+
+Toivon tänä vuonna suorittavani, valoa jahdatessa ja muutenkin,
+enemmän iltakävelyitä. Uskon, että saamani tulokset jo yksinään
+kannustavat suosimaan tätä ajankohtaa.
+
+Vaihtoehto olisi suorittaa aamukävelyitä... mukavuusalueeltani ei
+tarvitsisi poistua niin paljoa mutta sitten olisi se aikaisen
+nouseminen kirous.
