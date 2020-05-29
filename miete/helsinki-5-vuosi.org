@@ -1,0 +1,98 @@
+#+TITLE: Vuosi täyteen Helsinkiä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi täyteen Helsinkiä                              :asunto:helsinki:
+CLOSED: [2020-05-29 Fri 19:50]
+:LOGBOOK:
+- State "DONE"       from              [2020-05-29 Fri 19:50]
+:END:
+
+Aika on mennyt vauhdilla ja huomasin yllättäen, että vuosi tuli
+täyteen ihan huomaamatta.
+
+Ensimmäinen syksy ja talvi ja kevät tuli koettua, ja nyt on toinen
+kesä alkamassa. Syksy ja kesä olivat aikalailla samaa; ei oikein
+tahtonut huomata aina, missä rajan voisi vetää. Puiden siisti
+kellastuminen toki näytti hyvältä. Ensimmäinen talvi oli tosi köyhä
+tapaus. Vain harvoin mentiin pakkasen puolelle ja lumesta ei ollut
+tietoakaan. Toivottavasti seuraavana talvena olisi vähän parempi
+meininki.
+
+Helsingin kevääseen ei nyt myöskään kuulunut mitään ihmeitä koska
+talven pakkasia ei ollut. Kukkivat kirsikkapuut huhti-toukokuussa ovat
+kohokohta. Viime kesä oli suhteessa viileä, ja todella kiva kaikin
+puolin. Ei tarvitse auringon paahtaa, pärjää vähemmälläkin lämmöllä.
+
+Vuosi sitten kun tulin tänne niin aloitin rytinällä ja otin kuukauden
+kesälomani yhteen mittaan. Otin silloin tuoreelti lanseerattua
+AB-vyöhykettä kuukauden ja ajelin turistina kaikki paikat läpi, kuten
+kuuluukin. Töiden alettua aloin ostaa ABC-kautta siitä eteenpäin.
+C-vyöhykkeellä aika harvoin kävin muilla kuin työmatkoilla. Vasta nyt
+kun päätin koronahommien takia jättää julkisen liikenteen kokonaan
+hetkeksi aikaa pois, aloin kunnolla reissata C-alueella Vantaalla ja
+Espoossa. Totesin kuitenkin, että silloinkin pelkkä AB usein riittää
+vähällä lisäkävelyllä.
+
+Nyt ollaan ensimmäistä kertaa 12 kuukauteen liputtomia ja se on myös
+hyvä tunne tavallaan. Ei mitään "velvollisuutta" lähteä ulos jos ei
+siltä tunnu. (Koska se olisi isolla rahalla maksetun kauden
+hukkaanheittoa muulloin.) Toisaalta Töölöstäkin kävelee moneen
+ilmansuuntaan hyvänpituisia lenkkejä -- nyt aion yrittää olla ainakin
+pari viikkoa liputta (kirjoitushetkellä ollaan päivässä #5) ja
+kunnolla keskittyä lähialueisiini, joita riittää kyllä.
+
+Onko romantiikka haihtunut kaupungin sielusta ja kuherruskuukausi
+pidetty? No tavallaan on, isomman kerran. Samanaikaisesti sitä pystyy
+nauttimaan hyvistä hetkistä, eli vielä ei olla puhtaassa vihasuhteessa
+kaupunkia kohtaan.
+
+Vuoden aikana on ollut kaikenlaista jännää. Pasilaan aukesi syksyllä
+iso ja edullinen Prisma, josta olen sitten alkanut käydä aina
+ostamassa elintarvikkeeni töistä tullessani. Nyt kun Pasilaan asti en
+ole kävellen menossa kaupoille, on Kampin LIDL seuraavaksi edullisin
+paikka. Sielläkin olen monesti käynyt mutta nyt harvemmin. Kampista
+pääsee Töölöön näppärästi bussilla ostosten kanssa, mutta kun puolet
+Töölöön vievistä busseista lähtee yhdestä paikasta ja toinen puoli
+toisesta paikasta, ei aina arvaa valita optimaalisinta lähtöpaikkaa.
+Pasilasta on Töölöön kaksi tiheää ja suoraa yhteyttä, joten odotusaika
+on hyvin alhainen. Lisäksi pakkasen ja sateen aikaan voi odottaa
+mukavasti lämpimässä aikataulujen äärellä.
+
+Joukkoliikenteen vyöhykeuudistuskin on hädintuskin vasta vuoden vanha.
+Omasta mielestäni matkustajana se toimii oikein hyvin ja on järkevä.
+Aluksi toki tuskastelin kun A-vyöhykkeelle ei ole omaa edullista
+lippuaan joten kertamatkojen hinnat nousivat kovasti (2,15 -> 2,80 €)
+mutta vastineeksi kausien hinnat laskivat suhteessa niin paljon, että
+dynamiikka on muuttunut suosimaan huoletonta kausimatkailua
+entisestään.
+
+Ostaessani ja myydessäni käytettyä tavaraa on ollut mukava olla täällä
+kaupungin sykkeessä. Ostipa muistikampoja murosta tai myipä kameroita
+torissa niin ostajat löytyvät monesti kävelyetäisyyden päässä. Oikein
+miellyttävä juttu sekin.
+
+Yksi pelko ennen muuttoa oli se, että olisiko kaupungin runsas ja
+idyllinen katuravintoloiden määrä herkistämässä laittamaan enemmän
+rahaa ulkonasyöntiin ja sensellaiseen. Tämän ensimmäisen vuoden aikana
+tulos on: ei juuri lainkaan. Tavoitteena olisi kokeilla käydä
+nauttimassa enemmän kaupunkijuttuja mutta näin ekana vuonna ainut
+näkyvä (ja kalliinpuoleinen) juttu oli nuo musiikkikeikat joihin
+osallistuin pitkälti sen takia että nyt ne pidettiin tässä
+lähettyvillä -- en olisi tullut näille keikoille Sätöksestä käsin. Eli
+sen verran on viihdebudjetti noussut. Jazz-klubit ovat vielä
+kokematta, vähän itseäni ihmettelen kanssa että miksi en heti
+tarttunut toimeen kun parin korttelin päässä olisi yksi isompi
+sellainen.
+
+Töölö on edelleen upea asuinpaikka. Koputtaa pitää puuta, mutta sanon
+kuitenkin että ei tämän paremmaksi voi juuri mennä. Taka-Töölö on myös
+tullut rakkaaksi vaikka en siellä edes pahemmin asioi. Siistiä ja
+herrasmiesmäistä aluetta.
+
+Mitä harrastuksiin ja niiden kehittymiseen tulee, niin
+valokuvausharrastus on edelleen vahva osa ja syy ja seuraus kaikelle
+mitä tulee Helsinkiin. Koska vapaa-aikaa jää enemmän käteen täällä
+(kun taloaskareet puuttuvat) niin on helpompi sovittaa enemmän
+koodailua tai elokuvia vapaa-aikaan. Kaikki hyvin tässäkin mielessä.
+
+En nyt tämän enempää tässä taida keksiä sanottavaa. Suhteessa hyvin on
+mennyt!
