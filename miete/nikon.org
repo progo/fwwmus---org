@@ -1,0 +1,285 @@
+#+TITLE: Nikon Df ja muuta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Nikon Df ja muuta                                 :kamera:leica:nikon:
+CLOSED: [2020-06-07 Sun 11:34]
+:LOGBOOK:
+- State "DONE"       from              [2020-06-07 Sun 11:34]
+:END:
+
+Aiemmin [[file:./kolmentyyppistae-kameraa.org][kirjoittelin siitä]], kuinka digikameroiden maailmassa on
+muutamaa erityyppistä kamerarunkoa, ja kolme niistä tyypeistä kiehtoo.
+
+Tyyppejä on löyhästi ottaen (jätin etsimettömän pois edellisestä
+tekstistä) oheiset. Keskiformaatin kameroissa on tavattavissa lisäksi
+"waist-level findereitä" ja ehkäpä joitain näkökameroita kanssa.
+
+- Peilitön (EVF, TTL)
+- Peilikamera (OVF, TTL)
+- Mittaetsinkamera (OVF, ei-TTL)
+- (Etsimetön (TTL))
+
+Puhuttaessa etsimistä on omasta mielestäni järkevä erotella TTL ja
+ei-TTL omiksi luokikseen, mistä syystä jako menee kolmeen.
+
+Kaikilla kolmella tyypillä on vahvuutensa. Ja optinen TTL on alkanut
+kiehtoa sen myötä kun olen saanut optisen etsimen makua Leican myötä.
+Mutta myös osittain pahanmakuista jälkikatkua Leican TTL:n
+puuttumisesta!
+
+Optinen TTL on(/oli) kokematta, ja tämän kokemuksen parhaiten tarjoaa
+kuoleva teknologia eli DSLR.
+
+** Nikon Df, osa 1
+
+Jo pidemmän aikaa mutta erityisesti alkuvuodesta aloin mutustella
+ajatusta Df:stä, koska toki ensinnä kyseessä on komea kamera
+retrohenkisillä ohjaimilla.
+
+Ajatus DSLR:n hyvin mekaanisista toimintaperiaatteista kiehtoi. Ei
+tarvita erityistä ja herkkää mittaetsinkytkentää voidakseen käyttää
+mitä tahansa lasinpalasia kameran edessä, ja saa tuloksia.
+
+Unohtui kirjoittaa, että ostin itse asiassa Nikon Df:n Rajalasta ja
+kolme linssiä F-mountille tässä maaliskuun lopuilla (yhden palautin
+huonona).
+
+Kahden viikon palautusoikeutta hyödyntäen palautin Nikonin takaisin
+viikon kokeilun jälkeen. Edelleen kyselen itseltäni niitä syitä että
+miksi ostin ja toisaalta tärkeämmin, miksi palautin sen!
+
+Tämän viikon aikana en käynyt kuin kahdella testikävelyllä kameran
+kanssa, ensimmäinen oli tosi laimea kokemus (kameran nokalla oli tylsä
+24-85-zoomi, joka oli erittäin pehmeä telepäätä kohti; varmasti
+viallinen) mutta toinen oli sitten pelottavan hieno kokemus. Kameran
+nokalle laitoin 85/1.8 AF-D -linssin, jonka haptiikka ja tulokset
+olivat mainioita molemmat. (Kolmas linssi, jonka hankin, ei ehtinyt
+tulla Japanista ajoissa ennen palauttamista joten sen jätin
+laatikkoonsa ja unohdin koko homman.)
+
+Nikonin mukavuus tuon ruuvitarkenteisen 85:n kanssa oli huippuluokkaa.
+BBF:n (Back Button Focus) ansiosta katukuvaus onnistui tismalleen
+samalla tavalla kuin Leicallakin. Optisen etsimen ansiosta tilanteiden
+ajoittaminen oli yhtä helppoa kuin Leicalla. Kuvat ovat ensilaatuisia
+ja Df venyy useita stoppeja pidemmälle ISO-herkkyydessä kuin MP240.
+Automaattivalotus, johon voi luottaa. Ja linssit ovat vain murto-osia
+hinnassa, ja tarkentavat automaattisesti.
+
+[[https://cameraderie.org/attachments/2020-03-26-13-28-p1010873-jpg.216444/]]
+
+Se minua varmaan eniten pelästytti tässä kaikessa -- Leican päihittäjä
+on tullut talouteen. Kaksi supervahvaa kameraa, kummassakin vahva
+optis-mekaaninen käyttötuntuma. Totisesti jotenkin tuntuu kaikin
+puolin, että kameravalmistajat jostain syystä kollektiivisesti
+päättivät aloittaa kameroiden suunnittelun puhtaalta pöydältä
+peilittömiin hypättäessä. Se on sääli, sillä (D)SLR-maailmassa
+ehdittiin hioa moni ergonominen asia täydelliseksi. Df on esimerkiksi
+kamera, jossa AF-ON -painikkeen sijainti on täydellinen. Missään
+peilittömässä en ole vielä löytänyt yhtä täydellistä. Vastapainoksi
+peilittömät ovat hyvällä tavalla pienempiä ja kompaktimpia.
+
+Minun pitäisi olla iloissani että olen löytänyt harrastukseeni entistä
+paremman (ja huokeamman) työkalun joka parantaa peliäni. Olin
+pikemminkin huolissani. Leicaan olen lyhyessä ajassa investoinut
+paljon ja pidän kaikesta näkemästäni joten tuntui tosi huonolta tämä
+ajatus, että uusi mestari olisi talossa. Huonoja syitä nämä. Kaikella
+on aina aikansa ja paikkansa.
+
+No, kamera on palautettu ja jäljelle tästä hommasta jäi kaksi hienoa
+AF-D-aikakauden linssiä laatikkoon. En mennyt heti myymään niitä
+eteenpäin vaan jätin asian hautumaan.
+
+** Interlude: Nikkori Leican nokalla
+
+Kaksi viikkoa Nikonin palauttamisesta päätin nettikeskusteluiden
+pohjalta tilata tyhmän adapterin Leicalle. Leican alkeellista
+livenäkymää hyödyntäen voin ehkä laittaa Nikkorit hyvään käyttöön.
+Todella loistavia linssejä nämä, etenkin hinnan huomioonottaen.
+
+Adapteri tuli 6 viikkoa myöhemmin.
+
+Se toimii ihan kelvosti Leican kanssa, itse asiassa. AF-D-linsseissä
+on manuaaliset aukkorenkaat ja manuaalitarkennus on ihan sulava
+toimenpide. Leican huono etsin VF-2 on huono, mutta siihen tottuu ajan
+kanssa ja kävelysession edetessä.
+
+Tietty mikään ei ole täydellistä. Tämän etsimen huono resoluutio
+hankaloittaa manuaalitarkentamista ilman zoomailua. Toinen fakta,
+minkä kaikki tietävät, on se kuinka aukon kanssa puljautuminen voi
+tuskastuttaa: haluat ottaa kuvan f/8:lla mutta nopeaa tarkentamista
+varten joudut avaamaan linssin f/2.8:iin ja sitten tarkennuksen
+jälkeen taas sulkemaan aukon uudelleen.
+
+Tämä hidas 'työskentely' on varmasti sitä, mitä moni kuvaaja kehuu
+Leicasta. Kun kuvaa ei saa sekunnin murto-osassa aikaan niin sitä
+pystyy myös antamaan enemmän huomiota kuvattavalle kohteelle,
+keskittymään paremmin. Ironisesti Leican oman mittaetsimen kanssa olen
+niin nopea ettei tuo "hidas työskentely" tule omalla kohdalla
+kysymykseen. Mutta Leican ja EVF:n kanssa kyllä -- joutuu
+työskentelemään hitaammin ja huolellisemmin.
+
+Rakeisesta kuvasta ja hitaudesta huolimatta kuvat tulevat ulos tosi
+terävinä ja loisteliaina. Eli tulosten suhteen ei tässä sovittamisessa
+ole mitään hankaluuksia.
+
+VF-2 toimii hätäpäissään, ja Leica M10:n VisoFlex 020 toimii varmasti
+tuplasti paremmin, mutta M10 on paljon rahaa ja fakta ei siitään
+muutu: linssi on parhaiten kotonaan natiivissa kodissaan, eli Nikon F
+-kamerassa.
+
+Tässä kohtaa viimeistään tuli uusi kuumeilun aalto Df:ää kohtaan.
+
+** Interlude, osa 2: Leica paras...?
+
+Leica ja Nikon, ne voivat elää onnellis'na samassa tallissa, eikö?
+Voivat kyllä.
+
+Mutta kuten olen aina sanonut*, yksi hyvä vasara on kivempi kuin kaksi
+vasaraa (yksi etupainoinen ja yksi metallivartinen vasara).
+
+Siitä syystä aloin totisesti miettiä että onko Leica M10 tai ehkä
+joskus tuleva M11 sitten sen verran edistyneempi kamera että sen
+livenäkymä ja sen EVF niin hyvä, että nämä nykyiset sovitusongelmat
+eivät enää haittaisi. Yksi hyvä kamera, johon käy kaikki rakastamani
+lasi, olisi hyvä idea kaikkinensa.
+
+Kaunis ajatus ja varmasti toimivakin idea, mutta tähän on edelleen
+ainakin kaksi vastalausetta:
+
+1. M10 on paljon rahaa. PALJON rahaa. M240:n myymälläkin välirahan
+   osuus on vähintään 3000 euroa. Ja M10 ei sinänsä tarjoa paljoa
+   muuta M-kokemukseen.
+   - Vastaavasti tuleva M11 on sitäkin enemmän välirahaa ja voi ihan
+     hyvin ollakin, ettei M11 edes ratkaise mitään EVF-kysymyksiä koska
+     Leica voi hyvinkin vastata kennon jatkuvan lukemisen synnyttämiin
+     ongelmiin jatkamalla nykylinjaansa eli huonohkoja
+     livenäkymäkokemuksia.
+   - M11 on myös jossain tulevaisuudessa. 
+2. Toisekseen, minun haaveissa on edelleen se OVF+TTL. Ja iso
+   uutisväläys: Nikon Df on olemassa (ihme ja hämmästys!). Tämä ei ole
+   3000+ euron investointi vaan tämä on vajaan tonnin investointi.
+  
+Oletetaan argumentin vuoksi, että M11 julkaistaan keväällä 2021 ja
+sitä alkaa ehkä saada jopa ostettua syksyllä 2021 (tilausjonot ovat
+pitkät). Se maksaa Suomessa ehkä ennätykselliset 8499 €. Siinä on upea
+uudelleenmuotoiltu EVF (erikseenostettuna 799 €) ja kokonaisuutena
+kameran EVF-käyttökokemus alkaa olla lähellä vuoden 2016 Fujifilmiä.
+
+Vaikka voittaisin lotossa niin silti on tuo odotus tuohon syksyyn 2021
+-- se on puolitoista vuotta. Miksipä en hitossa (uudelleen)ostaisi
+Nikonia koska aina voin myydä sen jos M11 osoittautuu Jeesuksen
+uudelleennousemiseksi.
+
+(*) Olen sitä aina sanonut, ei suinkaan tarkoita että olisin oikeassa.
+;)
+
+Leican asialla jatketaan vielä hetkinen, eli entäpä Leica SL? Se on
+peilitön kamera, paras laatuaan varmasti, upea EVF auttaa kaikenlaisen
+lasin kanssa (ei pelkästään Nikkorin). Mikä parasta, se istuu
+mukavasti Leica M:n sivussa maksaen kohtuullisesti vain ~kaksi tuhatta
+euroa.
+
+Upea kamera, SL kyllä. Päällisin puolin sen paino kiusaa paljon: se on
+isompi ja painavampi kuin Nikon Df. TTL-kokemus kyllä mutta ei optista
+etsintä. Koska linssit eivät istu natiivisti, pitää aukkoa taas
+availla ja sulkea itse manuaalisesti ja autofokuskin tietysti puuttuu.
+Etuja SL:n suhteen on myös niin paljon, että ihan suu vettyy kun
+ajattelee asiaa. Mutta painokysymys (850+ grammaa vs 760 grammaa) on
+karvas. SL:n 847 gramman päälle pitää vielä laskea varmaan ainakin 100
+grammaa linssiadapterille.
+
+Ja mikä tärkeintä, peilitön on peilitön eli noinkohan se kokemuksena
+olisi niin upea kuin mitä Leica M ja Nikon Df omissa luokissaan ovat.
+Minulla on hyvä kuva Leican peilittömästä suunnittelusta Q:n muodossa:
+pidempiaikaisten Q-kokemuksieni perusteella Leica SL on
+todennäköisesti käyttötuntumaltaan paras peilitön kamera ikinä. Mutta
+se ei tarkoita, että tultaisiin välttämättä edes lähelle
+M/Df-tuntumaa.
+
+** Nikon Df, osa 2
+
+Voitaneen siis tulla tulokseen, että taloudellisesti ei tule olemaan
+merkittävä tappio jos Df ostetaan takaisin ja annetaan sille oikea
+mahdollisuus osoittaa juttunsa. Edellinen Df oli 990 euroa ja juuri
+viime perjantaina 5 päivää sitten totesin että kun tulee seuraava Df
+samaan rahaan myyntiin niin nappaan sen. No tuli kaksi 999 euron
+hintaan.
+
+Koska minulla on nyt kesäkuulle luvassa kiinnostavia juhannusreissuja,
+saan hyvän tekosyyn pidättäytyä osteluista juuri nyt. Heinäkuun alussa
+saatan toteuttaa, olettaen että runkoja on vielä myynnissä.
+Ylimääräisen 10 prosentin alennuksen (Rajala tekee näitä
+semisäännöllisesti) odottelu saattaa myös tulla kyseeseen.
+
+Nyt sunnuntaina toinen rungoista meni kaupaksi. Hopeinen malli Rajalan
+hyllyssä on luultavasti sama yksilö kuin minkä ostin ja palautin.
+Siinä on loppuun asti ammuttu, viimeisiään viepä akku. Sen akkuluukku
+myös repsottaa miedosti antaen superhalvan vaikutelman ja sen
+AF/MF-kytkin on kanssa jotenkin halvalla tavalla asennettu ja sallii
+asettamisen puoliväliin. Vastapainoksi tiedän, että kameran peili ja
+fokus on hyvin säädöissään 85:n kanssa eli luultavasti muidenkin
+kanssa. Ja hopeinen on hopeinen.
+
+Hopeisista olen aina pitänyt. Olen aina ollut sitä mieltä, että vaikka
+tyypillisesti kameran ulkonäöllä ei ole väliä, on sillä vähän väliä
+silloin kun ollaan kuvaamassa ulkona vieraita ihmisiä. Nätimpi,
+retrompi, pienempi, lelumaisempi on aina hyvä idea kun osoitellaan
+aparaattia kohti tuntemattomia. Luonnollisesti valtaosassa
+tapauksista, kun kuvataan tuttuja, kuvataan malleja, kuvataan luontoa
+tai arkkitehtuuria tai muuten vain sähäkästi kuvataan kadulla niin
+kameran ulkonäöllä ei ole isoa merkitystä, jos yhtään.
+
+*Df:äähän saa muuten ostettua vielä uutenakin*, muistinko mainita.
+Jälleenmyyjät eivät sitä jaksa pitää varastossa, mutta Nikonin oma
+markkina-aluekohtainen nettikauppa (myös Suomessakin) listaa Df:ää
+molemmissa väreissä hintaan 1899 euroa. Jos käytetyn Df:n katuhinta on
+900-1000 euroa niin uuden (alennettu) hinta on ihan kohtuullinen.
+
+Sanon "alennettu", koska Df oli uutena silloin 7 vuotta sitten 2800
+euron kamera, painiskeli D800:n kanssa samoissa hinnoissa ja oli täten
+hyvin kova pala purtavaksi.
+
+Nyt käytettynäkin se on kova pala purtavaksi, koska /samaisessa tonnin
+hintaluokassa/ on saatavilla niin urheilurunkoja kuten D500 ja D4 kuin
+noita isojen megapikselilukemien suorittajia kuten D810. Ja
+halvemmallakin saa myös uudempia ja luultavasti kaikilla tavoilla
+parempia FF-runkoja CaNikonilta.
+
+Kokeiluni jälkeen voisin ostaakin tämän rungon uutena tukeakseni
+firmaa. Mutta se on valitettavasti hyvin epävarmaa, miten Nikon tulee
+olemaan suhteessa Leican kanssa. Jos olisin enemmän kypsynyt
+Leicahommiin niin sitten olisi varmaan helppo päätös.
+
+Yhtä kaikki, Df:n suhteen minulla ei ole erityinen kiire ja nyt joka
+tapauksessa seuraavat 2 viikkoa olen muissa maailmoissa.
+Kesä-heinäkuun taitteessa on ensimmäinen tilaisuus tehdä yhtikäs
+mitään.
+
+** Peilikameran sulot mutta myös kirot: TTL-kilpailija µ4/3-leiristä?
+
+Peilikameran hyvät jutut tiedetään nyt. Entäs kaikki ne huonot jutut,
+joita ihmiset yleensä pakenevat? Erityisesti yksi iso mörkö; koko ja
+paino. Paino on se kiusallisin ongelma, joka minua hiertää ajatuksessa
+mennä peilikameroihin. Linssit painavat.
+
+Leica palvelee minua ei-TTL-jutuissa enemmän kuin hyvin. µ4/3 on
+luonnollisin kilpailija TTL-hommissa, ja täten kilpailija
+Nikon-haaveille. Hienoja ja nopeasti tarkentavia linssejä saa
+pilvinpimein ja ne ovat kevyitä, halpoja, pieniä.
+
+Probleema on se kuvauselämys. Vaikka Panasonic on näissä asioissa
+parempi kuin Olympus, se jää silti kuvaustuntumassa ja -nautinnossa
+pahasti jälkeen. Itse asiassa kummankin leirin kameroiden kanssa
+pitäisi varmaan kokeilla sitä BBF-elämää kunnolla, sikäli jos
+onnistuu. Elättelen edelleen toivoa hyvästä elämästä µ4/3-kameroiden
+maailmassa.
+
+Ja edelleen TTL+OVF on kombo, jonka haluan käydä kunnolla läpi. Joten
+µ4/3 ja Nikon voivat elää rinnakkain ehkäpä.
+
+** Sivuvaikutuksia
+
+Nikon Df ei mahdu mukavasti Billinghamiin joten yksi ajatus on alkaa
+miettiä kamerareppuja ja sensellaista. Näillä kalustopäätöksillä on
+aina nämä valtavat kerrannaisvaikutukset.
+
+Kaikki mylläytyy uusiksi herkästi, parempi pidellä hatustaan kiinni.
