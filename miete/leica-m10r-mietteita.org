@@ -1,0 +1,142 @@
+#+TITLE: Leica M10-R: Mietteitä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M10-R: Mietteitä                                  :leica:kamera:
+CLOSED: [2020-07-19 Sun 11:10]
+:LOGBOOK:
+- State "DONE"       from              [2020-07-19 Sun 11:10]
+:END:
+
+Leican M10-tuoteperhe se vain kasvaa. Uusin tulokas on 41 megapikselin
+M10-R, joka julkaistiin torstaina. Tämä kamera ei tuo paljoa uutta
+pöydälle M10-P:n päälle. Muuta kuin uuden kennon.
+
+Samaan hoikkaan runkoon on nyt ujutettu viittä tyyppiä kameroita:
+
+- Leica M10 :: perusmalli.
+- Leica M10-P :: paranneltu malli kosketusnäytöllä, uusilla
+     tarkennusavuilla, hiljaisemmalla sulkimella; P-mallin
+     tyypillisillä mausteilla.
+- Leica M10-D :: P-malli mutta ilman näyttöä tai nappuloita.
+     Sisäänrakennettu peukalotuki feikki-filmivivun muodossa.
+- Leica M10-M :: P-mallin päälle tehty mustavalkomalli *uudella* 41
+     megapikselin kennolla.
+- Leica M10-R :: Mustavalkomallin 41 megapikseliä mutta värikennon
+     kanssa.
+     
+M10 ylipäänsä parantelee asioita sieltä täältä M240:ään ja M262:aan
+verrattuna. Mutta omaan makuun se ei parantele tarpeeksi niissä
+paikoissa, joissa tarvittaisiin eniten parantelua. Kun M240:n
+jälleenmyyntiarvo on ehkä 2500-2800 euroa, ja M10:n hankkiminen
+viidestä tonnista eteenpäin (plus kallis Visoflex vielä päälle) niin
+kolmen tuhannen euron lisäinvestointi ei tuota tarpeeksi kiinnostavia
+juttuja. Olen aika tyytyväinen M240P:hen vielä.
+
+M10-P toisi kolmijalkatyöskentelyssä paljon kaivattuja juttuja
+livenäkymä (LV) -hommissa. Kosketusnäytöstä on muutamia etuja täällä.
+Lisäksi hiljainen suljin on aina iso plussa. M10-P on ollut
+julkaisusta lähtien oma unelmakamera, aito lottovoittokamera.
+
+M10-D on varmasti hieno kuvauskokemus -- ilman näyttöä sen ergonomia
+lienee paras kaikista digitaalisista M-kameroista. Sen kanssa voi
+käyttää sähköistä etsintä kuvan ottamiseen mutta ei katselmointiin
+sittenkään. Tämä perii kaikki M10-P:n edut (lähinnä hiljainen suljin)
+ja on myös kiva kamera. Mutta ei ole ollut ostoslistallani.
+
+M10-M on samalla tavalla huippuseksikäs kapistus, mutta olen aina
+ollut tyytyväinen värikuvista tehtyihin mustavalkomuunnoksiin joten en
+ole tämän kameran yleisöä.
+
+M10-R tuo nyt M10-M:ssä esitellyn 41 megapikselin laatukennon
+värifiltterin kera markkinoille. Ensimmäiseksi huomioksi kamera ei
+maksa kymppitonnia vaan hinta on pidetty maltillisilla tasoilla.
+Muilta osin kameran sisukset ovat identtiset M10-P:n kanssa ja ulkoasu
+taasen M10:n kanssa. Bufferi vähän kärsii isompien kuvien takia, mutta
+ilmeisesti yleiskäytettävyys ei ole hidastunut lainkaan.
+
+** Uusi kenno: onko 41 megapikseliä liikaa?
+
+Ihmisiä on eniten huolettanut se, että onko manuaalitarkenteisessa
+kamerassa liika kenties liikaa. Tämä on sinänsä validi huolenaihe,
+mutta koska tämä kenno on uutta sukupolvea muiltakin osilta niin sen
+muut tekniset edut maskaavat pikselipaljouden ihan hyvin.
+
+Eniten ihmisiä huolettaa se, että saako 41 megapikselillä tarkkoja
+kuvia.
+
+Tämä on minusta vähän nurinkurinen kysymys. Puhtaalla logiikalla ja
+matikalla voidaan tulla siihen tulokseen, että jos valokuvaaja pystyy
+ottamaan 24 megapikselin kuvat terävinä ja hyvinä valtaosan ajasta
+niin sama valokuvaaja voi ottaa samat kuvat 41 megapikselin kameralla
+ja pienentää ne 24 megapikseliin ja saavuttaa tismalleen sama
+onnistumisprosentti.
+
+Toisin sanoen, megapikseleiden lisääntyessä ei ole enää mieltä
+tarkastella kuvien terävyyttä ja onnistumista 1:1 pikselitasolla.
+
+Kuvat voi pienentää 24 megapikseliin ja ollaan vanhassa
+onnistumisprosentissa. Vaihtoehtoisesti voidaan pitää 41 megapikselin
+kuvat käytössä ja nauttia kun kuvissa on enemmän terävyyttä.
+
+Sen kyllä ymmärrän, että psykologisesti voi olla tuskaisaa päästä
+tasolle, jossa kamera on niin tarkka ettei enää mikään kuva ikinä ole
+1:1 fokuksessa. Nikon-kuvaajat ja muut ovat joutuneet tottumaan
+asiaan.
+
+Jos tämä ongelma koskettaa sinua henkilökohtaisesti niin ensimmäisenä
+asiana suosittelisin jonkun 4K-näytön ostamista niin että 1:1
+pikselintiirailu ei onnistu helposti. Ja katsomaan, jos saat
+kuvankäsittelystäsi pois mahdollisuudet zoomailla 200+ prosentin
+näkymiin.
+
+** Uusi kenno on uusi kenno: paljon parannuksia
+
+[[https://www.slack.co.uk/leica-m10-r.html][Jonathan Slackin arvostelu.]] M10-R:n kennon muut tekniset edistymiset
+M10:een nähden:
+
+- Natiivi ISO-herkkyys 100. Tämä helpottaa päivänvalossa
+  kuvaamaan valovoimaisia linssejä paremmin.
+- 1:1 pikselitasolla sama ISO-suorituskyky kuin M10:ssä. Koska
+  pikseleitä on enemmän ja tulostuskoot eivät sinänsä kasva, on
+  kamerassa ehkä vajaan stopin verran enemmän kohinansietoa. Tämä
+  luonnollisesti auttaa hämäräkuvaajia.
+- Kirkkaille korostumille on jätetty ilmeisesti enemmän
+  käsittelynvaraa, eikä ne pala puhki läheskään niin helposti kuin
+  aiemmissa Leicoissa. Puhutaan jopa kahden stopin päänvarasta.
+  
+Kaikki kolme näistä parannuksista ovat omasta mielestäni erittäin
+merkittäviä juttuja.
+
+Kirkkaiden puhkipalaminen on aina ollut Leican kennoille ja
+käsittelylle ominainen vaiva. Jos M10-R tuo pöydälle suoraan kaksi
+stoppia enemmän suoja-aluetta niin ollaan suoraan jo parhaiden
+kameroiden joukossa.
+
+Leicakuvaajat nauttivat kuvailla täydellä aukolla ja nyt saadaan yksi
+stoppi lisää käyttövaraa. Jos kirkkaat sävyt eivät pala herkästi puhki
+niin ehkä tehollisesti (toiveikkaana) meillä on 2-3 stoppia yhteensä
+käsittelyvaraa nyt kuvissa.
+
+Lisäksi kasvanut ISO-suorituskyky ja vähentynyt kohina on aina
+tervetullut asia. M10 sai ehkä stopin verran parannusta M240:een
+verrattuna ja jos M10-R saa toisen stopin lisää niin aletaan puhua
+merkittävistä parannuksista.
+
+Yön pimeydessä joutuu joskus käyttelemään asetuksia kuten f/2, ISO
+3200, 1/24 sekuntia. M240 kykenee tähän, mutta pysäyttääkö tuo
+suljinaika liikkeen? No ei! ISO 12800 ja 1/90 on jo kokonaan toinen
+tapaus.
+
+** M11
+
+M10-R on kiinnostavampi julkaisu kuin mitä osasin odottaa. Sama tylsä
+kamera mutta uudella kennolla. Tämä uusi kenno on sellainen laitos,
+että sitä varmasti kelpaa käytellä M11:ssä.
+
+Omalla kohdallani M11 käy järkeen vain jos siellä saadaan vähän
+parannuksia livenäkymän suhteen. Jos M11 ei paranna siinä suhteessa
+niin en tiedä, mitä se voisi parantaa. Akkukestoa ja puskuria varmaan.
+Aika pieniä parannuksia.
+
+Näillä näkymin M10-R on syrjäyttänyt M10-P:n unelmakameran paikalta.
+Yhdysvaltain markkinoilla M10-R on vain 300 taalaa kalliimpi kuin M10
+ja jopa 500 taalaa *halvempi* kuin M10-P!
