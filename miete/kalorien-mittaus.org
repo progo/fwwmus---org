@@ -1,0 +1,106 @@
+#+TITLE: Kalorien laskeminen
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Kalorien laskeminen                                      :elämäntavat:
+CLOSED: [2020-07-30 Thu 13:56]
+:LOGBOOK:
+- State "DONE"       from              [2020-07-30 Thu 13:56]
+:END:
+
+Kolmikymppiskriisi manifestoituu laihdutusohjelman aloittamisella.
+
+Pitkään sitä olen miettinyt ja hartaasti harkinnut, mutta nyt lähdin
+tuumasta toimeen, ja olen laskeskellut tässä hyvän viikon ajan kaikkea
+syömistäni.
+
+Olen ollut omasta mielestäni aina hyvännäköinen ja sopusuhtainen
+nuorimies. Yhtä kaikki, moni asia helpottuu hieman kun ylimääräinen
+läski palaa pois vyötäröltä ja reisiltä.
+
+Juustoiset motivaatiotekstit liittyen "keski-iän" kriiseihin taisivat
+tehdä tehtävänsä. "At thirty I thought my life was over. At forty I'm
+having the time of my life!"
+
+** Laske, mitä syöt ja kaikki muu tapahtuu omalla painollaan
+
+Olen laskenut kuluttamiani euroja kohta vuosikymmenen ajan. Vaikka
+sallin itseltäni käyttää rahaa kuten haluan, tieto siitä että ne
+näkyvät heti "numeroissa" saa hillitsemään hyvin turhaa rahankäyttöä.
+
+Tiesin heti, että jos samaa soveltaa kalorien mittaamiseen niin se
+näkyisi heti syömistottumusten korjaamisessa.
+
+Aiemmin ei ollut oikeastaan mitään tietoa siitä että kuinka paljon
+kukin ateria kerrytti energiaa. Se johtaa virheellisiin olettamuksiin
+ja ylensyöntiin. Hikisen kävelylenkin päälle on liian helppo
+ylikompensoida syömällä ylimääräisiä juustosiivuja tai kaatamalla
+liian iso kukkurallinen muromysliä banaanin päälle.
+
+Internet sanoo, että 1500 kilokalorin päiväannostus johtaa
+hiljattaiseen painonpudotukseen omilla elämäntavoilla. Kokeilin sitä
+parina päivänä, vaikka toki aluksi kaikki on hidasta kun lukuja pitää
+mittailla. Ilokseni totesin että 1500 kcal on aika iso määrä kaloria
+syödä, ei tarvitse nälkää nähdä missään vaiheessa päivää.
+
+Se voi tarkoittaa että jotkut rasvaiset tai sokeriset herkut joudut
+jättämään vähemmälle. Joillekin voi olla kova pala jättää sokerilimut
+pois ruokavaliosta, tai perjantaisipsit.
+
+Kaikella on hintansa. Ja vaikka ostaisin rasvaisen juuston niin silti
+voin syödä sitä, nyt vain lasken että montako siivua ja grammaa sitä
+menee. Ja se luku saattaa hirvittää niin paljon, etten osta kovin
+monesti enää jatkossa. En minä juustoa syökään niin usein. Esimerkkinä
+vain.
+
+Muromyslit tiesin jo entuudestaan ongelmalliseksi ruoaksi. Se oppi
+meni lopullisesti perille nyt kun katselin että miten paljon energiaa
+on ihan pikkuisessa kourallisessa. Muromysli on hyvää mutta jos se
+näkyy liikaa "numeroissa" niin se saa mennä. Toisaalta esimerkiksi
+yllättäen jäätelösilmän lisäämisen banaani-vaniljajogurttilautaselle
+ei ole mikään valtava kaloripommi.
+
+Kun numerot ovat nyt hyvin tiedossa, se helpottaa myös nälän kanssa.
+Aivot tietävät, paljonko on tullut syötyä ja elimistö seuraa kiltisti
+perässä sanoen: "ok, ei minulla varmaan sitten ole oikeasti
+energiavajausta, kunhan vanhasta tottumuksesta kurnin vain". Lukuja
+seuraamalla on helpompi olla vastaamatta johonkin kaipuuseen.
+
+** Laskemisen vaikeus
+
+Vaikka olisi appsit ja kaikki, on se laskeminen silti vähän
+haasteellista jos syöt siellä täällä. Itse en käytännössä piheyssyistä
+herätesyö ulkona mitään, ikinä. Kaikki tapahtuu pitkälti omassa
+keittiössä. Tämä kalorien laskeminen on siis minun tapauksessani
+erittäin helppo aloittaa ja toteuttaa.
+
+En ole koskaan ollut ulkonasyöjä joten se vaikea haaste
+kalorinlaskennassa on automaattisesti kuitattu. Mutta varmaan aika
+moni ravintola ilmoittaa summittaiset kalorit aterioille kysymällä;
+pikaruokapaikat nyt ainakin ilmoittavat luvut netissä.
+
+Niin, roskaruoka ja painonpudotus eivät ole nekään poissulkevia
+juttuja. En tiedä, voiko lukuihin vielä täysin luottaa mutta jos
+aamulla syö ison aamupalan ja nauttii samanlaisen kookkaan lounaan,
+voi mennä 3 tunnin verkkaiselle valokuvakävelylle ja kävelyn
+päätteeksi nauttia tukevan Burger King -aterian rasvoineen kaikkineen
+ja silti jäädä voiton puolelle kalorien suhteen. Kalorien laskemisesta
+on tämmöistäkin kivaa.
+
+Koska näyttää siltä vajaan parin viikon perusteella, että 1500 kcal ei
+ole vaikea tavoite, ja lisäksi kun kävelen vähän ympäriinsä niin paino
+tippuu myös vaikka pitäisi cheat-päivän viikossa. Kivoja juttuja.
+
+** Laskemisen ihanuus
+
+Kun välistään tuntuu, että tuottavaa tekemistä ei löydy päivän
+jokaiselle tunnille, on ainakin tämä painonpudotus jotain tuottavaa
+tekemistä. Se on joku päämäärä maailmassa, jossa ei aina tunnu muu
+maistuvan kuin tuuliajolla oleminen.
+
+Päivän ylijäämätunteja rupean varmasti myös hyödyntämään kuntosalilla.
+Kiitos Smartum-seteleiden, ei minun tarvitse maksaa paljoakaan siitä
+ilosta että voin mennä 300 metrin päähän kuntosalille polkemaan vaikka
+kuntopyörää, jos en muuta.
+
+Jotenkin uskon, että tästä lähtee aidosti uusi sivu elämässäni.
+Tahtoisin ajatella, että muuttoa Helsinkiin on myös osittain
+kiittäminen.
