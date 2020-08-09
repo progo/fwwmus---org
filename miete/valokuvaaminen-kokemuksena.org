@@ -1,0 +1,190 @@
+#+TITLE: Valokuvaaminen kokemuksena ja Nikon
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Valokuvaaminen kokemuksena ja Nikon               :kamera:leica:nikon:
+CLOSED: [2020-08-09 Sun 14:41]
+:LOGBOOK:
+- State "DONE"       from              [2020-08-09 Sun 14:41]
+:END:
+
+Nurinkurisesti monelle ihmiselle mielleyhtymä kamerasta on
+"kuvanlaatu", mutta samanaikaisesti jokainen tietää, ettei kuvanlaatu
+ole ratkaisevin tekijä onnistuneen kuvan ottamisessa.
+
+"Sillä varmaan ottaa hyvät kuvat" lienee yleisin vastaus kun sanoo
+ostaneensa uuden kalliin kameran.
+
+Kuinka moni todellisuudessa ostaa tai himoitsee uudesta
+kamerakalustosta megapikseleiden tai muun sellaisen takia?
+
+Ostin pitkällisen jahkailun jälkeen Nikon Df:n uudelleen, koska
+peilikameroiden sulavalla optisella TTL-etsimellä on oma arvonsa ja se
+osaltaan parantaa käyttötuntumaa. Tämä Nikon Df olisi paperilla
+ehdottomasti kameroistani paraskuvanlaatuisin, mutta onko se lainkaan
+paras? En ole lainkaan varma!
+
+** Kameran käyttökokemus eli UX
+
+Kamera ja sen eteen asetettu optiikka ja mahdolliset muut
+lisävarusteet muodostavat kokonaisuuden, jonka käyttökokemus voi olla
+hyvä tai huono; ei liity mitenkään siihen tuleeko sillä otettua hyvät
+tai huonot kuvat.
+
+Runko on iso juttu käytettävyydessä ja UX:ssa. Liian iso tai kömpelö
+runko, tai liian pieni ja ahdas runko. Ehkä nappulat ovat tunnottomia,
+ehkä etsimestä ei erota kohdetta ja kenties autofokus on vain surkea.
+
+Linsseissä on samoja juttuja. Liian iso ja painava linssi voi olla
+huono, samoiten jos sen säätörenkaat ovat liian jäykkiä. Linssin oma
+fokusmoottori vaikuttaa nopeudellaan asioihin. Äänekkyys kanssa.
+
+Kamerajärjestelmä eli runkojen ja linssien mahdolliset kombinaatiot ja
+valikoima on itsessään tekijä UX:ssa. Mikronelikolmosille tai Leica
+M:lle saa pienikokoiset linssit ja niissä on tasainen laatu ja
+käyttötuntuma. Nikon F:lle taasen saa toisenlaisia linssejä jotka ovat
+isompia mutta omalla tavallaan parempia. Satunnaiselle päiväkävelylle
+lähdettäessa systeemin kokonaispaino vaikuttaa heti käyttökokemukseen.
+Jollain studiokeikalla ei ehkä niinkään.
+
+Positiivisia käyttökokemuksia ovat esimerkiksi sommittelun ja
+tarkennuksen helppous. Jos näytöstä tai etsimestä ei tahdo nähdä läpi,
+on kokemus huono. Jos etsimestä näkeekin hyvin mutta kamera heittelee
+tarkennusta villisti laidasta laitaan silti ottaen hyvät kuvat, on
+kokemus huono. Jos linssejä pitää vaihtaa niin vaihdon helppous on
+positiivinen käyttökokemus. Jos järjestelmälle löytyy hyvät zoomit,
+näin välttäen ylenpalttista vaihtelua, on kokemus myös tältä erää
+parantunut.
+
+UX ei pääty kuvien ottoon. Kuvien editointiin mentäessä jotkut
+kuvanlaadun aspektit johtavat positiiviseen kokemukseen: jos kohina on
+helposti siistittävää tai automaattinen valkotasapaino on aina
+oikeassa, se nopeuttaa ja sujuvoittaa elämää. Tarkennuksen laatu ja
+tarkkuus tulee vastaan editointipöydällä. Hyvin mennyt sessio kentällä
+voi tuntua hyvältä mutta päivä saattaa mennä viimekädessä piloille jos
+ATK:n ääressä huomataankin että tarkennus on melkein joka kuvassa
+vinossa.
+
+** Nikon Df
+
+[[file:./nikon.org][Nikon Df]] on ollut aiemminkin [[file:./kolmentyyppistae-kameraa.org][keskusteluissani]] mukana. Se on
+uudenvanhan koulukunnan peilikamera mutta markkinoiden ainut
+sellainen, jossa on paljon suoria säätimiä kaikelle tarvittavalle.
+ISO-rulla, valotuksenkorjaus, suljinnopeus ja jos käyttää vanhempia
+linssejä niin aukkokin valitaan linssistä. Täydellinen?
+
+Df oli minulla noin viikon ajan maaliskuussa 2020 ja paniikkipalautin
+sen hätäpäissäni koska en ollut varma, että haluanko lähteä polkemaan
+tässä suossa tuolloin. Mutta tulinen mielikuva jäi kytemään.
+
+Nyt ostin sellaisen uudelleen. Systeemille minulla on kaksi linssiä
+valmiina: 85/1.8 AF-D ja 28-70 f/3.5-4.5 AF-D. Kumpikin on oikein
+hienoja laseja kyllä.
+
+Huvittavasti maaliskuisen kokeilun tiimoilta kameran käyttö oli jo
+lihasmuistissa, valikot kanssa. Kamera oli konffattu käyttökuntoon
+tuossa tuokiossa! Nikon osaa valikot kyllä selvästi.
+
+Mutta ilman uutuudenviehätystä ei ole myöskään kuherruskuukautta.
+Kamera asettui heti omaan rooliinsa. Kaikki sen kikat tiesin jo: hyvä
+ISO-suorituskyky ja putipuhtaat tiedostot kaikilla ISO-herkkyyksillä
+1000 ja alle. Toisaalta myös Nikonin raakakuvien tietynlainen tylsyys
+verrattuna Leican väreihin. Ja myös kameran autofokus, joka on ihanan
+analoginen kokemus mutta ei lainkaan niin tarkka kuin mitä
+M4/3-maailmasta esimerkiksi saa.
+
+Eilen kävin käyttämässä kameraa auringonlaskun aikaan ulkona ja
+kameran nokalla oli himmeä f/3.5-4.5 -zoomi. Opin kantapään kautta,
+että hitaat lasit ovat erityisen tuskallisia käyttää peilikameroiden
+kanssa. Tämmöinen aukko ei tee kipeää edes M4/3-kameran kanssa saati
+minkään isompikennoisen peilittömän edessä. Tarkennus ja myös näkymän
+kirkastus auttaa kummasti näkemään. Nikon Df sen sijaan alkoi
+nikottelemaan pahemman kerran valon vähentyessä.
+
+Se on sääli että tämmöinen yön kuningas saadaan polvilleen hitaan
+f/4-lasin kanssa. Käyttökokemuksena siis hitaan lasin käyttäminen
+peilikameran kanssa illan hämärtyessä alkaa olla tosi huono. Voin vain
+kuvitella, miten pahasti asiat ovat talven pimeillä!
+
+Hyödynsin TTL:n vahvuuksia kyllä myös ahkerasti. Tämän zoomin
+lähitarkennusetäisyys on miellyttävän lyhyt ja pääsen suoraan
+ihokarvoille asti. Tähän ei Leica kykene natiivein linssein: voin aina
+sovittaa jonkun makrokykyisen linssin sen eteen ja käytellä kameran
+livenäkymää, mutta sitten meitä kiusaa kyseisen livenäkymän huono
+toteutus. Totisesti, täydellinen kamera loistaa poissaolollaan
+vieläkin.
+
+Vaikka tuo hidas zoomi piirtää nätisti, käyttökokemuksena se on aika
+kehno huonossa valossa ja ehkä vähän muutenkin. 85 mm f/1.8 -lasini
+kanssa kamera on pääsääntöisesti ollut aina nautittava.
+
+Mitä lopputuloksiin tulee, niin SLR-kameroiden pehmeys on valitettava
+tosiasia. Nikonin 16 megapikseliä tarvitsee alipäästösuotimen ja se
+pehmentää asioita vielä entisestään. Toki enempi on aina linssistä
+kiinni kuin kennosta jos kuva on pehmeä. Tämä zoomi sovitettuna Leican
+nokalle silti saattaa tuottaa marginaalisesti hienompia kuvia. Leican
+alipäästösuodatiton terävä kuva ja kameran värit ovat vain enemmän
+omaan makuuni.
+
+Nikonin legendaarinen dynamiikka ja puhdas ISO-suorituskyky on toki
+asia kanssa, mutta eivät olleet tarpeellisia toistaiseksi.
+
+Kun puhutaan valotusohjelmista, tiedän että Nikon voittaa joka asiassa
+Leican mutta UX:ään vaikuttaa kovasti se fakta, että Nikonin
+suljinaikasäätö ei ole yhtä hyvä kuin Leicassa. Täysmanuaalinen
+valotus on siis vähemmän käytettävä omaan käteen kuin Leicassa, jossa
+se on yhtä juhlaa. Myös nämä AF-Nikkoreiden aukonvalintasäätimet
+linsseissä ovat hyvin jäykkiä kapistuksia ja pysähtyvät vain stopin
+välein.
+
+Leica M siis voittaa niin suljinaikojen valinnassa kuin aukon
+muokkaamisessakin. Nikon voittaa valotusohjelmien suhteen kyllä, jos
+haluat käyttää täyttä matriisimittausta tai spottimittausta. Nikonin
+ISO-rulla ei ole järin käytettävä, mutta valotuksenkompensaatio on
+ihan okei. Leican käyttöön tottuneena käsi kävi automaattisesti
+muokkaamassa EC-rullaa Nikonissa siinä missä sama käsi kävisi
+muokkaamassa suljinaikarullaa Leicassa.
+
+Mutta kyllä. Maaliskuussa Df ja 85mm oli upea kombo ja jätti ison
+vaikutuksen; nyt kokemus on tähän mennessä ollut aika kädenlämpöinen.
+Hitaat linssit hankaloittavat about kaikkea SLR-maailmassa -- miten
+oikein suhtautua asiaan oikein? Pitääkö minun kerätä Nikonille vain
+nopeita laseja, vaikka rungon ISO-suorituskyky sallisi päinvastaista.
+
+Nyt on ihan hyvä, että en ostanut kameraa liikkeestä jonne voisin
+paniikkipalauttaa kameran taas. Yritän kaiketi elää kameran kanssa ja
+olisi hyvä, jos pystyn menemään talvikuukaudet yli myymättä kameraa
+eteenpäin.
+
+** Hyvä kokemus
+
+Vaikka Nikon on ollut nyt ensimmäiset päivät aika kädenlämpöinen,
+tylsä kokemus, on siitä aina se hyvä puoli että tiedän paremmin. Ja
+eritoten tämä saa näkemään Leica M:n vahvat puolet entistä vahvemmin.
+
+Kuten sanottua, paniikkipalautus ei ole mahdollista ja
+paniikkimyynnissä ei järkeä. Sanotaanko, että jos maaliskuuhun asti
+saan pidettyä kameran talossa niin olen tyytyväinen itseeni. Siinä
+ajassa pitäisi olla monia tilanteita tutkia ja opiskella kameran
+vahvuuksia ja oppia välttämään sen heikkouksia.
+
+Huonosta kokemuksesta puheenollen, [[file:./olympus-epeli.org][Olympus Epeli]] (E-PL5) on nyt
+laitettu eteenpäin myyntiin. Kameran muutama vahvuus jää pahasti sen
+heikkouksien jalkoihin. Hieman isompi Panasonic GX80 hoitaa *kaikki*
+asiat paremmin.
+
+Nostaako tämä homma Leica SL:n takaisin kilpailuihin? Kyllä tavallaan.
+Leica SL tarjoaa Leica-värit ja upean etsinkuvan ja mahdollisuuden
+sovittaa kaikenlaista kameran eteen. Kääntöpuolena olen nyt päässyt
+lukemaan kattavia ja selkeitä teknisiä arvosteluita Leica SL:n
+soveltuvuudesta Leica M -lasille. Se ei ole aina kovin nättiä
+katseltavaa. Joku Nikon Z6 on varteenotettava kilpailija sittenkin,
+mitä peilittömiin FF-kameroihin tulee. Nikonin kanssa on tylsä
+värimaailma ja ehkä tietokonemaisuus ongelmana, Leica SL:n kanssa
+taasen puuttuu IBIS ja kuvanlaatukin on heikompi varmaan jollain
+asteella.
+
+Kun Leica SL ei ole arvosteluiden mukaan ihmeidentekijä, onko [[file:./leica-m10r-mietteita.org][M10-R]]
+sittenkin se juttu, johon pitää alkaa varautumaan.
+
+Yhtä kaikki, nyt minulla on hyvät asetelmat kokea ja *vertailla*
+kolmea kovaa alustaa keskenään: peilitön, optinen TTL ja optinen
+ei-TTL.
