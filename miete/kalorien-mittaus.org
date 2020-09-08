@@ -1,6 +1,6 @@
 #+TITLE: Kalorien laskeminen
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Kalorien laskeminen                                      :elämäntavat:
+* DONE Kalorien laskeminen                              :elämäntavat:kalorit:
 CLOSED: [2020-07-30 Thu 13:56]
 :LOGBOOK:
 - State "DONE"       from              [2020-07-30 Thu 13:56]
