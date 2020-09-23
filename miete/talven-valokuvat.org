@@ -1,0 +1,177 @@
+#+TITLE: Talven kamerasuunnitelmat ja valokuvailut
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Talven kamerasuunnitelmat ja valokuvailut         :kamera:leica:nikon:
+CLOSED: [2020-09-23 Wed 19:58]
+:LOGBOOK:
+- State "DONE"       from              [2020-09-23 Wed 19:58]
+:END:
+
+Nikon Df on nyt ollut talossa kuutisen viikkoa. Yksi kamera
+ämpärilistalta pois. Mitä seuraavaksi?
+
+** Nikon Df
+
+Yhden viikon Df-kokeilu taannoin maaliskuussa oli erilaisten tunteiden
+sekoitelma. Loppupelissä kamerasta jäi kuin jäikin positiivinen
+(ensi)vaikutelma. Nyt kun elokuussa hankin kameran takaisin, nämä
+samat tunteet, plussat ja miinukset, tulivat pitkälti takaisin
+sellaisenaan!
+
+Kuten taisin aiemmin kirjoitella, kameran uusi tuleminen oli varsin
+mälsä kokemus sinänsä. Ilmassa ei ollut jännitystä ja uusi
+kuherruskuukausi jäi kokematta. Kaksi linssiä minulla oli kameralle
+heti valmiiksi kevään jäljiltä ja laajensin oitis katalogia kolmella
+muulla linssillä, joista kaksi olen jo ehtinyt palauttaa tai myydä
+pois.
+
+Nyt kun kameran kanssa on voinut tutustua rauhassa ilman ns.
+palautuspaniikkia, Nikon on kahdella tavalla mälsä verrattuna Leicaan:
+
+- Autofokuslinssien kanssa kokemus on varsin mieto loppuunsa. Vaikka
+  linssini ovat niitä parempia ruuvitarkenteisia, jotenkin tuntumaa ei
+  vain ole aina niin paljoa. Hämärässä harmittavasti kamera vielä
+  tahtoo ruveta empimään kontrastin puutteessa ja tilanne on varsin
+  kehno yllättäen. Eikö peilikameroiden pitänyt olla niitä parhaita?
+
+  Lisäksi toki keskipainotteinen tarkennuspisteiden joukko tuntuu
+  hieman rajoittavalta, joskin myös arvostan systeemin
+  yksinkertaisuutta.
+- Manuaalitarkenteisten linssien kanssa tuntumassa on enemmän
+  tekemisen menoa, mikä on oiva homma. Harmittavasti optinen näkymä on
+  sellainen että omin silmin tarkentaminen on pääsääntöisesti
+  vaikeata.
+
+  Kameran tarjoama DRF-piste kertoo kun keskipiste on fokuksessa ja se
+  toimii hyvin pidempien polttovälien kanssa, mutta ensinnä se ei
+  toimi lainkaan tarkasti lyhyiden polttovälien kanssa ja toisekseen
+  joudun hyväksymään kameran antaman digitaalisen avun, joka on
+  etsimen nurkassa ja siten syö kokemusta hieman.
+
+Kamera tuntuu edelleen isolta. Se on sellainen hyvin mieto
+epämukavuuden tunne takaraivossa. Lisäksi paljon kritisoitu kahva,
+joka ei tunnu kamalan pahalta, alkaa hieman tuntua oudolta
+painavampien linssien kanssa. Tämä on toivottavasti riittävä signaali
+sille, että minun ei kannata katsoa tätä isompia peilittömiä kameroita
+eli Leica SL:ää lähinnä. Se on myös joillain tasoilla epäergonominen
+kamera, vaikka kahvaa sanotaankin ok:ksi ja se on vielä isompi kuin
+Df!
+
+Kameran säätimet tuntuvat /niin/ hyviltä, mutta AF-linssien
+aukonsäätörenkaat ovat hyvin jäykkiä ja kömpelöitä käyttää;
+vastaavasti edelleen kiusaa se, että suljinnopeus on valittavissa vain
+kokonaisina stoppeina. Automaattiohjelmat toimivat, mutta oma
+tekemisen maku jää vähemmälle. Voisin kokeilla keskipainotteista
+mittausta ennen muita (hätiköityjä) johtopäätöksiä.
+
+Toisin sanoen, Nikonin kanssa on mukava puuhastella mutta
+loppupeleissä ei niin mukava sittenkään.
+
+** Leica M
+
+Leica on Leica. Rangefinderiä on helppo arvostaa enemmän ja enemmän
+kun saa hyvää kosketusta vaihtoehtoisiin systeemeihin. Leica on
+selkeästi pienempi ja se istuu käteen paremmin, tuntuen ironisesti
+paikoin paremmalta ja ergonomisemmalta kuin Df.
+
+Koska tekniikka on erilainen, on Leican pienempi etsinkuva (0.68x)
+valtavasti isompi kuin Nikonin 0.7x kuva. Kaikki se konteksti, minkä
+näet kehysviivojen ulkopuolelle. Tällä on merkitystä paitsi
+ennakoinnin kannalta, myös sommitelmaa etsiessä.
+
+Merkittävä juttu, joka on ollut mietteissäni paljon, on se fakta että
+Nikonin F-kannalle ei ole paljoa jännittävää mitä Leica M:lle on.
+Esimerkiksi uudet kiinalaiset 7artisan- ja TTArtisan-linssit jotka
+tuovat pöydälle jotain vallan uutta, huokealla.
+
+** Leica M10-R
+
+Nikon Df on epäilemättä ollut oman aikansa pimeyden ruhtinas, mutta se
+on silti 7 vuotta vanha kamera ja kenno on vielä vanhempi. Kehitys
+menee eteenpäin ja on täysin järkevää olettaa että Leica M ja M10 ja
+uusi M10-R kaikki voittavat Nikonin hyvässä valossa korkeammasta
+pikselimäärästä johtuen. M10R upouutena kamerana lisäksi suurella
+todennäköisyydellä voittaa Df:n pimeänäössä.
+
+Leica M10R tuo M240:n ja Df:n parhaat palat yhdessä paketissa. Olin
+miedoissa kamerakuumeissa jo kevytpäisenä miettimässä että tässä on se
+mitä ostan juuri nyt, tai ainakin laitan ennakkotilaukseen...
+
+...mutta taloushommien lisäksi joku muukin asia kolkutteli
+takaraivossa, kanitti menohaluja. Ehkäpä en vain ansaitse näin hyvää
+kameraa?
+
+** Itsensä kehittäminen
+
+Vähän tuntuu että tänä vuonna olen jäänyt junnaamaan paikoilleni
+enemmän -- en koe kehittyneeni kuvaushommissa ja mikä tärkeämpää, en
+ole jaksanut panostaa siihen tyyliin, jonka ajattelin olleen sydäntäni
+lähimpänä. En ole katukuvannut suurella menestyksellä käytännössä
+juuri yhtään. Otan omasta mielestäni kelpoja kuvia useasti mutta ne
+eivät ole katukuvia, eivät sellaisia katukuvia joita ylpeänä
+laittaisin näyttelyn seinille.
+
+Viime syksynä minulla taisi olla jo samantapaisia juttuja mielessä,
+plus kansalaisopiston kurssit siinä sivussa vielä. Tänä vuonna ja nyt
+minun on hyväksyttävä että parhaiten omaa näkemistään voi kehittää
+opiskelemalla mestareita. Se tarkoittaa uuvuttavia tunteja kirjojen
+kimpussa, analysoiden miellyttäviä kuvia auki.
+
+Jo viime syksynä tavallaan valaistuin siitä että kova kuvien
+pänttääminen on asia, joka auttaa näkemään tilanteita kadullakin. Ei
+riitä tietää kameran käyttöä, ei riitä myöskään tietää sommittelun
+teoriasta. Pitää olla vahva näkemys siitä, mistä tykkää. Kun osaa
+HCB:n tai Burrin kuvat "ulkoa", alkaa nähdä paremmin kadullakin että
+missä on "HCB-mainen asetelma" esimerkiksi.
+
+M10R on ehkäpä jonkinlainen palkinto, jonka voin luvata itselleni 6
+kuukauden päästä jos lukeminen ja pänttääminen ja tutkiminen jotenkin
+kantaa hedelmää. Tietysti mikä on mahdollista, opiskelun ja
+harjoittelun myötä syntyisi valaistuminen joka vie minut pois
+rangefindereistä. Takaisin Fujifilmiin tai johonkin. Ei maailman
+todennäköisin skenaario mutta onhan näitä sattunut, ainakin
+elokuvissa.
+
+** Suunnitelmat
+
+Kirjasto kutsuu. Töölön kirjastossa uskalsin käydä sisällä katsomassa
+valikoimaa. Ihan hyvin on valokuvakirjoja. Sitten kun ne loppuvat,
+Oodissa on lisää, Rikussa lisää. Ajattelin ehkä lukea kirjastossa
+mutta samahan ne on lainata kotiin ja lukea paremmassa rauhassa.
+Suunnitteilla on bongata lattialamppu nojatuolin yhteyteen niin että
+on mukavampi lukea isoja ja paksuja kirjoja. Kirjaston lisäksi pitänee
+ihan ostaa joitain töitä, joita ei ensinnä kirjastoista löydy.
+
+Yritän puskea tästä tutkiskelusta uutta rutiinia.
+
+Mielivaltaisesti valittu 6 kuukauden määräaika on pitkä, toisaalta lyhyt aika ja tulee kattamaan tylsät talvikuukaudet joilloin motivaatio tahtoo lopahtaa. Jännityksellä voimme kaikki odotella, mitä maaliskuun lopuilla tapahtuu. Kevättä ainakin odotellaan silloin.
+
+Kamerakerhohommia pitää kokeilla kultivoida myöskin eteenpäin, nyt
+tietysti viirusten takia ne hommat ovat enemmän tai vähemmän jäissä.
+
+Entäpä ne kalustosuunnitelmat? Leica M10R on hehkeä kamera ja se ei
+jätä edes paljoa parannettavaa koko kamerasarjassa. Kestävämpi akku ja
+parempi livenäkymä paremmalla irtoetsimellä niin se olisi siinä. Se on
+tolkuttoman kallis tietysti kamerana, eikä niitä saa käytettynä
+pitkään aikaan. Leica M on tosiasiassa hyvä kamera ja sen kanssa
+pystyy "harjoittelemaan" vielä yhden vuoden lisää (jouluna M täyttää 2
+vuotta minun omistuksessani).
+
+Nikon Df on toistaiseksi ehkäpä opettanut minulle että vaikka
+teoriassa optinen TTL-etsin on seksikäs idea, käytännössä peilittömät
+antavat paljon enemmän vastinetta ja joustoa. Kysymys saattaa olla:
+riittääkö peilitön M4/3 vai pitäisikö sen olla kinokokoisella
+kennolla. Panasonic G9 on muhkean seksikäs kamera muuten, mutta
+onkohan se vähän yliampuva idea. Huvittavasti näinä päivinä täyden
+koon kennolla varustettua peilikameraa ja sille nopeaa potrettilasia
+saa jopa halvemmalla kuin käytettyä Panasonic G9:iä ja sille jotain
+nopeaa lasia. Ja täyden koon peilikamera tulee pieksämään
+mikronelikolmoset useimmissa pimeänäköä vaativissa projekteissa.
+Vastineeksi jos liikkeenpysäytys ei ole tärkeä juttu niin M4/3 on
+älyttömän vahva idea. Ja sitten on se keskiväli eli peilittömät
+FF-kamerat, joissa on kuvanvakainta.... no eipä anneta keskustelun
+mennä raiteilta.
+
+Yhtä kaikki, kalustoa minulla on nyt kolmea sorttia ja tässä suhteessa
+on muikea olo olla. Nyt minulla on motivaatiota kokeilla viedä
+taitojani eteenpäin ja kutina olisi itse asiassa jokseenkin hyvä että
+jotain oppimista tulee tapahtumaan!
