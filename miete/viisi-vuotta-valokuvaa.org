@@ -1,0 +1,173 @@
+#+TITLE: Viisi vuotta täyteen (uutta) valokuvaharrastusta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Viisi vuotta täyteen (uutta) valokuvaharrastusta              :kamera:
+CLOSED: [2020-12-20 Sun 12:24]
+:LOGBOOK:
+- State "DONE"       from              [2020-12-20 Sun 12:24]
+:END:
+
+Se oli alkutalvea 2015 kun aloin innostua uudelleenlämmittelemään
+valokuvaushommaa. Sätöksessä oli hyvä meno päällä, Carina pihalla,
+Outokummun energia oli korjannut sähköverkkoaan luotettavammaksi.
+Lueskelin internetistä miten hieno kamera tuo Fujifilm X100T on. Sitä
+en tiedä, mistä se syy katsella niitä kameroita tuli.
+
+Fujifilmiä pidin kalliina kamerana ja muutenkin rajallisena
+ominaisuuksiinsa nähden. Ajattelin että se on sellainen lottovoittajan
+kamera: jos lotossa joskus voittaa isosti niin sitten voi törsätä
+reilun tonnin hienoon pokkarikameraan. 
+
+Kuten näissä hommissa yleensä tuppaa käymään, alkaa rationaaliset
+selitykset lopulta väistyä ja uudenvuodenaattona minä sen pistin
+Amazonista tilaukseen. Muistan, että tähän liittyi hiljalti katsomieni
+elokuvien taiteita puoltava sanoma.
+
+** Fujifilm X100T: 2016-2017
+
+Ja Fujifilm tosiaan lunasti sille asetettua hypeä kyllä
+henkilökohtaisella tasolla isosti. Kamera on tosi näppärä kädessä, se
+on hipihiljainen ja nätti myös. Kameran automaattinen valotus ja
+salamakompensointi (jos salama aktivoidaan) ovat erinomaisia. Ken
+Rockwell liioittelee huumorimielessä asioita mutta kun hän sanoi että
+[[https://www.kenrockwell.com/fuji/x100t.htm][X100T on maailman paras kamera]], voin vain yhtyä yhdessä mielessä hänen
+aatteisiin.
+
+X100-sarja on yksinkertaisesti erinomainen. Aito kulttikamera hyvässä
+mielessä. X100T innosti minua kokeilemaan myös Fujifilmin
+järjestelmäkameroita: X-T1 parilla linssillä tuli ostettua, mutta myös
+myytyä hyvin nopean kokeilun jälkeen. X-T1 on hieno kamera mutta sen
+sielu on jossain karkuteillä. X100T:n sielukkuus on ihan toisesta
+maailmasta.
+
+X100T meni myyntiin lopulta kun hurahdin Leicaan ja hurahdin Leican
+väreihin (Fujin X-Trans II -kamerat ovat aika karkkisia väreiltään).
+Muutamaa vuotta myöhemmin kokeilin vielä vähän lisää Fujifilmiä X-T3:n
+ja linssien muodossa. X-T3 on samanlainen kamera kuin X-T1: upea
+suorittaja mutta kylmä ja sieluton, verrattaen.
+
+[[file:./kuvat/5v-kameroita/x100t.jpg]]
+
+Fujifilm X100T kävi Yhdysvalloissa kesällä 2016. Näihin kuviin en ole
+kamalan tyytyväinen, mutta se ei ole kameran syytä. Omaa
+taidottomuuttani lähinnä.
+
+** Leica Q: 2017-2019
+
+Fujin (X100T) kohtalo oli varmaan sinetöity sillä sekunnilla kun
+Verkkokauppa.comin myymälässä kävin keväällä 2017 hypistelemässä Leica
+Q:ta käsissäni. Olin täysin tyrmistynyt kameran työnlaatuun,
+käytettävyyteen, tarkennusnopeuteen. Upeaa työtä kaikilla tavoilla.
+Fujin X100-mallistohan ei ole maailman nopein tarkentaja joten Leica Q
+oli monin tavoin piristävä askel oikeaan suuntaan.
+
+Leica Q:n tarkennusnopeus on hyvä mutta sen tarkennustarkkuus on myös
+ihan valovuosia Fujia edellä. Kun kamera tarkentaa valitun neliön
+sisällä johonkin niin se on siihen tarkentanut. Kerrassaan upea
+toteutus.
+
+Leica Q on hinnaltaan /nelinkertainen/ Fujiin nähden, joten senkin
+minä asetin aluksi tähän lottovoittajakameran kategoriaan. Ei mennyt
+kuin 2 kuukautta niin olin jo noutamassa käytettyä Q:ta Tampereelta.
+Se oli juhannusaaton tai -päivän ajelu, oikein lämpimät muistot
+siltäkin keikalta.
+
+[[file:./kuvat/5v-kameroita/q.jpg]]
+
+Fuji ja Leica olivat vieretysten pari kuukautta mutta kävi selväksi
+että Fujia ei vain tule enää käytettyä niin raskain mielin myin sen
+eteenpäin.
+
+Leica Q oli ainukainen kamera puolen vuoden ajan systeemissäni. Se on
+28-millinen pokkari, mutta terävän lasin ja terävän kennon ja terävän
+tarkennuksen kanssa siitä pystyi kroppaamaan helposti 35-millistä ja
+50-millistä kuvaa ulos ilman pahempia haittavaikutuksia.
+
+Mutta nämä ovat vain rajallisia "polttovälejä" siltikin, 28-50 mm-e ei
+ole suurensuuri alue.
+
+Talvella 2018 päätin miettiä uutta suuntaa valokuvaukseen -- ehkä jopa
+downsizata, jos mahdollista -- ja kokeilla mikronelikolmosia. Ostin
+Olympus Pen-F-kameran ja sille ostin kaksi linssiä jotka täydentävät
+Leica Q:n polttoväliä. Ultralaaja Laowa 7.5mm (15 mm-e) ja klassinen
+telezoomi 35-100 (70-200 mm-e) täydensivät hienosti Q:n
+"normaalikulmia" ja tämä kamerakaksikko oli /kerrassaan upea juttu/.
+Ristiriitaa ei ikinä tullut koska visio vaatii joko ultralaajakulman,
+normaalin tai telekuvan ja aina oli tiedossa sitten sopiva linssi tai
+sopiva kamera.
+
+Leica Q ja Pen-F ovat kaksikkona aika kevyt tehopakkaus ja tarjosivat
+niin paljon hyvää. Tätä komboa minä näinä päivinä ehkä eniten
+muistelen kaiholla. Asiat olivat hyvin.
+
+Tämä kaksikko kävi Yhdysvalloissa Kali-Nevadan ajelulla
+alkusyksystä 2018. Syntyneet kuvat totisesti ovat parhaita ottamiani
+ja nyt mietin monesti että meninkö maaliviivan ohi reippaasti
+mennessäni Leica M:ään.
+
+** Leica M: 2019-nyk
+
+Leica Q on tunnettu porttihuume ja Leica M on sitten se kova kama.
+Joulukuun lumipyryssä 2018 kävin Kouvolasta noutamassa tosi
+siistikuntoisen Leica M-P typ 240 -kameran ja sain välipäivinä sille
+linssinkin (Leica Summicron-M 35mm f/2) joten uusivuosi 2019 oli
+totisesti pelastettu.
+
+Olin lukenut kaiken mahdollisen ja mahdottoman M-kameroista ja olin
+onnistunut lukemaan rivien välistä riittävästi tietoa niin että olin
+kohtuullisen varma siitä, että tämä kamera sopii minulle. Olin onneksi
+oikeassa. Olin motivoitunut opiskelemaan manuaalitarkennusta ja
+kameran muita oikkuja. Tämä palkittiin komeasti, palkitaan edelleen.
+
+Niin upea kamera kuin Leica Q onkin niin Leica M syrjäytti sen vallan
+tyystin. Muutin Helsinkiin M kainalossa alkukesästä 2019 ja kävin
+kaupungin kimppuun uuden kameran kanssa ja kuvasin niin perhanasti.
+Leica M palkitsee niin monella tavalla kuvaajansa.
+
+Leica Q:sta oli tosi surullista luopua mutta kun sen käytettävyys
+M:ään verrattuna oli niin paljon toisenlainen juttu niin se jäi
+pölyttymään ja myin sen sitten.
+
+M oli vuoden 2019 ajan käytännössä ainut kamera jota käytin. Tänä
+vuonna 2020 ostin sivuun kakkoskameraksi Panasonicin
+mikronelikolmekameran ihan sen takia kun minulla oli kaapissa
+edellisen M4/3-kokeilun jäljiltä hyväksi kokemani telezoomilasi
+35-100. Laajensin hieman tämä M4/3-kokoelmaani mutta se ei pysty
+kilpailemaan M:n rinnalla. Se on sellainen telekulmiin keskittynyt
+kakkossysteemi.
+
+[[file:./kuvat/5v-kameroita/m.jpg]]
+
+Koska M systeeminä sisältää omat pienet rajoitteensa
+(manuaalitarkennus, manuaalivalotus ja pitkä lähitarkennusetäisyys
+ovat kaikki silloin tällöin mietoja rajoittavia tekijöitä) niin olen
+lisäksi kosiskellut DSLR-kameroita myös: Nikon Df ja muutama linssi
+sille systeemille on ollut vuoden 2020 teema. Tämäkään kamera ei
+kykene syrjäyttämään Leicaa kuvausnautinnon määrässä. Nikon on kiva
+juttu mutta myynen pois pian.
+
+Leica M olisi käynyt Yhdysvalloissa tänä vuonna mutta
+koronarajoitukset muuttivat ne suunnitelmat. M on toistaiseksi
+vieraillut vain Suomen Lapissa ja Saanatunturilla hieman.
+
+** Summariikki ja opetukset
+
+Voisin luonnehtia, että tämä viisivuotinen on jaettavissa kolmeen
+jaksoon: Fujifilmin, Leica Q:n ja Leica M:n jaksoihin.
+
+*Fujifilm* opetti minulle sen, että on ok käsitellä ja ottaa kuvia
+niin, ettei niiden väri aina vastaa enää todenmukaisuutta. Kuvan
+tunnelma ja sensellainen määrää enemmän kuin todenmukaisuus.
+
+*Leica Q* opetti kuvaamaan raakana ja jälkikäsittelyn riemuja. Q ja
+*Olympus* kaksikkona opettivat pitämään työkaluja pakissa niin että
+*aina on sopiva työkalu kädettyvillä.
+
+*Leica M* opetti manuaalitarkennuksen ja manuaalivalotuksen riemut ja
+surut. M opetti myös optisen etsimen vahvat edut minulle uudestaan. M
+myös opetti sen, että linssillä on ansiokkaampiakin tehtäviä kuin olla
+huipputerävä ja nopeasti tarkentava lasi: linssin oma piirto ja sielu
+ovat kaunis osa valokuvaamista.
+
+Voin vain unelmoida että mitä seuraava kamera mahtaa olla, ja mitä se
+opettaa minulle.
+
