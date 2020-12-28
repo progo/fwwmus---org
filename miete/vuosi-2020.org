@@ -1,0 +1,109 @@
+#+TITLE: Vuosi 2020
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2020                                         :uv:retrospektiivi:
+CLOSED: [2020-12-28 Mon 16:56]
+:LOGBOOK:
+- State "DONE"       from              [2020-12-28 Mon 16:56]
+:END:
+
+Taas yksi vuosi menty eteenpäin. Hyviä juttuja syntynyt tänä vuonna.
+
+** Kelataanpas vuosi taaksepäin
+
+Vuonna 2019 pääsin muuttamaan Helsinkiin ja nauttimaan isosta
+kaupungista ja kaikkea. Täällä on kyllä viihtynyt hyvin, ranta on kiva
+ja ihmismassa on myös. Vuotta viimeistelin uudenvuoden suunnitelmilla
+kirjoittaa kuvagalleriasoftaa ja miettimällä painonpudotusta uudessa
+valossa. Ulkomaanmatka oli myös yksi suunnitelma, mutta se nyt vähän
+jäi väliin koronarajoitteiden takia.
+
+** Kuvagalleria ja DAM
+
+Keväällä pääsin kuin pääsinkin ottamaan itseäni niskasta kiinni ja
+kirjoittamaan käyttökelpoisen kuvanhallintaprojektin itselleni. Pääsin
+koiranruokavaiheeseen mutta sen jälkeen projekti on jäänyt kytemään
+/hyvin/ pienelle tulelle. Paljon olisi tekemistä jotta siitä saisi
+kaiken hyvän irti.
+
+Tämä projekti on nimeltään "Jibit" ja ideana on se, että syötät
+Jibittiin ottamiasi valokuvia ja tagaat ja nimeät ja arkistoit niitä
+kuten haluat. Myöhemmin kuviin pääsee helposti takaisin, jos vain
+tagasit oikein.
+
+Nykyisin kuvat otan kamerasta tietokoneelle perinteiseen malliin
+muistikorttiskriptillä, (raaka)kuvat avaan Darktableen, jossa
+käsittelen ne läpi. Syntyvät lopputulokset (JPEG-kuvat) laitan
+Darktablesta varsin automatisoidusti Jibittiin ja tagailen niitä.
+
+Systeemissä on potentiaalia laajentua moneen merkitykselliseen
+suuntaan mutta, kuten sanottua, nyt on ollut vähän hidasta
+jatkokehityksen suhteen.
+
+** "Keski-iän" kriisi toi kaivattuja uudistuksia
+
+Keväällä täytin 30 ja se tuntuu minulle aika keski-ikäiseltä kun
+miettii, mitä se 60 sitten mahtaa olla. Kriisi on manifestoitunut
+monella pienellä tavalla, yhdessä muodostaen aika ison kriisin?
+
+Vuosi sitten aloittelin ahkeramman säästöohjelman ja se on myös mennyt
+ihan oikein. Mutta kesällä aloin ihmetellä hieman että mitä varten
+oikeastaan säästän rahaa, eikö elämän pieniin nautintoihin olisi hyvä
+/opetella/ laittamaan rahaa (koska muuten ne nautinnot jäävät
+nauttimatta).
+
+Mietin hetken aikaa kesällä että vietän jonkinlaisen larppauksen
+allokoimalla ison rahan ja hurvittelemalla parisen kuukautta sitten
+herroiksi elämällä. Luonnollisesti se idea tuntui pihille liian
+ylivoimaiselta toteuttaa. Jotenkin siitä sain kuitenkin innostusta
+aloittaa pitkäänmietittyä painonpudotusta "harrastusprojektina".
+
+Tiesin etukäteen että jos vain lasken syömäni kalorit niin paino
+putoaa ihan itsestään oheistuotteena. Muuta itsekuria ei tarvita. Tämä
+on toiminut oppikirjamaisesti aloituksesta alkaen.
+
+Kalorienlaskeminen alkoi ja jatkuu hyvään malliin: se on ehdottoman
+positiivinen piirre ja vaikka en osaa sanoa, oliko keski-iän kriisillä
+jotain tekemistä asian kanssa, voin vain arvailla. Joka tapauksessa
+asiat menee nyt hyvin. Toiset 6 kuukautta niin ei pitäisi olla turhaa
+läskiä yhtään kehossa?
+
+Vielä mennään eteenpäin loppuvuoteen ja vuosi sitten aloitettu
+rahansäästöhommakin löysi päätöksensä. Sain riittävän lämpimän kipinän
+alkaa miettiä omistusasumista ja lyhyen ajan palloteltuani sopiva
+asunto Hyvinkäältä on ostettu. Muutto sinne tammikuussa 2021.
+
+** Hyvinkää
+
+Tämä peliliike vie toisaalta minut pois "pelipaikoilta" ja toisaalta
+se tuo taloudellista etua suunnattomasti. Lainalyhennys ja ohessa
+tehtävä säästäminen tekee 10ke-vuosisuunnitelmista triviaaleja.
+
+Helsinki on jatkossa vieraskaupunki, ei kotikaupunki. Se muuttaa
+Hki-matkailun dynamiikkaa varmasti siihen suuntaan että käydessäni
+vähän osaan "törsätä" enemmän ravintoloissa ja kahviloissa kuin nyt.
+Eli ehkäpä sekin aspekti korjaantuu nyt.
+
+Mikäli oikein mutuilen niin hallitus lievensi koronapandemian takia
+asuntojen käsirahavaatimuksia kymmeneen prosenttiin. Eli koronaa on
+kiittäminen että tämä asuntojahti oli ylipäänsä mahdollista tässä ja
+nyt ilman sen kummempia suunnitelmia.
+
+** Vuodelle 2021
+
+Hyvät asemat tässä juuri nyt kyllä asioiden suhteen. Paino tippuu ja
+taloudellisesti pyyhkii hyvin.
+
+Jibitin jatkaminen on ollut nyt jäissä mutta sitä voisin varmaan
+hieroa pakottaen itseni koodieditorin äärelle. Pari tuntia viikossa
+voisi kokeilla allokoida.
+
+Ulkomaanmatka tulevana vuonna on yksi idea, mutta kun
+koronarajoitukset varmasti riehuvat vielä hyvän aikaa niin voi olla
+viisainta nyt etukäteen päättää, että vuosi 2021 tulee olemaan
+kotimaanmatkailun vuosi. Hyvinkäältä käsin Tamperetta, Turkua,
+Helsinkiä ja Kuopiota nyt ainakin. Neljän viikon kesäloma taipuu
+monella tavalla pieniksi palasiksi siellä sun täällä. Kahden viikon
+iso ajelu voisi sisältää vuokra-auton käyttöä ja sitten toiset 10
+lomapäivää voisi pirstaloida neljän tai viiden muun kesäviikonlopun
+pidentämiseen.
+
