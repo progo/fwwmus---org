@@ -1,0 +1,152 @@
+#+TITLE: Alun hetket Hyvinkäällä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Alun hetket Hyvinkäällä                               :asunto:sandels:
+CLOSED: [2021-02-05 Fri 18:29]
+:LOGBOOK:
+- State "DONE"       from              [2021-02-05 Fri 18:29]
+:END:
+
+Nyt olen asunut Hyvinkäällä noin kolmisen viikkoa. Hieman olen päässyt
+asettumaan taloksi.
+
+** Jäähyväiset Töölölle
+
+Muuttopäivä oli tammikuinen maanantai. Kämppä oli kylmä ja Telian
+FTTB-talokuitu kytkettäisiin vasta keskiviikkona. Tiistaina otin
+oitis ja lähdin Töölöön loppusiivousta suorittamaan, kun olosuhteet
+olivat näinkin suotuisat. Hyvinkäältä Helsinkiin ja joskus takaisinkin
+pääsee näppärästi Ventoniemen Väinö-bussiyhteydellä. Väinö ei montaa
+kertaa päivässä aja, mutta jos sopivasti ajaa silloin kun tarvitsee,
+se on noin 20 minuuttia junamatkaa pidempi mutta lupsakampi tapa
+matkustaa Kamppiin. Pois voi jäädä Manskun varrella, mikä on mukava.
+
+Matkasin lumiseen Kamppiin ja söin Burger Kingiä nyt vierailevana
+ulkopaikkakuntalaisena ja matkasin kevyen kassini kanssa Töölöön,
+jossa siivousvälineet odottelivatkin.
+
+Varsin haikein mielin viimeistelin paikat 4 tuntia myöhemmin ja
+luovutin avaimet ja kävin toistaiseksi viimeistä kertaa vanhassa
+lähikaupassani, Museokadun K-marketissa viemässä pullot ja tölkit.
+
+Takaisin uuteen kotiin matka käy sulavasti junalla, ei käy
+kieltäminen. Uusi lähikauppa-LIDL ehti juuri mennä kiinni siltä iltaa,
+jäi paistopisteen jämät tarkastamatta. Ironisesti en koskaan
+hyödyntänyt Töölössä kauppojen pitkiä aukioloaikoja mutta heti toisena
+Hyvinkää-päivänä olisin tavallaan toivonut LIDLin olleen auki hieman
+yhdeksää pidemmälle. Poikkeukseksi tuollaiset toivomukset jäävät,
+yleensä tapaan käydä ns. ihmisten aikoihin kaupoilla, esimerkiksi
+työpäivän lomassa ruokatunnilla.
+
+** Hiljaa hyvä tulee
+
+Mitä muuttokuormaan tulee, aloitin vaatteiden laittelulla koska ne
+eivät varmaan tykkää olla suljetuissa jätesäkeissä pitkään. Vasta
+viidentenä päivänä laittelin pöytäkoneet ja telkkarit tulille: illaksi
+oli hyvä katsoa elokuvia vajaan viikon paussin jälkeen.
+
+Asunto oli tyhjyyttään aika kylmänsutjakka kun muutin tänne.
+Sisälämpöä oli 17 astetta pitkään. Ihmisasutuksen myötä se hiljalleen
+alkoi hivuta 20:een mutta hyödynsin taloyhtiön palveluksia heti ja
+huoltomies kävi rassaamassa venttiileistä ulos enemmän. Tänne asuntoon
+saa talvipakkasilla 22-23 astetta mutta kovalla pitää pitää
+pattereita.
+
+Hiljaa hyvä tulee. En halunnut heittää atk:ta ja telkkaria
+ensimmäiselle vapaalle paikalle, koska kun siihen tottuu niin siitä on
+vaikea vaihtaa optimaalisempaan kohtaan. Tein niin kuitenkin mutta
+viittä päivää myöhemmin. Ehtii nämä varmaan laitella uusiin
+paikkoihin, ei täällä ainakaan ahdasta ole siirrellä tavaroita.
+
+** Sätös
+
+Paljon tulee mieleen näistä ensipäivistä Sandelsissa vanha kunnon
+Sätös. Sekin oli kylmä kokemus ensialkuun, kostea asumaton talo oli
+kolea olla kesän lämpimälläkin. Jos olisin muuttanut sinne talviaikaan
+niin johan olisi ollut kokemus!
+
+Silti muistelen Sätöstä pelkästään lämmöllä.
+
+Sätös tuntuu niin kaukaiselta jutulta tässä vaiheessa, vaikka Helsinki
+oli etappina vain sen 1,5 vuotta. Sätös oli itsessään "kaksivaiheinen"
+asuinkokemus minulle: ensin nautittiin ja hirvitytti
+omistusasumiskokemus ja sitten nautittiin vuokralaiselämästä samassa
+talossa.
+
+Kuten aiemmin mietin että oliko Helsinki-Hyvinkää-muutto hyvä idea
+muista kuin taloudellisista syistä, mutta ei sitä huonona
+peliliikkeenä voinut pitää; samaa voi miettiä Sätöksestä.
+Jälkiviisaana näkee oitis, että Sätös oli hyvää ja edullista asumista
+oman auton joustavuudella, mutta muistan kyllä ne syyt ja tekijät
+siihen että myin sen paikan. Kristallipalloa ei ollut silloin
+saatavilla, valitettavasti.
+
+** Säästöohjelmat: rahaa ovista ja ikkunoista?
+
+Halpa asuntolaina tarkoittaa, että kuukausittaiset lainalyhennykset
+menevät pääoman lyhennykseen 90-prosenttisesti. Kun aiemmin laitoin
+jemmaan rahaa X euroa kuukaudessa, nyt minun tarvitsee säästää X - 400
+euroa päästäkseni samaan tavoitteeseen, yhdellä tavalla mietittynä.
+
+Yhtä kaikki, nyt on kiva kun niin paljon kuukausittaisesta "menosta"
+meneekin todellisuudessa omaan säästöön. Lainan korot ja kulut ovat
+ehkä 50 euroa kuussa, hoitovastike veden ja netin kanssa on 220 euroa.
+Nettiyhteys on nyt myös downshiftattu niin että vastike ja liittymä
+maksaa 8 euroa kuussa: 32 euroa vähemmän. Lähikauppa on nyt iso LIDL
+eikä pieni kantakaupungin K, joten ruokahommissakin nähtäneen selkeää
+notkahdusta.
+
+Menot pienenevät mutta niin se tahtoo olla, että kun menoja saa
+pienennettyä markalla niin uusia menokohteita keksii kolmella.
+Muuttokuluja varten kasasin käyttötilille ison pinon rahaa mutta
+kulujen jälkeen tein aika aggressiivista säästöä ja tuhlailua
+(kamerakamaan, mihinkäs muuhun) ja nyt nautitaan pari kuukautta
+köyhästä olotilasta, kookkaita Visa-laskuja odotellessa. Trendi tulee
+olemaan kuitenkin huomattavan positiivinen, ehkä jo seuraavasta
+tilistä alkaen.
+
+** Matkailu: Kuopio
+
+Kotimaan matkailua piti tänä vuonna harrastaa, niinhän lupasin
+itselleni. Aloitetaan se sitten oitis maaliskuun talvilomaviikollani
+ja käydään siellä Kuopiossa.
+
+Kuopio on ehkä riskialtis peliliike. Se on se paikka, jossa olisi
+tunnetta ja tyyliä. Sitten päädyin Hyvinkäälle joka on järkevä mutta
+karsea. Jos minä nyt menen sinne ja näen mistä jäin paitsi, voi tulla
+karvaat aloitukset eteen. Tai vaihtoehtoisesti ei tule ja näen, että
+ei se elämä sielläkään ruusuista ole. Mukava on siellä käydä joka
+tapauksessa. Samalla toki tulee perhettä nähtyä Iisalmessa ja sitten
+Joensuussa.
+
+Tulee myös ensimmäistä kertaa kokeiltua bussiyhteys
+Kuopio-(Outokumpu)-Joensuu joka on ihan mukava varmasti. Oku-Joku on
+tuttu yhteys 9 vuoden takaa mutta nyt tulee ajettua koko hoito ja ehkä
+samalla muisteltua vanhoja siinäkin hommassa. Hyvä viikon keikka
+tulossa siitä.
+
+** Kamerahommia
+
+Hyvinkään kaunista talvea on ollut mukava taltioida kameralle. Täällä
+on hyvää valoa nyt, tosin niin on varmaan Helsingissäkin nyt. Paljon
+lunta oksilla.
+
+En ole silti varsinaisesti ollut juoksemassa päätäpahkaa tuonne ulos
+kuvaamaan kaikkea liikkuvaa. Hiljaa hyvä tulee, tässäkin asiassa?
+
+Tammikuun tyypillinen välineostelu näkyi tällä kertaa kahtena
+ostoksena: Peak Design -kolmijalka välipäiväalennuksista ja sitten
+käytetyt M4/3-primet (PanaLeica 15, Panasonic 25, Panasonic 42.5)
+myöhemmin kiivaan empimisen jälkeen. Nyt minulla on paljon kiinteitä
+ja valovoimaisia linssejä Panasonicilleni, mutta onko se toivottava
+kehitys? Minulla oli hyvä ja toimiva idea pitää M4/3-alusta pelkkien
+kuluttajazoomien varassa. Nyt se on 60:40-sekoitus primeä ja zoomia.
+
+Hiljan nousi pinnalle uusia Leica-prospekteja ja olen miettinyt
+kamerakuumeisena erilaisia älyttömiä skenaarioita, esimerkiksi
+sellaista että laittaisin kaikki M4/3:t myyntiin ja ostaisin jotain
+vanhaa ja painavaa SLR-linssiä jota sovittaisin Leica M10R:n edessä
+silloin kun tarvitsee lähitarkennusta tai teleä. Tämä on täysi
+180-käännös loppuvuoden 2020 ajatuksistani. Liian älytön idea
+toteuttaa, vai onko?
+
+On se. Liian älytön.
