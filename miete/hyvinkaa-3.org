@@ -1,0 +1,160 @@
+#+TITLE: Hyvinkää kuukauden ja kamerahommia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Hyvinkää kuukauden ja kamerahommia       :asunto:sandels:kamera:leica:
+CLOSED: [2021-02-21 Sun 18:23]
+:LOGBOOK:
+- State "DONE"       from              [2021-02-21 Sun 18:23]
+:END:
+
+Hyvinkäällä tuli nyt kuukausi täyteen.
+
+** Hyvinkää tukikohtana
+
+Hitaan alun jälkeen tuntuu aika hyvältä tämä, miten homma on lähtenyt
+ekan kuukauden aikana liikkeelle. Viikonloppuvierailu Tampereella ja
+päiväkeikka Helsingissä. Ei kuulosta paljolta tietysti mutta näinä
+päivinä on aktivoitunut valokuvauksen suhteen ja ne ovat olleet
+sellaisia tehopäiviä.
+
+Jos viikonloppuna käy ulkoilemassa 6 tuntia verrattuna siihen että
+kävisi päivittäin töiden jälkeen tunnin ja viikonlopun lepäisi, kumpi
+takaisi paremmat kuvat ja työt? Ei ole yhtä ja oikeaa vastausta tähän.
+
+Ajallinen hajautus ja "virkeänä" suoritettu tunnin kävely voi
+kuulostaa fiksulta idealta, mutta luovuuden liekki ei aina syty niin
+herkästi jos tekee yhtä ja samaa joka päivä perätysten. Jos lyhyet
+kävelyt kotoa käsin tulevat rutiiniksi niin se myös tarkoittaa minulle
+ainakin sitä, että kotia on palattava siinä vaiheessa kun mehu on
+loppua. Jos taasen olen tullut kaupunkiin niin mehua tankataan
+kahvilassa tai muussa vastaavassa, eikä muutenkaan ihan pienestä
+väsymyksestä tai vastoinkäymisestä vielä luovuteta siltä päivää.
+
+Tämä on se, mitä minä itse optimistina suunnittelin että tapahtuu, ja
+näin on nyt kahden käynnin perusteella tapahtunut. Monia hyviä
+kuvauskeikkoja odotellessa ja suunnitellessa!
+
+Tulevana viikonloppuna alkaakin sitten jo seuraava vierailu Kuopiossa.
+Se on pitkä, kolme kaupunkia kattava seikkailu, joten kiinnostuksella
+odotan että mitä tapahtuu. Intensiteetti ei tule olemaan samanlainen
+kuin Tampereella, mutta ei sen tarvitsekaan olla.
+
+Yhtä kaikki, positiivisesti on alkanut aspekti tästä Hyvinkäästä
+tukikohtana. Kaipuu takaisin Helsingin Töölöön alkaa lievittää.
+
+** Kamerahommia: Panasonic G9
+
+Iso ja jämäkkä DSLR:n näköinen ja kokoinen(!) Panasonic G9 piti käydä
+ostamassa kun hyvä tarjous osui vastaan. Minulla oli kameran suhteen
+varauksia ja myös paljon ennakkohypetettyä odotusta ja toivomuksia
+maan ja taivaan väliltä. Olisi kiva kun olisi sääsuojattu runko ja
+linssi taas talossa. Tarjous on sitä luokkaa, että en odota ottavani
+mitään tappiota jos päädyn myymään kameran ja rungon eteenpäin.
+
+Panasonic G9 on kunnollinen tehosuorittaja ja tekee näppärää jälkeä.
+Panasonic Leica DG 12-60 on iso linssi mutta jämäkkää tekoa ja kestää
+varmasti käyttöä. Aitoon Leicakamaan verrattuna on se silti vähän
+sieluton kamera ja sieluton linssi.
+
+Tuntuu vähän siltä, että mitä paremmin tarkentava ja suorittava
+kamera, sen vähemmän nautin sen kuvaamisesta. Ekstrapoloiden voisin
+mutuilla että uusimmat Canonit ja Sonyt olisivat pelkkää tuskaa
+operoida!
+
+Panasonic G9 ei ole ehkä tämän vuoden malli mutta pidän sitä
+spekseiltään ja ulostuloltaan nykyaikaisena kamerana, luokkansa
+parhaana kenties. Ehkäpä kaikki EVF:t ovat tätä luokkaa (enkä ole vain
+huomannut aiemmin) tai ehkäpä Panasonic nyt erityisesti on päättänyt
+tehdä näin, mutta pimeän tullen nämä kamerat joutuvat karsimaan
+etsinkuvan sulavuudesta fysikaalisten realiteettien edessä. Melkein
+säkkipimeissä oloissa alkaa etsinkuva muistuttaa diashow'ta ja siinä
+alkaa hyvin nopeasti kaivata optista etsintä, joka ei paljoa häkelly
+näistä hommista.
+
+Tein pienen vertailun Nikon Df:n ja Panasonic G9:n kanssa. Df edustaa
+erittäin tyypillistä kinokoon peilikameraa etsimensä puolesta: 0.7x
+suurennus ja pentaprisma ja 100% näkymä. G9:n EVF edustaa
+nettipuheiden mukaan ilmestymisvuotenaan 2018 erinomaista tasoa ja
+ehkäpä nyt alkaa tyypillinen peilitön kamera olla G9:n tasolla ja
+hieman edelläkin jopa.
+
+Vaikka G9:n etsin vähän alkaa tökkiä pimeässä ja pidin sitä
+dealbreakkerina niin vertailevassa testissä oli pakko todeta että
+Nikon Df ja hidas linssi sen nokalla pimeni samaa tahtia päivän
+kääntyessä iltaan. Siinä kohtaa kun G9:n etsin alkoi tökkiä
+diashowmaisesti, oli Nikonin etsin niin pimeä ettei sommittelemaan
+olisi kyennyt. Totesin että tasapeli se oli pitkälti.
+
+Tämä oli vähän synteettinen testi ja huonoilla testauskohteilla.
+Pitäisi ottaa molemmat kamerat Hyvinkään pimeyteen (ennen kuin kevät
+etenee liian pitkälle ja liian valoisaksi) ja katsella että onko
+reaalimaailman lumisissa maisemissa suorituskyky samaa tasoa.
+
+** Aaltoilevat toiveet
+
+Reilu viikko takaperin ennakkohypetykseni G9:n ympärillä oli suuri ja
+oli isot suunnitelmat laittaa Nikon-paketti myyntiin kun en käytä sitä
+niin paljoa.
+
+Välittömästi G9:n jälkeen kohtalaisen isot ostajankatumusaallot löivät
+rantakiville ja aloin miettiä päinvastaista skenaariota: menisikö koko
+M4/3-setti pois ja laitattaisinko Nikoniin hienot tähyslasit ja
+käyttelisin sitä enemmän manuaalitarkenteisten lasien kanssa.
+
+Tämä idea tuntuu taloudellisesti hieman riskialttiilta. Mikä tahansa
+huoltoraha kameraan menisi, on käytännössä rahaa jota ei voi
+jälleenmyytäessä tienata takaisin. Ja vaikka tähyslasi olisi tarkasti
+asennettu ja hyvin säädöissään, niin auttaako se todellisuudessa
+riittävästi lyhyiden linssien kanssa.
+
+Asiaa ei auta, että Nikon Df ei ole mikään paras runko ergonomian
+kannalta. Ja vaikka sen tekemät kuvat ovat kivoja niin jotenkin ei
+miellytä tuo AA-filtterin tekemä pehmeys. Tämä on lähinnä minulla
+päässä tämä juttu: pehmeyttä tulee luontaisesti ihan jo valtavista
+pikseleistä. Mutta ergonomiakysymykset silti vähän mietityttävät.
+
+Leica ja rangefinder-kokemus on myös ollut erityisen hyvä minulle
+tässä parit viimeiset päivät. Se fakta, että näen kuvan
+"ulkopuolelle", on erinomainen juttu -- ei pelkästään "kuvan
+ennakoimisessa ja ajoittamisessa" vaan myös staattisia juttuja
+sommitellessa. Tiedän ilman linssin heiluttelua että mihin suuntaan
+minun pitää kääntää sitä että saan jotkut puun oksat pois tai muuten
+järjesteltyä visuaalisia elementtejä. TTL-sommittelun kanssa näkee
+vain sen minkä linssi näkee. Se on hyvä juttu ja se on huono juttu. Ei
+ole hopealuotia näissäkään hommissa.
+
+Leica on tässä suhteessa paras koska se tarjoaa hyvän
+rangefinder-sommittelun ja sitten keskiverron TTL-sommittelun siinä
+missä muut kamerat eivät tarjoa kuin eriasteisia TTL-näkymiä.
+
+Eli kun mietin Nikonia eteenpäin niin tuntuuko vain että ehkä Leica se
+vaan porskuttaa. Jos kaikkien juuri nyt hyvin tuntemieni
+EVF-kameroiden etsimet tympivät pimeydessä niin Leica M sentään antaa
+aina hyvän OVF-vaihtoehdon pimeydessä ja valoisan päivän aikaan voin
+valita kahden välillä.
+
+** Kevennetty kuorma
+
+Näyttää siltä, että hupihuutona vahingossa ostamani Summilux-M 50mm
+menee nyt kaupaksi eteenpäin ja voin palata 50-millisten osalta
+parempaan elämään takaisin.
+
+*Leica Summilux-M 50mm f/1.4 Asph* ei ole millään mittakaavalla huono,
+mutta kuten sanottua, minulla on tätä ennen ostettu Cosina Voigtländer
+-parivaljakko jotka yhdessä ovat Summiluxin summa, ja ehkäpä hieman
+enemmänkin koska omat mieltymykset ohjaavat näitä asioita myös.
+
+Ei silti käy kieltäminen etteikö Leican yksi ylpeyksistä olisi omalla
+tavallaan uniikki helmi M-linssien historiassa. Sen tekemä piirto
+täydellä aukolla on kerrassaan upeaa jälkeä erityisesti kun
+tarkennetaan hieman kauemmaksi: esimerkiksi kokovartalokuviin näkisin
+linssin täydellisenä. Myös sitäkin kauemmaksi voi tarkentaa ja kuva on
+typerryttävän hienoa jälkeä. Hieman harmittaa luopua tästä linssistä
+mutta harmittaa myös olla valitsemassa kolmen kovan välillä.
+Jäljellejääneet kaksi muodostavat hyvän komplementin toisillensa, ja
+hintataso on myös ihan miellyttävä.
+
+Toivottavasti omalta osaltani tulisi nyt vedettyä Cosinan kaksikolla
+tämä tuleva kevät ja kesä ja vasta pimenevällä syksyllä jos miettisi
+uusia viisikymppisiä talouteen. Helppohan tuolle rahalle olisi
+käyttökohteita löytää, mutta juuri nyt voisi miettiä että tekeekö
+ylimääräinen lasi onnelliseksi vai ei -- vau, kerrankin näin päin.
