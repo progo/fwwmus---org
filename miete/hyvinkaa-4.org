@@ -1,0 +1,129 @@
+#+TITLE: Hyvinkäällä 2 kk
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Hyvinkäällä 2 kk                           :kamera:sandels:leica:hifi:
+CLOSED: [2021-03-15 Mon 18:43]
+:LOGBOOK:
+- State "DONE"       from              [2021-03-15 Mon 18:43]
+:END:
+
+Hyvinkäällä nyt kaksi kuukautta ja hifi-/kamerauutisia rintamalta.
+
+** Hyvinkää ja Sandels
+
+Hyvinkäällä tulee muuten nyt näinä päivinä kaksi kuukautta täyteen.
+Minulla on ollut hetkittäin paljonkin ostajankatumusta asunnon
+suhteen, miettinyt että Helsingissä oli se oma juttunsa. Etenkin kun
+päädyn katselemaan aiempien vuosien valokuvakatalogia kaikenlaisilta
+reissuiltani Helsingissä, käy heti mieleen että miten paljon korkeampi
+on nyt tämä kynnys lähteä samalla tavalla reissuun.
+
+Taloushommien puolesta tietysti täällä nautiskelee ja elelee herroiksi
+ihan toisella tavalla. Pari palkkapäiväähän olen tietysti vasta
+ehtinyt täällä olla, mutta tuntuma on oikein mainio. Minun aiemmin
+hahmottelemani säästötavoitteet muuttuvat nyt triviaaleiksi ja
+suunnittelen uusia linjauksia. Tietysti ei käy järkeen sulloa kaikkea
+ylimääräistä pois jemmaan vaan pitää vaikkapa rahallisin avuin
+kompensoida tuota e.m. koti-ikävää käymällä Helsingissä tiuhaan.
+
+Ja hetkittäin on tuntemuksia, että onpa kiva tämä asunto ja kivempi
+vieläkin, että tulin ostaneeksi.
+
+Kaksi kuukautta tulee muuten täyteen, enkä ole vielä lähtenyt
+selaamaan kattovalaisinratkaisuja. Aiempi suunnitelma tehdä yksi iso
+nettitilaus Ikeasta, jossa tulee kaikki valot ja lamput ostettua
+samassa rytäkässä, tuntuu vaativalta kun ei tiedä, mikä täällä
+oikeastaan menisi. Uusi suunnitelma voisi olla metsästää sopivia
+juttuja Tori.fi:n avustuksella. Ongelma on tietysti sekin, että nyt
+päivät valostuvat hurjaa vauhtia ja kattovalojen tarve vähenee päivä
+päivältä.
+
+** Ollo Audio S4R 1.1
+
+Slovenialainen pienfirma OLLO Audio lähetti tänään markkinointipostia
+(jonka olin luultavasti itseni tuntien tilannut aiemmin) että
+suljetuista S4R-kuulokkeista on nyt saatu loitsittua paranneltu uusi
+versio. Tämä oli mieluinen uutinen, kun aiempi viimeisin tieto oli,
+että avoimista S4X-versioista tehdään lippulaivamalli ja että
+suljettuun kuoreen on vaikea saada kaikkea samaa tehtyä.
+
+Asiakastoiveita ovat kuulema kuunnelleet, ja uusissa malleissa on
+viritelty taajuusvastetta entisestään tasaisemmaksi, kuppeja on
+ilmeisesti hieman kasvatettu ergonomian nimissä, johdot kiinnittyvät
+nyt sopivassa kulmassa niin että ne eivät rispaannu kuten oma johtoni
+teki S4R:n kanssa (Ollo toimitti uuden johdon takuun piikkiin), ja
+äänenvaimennustakin on ilmeisesti saatu parannettua jo entisestään
+hyvästä vielä paremmaksi.
+
+Pienet ergonomiset uudistukset ja tuo kulmahomma etenkin kuulostivat
+hyvältä, eikä tietysti napakoituva basso ja terästyvä yläpää tee pahaa
+ikinä. Koska firmasta on niin hyvä positiivinen kokemus, ja
+kuulokkeistakin on erinomainen kokemus kun niitä kesällä 2019 sain
+verrattua neljä kertaa niin kalliisiin Focal Elegioihin, niin päätin
+laittaa nämä päivitetyt mallit ihan jo kannatuksenkin nimissä
+ennakkotilaukseen. Hinta on 299 € ennakkotilaajille, normaalihinta on
+399 €. Jos myyvät B-stokkia jatkossakin niin se on
+hinta-laatusuhteeltaan erinomainen idea, ja voin suositella.
+
+Huhtikuun lopuilla olisi ilmeisesti määrä vastaanottaa tämä uusi malli
+kotiovelle.
+
+Hifistelyhommiahan en varsinaisesti harrasta enää; edellisen kerran
+mitään ostin niin oli se kesä 2019 ja siirryin parilla askeleella pois
+K1000:sta. Focal Elegiassa oli rokkaava soundi mutta muilta osin
+niissä oli paljon puutteita äänessä, ehkäpä synergiaongelmien takia
+kenties. Myin ne jonkinlaisella tappiolla hyvin vähän käytön jälkeen
+syksyllä 2019 tai talvella 2020.
+
+** Uutisia kamerarintamalta
+
+Nyt sitten päivän aiheisiin, eli kamerahommiin.
+
+Olen tavallaan löytänyt itseni eräänlaisesta umpikujasta, mitä tulee
+kamerakaman hankintaan. Tämä oli varmaan aika naiivisti sanottu ja
+ajateltukin: ajattelenko minä umpikujana sitä, että en vain keksi että
+mitä haluaisin ostaa seuraavaksi?
+
+Umpikuja ei ole tietysti huono asia. Minulla on kameroiden suhteen nyt
+useita lokaaleja optimeita hyllyssä. Leica MP240 -pakettini on kaunis
+ja toimii kauniisti. Objektiivisesti parempia Leica M -kameroita on
+markkinoilla, mutta ne tuovat suhteessa niin vähän uutta MP240:n
+rinnalle että se arvopropositio on helppo todeta riittämättömäksi.
+
+M10-R on kamera, jossa olisi nipinnapin riittävästi kaikkea uutta.
+Luen kuitenkin sopivassa määrin kriittisiä kommentteja
+M10-R-kuvaajilta, joiden mielestä lisäpikselit tuovat enemmän harmia
+kuin hyötyä kuvaukseen.
+
+Myin Leica-settini kruununkiven eli Summilux 50mm ASPH:n ja nyt tuntuu
+kuin outo kivi olisi vierähtänyt pois rinnaltani. Nyt minun
+50-milliset ovat järkevät ja myös rahallinen investointini tähän
+systeemiin on välittömästi järkevöitynyt. Mikä parasta, mitään uutta
+en ostanut näillä myyntirahoilla.
+
+Minulla on nyt isoksi luokiteltava M4/3-setti: kaksi Panasonic-runkoa
+ja useita linssejä: 7 vai 8, en suoralta kädeltä edes muista. Ehkä
+menin metsään ostamalla isoja runkoja. Panasonic G9 on todellinen
+tehopesä kyllä, mutta kaikki tuntuu nyt liian helpolta. Se rokottaa
+kokemusta. Kameran vahva autofokusorientoituneisuus lyö sitten
+näpeille illan hämärtyessä kun tarkennusvauhti hiipuu valon myötä.
+
+Nikon Df on nyt polttava kysymysmerkki. Olen laittanut sen myyntiin
+linsseineen, mutta en ole lainkaan varma että haluanko oikeasti myydä.
+Rahallisella investoinnilla Df:ään voisi laittaa ne tähyslasit ja
+tähyslasilla on ehkä 30-40 prosentin mahdollisuus muuttaa se
+kuvauskokemus merkittävästi paremmaksi. Mutta jospa siitä tulisi
+sellainen upea, seksikäs, manuaalikuvaajan työkalu sen jälkeen?
+Pitäisi kerätä rohkeutta kysyä paikallisilta kamerahuolloilta että
+mitä se mahtaisi maksaa ja onko K3-tähyslasia hyllyssä. Teoriassa ehkä
+Df ansaitsee sen yrityksen, etenkin kun se asennuttaminen ei maksa
+suhteessa paljoa, vertaa siihen mitä Leica-hommat maksavat.
+
+** Suuri tasapäistäjä
+
+Tämän tekstin piti olla alunperin otsikoitu ja aiheesta "suuri
+tasapäistäjä", eli miten peilitön digirunko ilman natiiveja linssejä
+voisi olla kierolla tavalla sellainen upea "demokraattinen" tapa
+käytellä mitä tahansa linssejä mielen tekeekin, ja kaikki linssit
+olisivat keskenään samanarvoisessa asemassa. Mutta tämä teksti on nyt
+näköjään tapahtumien kertailua enemmän ja ehkäpä jätän tämän aiheen
+myöhemmälle.
