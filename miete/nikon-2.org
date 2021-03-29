@@ -1,0 +1,215 @@
+#+TITLE: Sukellus Nikoniin
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sukellus Nikoniin                                 :kamera:leica:nikon:
+CLOSED: [2021-03-29 Mon 17:36]
+:LOGBOOK:
+- State "DONE"       from              [2021-03-29 Mon 17:36]
+:END:
+
+Hyvinkäälle muutto ja omistusasumiseen siirtyminen ennustetusti ja
+pelätysti on nyt poikinut jonkin verran uudenlaisia kuumeita ja
+hysteerisiä osteluryöppyjä kamerarintamalla. Samanaikaisesti
+miettiessäni, onko maisemanvaihdos lainkaan oikea suunta
+valokuvaharrastuksen kannalta, on nyt tullut tilaisuuksia lähteä
+viemään kalustoa siihen suuntaan, jonka uskon olevan eniten omaa
+tyyliä.
+
+** Mitä Panasonic G9 opetti nopeasti
+
+Panasonic G9 muuttui kiinnostuksen kohteeksi joskus vuoden 2020
+mittaan.
+
+Lyhyt historiikki: vuoden 2020 keväällähän ostin kompaktin ja
+edullisen Panasonic GX80 -rungon ja laajensin M4/3-linssikokoelmaani
+parilla lisäzoomilla. Keväästä syksyyn mentiin yhdellä kameralla ja
+kolmella edullisella zoomilla.
+
+Sitten syksyllä pimeiden varalta ostin yhden valovoimaisen primen
+M4/3:lle, nyt oli kiinteäpolttovälinen linssikin systeemille pitkästä
+aikaa. GX80 ja 20mm f/1.7 on kompakti paketti joka menee talvitakin
+taskussa niinä ulkoilukertoina kun ei halua kantaa koko Billinghamia
+olallaan. Valoisan aikaan supermainio pikkuzoomi 12-32 ajaa samaa
+ideaa.
+
+Sitten talvella Hyvinkään hullunmyllyn merkeissä G9 oli kasvavissa
+määrin "roadmapillani", ja ostin lisää primejä M4/3:lle. Nyt systeemi
+oli jo huolestuttavan kookas.
+
+Ja helmikuussa 2021 M4/3-settini sai toistaiseksi uusimman
+perheenlisäyksen yhden ison rungon ja yhden uuden normaalizoomin
+merkeissä.
+
+*Panasonic G9* lunastaa sille asetetut lupaukset ja hypen aika hyvin.
+Pimeässä kamera menettää vikkelyytensä mutta sen suorituskyky ja
+pimeäkäytettävyys on firmware-päivitysten kanssa saatu upealle
+tasolle. ISO-suorituskykykin on pieneltä kennolta aivan uskomatonta
+luokkaa. Ei lainkaan huonommin tehty M4/3-kennolta!
+
+G9 on kuitenkin lyhyessä ajassa jo ehtinyt vahvistaa ja opettaa
+minulle lopullisesti jotain omasta valokuvauksestani ja tyylistäni.
+Minulle kenties valokuvauksessa tärkeintä ei ole lopputulos vaan se
+kuvaamisen nautinto "kentällä". Lopputulos on tietysti tärkeä ja osa
+nautintoa. Mutta vuosien Leica-käytön myötä ja vuoden Nikon-kokeilujen
+kanssa olen huomannut, että on mukavampi tarkentaa ja tehdä itse.
+
+Sanotaanko näin, että G9 on liian hyvä automatiikassaan. Se on liian
+hyvä kamera, se jättää liian vähän kuvaajan harteille. G9 edustaa toki
+avuillaan luotettavuutta ja onnistumisen helppoutta, joka on
+ammattilaisten ja monien muidenkin mieleen kovasti.
+
+Kaikenmaailman CaNiSonyt juhlivat ja juhlistavat hypertehokkailla
+autofokusautomatiikoillaan, ja hyvä homma niille ketkä tarvitsevat
+niitä työkaluja esimerkiksi työssään. Mutta olen nyt entistä
+vakuuttuneempi että minun oma polkuni ei ole tämä automaatio, vaan
+joku muu, joku enemmän tekemisen makuisempi.
+
+Tavallaan varmaan tiesinkin jo sisimmässäni että G9 ei ole vastaus
+minun tarpeisiin, mutta se on aina hyvä, miten paljon joku kamera
+vastaa niihin kysymyksiin, joita en ääneen osannut aiemmin kysyä.
+
+** Leica on kingi
+
+Ei pääse yli eikä ympäri: Leica M on se juttu viimeisen päälle
+minulle. Kolmatta vuotta menossa, ja mennään jatkossakin eteenpäin
+vahvana.
+
+Kuten olen jo kahden vuoden ajan tainnut valitella, on hintakynnys
+lähteä eteenpäin Leican runkojen maailmasa aika valtava. Kynnys nousta
+nykyisestä, oikein hyvästä, MP240-rungosta uuteen M10-P:hen tai
+M10-R:ään on kaikilla mittareilla katsottuna liian suuri minulle.
+Taloudellinen isku on liian iso, ja päivitetyn kameran suomat edut
+liian hienovaraisia. Puhumattakaan siitä, että M10 tuo myös joitain
+hienovaraisia regressioitakin mukanaan. Mietoja plussia, muutama mieto
+miinus, valtava hintalappu. Päätös pysyä vanhassa ja hyvässä on nyt
+helppo pitää. Välillä olen ollut kyllä ihan kielekkeellä jo,
+vertailemassa nettikauppojen ostoskoreja M10-R:n suhteen.
+
+Linssien suhteen minun kokoelmani tuntuu ihan hyvältä. Taaskin voisi
+sanoa, että taloudellinen kynnys nousta kokeilemaan muita vaihtoehtoja
+on aika korkea ja tulen aika hyvin toimeen näillä mitä minulla nyt on.
+Jonkinlaisella investoinnilla pystyn paikkaamaan runkoni pimeänäön
+puutteita ostamalla kivoja valovoimaisia linssejä, mutta jotenkin
+tuntuu ettei siihenkään tarvitse mennä, koska loppupeleissä runkoni
+ISO-suorituskyky on kuitenkin ihan riittävän hyvä omiin tarpeisiini.
+Kun en kuvillani varsinaisesti tee mitään järkevää niin miksi oikeasti
+sitten kiinnostua optimoimaan ns. epäongelmaa?
+
+Kaikin puolin järkevää on nauttia MP240:stäni täysin siemauksin, kuten
+olen tehnytkin. Kiinalaisilla linsseillä saa nykyään sellaista
+suorituskykyä niin halvalla, että ihan huimaa. Myös joitain
+karakteerilinssejä Leican historiasta voisin ostaa mutta ne ovat taas
+kalliita juttuja. Mutta mikään ei tässä ole niin kallista kuin mennä
+ja päivittää Leican digirunkoa uudempaan, saati uusimpaan.
+Vintage-leica pitää hintansa hyvin ja kiinalaiset eivät ole kovin
+kalliita edes uutena.
+
+Sanotaanko, että tämä on loistava asema olla, mutta turhauttaahan
+tämä. Kirjaimellisesti turhauttaa, kun en pääse tuhlaamaan rahaa
+kamerakamaan? Jos Leica paransi minun pikselintirkistelyhommat niin
+ehkä jos se vielä parantaisi minun typerät oletukset harrastuksen ja
+kameralaukun hintalapun kulkemisesta käsikädessä.
+
+** Iso sukellus Nikoniin
+
+Panasonicin myötä minulla on nyt neljä kameraa kolmen eri systeemin
+kesken, ja neljä tuntuu vähän liialta. Leica pysyy, Panasonic GX80 on
+liian herttainen ja kompakti myytäväksi, joten valinta on tehtävä
+kahden kovan välillä: Panasonic G9 vai Nikon Df?
+
+Elämäni Nikon Df:n kanssa alkoi suurinpiirtein tasan vuosi sitten.
+Ostin hyvänhintaisen Df:n Rajalan käytetyistä ja sille G-zoomin
+kaveriksi. Torilta löysin hyvän yksilön 85-millisestä AF-D:stä.
+Japanista tilasin sitten toisen AF-D-zoomin 28-70. Pieni Nikon-kokeilu
+saattoi täten alkaa.
+
+Kamera ja linssit loivat vajaassa viikossa kiinnostavan
+ensivaikutelman; osittain tosi tylsiä vaikutelmia, osittain tosi
+hyviä. Rajalan käytetty yksilö ei ollut ihan 5/5 ja minua vähän siinä
+vaiheessa jännitti edes miettiä, mitä Nikon Df voisi oikeasti tehdä
+minun silloisessa systeemissä. Palautin kameran ja linssin takaisin
+kokeiluajan puitteissa. Käteen jäi kaksi AF-D-linssiä ja lyhyet
+ensivaikutelmat näppärästä mutta paikkaansa hakevasta rungosta.
+
+Kesän tullen aloin miettiä että Df ehkä ansaitsee paremman
+mahdollisuuden, ja aloin metsästää uutta yksilöä ostettavaksi.
+Sellainen tuli sitten ostettua Torin kautta yksityiseltä. Nyt ei ollut
+palautusoikeutta ja oli siis enemmän omistauduttava kameralle.
+
+Kokeilin vähän lisää linssejä kameran kanssa mutta päädyin
+palauttamaan tai myymään ne; oli vain 85 ja 28-70. Päädyin hommaamaan
+yhden manuaalitarkenteisen vanhan Nikkorin kokeilun nimissä
+systeemille, 135mm f/2.8 on sellainen ilopilleri että se vallan muutti
+vaikutelmiani systeemistä kokonaan.
+
+Tämän kolmikon kanssa menin ja pienellä lämmöllä kyti joku kaipuu
+kenties miettiä Nikonin asemaa teleorientoituneena systeeminä Leican
+laajakulma-/normaalilinssien kaverina.
+
+Panasonic G9 -kokeilut sitten laukaisivat innostuksen mennä
+syvemmälle. Aloin taas lämmitellä niitä tähyslasihommia ja tätä
+projektia pönkittääkseni tilasin kaupoista puolella tonnilla läjän
+manuaalitarkenteista Nikonia!
+
+Tähänkö minä nyt sitten olen menossa vakavissani. Koko M4/3 oli
+minulle sellainen vahva ja järkeenkäypä alusta juuri telehommia
+ajatellen: kompaktit linssit kroppifaktorin ansiosta, hyvät
+kuvanvakaimet niin linsseissä kuin rungoissa, ja autofokuskin auttaa
+kivasti asioissa kun ollaan telelinssien maailmoissa.
+
+Ja nyt olen menossa varsin outoon suuntaan: ostan painavia linssejä ja
+käytän niitä vakaamattomissa kameroissa. Mutta tämä tuntuu niin paljon
+enemmän omalta nyt.
+
+Painavaa ja isoa minä aina "kammoksuin" mutta nyt menin siihen
+suuntaan isomman kerran. Menetän tässä prosessissa myös paljon
+kuvausapuja ja kaikkea.
+
+Sentään tämä Nikon F -kama on halpaa, se pitää antaa. Jos vedetään
+rujoja approksimaatioita niin yhden (halvimman mahdollisen) Leicalasin
+hinnalla saa kaksi M4/3-lasia tai neljä Nikkor-linssiä käytettyjen
+markkinoilta.
+
+Vastikään ostetut Panasonic G9 ja PanaLeica 12-60 voivat lähteä
+hyvinkin nopeasti takaisin myyntiin. Haluan mahdollisesti tiivistää
+M4/3-systeemini takaisin olennaiseen: takintaskuun mahtuvaa
+kamerakamaa sen M4/3:n olla pitää. Minun GX80 ja sen kittilinssit
+12-32 ja 35-100 ovat superhyvä idea. Jättänen myös 20/1.7:n
+systeemille. Nikonhan on sääsuojattu kapistus niin yksi G9:n
+viehätyksistä myös karisee pois. Kuinka nämä hommat aina menevätkin!
+
+** Tulevaisuuskuvia
+
+Treidareiden termein: osta Nikonia, pidä Leica, ja myy Panasonicia.
+
+G9 on upea kamera mutta minusta tuntuu että haluan purkaa suurta
+M4/3-kaman vyyhtiä pois. Keräsin itselleni liikaa sitä kamaa. En halua
+myydä settiä kokonaan pois, mutta haluan järkevöittää ja teroittaa
+fokustani niinsanotusti. G9 ja PL12-60 olivat hyvä kokemus, mutta ne
+ovat varmaan ne, mistä ensin lähdetään myymään. Tällä hetkellä
+mielessä pyörii downgreidaus G80-kameraan, jossa hinta-laatusuhde
+lepää mukavimmin. Se on edullinen runko, ja pystyisi olemaan luonteva
+kumppani GX80:lle (molemmissa on sama nätti 16 megapikselin kenno ja
+molemmilla on ~200-250 euron hintalappu käytettyjen markkinoilla).
+
+Mutta ihan ensin Nikon Df uusine kykyineen pitää koeponnistaa.
+
+Leica M tulee pysymään. M10 tai sen variantti ei tule asettumaan
+taloksi milloinkaan pian. Tuleeko Leicalle uusia linssejä? En yhtään
+osaisi sanoa tässä vaiheessa mitään. Kuten sanottua, digi-Leicasta on
+vaikea hintakynnyksen takia harpata ylöspäin. Sanotaanko näin, että
+katsellaan rauhassa että mitä Leica M11 tuo tullessaan. En usko, että
+M11 olisi mikään potentiaalinen tasapäistäjä sekään, joten saa nyt
+nähdä.
+
+Nikon Df on nyt kovassa nousussa, kuten kirjoitin. Pitää ensin nähdä
+että mitä tapahtuu, ennen kuin alkaa povailemaan seuraavia askeleita.
+
+Piti tietysti vielä yksi heräteostos tehdä hetken retkahduksessani.
+Tuli vastaan edullinen Thinktank Retrospective 10 niin sen minä ostaa
+napautin. Minulla on ihan hyviä kokemuksia Thinktankeista. Olen ollut
+superhypertyytyväinen Billinghamiin mutta Hadley Pro:honi ei Nikon
+mahdu kovin näppärästi, ja hinta tässä Thinktankissa oli hyvä niin en
+voi hävitä paria kymppiä enempää jos joskus myyn pois. Voisi kai
+ajatella, että minulla on nyt Leica-laukku ja Nikon-laukku tai ehkä
+geneerisemmin ajatellen "RF-style"-laukku (Leica ja Panasonic GX80) ja
+sitten "SLR-style"-laukku (Df ja G9).
