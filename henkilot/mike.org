@@ -1,6 +1,6 @@
 #+TITLE: Mikael 'progo' Puhakka, koko haastattelu
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Haastattelu                                              :haastattelu:
+* DONE Haastattelu                                   :haastattelu:keskustelu:
 CLOSED: [2014-01-30 Thu 11:17]
 :LOGBOOK:
 - State "DONE"       from ""           [2014-01-30 Thu 11:17]

@@ -1,6 +1,6 @@
 #+TITLE: Mikael 'progo' Puhakka, tiivistetty haastattelu
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Blogin takana on mies                                    :haastattelu:
+* DONE Blogin takana on mies                         :haastattelu:keskustelu:
 CLOSED: [2013-04-08 Mon 17:59]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2013-04-08 Mon 17:59]
