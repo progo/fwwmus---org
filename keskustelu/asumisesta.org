@@ -1,0 +1,606 @@
+#+TITLE: Keskustelu asumisesta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Keskustelu asumisesta        :keskustelu:sandels:asunto:talo:helsinki:
+CLOSED: [2021-05-26 Wed 12:09]
+:LOGBOOK:
+- State "DONE"       from              [2021-05-26 Wed 12:09]
+:END:
+
+Vietimme erään aurinkoisen sunnuntain (aurinkoista oli sekä Espanjassa
+että Suomessa tuona ajankohtana) jutustellen parituntisen ajan
+asumisesta ja asumiskuvioista. Keskustelun kävimme irkissä ja editoin
+syntyneen ulostulon miedosti tänne.
+
+Keskustelu käytiin huhtikuun puolivälin tienoilla, eli noin reilu
+kuukausi sitten. Painin tuolloin paljon (ja painin edelleen)
+hyvinkääläisten ongelmien kanssa, mutta keskustelumme ei virrannut
+siihen suuntaan riittävästi että olisin ottanut siitä puheeksi.
+Jutustelimme siis niinsanotusti mukavia.
+
+** Sakarin asuinhistoria
+
+- Mikael :: Kerrohan oma asuinhistoriasi.
+- Sakari :: Joo, oikeastaan varmaan aloittaa pitäisi synnyinkodista
+  joka oli siis, noh, tavallinen omakotitalo Pirkanmaalla. Ja ainakin
+  itselleni siitä on muodostunut tavallaan se vertailukohta kaikkeen
+  muuhun.
+- Mikael :: Kun muutit omillesi, mistä löytyi ensimmäinen askel
+  itsenäisyyteen?
+- Sakari :: Toisena on sitten opiskelemaan lähtiessä yksiö Porissa
+  puutaloalueella. Talo itsessään oli 70-luvun tiilitalo, joita ko.
+  alueelle oli siihen aikaan "täydennysrakennettu" joukkoon. Siinä
+  paikassa oli paljon samaa energiaa kuin synnyinkodissa, vaikkakin
+  kysessä oli siis pienkerrostalo.
+- Sakari :: Naapurusto oli viihtyisä ja ennenkaikkea hiljainen.
+- Mikael :: Se on hyvä, että tärppäsi!
+- Sakari :: Kyllä. Ja Pori kun on aika pieni kaupunki, niin välimatkat
+  on lyhyitä. Siitä pääsi kävellen keskustan kauppoihin.
+- Mikael :: Ja seuraavakin asunto löytyi Porista?
+- Sakari :: Seuraava oli myös Porissa. Silloin halusin nimenomaan
+  muuttaa siihen varsinaiseen keskustan kaupunginosaan, joka myös siis
+  toteutui. Jälkeenpäin tätä valintaa voi sitten puntaroida, että
+  oliko kuinka hyvä idea...
+- Mikael :: Tämä oli se Valtakadun paikka?
+- Sakari :: Juurikin se.
+- Sakari :: Toki tässä valinnassa painoi se, että olin rajannut
+  varsinaiset lähiöt ulkopuolelle vaihtoehdoista, ja Porin kaupunki
+  rakentuu niin että sen keskustakorttelien ja lähiöiden väliin jää
+  hyvin vähän vaihtoehtoja.
+- Mikael :: Oliko alue tai naapurit sitten rauhattomampia?
+- Sakari :: Naapurit olivat ihan mukavia, mutta kyllä on myönnettävä
+  etten siitä paikasta pitänyt. Saavutettavuus kaikilla
+  kulukuvälineillä oli ihan hyvä, mutta olihan se vähän rauhaton.
+- Mikael :: Keskustat tahtovat olla sellainen kompromissi rauhan ja
+  sijainnin suhteen.
+- Sakari :: Se on kyllä totta. Olihan se muuten ihan mukava asunto, ja
+  kokonaisarvionkin antaisin aika korkealle mutta paikasta täytyy
+  vähän miinustaa.
+- Sakari :: Paikasta voisi vielä sen verran sanoa että siinähän siis
+  avautui parveke sellaiselle keskustan pääliikenneväylälle ja Pori
+  jazzien yöviihde oli hyvin kuuloetäisyyden päässä.
+
+- Mikael :: Ja sittemmin olet tehnyt kasvavissa määrin ulkomaankeikkaa
+  töiden suhteen, ja asuminen Porin keskustassa väheni jatkuvasti,
+  kunnes tulit siihen pisteeseen että vuokra oli paras laittaa poikki.
+- Sakari :: Joo. Toki kotona tuli oltua vuosina 2018 ja 2019 melko
+  vähän, mutta 2020 pääsimme siihen että siirryin ns. tilapäisesti
+  asumaan Espanjaan ja silloin oli loogista luopua asunnosta.
+
+- Mikael :: Ja nyt olet asuntoasioiden kanssa ihan puhtaalla pöydällä
+  suunnittelemassa seuraavia peliliikkeitä.
+- Sakari :: Juurikin näin. Nyt Espanjassa olen asunut parissa eri
+  kalustetussa vuokra-asunnossa joten itse ei ole tarvinnut miettiä
+  tai murehtia asumisesta varsinaisesti.
+- Sakari :: Mutta Suomeen palaaminen on kalenterissa pikku hiljaa
+  lähenemässä joten asumisratkaisuiden miettiminen siellä on kovasti
+  käynnissä.
+- Mikael :: EU-kansalaisena Espanjakin on ns. mahdollisuuksien
+  joukossa. Onko Suomen ulkopuolelle asettuminen minkäänlainen idea?
+- Sakari :: Sanotaanko näin, että mitä enemmän olen ulkomailla
+  reissannut niin sitä enemmän olen oppinut kaipaamaan ja arvostamaan
+  Suomessa asumista.
+- Mikael :: Se on hyvä asia, että tietää mistä pitää.
+- Sakari :: Kyllä minä täälläkin olemisesta ja elämisestä pidän, mutta
+  silti ajatus on aika vahva ja selkeä siitä, että koti olisi
+  Suomessa. Tai jos olisi useammassa kuin yhdessä paikassa, niin
+  ainakin varmaan ns. koti-koti olisi siis Suomessa.
+- Mikael :: Olet hieman väläytellyt Tamperetta mutta myös Poriakin
+  potentiaalisina asuinpaikkoina.
+- Sakari :: Joo, toki aluksi rupesin tutkimaan asuntoja lähinnä
+  Porista, koska onhan työpaikkakin siellä. Jossain vaiheessa se
+  kääntyi siihen, että josko kuitenkin muuttaisin Tampereelle, tai
+  Tampereen seudulle.
+- Mikael :: Poria puoltaa olemassaoleva työpaikka, onko muita hyviä
+  puolia?
+- Sakari :: Ei Pori niin huono paikka lopulta ole. Mutta kyllä silti
+  työpaikka on se suurin voima mikä siellä on minut aiemmin pitänyt.
+- Mikael :: Eihän se ole väärin. Annoin omien ennakkoluulojeni paistaa
+  kysymyksenasettelussani, oletin että luonnollisesti kuka tahansa
+  pitäisi Tampereesta enemmän kuin Porista. :)
+- Mikael :: Tilastollisesti Tampere tietysti pitää pintansa
+  suomalaisten suosikkikaupunkina, käsittääkseni.
+- Sakari :: Noh, Porissa ei valtavasti mitään vikaa ole. Silti
+  Tamperetta puoltaa myös se, että ns. sosiaaliset verkostoni tuntuvat
+  edelleen olevan siellä. Tai ne jotka eivät ole Tampereella, niin
+  ovat sieltä paljon helpommin tavoitettavissa.
+- Mikael :: Tampereella on sellainen sijainnillinen etusija.
+- Sakari :: Rannikkokaupungin huono puoli on se, että se on
+  videopelitermein kartan reunalla. Tämä ei varmaan ole ongelma
+  sellaisissa vetovoimaisissa tai isommissa kaupungeissa kuten
+  Helsingissä ja Turussa.
+- Mikael :: On siinä reunalta aina pitkä matka sisämaahan silti.
+- Sakari :: Kyllä. Ja nyt kun joka työpaikassa on otettu viidentoista
+  vuoden loikka etätyökulttuurissa niin sen työpaikankaan ei tarvitse
+  enää vaikuttaa asuinpaikkaan.
+- Mikael :: Ei läheskään niin paljoa ainakaan enää.
+- Sakari :: Kyllä.
+- Mikael :: Pori tai Tampere, vilkkaassa keskustassa et varmaankaan
+  majaasi perustaisi?
+- Sakari :: Joo, sanoisin kyllä että ne ihan ydinkeskustat on ainakin
+  toistaiseksi nähty.
+- Mikael :: Siisti asunto tai talo jostain puutalolähiöstä olisi
+  mieluinen?
+- Sakari :: Se olisi varmaan se ideaali. Sellaisia olisi kyllä Porissa
+  melkeimpä joka ilmansuunnassa keskustan ympärillä.
+- Sakari :: Tampereella tilanne on vähän monimutkaisempi.
+- Mikael :: Tampere on iso paikka. Mahdollisuuksia kolmeen
+  ilmansuuntaan neljästä.
+- Sakari :: Kyllä. Tampere on sellainen, että myös osa
+  ympäristökunnista on mukana selvityksissäni. Mutta sellainen
+  suhteellisen rauhallinen naapurusto kyllä kiinnostaa.
+- Mikael :: Tampereella on kiva lähijunaverkosto etelään, mutta myös
+  Nokialle. Kasvava iso tuleva "metropoli" varmastikin.
+- Sakari :: Joo. Nokia on nyt ollut viime aikoina aika vahvasti esillä
+  mun asuntoilmoitusselailussa.
+- Mikael :: Näpsäkällä sijainnilla Tampereen suhteen: noin 20-30
+  minuuttia?
+- Sakari :: Sitä puoltaa, sanotaanko kohtalaisten
+  joukkoliikenneyhteyksien lisäksi se, että siitä on hyvä reitti
+  Poriin jos menee toimistolle töihin.
+- Mikael :: Kyllä kyllä. Välttää kaupungin kehätiet parhaan mukaan.
+- Sakari :: Joo, noin 30min. Vuorovälit on toki sellaiset että
+  aikataulua täytyy katsoa.
+- Mikael :: Nokia ei ole kaukana Pirkkalasta. Ovatko vanhat kultaiset
+  muistot sieltä osatekijä Nokian mietinnöissä?
+- Sakari :: On totta kai. On tässä vähän sellainen "paluu kotiin"
+  -fiilis myös.
+- Sakari :: Ja toki yhtä lailla Tampere, Nokia ja koko seutu on
+  sellasita mihin liittyy paljon muistoja ja siteitä.
+- Mikael :: Ja siinä ne olisivat kaikki paikat näpsäkästi lyhyen
+  ajomatkan päässä Nokialta käsin.
+- Sakari :: Se olisi minulle henkilökohtaisesti sellainen "keskeinen
+  sijainti".
+- Mikael :: Ei lainkaan huono.
+- Mikael :: Ovatko omakotitalot mietinnöissä mukana kuten ne ehkä ovat
+  silloin tällöin olleet? Vai asunto-osakkeita vain?
+- Sakari :: Perjaatteessa olen avoin vaihtoehdoille.
+- Sakari :: Muutta käytännössä ne asunnot mitä hauissa on tullut
+  vastaan ovat olleet lähinnä kerrostaloja.
+- Mikael :: Kerrostalossa pystyisi kuitenkin asumaan, ei ahdistaisi?
+- Sakari :: Varmaan sijainti ja hintakriteerit ovat sellaisia että
+  ovat johtaneet siihen, että kerrostaloja vaan tulee vaihtoehdoiksi.
+- Mikael :: Haluat olla tarkan markan mies. Siinä ei ole mitään
+  väärää.
+- Sakari :: Kyllä kerrostalo on ihan jees. Mutta en pidä sitä mikään
+  lopullinen ratkaisu. Pidemmän päälle haluaisin kyllä omakotitalon.
+- Mikael :: Kyllä kyllä.
+- Mikael :: Oma elämäntilanne ja harrastukset tällä hetkellä sallivat
+  kerrostalot, mutta tulevaisuuden varalle on hyvä jättää vähän
+  kasvuvaraa?
+- Sakari :: Kyllä se kerrostalon saa toimimaan, mutta kyllä se
+  omakotitalo on ajatuksissa juurikin työtilojen takia. Joku iso
+  autotalli ja työhuone olisi aika maukas.
+- Mikael :: Ne ovat toistaiseksi /nice-to-have/-asioita kuitenkin.
+- Sakari :: Joo. Tunnistan myös sellaisen realiteetin, että en ole nyt
+  etsimässä loppuelämän asuntoa, joten mietin myös sen myynti- tai
+  vuokrauskelpoisuutta.
+- Mikael :: Niitä tekijöitä mukaanleipomalla pystyy tekemään
+  valinnasta sitten ehkäpä helpomman.
+- Sakari :: Joo. Yleensä olen kyllä niin hyvä speksaamisessa että
+  jäljelle ei jää kuin pari vaihtoehtoa.
+- Mikael :: Kyllä kyllä.
+- Sakari :: Joka on ainakin mielestäni hyvä tapa. Silloin valinta
+  muodostuu tiettyjen kriteereiden ja tosiasioiden perusteella eikä
+  tunnepohjaisesti.
+- Mikael :: Kuulostaa kylmältä, mutta asuntokaupoissa taitaakin olla
+  että tunnepohjaisia päätöksiä tehdessä tekee isoimmat tappiot.
+- Sakari :: Se on kyllä. Itse en ole vielä asuntoa ikinä ostanut,
+  mutta olen samaa perjaatetta käyttänyt muihin hankintoihin ja
+  ainakin niissä se on toiminut.
+- Mikael :: Sanottakoon silti, että omista paikoistani Sätös ja
+  Helsinki olivat molemmat melkoisen tunneperustaisia päätöksiä, enkä
+  kadu niitä yhtään. Vaikka taloudellisesti kumpikin oli aika huono
+  idea.
+- Sakari :: Heh. Sillä tavalla voi kyllä saada parhaimmat kokemukset
+  silti.
+- Mikael :: Sätöksen kanssa olisi voinut olla kiipelissä kyllä saada
+  se myytyä eteenpäin, mutta onneksi potentiaalinen ostaja tykästyi
+  siihen ensisilmäyksellä samalla tavalla kuin minä tein, ja teki
+  tunnepohjaisen päätöksen.
+- Sakari :: Kyllä kyllä.
+
+- Mikael :: Niin, et ole vielä ostanut omaa? Eli ensiasunnon ostajan
+  valikoidut edut ovat vielä odottamassa.
+- Sakari :: En. Porissa molemmat olivat vuokra-asuntoja ja nyt olen
+  asunut /company-issue/ asunnoissa.
+- Mikael :: Vuokraamisen joustavuus saa väistyä ja olet ostamassa omaa
+  nyt seuraavaksi?
+- Sakari :: Ajattelin että nyt voisin siirtyä siihen. Kyllä se
+  vuokraaminen pidemmän päälle on taloudellisesti huonompi idea.
+- Mikael :: Niinhän se tahtoo olla. Vaakakupissa vastapuolella painaa
+  illikvideetti omaisuus ja ns. asuntoloukkuun jääminen.
+- Sakari :: Toki sillä rahalla saa sitten vapautta. Mutta ajattelin
+  että varsinkin Tampereen seudulla asunnon ostaminen olisi aika
+  turvallista, että sen saisi myytyä tulevaisuudessa jos/kun sille
+  tarve tulee.
+- Sakari :: Porissa taas jännittäisi enemmän pistää "kaikki rahat"
+  kiinni asuntoon kun ei välttämättä voi luottaa siihen että sen saisi
+  myytyä tarvittaessa.
+- Mikael :: Niin siinä voisi käydä. Asuntojen myyntiajat ovat aika
+  pitkiä valtaosassa maata.
+- Sakari :: Tietenkin oma käytökseni vain kiihdyttää tätä kehitystä,
+  jos sillä tavalla ajattelee.
+- Mikael :: Heh... Mennään pian peliteorian puolelle näissä asioissa.
+- Sakari :: :D
+- Mikael :: Lienee turvallista kuitenkin tehdä se ison kuvan toteamus,
+  että isot kantakaupungit ovat turvallisia ja nopeita myyntipaikkoja,
+  säteittäin poispäin mentäessä sitten myytävyys heikkenee.
+- Mikael :: Tampere on ehkä 20% nopeampi kuin Nokia, ellei
+  nopeampikin, myymään siis.
+- Sakari :: Kyllä joo. Kyllä sekä Tampereella että Nokialla olen
+  havainnut asuntoja jotka eivät ole jostain syystä mennyt kaupaksi.
+  En sitten tiedä että miksi.
+- Mikael :: Tämänlainen ilmoitusten tutkiminen ja syiden pohtiminen
+  on hyvää harjoitusta toki.
+- Sakari :: Jep. Se nyt on sellaista "kuivaharjoittelua" mutta täytyy
+  nyt sitä harrastaa kun en täältä Espanjasta käsin muutakaan oikein
+  voi.
+- Mikael :: Katseletko tarjontaa säännöllisesti ja sitten harmittelet
+  kun olisi ollut hyvä paikka mutta väärään aikaan?
+- Sakari :: Seuraan säännöllisesti, mutta en ole oikein osannut surra
+  että joku meni "sivu suun". Ajattelen kai tätä niin, että uusia
+  mahdollisuuksia tulee ja menee jatkuvasti.
+- Mikael :: Niitä tulee kyllä.
+
+** Mikaelin asuinhistoria
+
+- Sakari :: Niin, jatketaanko sitten vaikka sinun asumisratkaisuiden
+  parissa. Minkälainen asumishistoria sinulla on?
+- Mikael :: Kasvoin omakotitalossa Kontiolahdella, joka on Joensuun
+  liepeillä, ja jatkoin vielä vähän aikaa äidin perässä
+  rivitaloasumista Joensuun Noljakassa: hiljaista lähiötä n. 5
+  kilometrin päässä ytimestä.
+- Sakari :: Kuulostaa idylliseltä.
+- Mikael :: Itse en välittänyt kamalasti siitä.
+- Sakari :: Kyllä kyllä. Mihin sieltä sitten muutit?
+- Mikael :: OK-talopainotteisessa lähiössä on oma
+  lapsi-/nuorisoperhepainotteinen tyylinsä ja se ei ollut oikein oma
+  juttu missään vaiheessa.
+- Mikael :: Noin 10 vuotta sitten lähdin omilleni ja ensimmäinen paikka
+  oli kerrostaloyksiö Outokummussa. Sijainti oli outo kun kävin
+  kuitenkin koulua Joensuussa. Päättelin tämän kuitenkin hyväksi
+  ideaksi kustannussyistä johtuen.
+- Sakari :: Kyllä kyllä. Siitä tuli sitten jonkun verran koulumatkaa?
+- Mikael :: 50 kilometriä taittui bussilla n. 80 minuuttiin. Siinä sai
+  vähän opiskella uudenlaista vuorokausirutiinia päästäkseen
+  aamuluennoille Joensuuhun.
+- Mikael :: Asunto oli sentään halpa, keskeisellä paikalla Outokummun
+  ytimessä ja sain nauttia ydinkeskusta-asumisesta sen hyvien puolien
+  kanssa heti oitis.
+- Sakari :: Onhan siinä sitten niitä hyviäkin puolia.
+- Mikael :: Huonoja puolia sai myös kokea riittämiin. Talo oli
+  rauhallinen, mutta Outokummun mopoileva ja autoileva nuoriso piti
+  huolta siitä, että kovin rauhallista ei missään vaiheessa päässyt
+  tulemaan ikkunan alla.
+- Sakari :: Tuo rauhattomuus on kyllä oman käsitykseni mielestä
+  kerrostaloissa vähän sellainen arpahomma. Voivat olla hyvinkin
+  rauhallisia tai sitten ei.
+- Sakari :: Tuo päivittäinen matka kuulostaa kyllä omaan korvaan aika
+  rajulta, mutta kaikki taitaa olla suhteellista.
+- Mikael :: Lämpimään bussiin kiipeäminen nälissään ja kylmissään
+  myöhäisen luennon jälkeen, siinä on romantiikkaa kyllä.
+- Sakari :: Niin että linja-autossa on tunnelmaa vai
+- Mikael :: Onhan niissä se oma tunnelmansa. Joustavaksi sitä ei voi
+  kutsua mutta se toi lähelle kotiovea ja mitään vaihtoja ei tarvinnut
+  tehdä.
+- Sakari :: Kyllä kyllä.
+- Mikael :: Panin monesti merkille, miten paljon nuorisolla on
+  energiaa bussimatkojen suhteen kun perjantaiaamuisinkin noustaan
+  aamukuuden kyytiin ja hyvin tietää heistä, ettei perjantai-illan
+  riennot pääty kymppiuutisiin.
+- Sakari :: Jossain iässä sitä energiaa tuntuu monilla olevan. Ei
+  minulla vaan...
+- Sakari :: Mutta mihin muuttokuorma Outokummusta suuntasi
+  seuraavaksi?
+- Mikael :: Outokumpu muuttui lyhyessä ajassa sitten taloudellisesti
+  hankalaksi ideaksi kun vuokra nousi ja taisi bussilippujenkin
+  hinnoittelussa tulla jotain korotusta siinä aikana kun asuin siellä.
+- Mikael :: Päädyin tulemaan Joensuun keskustaan ruutukaavalle niin
+  että koulut olisivat 10 minuutin kävelyn päässä.
+- Mikael :: Siinä oli ihan hyvä sijainti, Joensuun keskustassa on
+  paljon rauhallisia kortteleita, mitä liikenteeseen tulee...
+- Sakari :: Tämä kuulostakin ihan hyvältä.
+- Mikael :: ...mutta valitettavasti arpaonni ei suosinut asuntoni
+  naapureiden ja väliseinien äänieristyksen suhteen.
+- Sakari :: Kyllä kyllä. Millainen se Joensuun keskusta noin muuten
+  oli, keskustan palveluiden ja tällaisten kannalta?
+- Mikael :: Ruutukaava on jaettu neljään n. samankokoiseen
+  ilmansuuntaan ja palvelut olivat pääosin osioissa kellonmyötäisesti
+  1-2, hieman kauppoja osiossa 3 ja sitten minun osioni 4 oli ihan
+  tyhjä palveluista käytännössä.
+- Mikael :: Ei siinä silti ollut pitkä matka käydä kaupoilla...
+- Sakari :: Vähän samaa kuin minulla sitten Porin toisessa asunnossa.
+  Eli sielläkään ei oikein ollut kauppoja ja palveluita ihan
+  naapurissa, vaan ne sijoittuvat hieman eri alueelle keskustassa.
+- Mikael :: ...käytännössä 15-20 minuutissa taitaa päästä koko ytimen
+  kolkasta toiseen.
+- Sakari :: Ne on sitten ihan mukavasti saavutettavissa. Tuo
+  kuulostaa suunnilleen vastaavalta kuin minulla Porissa ja vähän
+  samankaltaiselta kuin mitä Nokialla voisi odottaa.
+- Mikael :: Outokummusta opin sen, että asuinpaikka kannattaa ainakin
+  minun maun mukaan valita niin, että kaupungin vilkkain valtaväylä ei
+  ole ihan ikkunan alla. Joensuussa valitsin sen oikein, mutta
+  asuntojen äänieristyksistä ei voi muuten kyllä tietää mitään
+  ulospäin. Mutta opinpa senkin.
+- Sakari :: Kyllähän se asunnon valinta aika vaikeaa kieltämättä on.
+- Mikael :: Joensuussa asuessani työllistyin onnellisena ja
+  raharikkaana aloin jossain vaiheessa miettiä rauhallisempia pitäjiä.
+  Jos en väärin muista niin vakituisen paperit allekirjoitettuani ei
+  mennyt kahta kuukautta kun olin ostamassa kiinteistöä.
+- Sakari :: Se oli nopeaa toimintaa se.
+- Mikael :: En ollut aktiivisesti haku päällä, tai en ainakaan muista
+  olleeni. Sattuman kautta huomasin Torilla myynti-ilmoituksen
+  outokumpulaisesta ok-talosta. Se oli rakkautta ensisilmäyksellä.
+- Sakari :: Ja tämä seuraava paikka taisi löytyä lopulta melko tutulta
+  seudulta? Muistan kyllä seuranneeni sivusta tätä ratkaisuasi ja
+  tavallaan ihailin sitä. Rohkea veto.
+- Mikael :: Haja-asutusalueen syrjäinen mökki metsän keskellä.
+  Lähiperhe vaikeni kritiikin suhteen mutta pystyin aistimaan pientä
+  huolta paikkavalinnan suhteen.
+- Sakari :: Se idylli oli kyllä ihan uskomaton.
+- Mikael :: Joensuun jälkeen se oli kyllä juuri sitä lääkettä jota
+  tarvitsin. Oma mökki ilman naapureita, tekemisen makua, halpaa
+  omistamista. Olinhan myös kova hifisti siihen aikaan ja avoimet
+  kuulokkeet olivat huono idea taustahälyn suhteen.
+- Sakari :: Siinä kyllä yhdistyi moni tavoite sitten.
+
+[[https://paste.nerv.fi/3b00c7bf45fbec80eb6703b3.jpeg]]
+
+- Sakari :: Tuo kuva tuo kyllä hymyn huulilleni. Melkein rupeaa
+  tekemään itsekin mieli muutaa johonkin tuollaiseen.
+- Mikael :: Sätöksessä talo lämpeää puulla ja piha aurataan lumesta
+  kaurapuuron voimalla.
+- Mikael :: Mutta vastapainoksi jouduin lisäämään uudenlaisia kuluja
+  asumiseen: autoilun kulut ovat arvaamattomat.
+- Sakari :: Autoilu on kyllä sellaista. Voi tulla kalliiksikin ja
+  nopeasti.
+- Mikael :: Talo itse oli myös "remontin tarpeessa" ja asiat kuten
+  jätekaivodirektiivi ja vesikaton remontoiminen olivat sitten
+  huolenaiheita.
+- Mikael :: Mietin myös sitä paljon, että aika nuorena lukitsin itseni
+  kiinteistöön jonka myymisessä voi kestää sievä tovi. Mitä
+  tilaisuuksia suljinkaan itseltäni pois?
+- Sakari :: Se on aina omakotitaloissa. Tai, kai sen voi ajatella
+  koskevan osakekiinteistöjä myös.
+- Mikael :: Osakkeissa ei oikeastaan pääse sen paremmin karkuun
+  huoltotöitä. Kaikki maksaa ja niistä maksetaan hoitovastikkeessa ja
+  rahoitusvastikkeissa.
+- Sakari :: Siinä vaan ulkoistaa sen päätöksenteon ja vastuun. Ja
+  yleensä maksaa siitä lystistä korkeamman hinnan.
+- Mikael :: OK-talossa voi tehdä itse enemmän ja säästää; jos tyytyy
+  huonompaan laatuun niin säästö voi olla huomattava.
+- Sakari :: Juurikin näin.
+- Mikael :: Mutta en ole kummoinen remonttireiska, joten huolissani
+  talon jälleenmyymisestä jossain vaiheessa myin sen nopeasti
+  ensimmäiselle kiinnostuneelle. Ehdinköhän asua omassa sen kaksi
+  vuotta tai piirun verran yli.
+- Mikael :: Mutta tässä kohtaa tein mielestäni ihan oikein kun jäin
+  asumaan siihen taloon silti, vuokralle nyt.
+- Sakari :: Tämäkin oli sellainen veto, että en ole ennen kuullut
+  kenenkään tekevän. Mutta mikäs siinä, se oli varmaan siihen
+  tilanteeseen fiksu ja toimiva ratkaisu.
+- Mikael :: Se toimi minulle ihan hyvin. Joustavuus ja taloudellinen
+  helpotus oli suuri juttu. Mutta samanaikaisesti, vuokralla
+  sähkölämmitteisessä ok-talossa kun asuu, ja autokin on pakollinen,
+  niin kuluja tulee.
+- Sakari :: Se on kyllä totta. Muistan itsekin sen ajan kun oli
+  vuokraa, autoa ja palkka pienempi kuin nykyään. Ei mikään
+  optimaalinen tila pidemmän päälle.
+- Mikael :: Samaan aikaan omat harrastukset ja kiinnostuksen kohteet
+  muuttuivat samojen vuosien varrella.
+- Mikael :: Sätöksessä asuminen tuntui kalliilta ja niinhän se olikin.
+  Aloin laskeskella että kalliissa Helsingissäkin asuminen olisi
+  taloudellisesti verrattava tilanne, koska autoa en tarvitsisi.
+- Sakari :: Harrastuksissa varmaan valokuvaus rupesi nostamaan päätään
+  ja kenties hifi hieman hiipumaan?
+- Mikael :: Valokuvaus oli sellainen juttu, että Sätöksessä ei sitä
+  päässyt tekemään sillä tavalla kuin halusin.
+- Mikael :: Ja autoilukin vähän puudutti, liikenteessä oleminen ja
+  myös huollot ja yllättävät viat.
+- Sakari :: Oli siis aika muutokselle.
+- Mikael :: Päätin että tietystä syystähän minä myin Sätöksen pois
+  vuonna 2016 ja olin vuokralla: jotta sieltä pääsee joskus pois
+  joustavasti.
+- Sakari :: Se oli kyllä siinä mielessä viisas peliliike.
+- Mikael :: Oli siis Helsingin aika. Se oli jännittävä tutkimusmatka
+  tulla 450 kilometrin päähän tutkimaan asuinpaikkoja. Tämä tapahtui
+  2019 keväällä.
+- Sakari :: Tämä oli kyllä minulle aikanaan yllätys, koska kyllähän
+  tuossa mennään Suomen asuinpaikkamahdollisuuksissa tietyllä tavalla
+  ääripäästä toiseen.
+- Mikael :: Sopiva asunto löytyi onneksi tosi nopeasti. Olin varannut
+  kaksi viikkoa asuntojahdille ja sitten kuitenkin 24 tunnissa
+  aloituksesta olin jo allekirjoittamassa vuokrapapereita.
+- Sakari :: Huomaan kyllä jonkunlaisen kaavan tässä nopeassa
+  toiminnassa...
+- Mikael :: Minulla oli niin iso palo ja kaipuu katukuvaajaksi
+  silloin. Kun harrastus on katukuvaus niin Suomessa ei ole Helsinkiä
+  parempaa, ja jossain rajallisessa mielessä ei ole muita vaihtoehtoja
+  kuin Helsinki.
+- Sakari :: Helsinki on siihen ehdottomasti paras paikka kyllä.
+- Mikael :: Jos olisin päättänyt olla maisemakuvaaja, lukea enemmän
+  maisemakuvaajien kirjoja niin olisin ehkä voinut todeta että Sätös
+  on loistava paikka siihen.
+- Sakari :: Sanotaanko että kun matkustaa Tampereelta Helsinkiin, niin
+  kyllä siinä kadun tunnelmassa on valtava ero.
+- Mikael :: Joo. Tampere on ihan oma paikkansa kyllä. Lähimmäksi
+  Helsinkiä päästään Tampereella siellä Laukontorilla.
+- Sakari :: Kesäisin Laukontori on kyllä aika eloisa paikka. Mutta
+  sielläkin huomaa sen, että kortteliväli sinne tai tänne ja hiljaista
+  tulee.
+- Mikael :: Niin tekee kyllä. :D
+- Mikael :: Muutin siis kalliille vuokralle Etu-Töölöön, joka on
+  00100-postinumeroaluetta. Autosta luovuin ilomielin ja nautin HSL:n
+  suunnattoman hyvästä joukkoliikenneverkosta, joka vain parani ja
+  parani minun asuessani siellä.
+- Mikael :: Vuosi 2019 oli suunnattoman tuotteliasta aikaa
+  harrastusteni suhteen.
+- Sakari :: Se joukkoliikenne Helsingissä on kyllä sellaista että
+  lähellekkään sitä tasoa ei missään muualla Suomessa pääse.
+- Mikael :: Se on myös maailmanlaajuisella tasolla aika hyvää
+  käsittääkseni.
+- Sakari :: On joo. Verratakseni esimerkiksi Zaragozaan, joka on n.
+  700k asukkaan kaupunki niin siellä meni yksi raitiovaunulinja! :D
+- Sakari :: Bussien lisäksi siis.
+- Mikael :: Varmasti tiivis tunnelma työmatkalaisten kesken siellä.
+- Sakari :: Kyllä sekin aika autokaupunki tuntui olevan.
+- Mikael :: Helsinki tuli kuvioihin mukaan minun harrastusten
+  sanelemana, luonnehditaanko näin. Otin aika paljon irti myös ison
+  kaupunkin muista suomista tilaisuuksista valokuvauksen lisäksi,
+  joten Helsinki totisesti antoi minulle paljon. Helsinkiläinen
+  (suomalaisittain) suurkaupungin energia oli hyvä vaikute.
+- Mikael :: Mutta sitten asiat vähän hiipuivat koronan myötä ja 2020
+  oli muutenkin vähän sellainen vuosi. Oma valokuvaus ei ollut niin
+  katukuvapainotteista ennen koronaakaan.
+- Mikael :: Eli mitä sitten tehdä kun on muuttanut kalliiseen
+  kaupunkiin katukuvaus mielessä, eikä sitten aiokaan katukuvata?
+  Alkaa ehkä tehdä mieli tehdä korjausliikkeitä.
+- Sakari :: 2020 taisi olla monelle sellainen vuosi, että
+  asumiskuvioita katsottiin uusiksi.
+- Sakari :: Eli sitten oli pienen korjausliikkeen aika?
+- Mikael :: Etu-Töölön asuntoni oli ja on edelleen täysi lottovoitto,
+  mitä asumiseen tulee. Se on todella keskeisellä sijainnilla mutta
+  kun astut sisään kotiasi niin siellä on Sätös-tasoinen hiljaisuus ja
+  rauha sitten.
+- Mikael :: Täysi lottovoitto. Sätös ja Töölö molemmat pitävät kruunua
+  parhaana asumisena mitä olen nyt 10 vuodessa tehnyt.
+- Mikael :: Mutta todellisuus on kuitenkin se, että 850 euron vuokra
+  on poisheitettyä rahaa monella tavalla.
+- Sakari :: Muistan kyllä myös tuon etu-Töölön. Se oli oikeastaan
+  uskomattoman rauhallinen paikka, siihen nähden että heti ulko-oven
+  takana oli elävä suurkaupunki.
+- Mikael :: 15 minuutin kävelyn päässä asemasta ja Kampista ja niin
+  rauhallinen sisällä.
+- Mikael :: Ja Töölöä ei pidetä arvossa edes, jonka takia vuokrakin on
+  vain 850 eikä 990 euroa kuussa.
+- Sakari :: Mielenkiintoista. Se oli kyllä sellainen paikka, että en
+  itsekään poissulkisi missään tapauksessa vaihtoehdoista, jos
+  Helsinkiin tekisi mieli.
+- Mikael :: Nyt se oli vaikea päätös jatkaa eteenpäin, koska Töölö oli
+  lottovoitto kaiken suhteen, ihan kaiken suhteen. Kaikki toimi. Ihan
+  kaikki. :)
+- Sakari :: Päädyit kuitenkin palaamaan hieman etäämmälle Helsingistä,
+  mutta silti strategisesti hyvälle paikalle?
+- Mikael :: Mutta vaikea päätös tai ei, uskon että tein oikein ja
+  ostin oman asunnon sieltä, mistä pankki suostui rahoittamaan.
+- Mikael :: Hyvinkäältä ostin ja päällimmäinen syy oli tosiaan se,
+  että Helsinkiin pääsisi junalla nopeasti.
+- Sakari :: Se on kyllä sinällään hyvällä sijainnilla.
+- Sakari :: Kauanko siitä paikallisjunalla tulee matka-aikaa?
+- Mikael :: Töölöstä Helsingin päärautatieasemalle oli 15 minuutin
+  kävely ja nyt täältä Sandelista on Hyvinkään asemalle n. 10 minuutin
+  kävely.
+- Mikael :: Juna kulkee 30 minuutin välein ja tuo ytimeen 45
+  minuutissa. Ja junia kulkee ihan yötä myöten.
+- Sakari :: Se on kyllä ihan hyvä yhteys sitten.
+- Mikael :: Se on.
+- Sakari :: Tuossa on hieman samankaltaisuuksia Nokiaan. Voisi melkein
+  sanoa että Nokia on Tampereen Hyvinkää.
+- Mikael :: Hyvinkäältä pääsee myös Tampereelle näppärästi junalla 90
+  minuuttiin.
+- Sakari :: Nämä Tampere-Helsinki -radan varrella olevat paikat ovat
+  kyllä olleet minun kiikareissa aina välillä. Ei juuri nykyiseen
+  tarpeeseen, mutta yleisesti ajatuksena. Siellä on esimerkiksi
+  Lempäälää ja Hämeenlinnaa Hyvinkään lisäksi.
+- Mikael :: Radanvarsikaupungit ovat omanlainen tyylinsä asua. En ehkä
+  sanoisi että parasta tyyliä omaan makuuni. Taloudelliset edut ovat
+  kuitenkin kiistämättömät.
+- Sakari :: Se on kyllä totta tuo taloudellinen tehokkuus.
+- Sakari :: Kyllähän tässä molemmilla oli monenlaisia ratkaisuja
+  takana.
+- Mikael :: Taloudelliset jutut ovat Hyvinkäällä kuin yö ja päivä
+  Töölöön nähden. Lähikauppa on iso LIDL yhtä kaukana kuin Töölössä
+  'kallis' lähi-K tai Alepa. Täällä on valtavat megamarketit kaikki
+  myös kävelyetäisyyden päässä. "Hyvinkää käy järkeen", olen tainnut
+  sanoa. Se vetoaa siihen järkeen.
+- Mikael :: Mutta tunne on ehkäpä toistaiseksi kaukana kaikesta, mitä
+  Hyvinkäähän tulee. Muutin tänne tammikuussa, eli olen nyt asunut
+  täällä kolmisen kuukautta. Töölön jälkeen on ollut kulttuurishokkia
+  tulla sinuiksi Hyvinkään suhteen.
+- Sakari :: Niin. Onhan se varmasti hiljaisempi paikka mutta silti
+  Suomen mittakaavassa varmasti melko keskeinen.
+- Mikael :: Hiljaisuus ei nyt sinänsä haittaa, ja keskeisyys
+  yhdistettynä halpaan asumiseen johtaa siihen, että on
+  taloudellisesti hyviä mahdollisuuksia reissata Suomen kaikissa
+  isoissa paikoissa (Tampere, Turku, PK-seutu).
+- Sakari :: Se on kyllä siitä järkevän oloinen ratkaisu. Ja kyllähän
+  asuminen aina on kompromissi johonkin suuntaan. Jos ei muuten niin
+  rahan suhteen.
+- Mikael :: Mutta shokkia on tullut siinä mielessä, miten
+  hyvinkääläinen ja helsinkiläinen eroaa niin kovin toisistaan.
+  Menemättä likaisiin yksityiskohtiin sanotaanko ehkä niin, että olen
+  ehkä sydämeltäni helsinkiläinen?
+- Sakari :: Se on kyllä varmasti totta. en minäkään oikein koskaan
+  pitänyt itseäni mitenkään porilaisena.
+- Mikael :: Muuttohommia miettiessäni ajattelin, että olisinko
+  kuopiolainen sittenkin. En päässyt katselemaan asuntoja sieltä asti
+  kun se välimatka taas vähän irrationaalisesti hirvitti. Hyvinkään
+  jälkeen kävin Kuopiossa vierailulla ja totesin, että ei sekään ihan
+  Helsinkiä voita.
+- Mikael :: Oli Hyvinkää siis taas omalla tavallaan harmittava juttu,
+  mutta olosuhteiden valossa olisinko voinut tehdä parempaa päätöstä!
+- Sakari :: Kyllähän se vähän niin on, että se mitä itse olen
+  suunnitellut Nokiasta on tavallaan tietoinen kompromissi eri
+  asioiden välillä.
+- Sakari :: Ja ainakin itse ajattelen että se tasapainon löytäminen on
+  se tavoite.
+- Mikael :: Kompromisseja on kaikkialla ja paras lopputulos tulee
+  välttämättä kun tietää ne romanttiset pluspuolet niin kuin ne
+  realistiset miinuspuoletkin.
+- Sakari :: Ja viimekädessä kompromissi tulee rahan ja sen
+  rajallisuuden kanssa vastaan. Tämä nyt on tietenkin sellainen mikä
+  on helppo hyväksyä, mutta esimerkiksi itse löysin "täydellisen"
+  asunnon myynistä, mutta hinta oli muistaakseni 750k.
+- Mikael :: Töölöstä tiesin jo muuttokuorman tullessa sisälle että
+  tämä on täysi lottovoitto ja tästä ei voi mennä kuin alaspäin
+  (omilla tulotasoillani) ja nyt Hyvinkääkin oli jo ennestään tiedossa
+  että se ei voi olla toinen lottovoitto peräkkäin
+- Sakari :: Jota en nyt tietenkään jäänyt haikailemaan, mutta minulle
+  se lähinnä osoitti sen, että asuminen on aina kompromissi jostain.
+- Mikael :: Se on. Se on sinänsä jo aika hyvä tilanne jos vain rahasta
+  ottaa kiinni.
+- Sakari :: On joo.
+- Mikael :: Sätöksessä otti kai autosta kiinni, mikä on osittain
+  rahasta kiinni, osittain autoilusta kiinni. Töölössä ei muusta kuin
+  rahasta.
+- Sakari :: Mutta oletko kuitenkin ollut kokonaisuutena tyytyväinen
+  Hyvinkääseen, vaikkei se Töölö olekaan?
+- Mikael :: Noh, asunto ja taloyhtiö on ihan hyvä.
+- Sakari :: Se on toki hyvä lähtökohta.
+- Mikael :: Jos aikoo kuluttaa vuosiaan masennellessaan koronaa ja
+  julmaa maailmaa kotona kykkiessä niin tämmöinen kiva, valoisa, iso
+  asunto lähellä kauppoja ei ole huono idea lainkaan.
+- Sakari :: Totta tuo.
+- Mikael :: Ei se Helsinkikään tietysti ole pelkkää juhlaa päivästä
+  toiseen. Paljon harmittavia kohtaamisia laitapuolen kulkijoiden
+  kanssa silloin tällöin. Mutta jos Töölössä jää masentelemaan kotiaan
+  niin kalliiksihan se käy.
+- Sakari :: Se on kyllä varmasti. Itse kyllä arvostan sitä kotia ja
+  kotona olemista, joten siksikin varmaan nuo ydinkeskustat ovat
+  jääneet itseltä pois ajatuksista.
+- Mikael :: Yhtä kaikki, minulla on nyt vielä meneillään alustava
+  kulttuurishokkivaihe mitä Hyvinkäähän tulee. Miten se näkyy
+  ulospäin? Kaavailen pidemmän tähtäimen säästösuunnitelmia Helsinki
+  mielessä.
+- Sakari :: No, säästösuunnitelmat on aina hyvästä.
+- Mikael :: Vuonna 2030 minulla voisi nipinnapin olla taloudelliset
+  mahdollisuudet ottaa asuntolainaa helsinkiläiseeen asuntoon. Ei ihan
+  etu-Töölöstä mutta kuitenkin jostain mikä miellyttää ja mistä pääsee
+  hyvin bussin kyytiin.
+- Mikael :: Tiedän jo valmiiksi, että yhdeksässä vuodessa ehtii moni
+  asia muuttua, joten mitä tapahtuu vuonna 2030 on sitten ihan
+  arvailujen varassa.
+- Sakari :: Se on varmasti hyvä pitää mielessä ja ns. mahdollisuus
+  avoinna. Tiedä mitä sitten haluaa tulevaisuudessa tehdä, mutta on
+  ainakin se tie selvä jos sitä haluaa kulkea.
+- Mikael :: Yksi onnellisimpia vaihtoehtoja olisi varmasti että
+  yhdeksässä vuodessa tottuisi ja samastuisi "hyvinkääläisyyteen" ja
+  sitten nauttisi siitä mitä täällä on tarjota.
+- Sakari :: Sitähän ei koskaan tiedä.
+- Mikael :: Minulla oli kovat säästöohjelmat Helsingissä asuessa,
+  aiemminkin. Mutta niille säästöohjelman mukaisille rahasummille ei
+  ollut mitään käyttöä mielessä, joten motivaatiokin säästämiseen oli
+  hakusessa.
+- Sakari :: tavoitteiden konkreettisuus kyllä varmasti helpottaa
+  säästämistä.
+
