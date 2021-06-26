@@ -10,8 +10,10 @@ Norjalaisfirman laatudac ECD-1 on taas tullut siihen pisteeseen, että
 sitä pitäisi huollattaa jossakin. Tämä DAC on ostettu jenkkilästä
 tammikuussa 2009, eli aikalailla 10 vuotta se on minulla ollut. 
 
-Se alkoi vikuroida melkein heti kun ostin sen, ensin lyhyitä hetkiä ja
-sitten lopullisesti vuonna 2011. En köyhänä opiskelijana juuri
+** Vikuripää 
+
+ECD-1 alkoi vikuroida melkein heti kun ostin sen. Ensin lyhyitä hetkiä
+ja sitten lopullisesti vuonna 2011. En köyhänä opiskelijana juuri
 tuolloin halunnut allokoida rahaa dacin huoltamiseen, joten meni
 kutakuinkin vuosi ennen kuin sain aikaiseksi laittaa se eteenpäin.
 Tilapäisratkaisuna ostin halvan käytetyn dacin, josta luovuin sitten
@@ -28,6 +30,8 @@ takaisesta -- nyt olen ollut ihan kohtuullisen tyytyväinen ajaessani
 musiikkia suoraan äänikortista vahvistimelle. Toisaalta korjaus omalla
 mututuntumalla (laitteen antamien oireiden perusteella) ei tule
 olemaan taaskaan kuin maksimissaan ehkä pari sataa.
+
+** Muutto Helsinkiin tuo muutoksia hifirintamalle?
 
 Helsingissä tulee varmasti suunnattua katse uusiin suuntiin --
 nappikuulokerintamalle. Mikä DAC-vahvistin-kuulokekombo toimii
@@ -50,3 +54,41 @@ palvelee muikeasti.
 Ja varmaan pitää ihan ensimmäisenä laittaa kapistus takaisin seinään
 ja todeta, olisiko se tullut takaisin henkiin viikon levon aikana. Ei
 olisi varsinaisesti mikään iso yllätys sekään!
+
+** ECD-1 jatkaa elossa
+
+Helsingin läpi Hyvinkäälle, ECD-1 ei oikeastaan osoitakaan kuolemisen
+merkkejä. Se toimii vankasti ja luotettavasti mutta vain tässä
+rajatapauksessa: ohjelmanvalitsimeen ei kosketa!
+
+Hyvinkäälle asetuttuani 5 kuukautta sitten löin ECD1:n seinään ja se
+toimi kivasti. Sitten joku kuukausi tai kaksi sitten laittelin
+DVD-soittimen kiinni viihdekeskukseeni ja siitä vedin äänet dacille
+luonnollisesti. Siinä kohtaa vehje mykistyi taas tyystin kokonaan.
+Viikon ajan annoin levätä rauhassa ja laitoin virrat takaisin: taas
+toimii. Ja toimii edelleen.
+
+Pidetään ECD-1 jatkossa aina DIG 3 -sisääntulossa kiinni, eikä muuta
+tehdä. Se on nyt yhden ohjelmalähteen DAC.
+
+Mutta pääasia, että tämä kaunis ja hyvin toistava laite toimii
+luotettavasti edes jossakin asennossa.
+
+** Hifiharrastelun jatko 2021
+
+Tämän kirjoituksen alussa, tammikuulta 2019, mietin miten menisin
+Helsingissä kuulokerintaman suhteen. Nappikuulokkeet ovat kiva idea,
+mutta onhan niissä se ääni vähän pienenpuoleinen. Lisäksi
+korvakäytäviä voi rasittaa kovastikin jos ergonomia ei ole kunnossa.
+
+Päädyin menemään isoihin kuppikuulokkeisiin ja suljettuihin
+sellaisiin. Focal Elegia oli ensin testissä ja sitten Ollo Audion
+edulliset mutta sitäkin erinomaisemmat kuulokkeet ovat olleet kohta
+kaksi vuotta pääasiallinen viihdykkeeni.
+
+K1000:n tasolle ne eivät pääse kaikissa äänen aspekteissa
+valitettavasti, mutta kompromissina upeat. Ei uskoisi ehkä äkkinäinen,
+miten hyvin suljettu kuuloke toistaa ääniskaalan.
+
+Kiinnostava juttu olisi se, että jos K1000:een joskus "pääsee"
+palaamaan niin tulisiko oikeasti palattua. Hurja ajatus!
