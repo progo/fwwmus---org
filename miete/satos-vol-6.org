@@ -1,0 +1,234 @@
+#+TITLE: Sätös: 20 000 euron kysymys
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sätös: 20 000 euron kysymys                :asunto:talo:sandels:sätös:
+CLOSED: [2021-08-29 Sun 17:00]
+:LOGBOOK:
+- State "DONE"       from              [2021-08-26 Thu 18:29]
+:END:
+
+Pitkä kuuma kesä alkaa ehkä olla takanapäin. Kaunis syksy ja kivat
+syysilmat ovat ihan oven takana. Ennenpitkää Sätöksen kysymys
+nostetaan pöydälle. Olen miettinyt näitä juttuja niin kovin paljon.
+
+Tällä viikolla välähti uusi visuaalinen muisto Sätöksen tunnelmista.
+Syksyn tullen ulkona on illalla säkkipimeä. Ikkunasta ei näe ulos
+mitään. Ei katuvaloja, ei turhia pihavaloja, koristevaloja. Läheisen
+koneistamon valo kajastaa hieman, kaukaisen naapurin olohuoneen valot
+näkyvät lähes pistemäisinä pellon ylitse. Mutta ei turhia valoja.
+
+** Kevytmielinen idyllien vertailu
+
+Unohtakaamme suuri osa arjen realismista ja aloitellaan näillä elämän
+pienillä mukavuuksilla, jotka tulee mieleen asioina, joista on nyt
+jäänyt paitsi.
+
+*** Sätös voittaa Sandelsin
+
+- Suihkussa tulee kuuma vesi nopeasti.
+- Keittiössä tulee kylmä vesi nopeasti.
+- Keittiö on ihastuttavan oldschool.
+- Leivinuuni lupaa puulämmitystä.
+- Upea talvi; upeat vuodenajat ja "luonnon armoilla" oleminen.
+- Pihalla on kesän kuumalla kiva oleskella, jos hyttysiä ja paarmoja
+  osaa väistellä.
+- Runsaasti mielekästä hyötyliikuntaa sisällä ja ulkona.
+- Triviaali mahdollisuus ilmalämpöpumpulle.
+- Metsän saartamana paljon villiä luontoa: haukkoja, peuroja.
+- Rauhallisuuden keskellä voi hifistellä kuten vanhaan aikaan: AKG
+  K1000, vinyylit pyörimään, avoimet kuulokkeet, mikseipä peräti
+  kautinsettiä kehiin?
+- S-kaupat lähellä ja isot hypermarketit autoilijan ulottuvilla.
+- Siisti ja simppeli jätteidenkäsittelyprosessi.
+- Autoillen rautakaupoille ja ostosten kanssa takaisin -idylli.
+- Autoilevan maisemakuvaajan idylli: kumisaappaat takakontissa ja
+  kahvia termoksessa -menoa.
+
+*** Sandels voittaa Sätöksen
+
+Helsinki saattaa avustaa joissakin näissä hieman.
+
+- Siisti kolmas kerros -- ylimmän kerroksen ylhäisyyttä.
+- Halpaa budjettiasumista pienen asumiskustannuksen kaupungissa ilman
+  mitään ylläpitohuolia.
+- Kävellen kaikkialle -lifestyle.
+- Ilman talonpitomurheita voi vain Wolttailla kiinalaista kotiovelle
+  ja katsoa elokuvia pyjamissaan.
+- Kaikkiin Suomen isoimpiin kaupunkeihin pääsee halvalla ja vaivatta.
+- Keittiö nykyaikaisine välineineen, mukaanlukien tiskikone!
+- Runsas eteläsuomalainen valikoima luontoa nähtäväksi ja
+  valokuvattavaksi. Joutsenia, merinäköaloja, kirsikankukintaa,
+  lokkeja, kaikenlaisia istutuksia.
+- Kaupunkitaajamana Sätöstä runsaasti enemmän kävelyreittejä ja
+  valokuvattavaa, saati sitten jos Helsinkiin menee.
+- Uudenmaan ja pääkaupunkiseudun väestöntiheyden suomat mahdollisuudet
+  käydä kauppaa ihmisten kanssa tai itse asioida
+  hyvissä/halvoissa/erikoistuneissa kivijalkaliikkeissä.
+- Uudenmaan ja PK-seudun mahdollistama sosiaalinen elämä.
+- Nopea ja superhalpa valokuituyhteys.
+- Halpa LIDL lähikauppana.
+
+** Numerot eivät valehtele(, paitsi jos ne ottaa tilastoista?)
+
+Olen laskenut hiljattain asumiskuluja ja kustannuksia uudelleen. Nyt
+hieman paremmin käytetyt lähteet mielessä ja enemmän kommentointia
+että mistä ja miten luvut on saatu. Kaikkea en voi ennustaa. Vanhoja
+kustannuksia 3 vuoden takaa olen paisutellut 10 prosenttia
+korkeammaksi.
+
+Luvut ovat laskettu sellaiseen ajankuvaan, jossa töihin toimistolle
+pitää mennä 2,5 kertaa viikossa. Firmani Vantaan toimisto juuri muutti
+kauemmaksi minusta ja Hyvinkään matka-aika ja matkakulut ovat nyt taas
+askeleen lähempänä sitä mitä Sätöksessä olisi matkakulut Joensuuhun.
+
+Numerot ovat lyhykäisyydessään tämmöiset, laskettuna nyt elokuussa 2021.
+
+| Asumismenot, €/kk  | Sandels | Sätös | Töölö, vuokralla |
+|--------------------+---------+-------+------------------|
+| 2,5 toimistopäivää |     400 |   451 |              945 |
+# | 0 toimistopäivää   |     307 |   437 |              892 |
+# | 5 toimistopäivää   |     419 |   444 |              945 |
+
+Noin 50 euron erotus Sandelsin eduksi. 50 euron lisäys, jos Sätökseen
+menisi. Ei kummoisesti, kun tämä lisäys tarjoaa kuitenkin 80 minuuttia
+vähemmän työmatkaa toimistopäivää kohden. Se tarjoaa myös vapaan
+"autoedun" ja sisältää polttoaineetkin 16 tuhannelle kilometrille.
+
+# OBS.
+# Jätetään etätyöpäivien määrä pois tästä nyt kun siinä on liikaa
+# variaatioita Hyvinkään ja Sätöksen välillä ja muutenkin.
+
+# Mutta jos oletetaan molemmissa asuinpaikoissa jatkossakin
+# täysipäiväinen, 5 päivää viikossa kotona, etätyöskentely niin
+# Sandelsin luvut paranevat Sätöstä enemmän. Sätöksessä dieselkulut
+# saattavat tipahtaa ehkä kolmannekseen mutta työmatkavähennys
+# menetetään kokonaan. Jos pitäisi mennä toimistolle viitenä päivänä
+# viikossa niin Sätöksessä yllättäen näyttää halpenevan. Kasvava
+# ajosuorite kompensoidaan työmatkavähennyksessä. Lisäksi tulisi ajettua
+# vähemmän viikonloppuisin, kuvittelisin. Autoa joutuu todennäköisesti
+# huoltamaan enemmän, mutta tätä on vaikea arvioida. Sandelsissa
+# siirtyisin tässä kohtaa kausilippuun, joka on edullinen sarjalippuihin
+# nähden. Olisipa kyllä tukala kuluttaa 3 tuntia päivässä työmatkoihin,
+# viitenä päivänä viikossa.
+
+Autoa tuo 50 euron lisäkustannus ei sentään tarjoa. Autovalinnan
+suhteen voi olla montaa mieltä, hommatako halpa auto käteisellä vai
+ostaako vähän prameampi kiesi pihaan ja maksaa osamaksua. Autolainan
+lyhennys ja lainan korot toisivat Sätöksen kuluihin ylimääräisen 161
+euron kuukausilisän. Oma valinta, miten asiaan suhtautuu. Autolaina ei
+kestä ikuisuuksia ja sitten kun se on maksettu pois, sitä ei tarvitse
+enää laskea mukaan lukuihin -- toisaalta arvonalenema on aina myös
+hankalasti arvioitava tekijä. Kuten sanottua, tässä ehkä joutuu
+menemään makunsa mukaan.
+
+Yhtenä autokuluna Sandelsin puolella voisi pitää sitä, että olen tänä
+vuonna vuokrannut auton kahdesti, yhteensä neljäksi viikoksi. Nämä
+ovat olleet pitkälti huviajelua ilman hyötytarkoitusta, joten niitä ei
+ole laskettu noihin laskelmiin. Mutta kuitenkin 650 euroa olen
+laittanut vuokra-autoiluun täällä asuessani. Se on jo selkeä osuus
+Sätökseen laskemistani kuluista ja jos tämän sisällyttäisi noihin yo.
+taulukon lukuihin niin Sätöksen ja Sandelsin kulut menisivät tasoihin.
+
+Sätöksen menoihin en ole arvioinut -- liiallisen arvaamattomuuden
+takia -- talonpitoon liittyviä menoja. Niitä on selvästi tuleman
+tuohon päälle. Mutta tuleepa niitä taloyhtiöissäkin ajan kanssa.
+Kolmen tonnin ikkunanvaihdokset nyt seuraavana lähitulevaisuudessa ja
+sen jälkeen lisää. Meneekö Sätöksessä montaa tonnia mihinkään -- hyvin
+vaikea sanoa. Ajatuksena en ole niin kamalan huolissani tästä.
+
+** Peltilehmä
+
+Auto on Sätöksessä pakollinen komponentti, ja se on myös Sätöksen
+merkittävin osuus menoista. Polttoaineet eivät ole ainakaan
+halpenemaan päin, huollot maksavat ja ne tulevat joskus ihan puskista.
+
+Ei ole ihan ennakoitavissa että miten korona-ajan 100% etätyöskentely
+näkyisi Sätöksen autoilussa. Toki polttoainetta menee vähemmän mutta
+huoltojen tarve ja laatu ovat vähän kysymysmerkki. Rahanarvoinen
+työmatkavähennys on ainakin pois pelistä tämän aikaa.
+
+Minun kaikki autot ovat olleet halpoja romuja tähän mennessä. Jos nyt
+sitten nostaisi budjettia ja hommaisi jotain kenties luotettavampaa
+alle, jotain luksuksentapaista?
+
+Halpa auto olisi minulle nyt 2-3 tuhatta euroa. Joku järkevä Toyota
+2000-luvun taitteesta kenties? Joku sanoo, että pelkkiä pommeja vanhat
+romut, mutta olen itse epäileväinen moisia väitteitä kohtaan. Autot
+ovat yksilöitä ja joskus uusikin auto voi temppuilla ja joskus
+vanhempi ajokki kestää vuodesta toiseen ilman huoltoa.
+
+Voisin ostaa halvan auton ja ajella sillä aikani ja sitten ostaa
+hieman hienomman auton ja näin kiivetä ylöspäin. Itseni tuntien
+tämä ei tule onnistumaan. Kun auto on pihassa ja sillä pääsee Aasta
+Beehen niin kaikki tarve ja himo lakkaa olemasta. Ei silti käy
+kieltäminen etteikö Sätöksessä esimerkiksi olisi joillekin arjen
+luksuksille käyttöä. Nelivedolle olisi käyttöä ja maavara on poikaa.
+
+Jos edellisten pointtien perusteella mennään hintaluokassa vaikka aina
+kymppitonniin asti niin alkaa olla monenlaista vaihtoehtoa, Mersuja ja
+Toyotaa ja varmasti muitakin merkkejä löytyisi, ketä kiinnostaa?
+
+Mersun E-sarja ja Toyotan Rav4:n kolmas sukupolvi ovat nousseet
+pinnalle kahtena kandidaattina minulle. E-sarjan tietää hyväksi
+ajoksi, toisaalta tuo Rav4 olisi /nelivetoisena/ katumaasturina aika
+siisti Sätös-auto. Nelivedon manuaalisesti kytkettävä lukko kruunaa
+kokonaisuuden. Toinen selkeä tekijä joka vetää minua Rav4:n suuntaan
+on takaluukun aukeaminen sivulle, kuten tavallinen ovi. Epäilemättä
+seksikkäin tapa toteuttaa viisiovinen auto. Sitä ei sitten talvella
+hydrauliikka tai mikään pääse sotkemaan. Lisäksi tämä muotoilupäätös
+toistaa entisaikain maastoautojen kaikuja.
+
+Sen lisäksi että minun on oman luonteeni kannalta paras mennä suoraan
+vaikka 8 tonnin mersuun kuin kitkutella ensin jonkun 2 tuhannen euron
+auton kanssa, on autolainan korko loppupelissä aika pieni kustannus.
+Alle 30 euroa kuukaudessa. Saatko myytyä väliaikaisauton vuoden
+jälkeen niin ettei tule otettua 300 euroa luovutustappiota? Etenkin
+kun ajoneuvoille syntyy aina jotain omistajanvaihdosoireita yleensä
+heti kauppakirjan teon jälkeen.
+
+** 20 tuhannen euron kysymys
+
+Sätös on kiedottu taloudellisten murheiden ympärille. On talohuolia,
+on autohuolia, on Sandelsin myymiseen liittyviä kustannuksia ja
+huolia.
+
+Kun poistetaan nämä taloudellisten huolten kääreet ja mennään asian
+ytimeen niin mitä on perimmäinen huoli ja murhe?
+
+Voisiko se olla, että Helsingissä pääsi maistamaan palan taivasta ja
+että Hyvinkäällä on ikävä olla vain koska tietää, mitä Helsinkiin jäi?
+Voiko tästä johtaa että Sätöskin, yhtenä aikana yksi unelma ja tontti
+taivasta, olisi nyt Helsingin jälkeen enää mitään?
+
+Sätökseen kun menee niin toki Helsinki ensinnäkin alkaa muuttua
+muistoksi vain. Haavat pääsevät paranemaan siinä missä Hyvinkäällä
+asuessa ne pysyvät auki. Voi olla silti outoa, todella outoa, palata
+vanhoihin asuinkuvioihin 3 vuoden jälkeen. Muistan ajomatkan
+Joensuuhun kyllä ulkoa. Sätöksen hyviin puoliin on varmasti helppo
+palata mutta voivatko ne huonot puolet olla nyt piirun verran
+huonompia?
+
+Ja talon kunto siihen päälle mutta tämä on taas sitä taloudellisista
+asioista murehtimista.
+
+Se on Sätöksen paras puoli ehdottomasti. Että kaikista sen ongelmista
+pääsee eroon rahalla.
+
+** Raha ei tee onnelliseksi... kunnes se tekee
+
+Helsingissä aloitin ahkeran säästöohjelman syksyllä 2019 ja pääsin
+siinä hyvin vauhtiin, ja jo seuraavana kesänä mietin että mitä varten
+minä säästän kun se ei tunnu suoraan parantavan elämänlaatuani. Mitä
+tilille kertyvät numerot auttavat nyt tai viiden vuoden päästä tai kun
+rikon sadan tonnin rajan tai mitä tahansa. En käy ravintolassa tai
+elämyksillä, en silloin kun tilillä on 500 € ylimääräistä enkä
+luultavasti silloinkaan kun siellä on 50000 €.
+
+Helsinkiä pidän elämäni parhaana ajanjaksona, mutta joku levottomuus
+minua ehkä sielläkin vaivasi. Ehkä valokuvaharrastukseni innostus
+peitti kaupunkiasumisen huonoja puolia, jotka tulevat nyt Hyvinkäällä
+vahvemmin esiin kun valokuvapotentiaali on vähäisempää.
+
+Seuraa simppeliä matematikkaa: 1 + -1 = 0. Eli jos minulla on nyt
+yhdessä kädessä säästöjä, jotka eivät tee onnelliseksi, ja sitten on
+toisessa kädessä eräänlainen rahareikä joka tekisi ehkä onnelliseksi,
+niin miksen vain lyö käsiäni yhteen?
