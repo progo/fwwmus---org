@@ -1,0 +1,81 @@
+#+TITLE: Sätös: Saaga päättyy
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Sätös: Saaga päättyy                                    :asunto:sätös:
+CLOSED: [2021-10-05 Tue 18:23]
+:LOGBOOK:
+- State "DONE"       from              [2021-10-05 Tue 18:23]
+:END:
+
+Sätöksen kirjat avattiin ensimmäisen kerran kesällä 2014 ja lyötiin
+kiinni ensimmäisen kerran toukokuussa 2019. Kirjaa availtiin vähän
+vappuna 2021 ja se on ollut tuossa luennassa tämän kesän ajan. Nyt
+syys-lokakuun taitteessa 2021 Sätöksen kirjat lyödään lukkoon.
+
+** Sätös 1973-2021
+
+Talo oli käsittääkseni alkuperäisen asukkaansa miehittämä aina vuoteen
+2013-14 asti kun sen asukas kuoli pihalle. Perikunta laittoi Sätöksen
+myyntiin keväällä 2014, ja ostin sen muutamaa kuukautta myöhemmin.
+
+Minä asuin siinä elokuusta 2014 toukokuuhun 2019. Uusi omistaja ei
+saanut siihen uutta vuokralaista, ja näin talo jäi ilman viikottaista
+huolenpitoa.
+
+Kaksi talvea ilman isäntää tekevät tehtävänsä. Talo seisoo edelleen
+ryhdikkäästi pystyssä, mutta parin viimeisen kuukauden aikana
+(toukokuun ja lokakuun välillä) sieltä on putki hajonnut ja on
+vuotanut lattioille jonkin aikaa. Myyjän kanssa sanattomasti tulimme
+siihen tulokseen, että tästä ei tehdä mitään kauppoja.
+
+Jos talo ei ole nyt ihan kuollut niin sitä se on viimeistään tämän
+talven jälkeen kun myyjä nykäisi virrat pois talosta, antaen sen mennä
+kylmilleen. Vertauskuvallinen hengityskone on sammutettu.
+
+Olin niin yhtä Sätöksen kanssa. Ehkäpä talo kehitti symbioottisen
+suhteen kanssani ja ei osannut enää elää kun lähdin pois. Ja nyt
+täällä Hyvinkäällä huomasin niin kaipaavani sinne suuntaan. Mutta oli
+liian myöhäistä.
+
+** Raptitude
+
+Raptitude-blogia pitävä David Cain oli sopivasti kirjoittanut [[https://www.raptitude.com/2021/09/the-last-time-always-happens-now/][tekstin]],
+joka käy eräänlaisesta eulogiasta Sätökselle.
+
+#+begin_quote
+You always know when you’re doing something for the first time, and
+you almost never know when you’re doing something for the last time.
+#+end_quote
+
+En muista, minkälainen oli jäähyväiseni Sätökselle. Tiesin paikan
+hyväksi asua, mutta en varmaan olisi osannut ikimaailmassa arvata,
+että sinne olisi tieni voinut viedä takaisinkin.
+
+** Sätöksen tulevaisuus
+
+Omistajalla on pieniä suunnitelmia tontille. Ehkäpä pieni kesämökki
+oman perheen käyttöön puretun talon raunioille?
+
+Saan kuulema tulla katselemaan sinne milloin vain olen maisemissa. 
+
+Tämä kuva on viimeinen ottamani, sekunteja ennen suru-uutisia.
+Viimeinen ennen kuin Sätöksen unelma mureni pois.
+
+[[file:./kuvat/satos/finaali.jpeg]]
+
+Sätöksen idea tulee elämään. Otin jonkin verran valokuvia Sätöksestä
+ja jo vuonna 2019 mietin että rakennan kevytmielisen kuvakirjan
+talosta ja siellä asumisesta. Nyt sen kirjaprojektin voisi oikeasti
+toteuttaa.
+
+** Uusi Sätös?
+
+Suomi on täynnä Sätöksiä. Mutta kynnys valita joku umpimähkään on
+valtava. Jo kynnys lähteä Hyvinkäältä originaaliin Sätökseen oli iso,
+ja kokonaisuutena arveluttava operaatio. Miten sitten jonkun uuden
+talon kanssa jossain?
+
+Haluan ottaa taukoa näistä kysymyksistä, ja nauttia halvasta ja
+autottomasta asumisesta Hyvinkäällä ja nauttia sen parhaasta puolesta:
+lyhyestä välimatkasta Helsinkiin. Se säästyvä raha, minkä laittaisin
+Sätöksessä palamaan jo elämän pakollisuuksiin, toivottavasti löytää
+jonkun hyvän ja elämää parantavan määränpään täällä missä nyt asunkin.
