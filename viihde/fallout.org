@@ -187,3 +187,48 @@ Half-Life 2 -henkiset ajoneuvot ja kustomoidut kirput areenalle.
 Niillä olisi päässyt päristeltyä nopeasti, mutta polttomoottorin melu
 olisi toisaalta karkottamassa pienempiä elukoita ja houkuttelemassa
 isompia paikalle. Olisi jännitystä matkanteossa sitten.
+
+** Fallout 4 PC:llä
+
+Pitkään siinä meni, mutta nyt 5 vuotta myöhemmin palaan takaisin
+Fallout 4:n maisemiin. Positiivisten Linux/Proton-raporttien
+perusteella ostin viimein pelin GOTY-version Steamiin, ja yllätyin
+positiivisesti kun peli pyörähti käyntiin verraten kivuttoman säädön
+jälkeen maanantaina.
+
+Seitsemän pelitunnin jälkeen uskaltaa todeta, että peli on kivenvakaa
+kokemus Protonin emuloimana. Kaikki toimii. Konevanhukseni on tietysti
+vähän hitaanpuoleinen pelimaailman pyörittämiseen; uskoisin että vanha
+prossu on pullonkaulana nyt.
+
+Minulla oli tässä viiden vuoden aikana kasvavia haaveita hommata
+windows-masiina rinnalle jotta pääsisi Fallout 4:n maailmaan
+hiiri/näppis-yhdistelmän voimin. Onneksi ne ideat jäivät unelmoinnin
+tasolle, tämä toimii riittävän hyvin näinkin. Mahdolliset
+pelikoneeseen laitettavat eurot voi surutta allokoida varsinaisen
+linux-koneeni ajanmukaistamiseen ehkä tulevana vuonna.
+
+Mitä itse peliin tulee, olin vähän huolissani että näinköhän mikään
+videopeli tarjoaa minulle viihdykettä. Onneksi huomasin laittaa pelin
+suoraan "Survival"-vaikeustasolle, joka tekee asioista kivan vaikeita.
+Esimerkiksi pikatallennukset on disabloitu ja pelihahmon terveydentila
+on jatkuvasti jossain puutostilassa pelkän yksiulotteisen health
+points -luvun sijaan. Tunnelmaa ja vaikeutta on nyt paljon, ja se on
+tehnyt pelaamisesta tunnelmallista.
+
+Ensimmäisen pelikerran suoritin Xboxilla ja se oli vaniljainen Fallout
+4 ilman lisäosia. Nyt tämä GOTY-versio perinteiseen malliin paketoi
+kaikki julkaistut lisärit yhteen tarjouspakettiin. Lisäreiden myötä
+pelimekanismeja on ehditty tuunata ja viritellä tosi kivaan suuntaan.
+Maailmassa on paljon ulottuvuuksia ja yksityiskohtia. Vaikeustason
+takia joutuu virittelemään ja taktikoimaan paljon enemmän kuin
+aiemmin. Kaikkea sellaista, joka saattoi aiemmin olla turhaa
+pakkopullaa, mutta nyt siitä on apua kun muuten ei hahmo selviä.
+
+Minua edelleen harmittaa etenkin tuo että aseet ja varusteet eivät
+kulu käytössä yhtään. Se oli hieno tunnelmaaluova elementti Fallout
+3:ssa ja FONV:ssä. Etenkin kolmosessa luodit ja aseet ovat aina
+tiukassa alkupelin aikana, kunnon seikkailu.
+
+Minun elokuvapainotteinen arkeni taitaa mennä talven ajaksi uusille
+urille tämän pelailun kanssa, mutta rutiineita on hyvä rikkoa joskus.
