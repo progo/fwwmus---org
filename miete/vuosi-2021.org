@@ -1,0 +1,249 @@
+#+TITLE: Vuosi 2021
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2021                          :retrospektiivi:uv:sandels:kamera:
+CLOSED: [2021-12-31 Fri 11:40]
+:LOGBOOK:
+- State "DONE"       from              [2021-12-31 Fri 11:40]
+:END:
+
+Vuosi 2021 aloiteltiin muuttohommilla ja sitten muuttamalla
+Helsingistä Hyvinkäälle. Tämä sujui kivuttomasti ja oli ihan hyvä
+peliliike.
+
+** Hyvinkää
+
+Hyvinkään kanssa aloitin asumisen väärällä jalalla, ja en ole vielä
+toipunut tästä. Ero Töölöön on ilmeinen, eikä mitenkään positiivisella
+tavalla. Polttava kysymys olisi, että olisiko Töölöstä Sätökseen
+muuttaminen ollut samalla tavalla huono idea. Se jää arvoitukseksi.
+
+Tämä talo ja tämä asunto on sentään hyvä. Töölöön nähden on paljon
+omia puoliaan. Tilava asunto. Hyvä sauna ja ilmainen lenkkisaunavuoro
+tiistaisin. Ilmainen pesutupa ja hyvä kuivaushuone. Halpa vastike ja
+halpa lähikauppa. Palveluita paljon lähellä. Ylin kerros. Ei
+kantapääkävelijöitä yläkerrassa.
+
+Huonoa Töölöön nähden olisi että seinät kantavat kuitenkin
+naapureiden, etenkin alakerran naapureiden, ääniä hieman enemmän.
+Onneksi eivät ole kuitenkaan kovin äänekkäitä ihmisiä. Toisen rapun
+seinänaapuri on myös hiljainen, eikä ääniä kuulu mitenkään
+merkittävästi edes kun siellä juhlistettiin jotain bileiden merkeissä
+viime keväänä. Toinen, kenties merkittävämpi haaste on tämän asunnon
+kylmyys talvella ja kuumuus kesällä. Töölön asuntoon ei päässyt
+aurinko porottamaan paljoa yhtään.
+
+Hyvinkäällä on vakaasti tämä asuinkustannusjuttu puolellaan, ja hyvät
+kulkuyhteydet pois. En edes enää haaveile Helsingistä asuinpaikkana
+niin paljoa nyt näinä päivinä. 
+
+Pidän myös siitä, että Helsingin tuttavapiirit ovat edelleen helposti
+saatavilla Hyvinkäältä käsin.
+
+** Kotimaan matkailua
+
+Kuten vähän ennustelin ja toivoin, Hyvinkää kirvoitti vanhat
+matkusteluhalut minussa takaisin. Voisipa toisaalta sanoa, että nyt
+minun koko valokuvaharrastus keskittyy näihin matkusteluajankohtiin.
+
+Helsingissä ja PK-seudulla yleisesti ottaen suoritin kymmenittäin
+päivä- ja viikonloppureissuja. Tampereella, Turussa ja Kuopiossa
+muutamia reissuja. Veljen kanssa karavaanilla Lapin reissu numero 2.
+
+Vuokra-autoilin keväällä ja syksyllä kahden viikon erissä. Näinä
+jaksoina harrastelin intensiivistä valokuvaamista. Ensimmäinen
+kaksiviikkoinen keväällä meni autoillessa Uudellamaalla
+päiväreissuina. Syksyllä vuokrasin autoa lisää mutta vuokrasinpa myös
+mökin Paraisista ja selasin saaristo-Suomea auton ratista käsin.
+
+Ensi vuonna toteuttanen samanlaista lisää. Ehkäpä jopa vuokraan
+asuntoauton viikoksi, vaikka se onkin hullun kallista lystiä.
+
+Helsingissä pitäisi käydä useammin kuin mitä nykyisin jaksan lähteä.
+Liikkeellelähdön kynnys on aina korkea, mutta käytännössä aina kun
+Helsinkiin pääsee, on askel keveä ja maailma kuvattavaa täynnä.
+
+Lähimmät pienet naapurikaupunkini eli Riihimäki, Hämeenlinna ja
+Järvenpää kaikki ovat vielä näkemättä ja kokematta.
+
+** Kirjallisuutta ja elokuvia
+
+Vuosi alkoi Hemingwayn kanssa. Kun muutin Sandelsiin, en laitellut
+tietokoneita heti toimintakuntoon eikä nettiyhteyskään ollut
+aktiivinen heti muuttopäivänä. Kylmässä asunnossa kelpasi käpertyä
+peiton syleilyyn ja lukea iltaisin.
+
+Vasta viidentenä iltana, kun oli perjantai, päätin laittaa tietokoneet
+ja telkkarit jotenkinpäin olohuonetta ja katselin yhden Mooren
+Bondeista. Olin syksyllä 2020 aloittanut Bond-elokuvien katsomisen
+kronologisessa järjestyksessä ja muuttaessani olin Mooren tuotannossa
+jossakin 70-luvulla menossa.
+
+Elokuvat ovat syrjäyttäneet kaikenlaiset TV-sarjat kovasti
+ruutuviihteenä. Kun aiemmin saatoin katsoa neljänä iltana tv-sarjoja
+ja kolmena elokuvia, nyt elokuvia voi mennä jopa kuutena iltana
+viikossa. Tänä vuonna otin projektikseni katsoa kaikki mahdolliset
+saatavilla olevat Hitchcock-elokuvat. Minulla on siitä urakasta enää 4
+elokuvaa jäljellä, yksi elokuva kultakin vuosikymmeneltä 1940-1970.
+
+Luin tänä vuonna mielestäni aiempaa enemmän kirjoja. Luin yhden
+Steinbeckin kesällä, luin pari hömppä-/huumorikirjaa, luin Stevensonin
+Aarresaaren ja luin Henry David Thoreaun Waldenin. Nyt vuoden päättää
+nyt luvun alla oleva Hemingwayn "A Farewell to Arms".
+
+Otin kirjat käteeni osittain tarpeesta löytää tilkitsijöitä vapaaseen
+aikaan. Siirryn nykyään varhain ns. TV-salongin puolelle ja katson
+elokuvan tai tv-sarjaa vähän ja sitten saatan katsella jotain
+lyhytformaattista komediaa kanssa ja kun ne kaikki on kulutettu, on
+ilta vielä aikaisessa. Kirjan kanssa on hyvä vetäytyä sänkyyn.
+
+Ensi vuosi jatkunee kirjallisuuden suhteen samanlaisena. 
+
+** Sätös
+
+Sandelsin ominaisuuksien kipinoimänä keväällä nousi Sätöksen kaipuu.
+Olin yhteydessä talon nykyiseen omistajaan alkukesästä, mutta sain
+raavittua kutinaa vasta loppukesästä. Harmikseni kaiken omahypetyksen
+jälkeen talo ei ollut enää asumiskelpoinen. Tavallaan hyvä niin, koska
+kesä meni kovasti pohtiessa kaikkea taloudellista vaikeutta, mitä nyt
+voisikaan seurata asunnon myymisestä ja kaikesta. Autoilukaan ei ole
+ainakaan halventumaan päin Suomessa.
+
+Kutinan aikana luonnollisesti Sandels tuntui asialta, johon ei kannata
+satsata ja sitä rataa. Kun [[file:./satos-vol-7-saga-ends.org][Sätös-kysymys ratkesi lokakuussa]], sen
+jälkeen olen laittanut rahaa asioihin, jotka parantavat
+asuinmukavuutta Sandelsissa. Masiinaa, tauluja seinille, sellaista.
+Ehkäpä uuden nojatuolin ostan viimein tulevana vuonna 2022.
+
+** Masiina
+
+Syksyllä päätin pitkään jatkuneen miettimisen jälkeen ostaa
+kuntoiluvälineen olohuoneeseen. Pitkästä aikaa. Viimeksi minulla oli
+kuntopyörä Sätöksessä. Se oli hyvä systeemi. En suostunut katsomaan
+Youtube-videoita, ellen ollut polkemassa kuntopyörällä. Helsinkiin
+muutettuani piti näistä periaatteista luopua käytännön syistä. Nyt
+Hyvinkäällä taisi olla järkevä kun ostin uuden laitteen
+sisäkuntoiluun. Ristin laitteen "masiinaksi".
+
+En ostanut kuntopyörää tällä kertaa, vaan elliptisen trainerin, tai
+crosstrainerin toiselta nimeltään. Hinnat-alkaen-mallin ostin taas,
+mutta perimmäinen idea taitaa ollakin lähinnä saada lihaksiin
+verenkiertoa ja joku tapa kuluttaa Youtubea.
+
+Sandelsin tilavassa olohuoneessa mahtui löytämään sellaisen
+huonejärjestelyn, jossa nojatuoli ja masiina ovat molemmat TV:n edessä
+nätisti. Vielä en ole kamalasti laittanut käyttötunteja uutena
+ostetulle masiinalleni, mutta en usko, että se ihan pelkkä
+pyykkitelinekään tulee olemaan.
+
+** Videopelit
+
+Syy, miksei masiinalla ole tullut poljeksittua kamalasti vielä, on
+Fallout 4. Muutamaa viikkoa Masinan ostamisen jälkeen huomasin että
+Fallout 4 toimii nykyään hyvin Linuxilla emuloituna. Ostin
+GOTY-paketin ja olen nyt laitellut siihen peliin kovasti pelitunteja.
+Tämä talvi on ollut vahvasti pelipainotteinen minulle.
+
+Tuleeko minusta himopelaaja? En usko. Kun Fallout 4 on pureskeltu
+loppuun niin se tietää sitten paluuta takaisin vanhoihin kuvioihin.
+"No biggie", kuten sanotaan. Falloutit ja pelit ovat väliaikaisia,
+Youtube ja masinan polkeminen on ikuista.
+
+** Kamerahömppä
+
+Kun Töölön kallis vuokra kääntyi puolet pienempään lainalyhennykseen,
+ja muutenkin asuinkustannukset putosivat roimasti, ei ollut vaikea
+arvata että ylimääräinen raha löytää itsensä väärillä teillä.
+
+Ennen muuttoa jo ostaa mäjäytin pienet tammikuun ostokset keskellä
+muuttohulinaa. Muutamia kivoja linssejä M4/3-alustalle.
+
+Sitten helmikuussa olinkin jo suuntaamassa Tampereelle ostamaan lisää
+M4/3-krääsää, nyt Panasonic G9 -paketin merkeissä. G9 on iso ja jykevä
+ja erinomainen M4/3-lippulaivarunko. Vietin Tampereella kiinnostavan,
+vaikkakin kylmän ystävänpäiväviikonlopun uuden kameran kanssa. G9 oli
+hyvä kokemus, mutta se vähän opetti minulle minusta. En halua kameraa
+joka tekee kaikesta liian helppoa. G9 meni kaupaksi kesäkuussa.
+
+Hyvinkäällä on ollut tosi mukava ja helppo ostaa ja myydä kamerakamaa.
+Ihmiset tulevat Helsingistäkin asti mielellään ostamaan myymiäni
+tavaroita. Toisaalta minun on helppo käydä Helsingissä tai
+Tampereellakin asti ostoksilla.
+
+Maalis-huhtikuussa päätin että (aiemmin edellisenä kesänä
+uudelleenostamani) Nikon Df ansaitsee kunnollisen kokeilun, ja sitä
+varten se tarvitsee linssejä. Ostin paljon siinä kevään aikana
+linssejä Nikonille. Lisäksi laitoin kameran JAS-tekniikalle huoltoon
+ja tähyslasin vaihtoon. Minulla oli kameran kanssa ennen huoltoa
+huomattavan paljon lystiä ja uudet linssit toivat uusia ulottuvuuksia
+mitä en esimerkiksi Leicalla saanut. Mutta huolto kesti pitkään ja sen
+aikana ehti se momentti hiipua. Nyt en ole saanut puoleen vuoteen
+kamalasti irti kamerastani.
+
+Kesällä tuli vastaan hyvin hinnoiteltu Leica M9-P, joten ostin sen
+ihan kokeilun mielessä. Hinta oli sellainen, etten voi tehdä paljoa
+tappiota jälleenmyydessäni. En tehnytkään.
+
+M9-P kun meni kaupaksi niin oli pimenevä syksy edessä. Olin
+tyytyväinen siihen, että M240 on niin hyvä kamera minulle. Nikon on
+hyvä kamera myöskin, mutta M on enemmän oma kamera. En voinut
+vastustella joitain vanhoja kiusauksiani kun tilillä säteili kaikki ne
+rahat joita M9:n myynti sinne toi. Oli pakko laittaa isosti palamaan.
+
+Toteutin vanhoja ostoslistan ideoitani nyt kokeiluinvestointeina.
+Ostin Panasonic S1 -peilittömän järjestelmäkameran jossa on
+erinomaiset kaikki. Ideana oli että se voisi tarjota omalla tavallaan
+paremman TTL-kokemuksen kuin Nikon Df. Lisäksi kameralle voi sovittaa
+lähestulkoon ihan mitä lasia tahansa. Toistaiseksi en ole edes alkanut
+yrittää realisoida näitä ideoita kameran kanssa. En tee paljoa
+tappiota jos/kun myyn sen pois. Tähtäsin ja jahtasin taas sen verran
+edullisen diilin ko. kamerarungosta.
+
+Hulluus ei jäänyt siihen vaan loppusyksystä myös ostelin kaikenlaisia
+muita pikkukameroita, kun spottailin hyviä diilejä. Vanha Fujifilm
+X100 tuli takaisin talouteen. X100-mallisto on upea ja nyt sain
+sellaisen yksilön edullisesti niin mitäpä olen vastaansanomaan.
+
+Ostin myös M4/3-kameroita lisää. Nyt on hopeinen Panasonic GX85 mustan
+rinnalla. Sitten löysin edullisen Panasonic G85:n. Kylkäisinä tuli mm.
+Olympuksen 17mm f/1.8 joka minulla oli jo kertaalleen vuonna 2018,
+mutta en silloin pitänyt siitä. Nyt pidän tästä vähän enemmän. Ehkäpä
+sen takia kun tämä tuli ostettua käytettynä puoleen hintaan siitä mitä
+maksoin ekasta uutena. Oma makuni linssien piirron suhteen on myös
+muuttunut neljässä vuodessa.
+
+Jos nämä kaikki eivät riitä niin joulukuussa bongasin epäonnessani
+upean diilin Leica-kamasta. Helsinkiläinen herrasmies myisi
+hyvänkokoisen Leica-paketin toista tonnia alle pätevien
+markkinahintojen. Olin epäileväinen ja varovainen, mutta silti
+ajattelin että pitäähän minun tämä tarkastaa sillä siinä olisi paljon
+hyvää juttua melkein "puoleen hintaan". Katuisin joka tapauksessa jos
+jättäisin rahaa "hyllylle".
+
+Nyt minulla on sitten musta M-P 240, minulla on TTartisanin 50mm
+f/0.95 talvikäyttöä varten, minulla on Elmarit-M 24mm f/2.8, ja
+minulla on vanha tuttu Summilux-M 50mm f/1.4 ASPH. Kyllä. Samainen
+Summilux-malli, jonka ostin vahingossa syksyllä 2019, ja yritin myydä
+vuonna 2020 ja sain viimein vaivoin myytyä keväällä 2021. Ja nyt
+minulla on sellainen taas tässä, arviolta puolella siitä hinnasta mitä
+maksoin ensimmäisestä.
+
+Tämä on ollut aikamoinen vuoristorata kamerahömpän suhteen tämä vuosi.
+Tulevana vuonna 2022 meno ei välttämättä kiihdy mutta jos se pysyy
+samanakin niin aika hullusti menee.
+
+** Ruoka ja UV-tavoite
+
+Kaloreiden laskeminen on edistynyt vanhaan malliin. Ruoan suhteen olen
+kasvatellut kasvisten määrää lautasella ja ehkä muutenkin alkanut
+monipuolistaa ruokaympyröitäni. Tämä saattaa näkyä ruokakuluissani
+hieman.
+
+Olen nyt Hyvinkäällä innostunut Wolttailemaan lounaita kotiovelle aika
+usein. Liiankin usein, täytyy myöntää. Jos harvinainen luksus muuttuu
+jokaviikkoiseksi arjeksi niin sitten se on hukkaanheitettyä rahaa.
+Minulla on yksinasuvana aikaa tehdä omia pöperöitä.
+
+Ajattelisin, että UV-tavoitteena voisi olla laittaa Wolt
+henkilökohtaiseen blokkiin ja pikemminkin miettiä, mitä kaikkea saman
+rahan laittamisella lähikauppaan voisikaan saavuttaa.
+
