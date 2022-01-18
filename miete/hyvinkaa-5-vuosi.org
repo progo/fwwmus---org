@@ -1,0 +1,150 @@
+#+TITLE: Hyvinkäällä vuosi täyteen  -  ratkaisuehdotuksia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Hyvinkäällä vuosi täyteen  -  ratkaisuehdotuksia :sandels:asunto:kamera:
+CLOSED: [2022-01-18 Tue 19:28]
+:LOGBOOK:
+- State "DONE"       from              [2022-01-18 Tue 19:28]
+:END:
+
+Vuosi vaihtui ja heti vuoden alussa eli tänään tammikuun 18. päivä
+pääsemme juhlistamaan uutta merkkipäivää: ensimmäinen vuosi Sandelsia
+on takana päin. Yksi vuosi halpaa asumista, LIDL:iä, etätöitä,
+junamatkailua, vuokra-autoilua, kylmää asuntoa ja mopoilijoita ja
+tietynasteista murjottamista takana päin. Mitä edessä?
+
+** Valokuvausharrastus ja lumivyöryilmiö
+
+Hyvinkään energiat ovat sellaiset, että valokuvaus ja sen myötä
+valokuvakävelyt ja sen myötä yksinkertaisesti ulkoilut ja kävelyt ovat
+vähentyneet roimasti alle sellaisten rajojen, mikä tuntuu itsestäni
+hyvältä. Jos ei kaunistella totuutta, niin olen pitkälti erakoitunut
+sisälle. Talven pimeä ei ole ainut syy tähän.
+
+Sentään valokuvausharrastus ei ole sinänsä hiipunut.
+
+Ehdin tämän ensimmäisen vuoden asumisen aikana kuvailemaan
+roppakaupalla. Alkuun toki Hyvinkään uutuus innoitti menemään ulos,
+lumi ja sitten tuli kevät ja lämmin. Se on vain tahtonut keskittyä
+reissupäiville. Reissupäiviä tulee sinänsä tehtyä "herkästi", mutta
+kynnys lähteä uudelle junamatkalle alkaa kasvaa sillä sekunnilla kun
+ulko-ovi sulkeutuu edelliseltä reissulta palatessani. Työpäivät ja
+-viikot rokottavat siinä päällä ja jos ei viikonloppureissut rutinoidu
+niin voidaankin helposti jo puhua kuukauden pausseista.
+
+Kynnys on korkealla nyt näinä päivinä.
+
+Olen vaipunut tietynlaiseen elokuvien ja kirjallisuuden ja
+videopelienkin täyttämään horrokseen näinä viimeisinä parina
+kuukautena.
+
+Mikä on sitten ongelmallista niin koska en ole vielä luopunut
+valokuvauksesta harrastuksena niin kamerakuumetta on ilmassa ja
+kaikenlaisia osteluita on tullut ostettua. Kamerakuumeelle
+antautuminen tuntuu erityisen pahalta, jos uudet lelut hädintuskin
+edes näkevät käyttöä.
+
+** Uusi Leica-malli, uudet mielihalut?
+
+Leica M11 julkaistiin vajaa viikko sitten, tammikuun 13. päivänä.
+Pieniä muutoksia edellismalliin (M10-R) nähden. Pieniä, mutta
+merkityksellisiä muutoksia. Onko M11 minun uusi lottovoittokamerani?
+Ehkä se ei ole. Ehkä likimain samanhintainen M10-R on edelleen se,
+mitä havittelen villeissä unelmissani. Ja ehkäpä kahden vuoden päästä
+ennustettavasti julkaistava M11-P on sitten se minun uusi
+unelmakamerani.
+
+On selvä, että nyt 8 tai 9 tonnin hintainen kamera ei ole perusteltu
+tasan millään järkisyyllä. Ei minun kuvausmäärillä silloin kun kuvasin
+paljon (Helsingin piikki keväästä 2019 alkutalveen 2020), eikä tasan
+varsinkaan nyt kun kuvailen vain murto-osia siitä piikistä.
+
+Koen, että nykytilassani Hyvinkään lannistaessa hartioillani ei tämä
+Leica-ostos tule ikinä tapahtumaan. En suo sellaista luksusta
+itselleni jos en ensin ota itseäni niskasta kiinni. Minulla on paljon
+Leica- ja muunbrandisia luksuksia hyllyssä ja ne palvelevat 97%
+vaatimuksistani ihan hyvin.
+
+Mielessäpitäen tämä kamerahomma (joka on onneksi M11:n suhteen
+laantumassa, mutta jotain uutta *aina* tulee) sekä minun lamaannus,
+voimmeko jotenkin ratkaista kaksi ongelmaa yhdellä järkevällä iskulla?
+
+*Saisinko minä valjastettua ainaisen kamerakuumeeni taistellakseni
+Hyvinkään huonoja energioita vastaan?*
+
+Hyvinkään kurjuus on vain asenne. Minulla on asenneongelma Hyvinkäätä
+kohtaan. Näitä ongelmia pystyy aina peittoamaan tekemällä uusia
+kokemuksia ja selaamalla uutta. Samalla saa raikasta ulkoilmaa,
+valokuvailee.
+
+** Palkitsemismalli
+
+Eli miten minä valjastaisin kamerakuumeeni, on kääntää kamerahommat ja
+ulkoilu ja Hyvinkää konkreettisiksi numeroiksi. Jos vaikkapa saa
+itsensä ovesta ulos kamera kädessä niin siitä hyvästä annan itse
+itselleni 20 euron "palkinnon". Tämä kerryttää virtuaalista pottia,
+joka kaksi vuotta myöhemmin voi tarkoittaa Leica-rahaa.
+
+| Aktiviteetti                | Raha |
+|-----------------------------+------|
+| Lyhyt kävely                | 20 € |
+| Pitkä kävely                | 40 € |
+| Vierailu muussa kaupungissa | 80 € |
+
+Olen antanut näille aktiviteeteille euromääräiset "palkintosummat",
+mutta todellisuudessa kertyvä summa on vain virtuaalinen pistesaldo.
+Jos ahkerasti pitäisin kynnystäni matalalla lähteä ulos ja tekisin
+lyhyitä pistäytymisiä pari kertaa viikossa, ja kävisin
+kaupunkivierailulla edes kerran kuussa, niin kahdessa vuodessa olisi
+kerrytetty jo 8000 euron edestä "pisteitä".
+
+Pisteiden ei ole minun mallissani tarkoitus olla mikään budjetti tai
+limitti, saati varsinkaan mikään positiivinen kehotus käyttää sitä
+"rahaa" kaikkeen harrastukseen liittyvään. Ei ole järkevä ajatella,
+että 200 euron kamera olisi jotenkin hyvitetty vain muutaman reissun
+voimin. Ei ainakaan minun taloudellani.
+
+Mikä on sitten hyvä pesäjako lyhyen ja pitkän kävelyn välillä, ja
+ovatko palkinnot järkevässä suhteessa toisiinsa, on vielä mietinnän ja
+hiomisen alla. En sisällytä niitä tänne nyt turhana nippelitietona.
+
+Ja toimiiko tämä viritys edes, on toinen kysymys kokonaan. Toki
+numeroita on kiva kasvatella, ja numerot ovat toimineet esimerkiksi
+kalorinlaskussa hyvin minulle. Toki kaloreitaan kun vahtii, siitä on
+selkeitä fyysisiä etuja kehon hyvinvoinnin suhteen. /Toisaalta/ näiden
+valokuvakävelyiden kanssa voi henkinen hyvinvointi nousta samalla
+tavalla...
+
+** Oikea aarre ei ole lupa ostaa kallista kameraa...
+
+...vaan ne kaikki kävelyt, joille olen itseni saanut sitten tulevien
+vuosien aikana.
+
+On enemmän kuin mahdollista, että nämä kaikki kävelyt suoritettuani
+mahdan ajatella että nykyiset halvemmat kamerat (halvemmat Leicat,
+halvemmat Nikonit, yms) tekevät enemmän kuin hyvin minun tarpeisiin
+nähden, ja että M11 saa pysyä kaupassa.
+
+Sekin olisi tärkeä voitto ja arvokas palkinto sinänsä.
+
+On myös mahdollista että jo muutaman kävelyn jälkeen asenne muuttuu ja
+unohdan koko homman.
+
+Mitäs he sanovat yrittäneistä?
+
+** Vuosi 2 Hyvinkäällä alkaa nyt
+
+Vuosi #2 alkaa tänään Hyvinkäällä. Kello on nyt kirjoittamishetkellä
+18:55 -- uskoakseni vuosi sitten tähän aikaan olin laittelemassa
+olohuoneeseen juttuja jotenkinpäin. Kylmästä hytisin. Muuttohommat oli
+saatu kuosiin kahden jälkeen ja olin käynyt pizzalla lähipaikassa. Ei
+tarvinnut ruokaa siis miettiä.
+
+Tänään sitten taasen en ole ihan kylmissäni juuri nyt. Ruokaa joutuu
+vähän miettimään kohta. Olohuone sai joulukuussa uuden muodon ja nyt
+mahtuu puikkelehtimaan. Pahvilaatikot ja taloustikkaat ovat edelleen
+olohuonetta rumentamassa. Mattoja pitäisi ostaa lisää, olemassaolevia
+pestä, ja eteisen lamppukin on vielä ilman varjostinta.
+
+Mutta keskimäärin hyvin menee lukuunottamatta tuota alussa valiteltua
+tilannetta. Tämä seuraava vuosi Hyvinkäätä mahtaa mennä paljon
+paremmin.
