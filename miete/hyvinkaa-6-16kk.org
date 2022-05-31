@@ -1,0 +1,93 @@
+#+TITLE: Päättäväisesti eteenpäin: 16 kuukautta Hyvinkäällä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Päättäväisesti eteenpäin: 16 kuukautta Hyvinkäällä    :sandels:asunto:
+CLOSED: [2022-05-31 Tue 18:55]
+:LOGBOOK:
+- State "DONE"       from              [2022-05-31 Tue 18:55]
+:END:
+
+Toukokuuni oli täynnä matkustelua ja hitaasti tulevasta keväästä
+nauttimista. Siinä hötäkässä tuli myös 16 kuukautta asumista täyteen
+Hyvinkäällä ja Sandelsissa.
+
+Kuudentoista kuukauden maaginen kipuraja on ollut aiemmissa paikoissa
+se mystinen veteenpiirretty viiva, jonka jälkeen alkaa seinät kaatua
+sisään ja muuttohaluja ilmetä. Sätös oli se paikka, missä ei ollut
+ongelmia. Sandels on nyt toisenlaisista syistä toinen tämän viivan
+ylittänyt asuinpaikka.
+
+Huhtikuun alussa jouduin uudelle koetukselle, kun hiljainen
+seinänaapurini muutti pois ja tilalle saapui lapsiperhe. Se
+kertaheitolla todisti pohdintani siitä, että tässä talossa ei ole
+hiljaisia seiniä, on (oli) vain hiljaisia naapureita. 
+
+** Hyvinkään motto: Voisi olla huonomminkin
+
+Kuulen mopoilijoiden rellestämistä vaimeasti ikkunoideni läpi. Koska
+isolle tielle on kuitenkin satakunta metriä, enkä siis ihan asu tien
+laidassa, niin voisi olla asiat huonomminkin.
+
+Kuulen alakerran emännän erittäin kovaäänisiä puhelinkeskusteluita
+usein aamupäivisin. Koska emäntä rauhoittautuu hyvissä ajoin iltaisin,
+mietin mielessäni että voisi olla huonomminkin.
+
+Tämä uusi naapurini, johon kuuluu eloisia pikkulapsia ja työssäkäyvä
+pariskunta, noudattaa myös lapsiperheen rytmiä. Iltaisin alkaa elo ja
+meno laantua kello yhteentoista mennessä aika hyvin. Päivisin muksut
+ovat hoidossa tai koulussa ja isäntäväki töissä. Voisi olla
+huonomminkin.
+
+Täällä on paljon asioita, jotka olisivat voineet olla tosi huonosti.
+Olosuhteet ja arpatuurini huomioonottaen ihan asiallisesti on käynyt.
+Tämä asuntohan on vilkkaahkon ytimen laitamilla, ja pääsen tosi
+näppärästi junalle tai lukuisille kaupoille. Tokihan rauhallisempaa
+asumista löytää, mutta sitten olisi pitkät ja hankalat välimatkat
+pitkittämässä ja hankaloittamassa.
+
+Hyvinkää: halpaa asumista, hyvät yhteydet Helsinkiin, ja asiat
+voisivat olla huonomminkin.
+
+** Taloudelliset intressit suuri motivaattori
+
+Koska omistusasunnosta ei luovuta ihan tuosta noin vain, sisäiset
+inertiat auttavat kehittämään sopua ja ratkaisuja mahdollisiin
+ongelmakohtiin. Koska omistusasunnossa on halpaa asua, ja autottomuus
+se vasta tekeekin elämästä edullista, on sitä suuremmat syyt jatkaa
+eteenpäin vaikka hammasta purren.
+
+** Riski ja potentiaali on kuitenkin olemassa
+
+Tietysti takaraivossani jyskyttää se fakta, että vaikka nyt asiat ovat
+hyvin niin mikään ei estä niitä luisumasta huonompaan suuntaan. Yksi
+seinänaapuri on vielä tyhjä asunto: entä jos siihen muuttaa
+kovaäänisiä rellestäjiä? Naapuridynamiikka on alati elävä juttu
+kerrostalossa.
+
+Tämä naapurihomma on antanut uutta motivaatiota ja puhtia pitää katse
+horisontissa: ei mene montaa vuotta kun on säästöjä ja sijoituksia
+siihen malliin, että on taloudellisesti helppo lähteä katselemaan
+jotain uutta. (Tarvitaan vakuuksia ja realivakuuksia, ja tarvitaan
+käsirahoja, ja tulee aina muuttokuluja ja myyntikuluja.)
+
+Samanaikaisesti kuitenkin kokeilen muistaa nauttia taloudellisen
+asumisen suomista eduista: yritän parhaani mukaan muistaa käytellä
+rahaa mm. matkailuun ja pieniin elämyksiin. Minulla on
+säästötavoitteeni, mutta en ole kiristämässä niitä säästöohjelmia heti
+yhden mekastajan ilmaannuttua.
+
+** Päättäväisesti eteenpäin
+
+Hyvinkäällä asumisen edullisuus, myymisen/ostamisen/muuttamisen
+inertia, asioiden hyvä laita olosuhteet huomioonottaen. Ei mene
+pitkään kun täällä on oltu 32 kuukautta eikä tehnyt edes tiukkaa.
+Sitten 64 kuukautta. Siinä vaiheessa pitäisikin olla taloutta jo
+Helsinkiin asumaan, jos siltä tuntuu.
+
+Seuraavaksi menen tyytyväisenä taloyhtiön saunaan, jossa saan nauttia
+löylyistä ilman että saunaa tarvitsee itse pestä hinkata puhtaaksi. Ja
+sitten kun nousen ylös asuntooni TV:n eteen, mahdolliset pienet hälyäänet
+peittyvät triviaalisti kun laitan Ollo Audioiden suljetut kuulokkeet
+korviini.
+
+(Jos olisin mennyt suljettuihin kuulokkeisiin Joensuussa asuessani niin
+olisiko Sätös edes ikinä toteutunut?)
