@@ -1,0 +1,106 @@
+#+TITLE: Moary täyttää 10 vuotta!
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Moary täyttää 10 vuotta!                             :elokuvat:python:
+CLOSED: [2022-08-15 Mon 18:29]
+:LOGBOOK:
+- State "DONE"       from              [2022-08-15 Mon 18:29]
+:END:
+
+10 vuotta sitten kirjoittelin Outokummun kerrostaloasunnossani pienen
+päiväkirjasovelluksen, jonka kantava idea oli olla
+komentorivipohjainen erittäin matalan kynnyksen tapa uuden
+'katselukokemuksen' lisäämiseksi.
+
+Tämä on päiväkirjatyyppinen sovellus ja tietokanta, eli ei ole
+suoranaisesti tarkoitettu arvosteluiden kirjaamiseen tai toimi
+parhaiten missään top-listojen rakentamisessa. Idea on tutkiskella
+omia tunteitaan elokuvan katsottuaan ja kirjoitella haluamansa määrä
+mietteitä siitä ylös. En vaadi, että elokuvalle tarvitsee antaa mitään
+pistettä. Toisaalta tekstikuvaus ei ole sekään pakollinen, jos vain
+haluaa pisteyttää katsomansa ja siirtyä eteenpäin elämässään.
+
+Ensimmäisen elokuvan kirjasin systeemiin elokuun 15. päivä 2012. Siitä
+on tänään kirjoittamishetkellä tasan 10 vuotta. Elokuva oli Paul
+Newmanin tähdittämä elokuva [[https://www.imdb.com/title/tt0084855/][The Verdict]], joka kestää katselua. Sen
+olen katsonut toisen kerran marraskuussa 2016, eli onhan siitä
+edelliskerrastakin jo aikaa.
+
+Olen nyt käytellyt tätä [[https://github.com/progo/moary][moarya]] käytellyt siitä lähtien. Listalle olen
+uskollisesti kirjannut uskoakseni kaikki katsomani elokuvat, pitkät ja
+lyhyet sellaiset. (Muutaman elokuvan olen puoliksi katsonut
+lentokoneissa jonkun toisen edemmässä istuvan matkustajan näytöltä
+sivusilmällä, niitä en ole vaivautunut kirjaamaan.)
+
+Kirjauksia on tänään 1938 kappaletta, mikä on helpolla aritmetiikalla
+laskettuna 194 elokuvaa per vuosi. Tämä tahti kertoo huomattavasti
+kiristyneestä tahdistani katsoa elokuvia: [[file:./moary-vuoden.org][ensimmäinen vuosi]] ja myös
+[[file:./moary-1000.org][seuraavat 5.5 vuotta]] mentiin 150 elokuvan vuositahtia eli kolmen
+elokuvan viikkotahtia. Ilman tarkkaan dataan menemistä voimme laskea
+lukiomatikalla että jos ekan 6.5 vuoden aikana katsottiin 1000
+elokuvaa, niin loput 938 elokuvaa on katsottu kolmen ja puolen
+viimeisen vuoden aikana. Tahti on siis likimain tuplaantunut, ja
+tarkka datan syynäys luultavasti paljastaisi että se on
+todennäköisesti hieman yli tuplat.
+
+Nyt kahden viimeisen vuoden aikana olen vähentänyt TV-sarjojen
+kulutusta rankasti -- siinä missä aiemmin tapa oli katsoa arkisin
+sarjoja ja viikonloppuisin elokuvia, nyt katson sarjoja 1-2 iltana
+viikossa ja loput ovat elokuville. Paikoitellen on myös pitkiäkin
+jaksoja kun katson vapaapäivisin myös päiväelokuvan pelkän
+iltaelokuvan lisäksi. 
+
+** Jatkokehitystä
+
+Onko tulossa mitään uutta moaryyn? Perustoiminnallisuus ns. nailattiin
+täydellisesti (tämä ei ollut mikään uskomaton saavutus, koska tähtäsin
+minimaalisuuteen ja uudelleenkäytin kaikkia
+UNIX-komentorivisovellusten käytäntöjä) heti ensimmäisellä
+kirjoituksella ja sovellus on saanut vain pientä hienosäätöä ja
+ylläpitoa vuosien aikana.
+
+Sanoisin, että en näe mitään tarvetta millekään.
+
+Jos alkaisin laitella myös tv-sarjoista kommentteja moaryyn niin
+sitten halunnen tavan suodattaa sisältöä. En tiedä, haluanko
+kuitenkaan lähteä tähän. Jokaista jaksoa tuskin jaksaisin kommentoida,
+mutta kunkin kauden päätteeksi tulee aina mietittyä kautta
+kokonaisuutena ja miksipä näitä ei kirjailisi ylös moaryyn.
+
+Sivuava kysymys olisi tuo minitv-sarja. Nehän ovat käytännössä
+formaatiltaan kuin elokuvia. Niitäkin voisi kirjailla ylös samalla
+tavalla kuin tv-sarjan kausia.
+
+Alusta alkaen mukana on ollut löysä integraatio IMDB:n kattavaan
+elokuvatietokantaan. Haemme elokuvan nimellä joukon potentiaalisia
+kandidaatteja IMDB:stä API-rajapintaa käyttäen ja kysymme käyttäjältä
+että minkä näistä katsoi.
+
+Mitään järkevää käyttötarkoitusta tälle ID:n keräämiselle ei ole tässä
+10 vuoden aikana tullut keksittyä. Se vain kerätään ja tallennetaan.
+Ehkä jonain vuonna voin alkaa tekemään jotain dataa tästä: vaikka
+elokuvan julkaisuvuoden korrelointi katselukokemukseen?
+
+** Tekisinkö kaiken samalla tavalla?
+
+En valitettavasti voi muistaa että oliko moarylle ihan alkuun joitain
+vaihtoehtoisia ideoita, miten toteuttaisin sen.
+
+Mutta ensimmäinen (ja ainut) toimiva versio oli python-koodia alusta
+alkaen. Data kerätään joko komentoriviltä tai parsimalla tiedostosta,
+jonka käyttäjä on editorillaan luonut. Tämä sujuu luontevasti
+UNIX-komentorivisovellusten hyviä käytäntöjä noudattaen. Data
+pureskellaan minimaalisesti, käytännössä niellään sellaisenaan, ja
+laitetaan sqlite-kantaan. Kannasta on helppo tehdä hakuja ja "grepata"
+nimellä, hakea vaikka vain yli nelosen pisteet saaneet kokemukset, jne.
+
+Näinä päivinä ehkä haluaisin olla puristimpi ja ehkä jopa skipata tuon
+sqliten tuosta välistä kokonaan, koska kehittyneille hakukriteereille
+ei ole mitään tarvetta ja 194 tietuetta per vuosi ei ole varsinaisesti
+mitään /big dataa/. Visioimani puristinen tallennusmuoto voisi olla
+ihan hyvin puhdasta UTF-8-tekstiä ja syntaksi Emacsin org-modea.
+
+Jos lopullinen "tietokanta" on org-modemuotoinen tiedosto niin voisi
+herätä kysymys että olisiko sitten tietokantaa populoiva koodikin
+sitten paras olla Emacs Lispiä. Editori olisi sitten fiksattu varmaan
+Emacsiksi, mutta minua tämän projektin ainoana käyttäjänä asia tuskin
+haittaisi.
