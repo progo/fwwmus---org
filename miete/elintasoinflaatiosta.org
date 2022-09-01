@@ -1,0 +1,176 @@
+#+TITLE: Elintasoinflaatiosta
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Elintasoinflaatiosta                       :elintasoinflaatio:sandels:
+CLOSED: [2022-09-01 Thu 18:10]
+:LOGBOOK:
+- State "DONE"       from              [2022-09-01 Thu 18:10]
+:END:
+
+Täällä Hyvinkäällä alhaisten asumiskulujen seasta alkavat
+ei-pakolliset menoni nousta. Olen nyt altistunut sille, mistä
+rahaviisaat varoittelevat: elintasoni paisuu, ja sitä myötä menot.
+Sinänsä luonnollinen asia, mutta en haluaisi pitää sitä ainakaan
+elämän itsestäänselvyytenä.
+
+** Oireet
+
+Matkustellessani, halvin AirBnB-koirankoppi ei aina enää olekaan
+itsestäänselvyys. Jostain syystä on perverssejä ideoita kokea hienoja
+hotelleja kuten Hiltonia tai IHG-ketjua.
+
+Viikonloppureissu Helsingissä saattaa nykyään hyvinkin olla ruoan
+puolesta lähelle kolminumeroinen menoerä. Oslossa (9 yötä) meni
+laskennallisesti 55 euroa päivässä syömiseen ja juomiseen. Helsinki ei
+ihan merkittävästi eroa hintatasossa Oslosta enää.
+
+Matkustaessa maalle, halvimmat bussi- tai junaliput eivät enää ole
+nekään enää itsestäänselvä homma, vaan tarkastelen vuokra-autojen
+hintoja ja tarjontaa yhä useammalle reissulle.
+
+** Onko minulla ongelma?
+
+Minulla on ollut tiedossa pidemmän aikaa että nyt laittelen enemmän
+rahaa syömiseen kun olen vierailulla jossakin. Parina edellisenä
+viikonloppuna olen ollut kaupungeilla kaverin kanssa ja
+konkreettisemmin saimme vertailla, miten kulutustottumuksemme eroavat.
+Opiskelijakamulle 22 euroa sosiaalisesta illallisesta oli liikaa,
+ymmärrettävästi. Olisi moinen raha minullekin paljon ja eristettynä
+rahasummana on edelleenkin: 22 eurolla ostaa helposti tarveainekset
+viikon kotikokattuja lounaita varten.
+
+Mutta onko tämä nyt niin paha juttu laittaa rahaa juttuihin, joita ei
+harrasta Hyvinkään arjessa ihan jatkuvasti. Töölössä asuessa pihinä
+miehenä kävelin aina kaupoista ja ravintoloista ohi, koska
+kotikämpällä oli aina jotain ruokaa jääkaapissa. Jo silloin mietin
+että olisi hieno jos joskus raaskisi laittaa pieniä rahoja elämän
+mukavuuksiin. Kun Hyvinkää sitten toteutui, vitsailin itselleni että
+tämän muuton jälkeen alan vasta käymään läpi Helsingin
+ravintolaskeneä. Ja itseasiassa näin on käynytkin. Nyt kun käyn
+Helsingissä niin kotipöperöt ovat yli tunnin junamatkan päässä:
+parempi nautiskella kaupungin tarjonnasta. Ja alkuun ne olivat halpoja
+burgereita ja sensellaista. Pidemmillä viikonloppureissuilla olen nyt
+alkanut oikein "suorittaa" ravintoloita kuin ne olisivat itseisarvo,
+oma seikkailunsa. Ovathan ne kyllä monella tapaa monelle ihmiselle, en
+vain ole aiemmin ollut sellainen ravintolaskenettäjä.
+
+Elintasoni paisuu lomaillessa, mutta arjessa ei niinkään. No, toki
+ostin juuri hiljattain uusia huonekaluja 1800 eurolla. Lasketaanko
+sellainen kertaostos? Tavallaan lasketaan, koska aiemmin olisin
+venyttänyt penniä paljon hanakammin ja ostanut käytettyjä mööpeleitä.
+Maksoin 1000-1200 euroa ylimääräistä ihan sen takia että laiskotti
+miettiä kantoavun järjestämistä, aikataulujen kanssa puljaantumista.
+
+Ruokakauppaan laitan miedosti isompia summia kuin aiemmin: tässä on
+kenties lähinnä ruoan hinnan kasvaminen taustalla. Yritän syödä hieman
+paremmin kuin aiemmin, mutta se ei omasta mielestäni näy
+järisyttävästi kauppalaskussa.
+
+Venytän penniä muissa jutuissa entiseen malliin kyllä:
+puhelinliittymät ovat prepaidilla ja tilauspohjaiset palvelut pidetään
+minimissä.
+
+** Miten tähän päädyttiin?
+
+Helsingin Töölön vuokra-asumisen jälkeen täällä Hyvinkäällä
+omaomisteisessa asuminen tuntuu lähestulkoon ilmaiselta. Ensimmäinen
+vuosi Hyvinkäällä -- vuosi 2021 oli [[file:./vuosi-2021.org][railakasta elämää]], johon kuului
+paljon kameraostoksia ja kotimaan matkustelua. Tämä tapahtui rahalla,
+jota tuntui jäävän käteen Töölön asumisen jälkeen ihan toisella
+tavalla. (Eikä pelkästään tunnu: sitähän jää tietenkin runsaasti yli.)
+
+Tänä kuluvana vuonna 2022 kameraostokseni ovat vähentyneet. (Uskoisin,
+että jäädään roimasti alle vuoden 2020 ostelutason.) Olen toivon
+mukaan viimein oppinut, että onnellisuus ei riipu teknolelujen
+laadusta tai määrästä vaan ihan muista syistä. Nyt siis jää entistäkin
+enemmän irtorahaa käteen.
+
+Käteenjäävän rahan lisäksi [[file:./kalorien-mittaus.org][olen laskenut niitä kaloreitani kesästä
+2020 lähtien]], ja ravintolaruoasta niitä ei voi laskea samalla tavalla
+kuin itsetehdyssä. Arjessa syödään sekä halvalla että
+kalorisäästeliäästi: ulkopaikkakunnalle lähdettäessä on sitten myös
+lupa syödä ilman kulutuksen seurantaa. Tämä on varmasti yksi
+lisäselitys sille, miksi laitan rahaa ravintolaan ihan uudella
+tavalla.
+
+Rahatietoisena ihmisenä tietenkin tiedän, että säästöön voi ja
+kannattaakin laittaa kaikki mahdollinen. Olenkin vähän avannut
+säästöhanaa isommalle, mutta tuntuupa että säästämisessäkin liika on
+liikaa. En ole säästämässä mitään tiettyä päämäärää kohti. Mitä
+tavoittelen säästöilläni? Pelkkä lukujen kasvattelu pankin
+nettisivulla ei luo onnellisuuden tunteita minulle. Ilman
+tulevaisuudensuunnitelmia se raha vain lojuu siellä. Toki on hyvä että
+siellä on sitä rahaa niin että kun joku konkreettinen unelma löytyy
+niin voin toteuttaa sen ilman että säästöhommia pitää aloittaa ihan
+nollista.
+
+Minulla on tällä hetkellä eräällä tavalla mitattuna 40 tuhatta euroa
+säästöjä: 20k on talouden instrumentteina ja käteisenä pankeissa, 20k
+on asunnossa. Likvidoitavissa harrastusvälineissä on myös huomattava
+summa rahaa kiinni, mutta en halua pitää kaikkea sijoituksena tai
+omaisuutena. Asunto-osakkeenkin kanssa on vähän kiikunkaakun että
+kuulunko edes siihen koulukuntaan, jonka mielestä oma kotiasunto on
+ylipäänsä sijoituskohde.
+
+Yhtä kaikki, nyt säästöjä on 40k ja vuoden päästä 50k ja niin
+edelleen. Tahti on mielestäni hyvä. Ei ikäryhmäni paras mutta
+kirkkaasti ei huonoinkaan.
+
+Tämän huomioonottaen olen sitten osittain alitajuntaisesti alkanut
+'tuhlata' rahaa kun olen reissussa. Koska minulla on jo terveellinen
+10 ke/v säästörutiini päällä ja onnellisuuttani se ei hetkauta jos
+säästäisinkin 12k euroa vuodessa.
+
+** Luksuksista uudelleen
+
+Minulla oli [[file:./luksuksista.org][loppuvuodesta ja vähän keväällä]] kysymyksiäni itselleni
+liittyen ruoan kotituontiin: Woltteihin ja Foodora-tilauksiin. Totesin
+jo silloin, että ruoan kotituominen on taloudellisesti ihan
+tehtävissä, mutta haluanko tottua huonoihin luksuksiin. Nautin
+esimerkiksi kylmästä kolatölkistä silloin tällöin mutta minusta se on
+epäterveellistä (monella tapaa; tässä yhteydessä henkisesti) ottaa
+sellainen arkiseksi tavaksi, johon tottuu ja jota alkaa pitää
+itsestäänselvyytenä, ennen pitkää pakollisuutena.
+
+Pyristelin itseni irti Woltista ja Foodorasta sillä perusteella että
+niiden toimistomaksut ja minimitilausrajat eivät sinänsä palvele yhden
+hengen talouksia asiallisesti arjessa. Se on ihan ok; mitä olen
+jutustellut ihmisten kanssa niin suurinta iloa Woltista tulee
+esimerkiksi lapsiperheille jotka haluavat vähän herkutella perheen
+kesken joskus ilman aikaaviepää kokkaamista ja siivoamista.
+Minunlaiselleni noissa tilauksissa on ongelmia kun esimerkiksi yksi 9
+euron burgeri riittäisi hyvin sopivankokoiseksi lounaaksi mutta kun
+minimitilaus onkin vaikka 15 euroa.
+
+Firma rupeaa tarjoamaan lounasetua vuoden alusta alkaen. Uskoisin,
+että tämä etu ei tule muuttamaan tilannetta yhtään. Ruoasta pitää
+silti maksaa aika paljon; haluan laittaa sen 10 euroa mieluummin
+ruokakauppaan ja opetella hiljalleen kokkailemaan jotain omiani. Nyt
+olen itselleni uutena juttuna opetellut käyttämään sipulia
+jauhelihakastikkeessa. Tulee hyvänmakuinen soosi.
+
+Mutta yksi juttu minulla on silti osittain mielessä: syön muissa
+kaupungeissa mielelläni: entä jos ottaisin jonkun tavan käydä
+Hyvinkäällä syömässä ja kokeilemassa uusia ravintoloita vaikka kerran
+kuussa? Vuodenvaihteen jälkeen tuolla lounasedulla sen voi tehdä
+hieman halvemmalla. Kun menee omaan kaupunkiinsa syömään niin se ei
+pelkästään tarkoita että saa mahansa täyteen. Minulla on ollut
+Hyvinkääseen huonosti käyntiinlähtenyt suhde: toivoisin, että
+paikallisissa ravintoloissa käyminen osaltaan auttaisi korjaamaan näitä
+asenteitani.
+
+** Mitä tulossa?
+
+Edellinen viikonloppureissu oli yhden yön keikka ja ruokaan ehti mennä
+n. 60 euroa lauantaina ja sunnuntaina.
+
+Seuraava reissu on vajaa viikko Alavuudella, missä majoitus on
+sikahalpa. Minulla tulee olemaan vuokra-auto alla. Aiemmilla
+tämmöisillä reissuilla minun ruokailurytmi on ollut erilainen (kalorit
+eivät pala auton ratissa samalla tavalla) ja olen ostellut kauppojen
+eineksiä illallisiksi hyvillä mielin. Autossakin kulkee erilaiset
+evässnacksit paremmin kuin kaupungin kaduilla kävellessä.
+Huoltoasemilla saatan lounastaa, koska se pöperö on ihan hyvää
+vaihtelua.
+
+Veikkaan ja toivon että ruoan osuus ei olisi polttoaineita isompi.
+
