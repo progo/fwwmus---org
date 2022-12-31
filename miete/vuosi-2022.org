@@ -1,0 +1,193 @@
+#+TITLE: Vuosi 2022
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2022                     :kamera:sandels:uv:retrospektiivi:hifi:
+CLOSED: [2022-12-31 Sat 19:00]
+:LOGBOOK:
+- State "DONE"       from              [2022-12-31 Sat 19:00]
+:END:
+
+Vuosi 2022 on ollut monella tavalla vuoden 2021 maltillista
+jatkamista. Hyvinkäällä elo jatkuu ja nyt takana on noin kaksi vuotta
+asumista. Kamerakamaa on tullut ostettua vähemmän kuin 2021 mutta
+vastineeksi tuntuu, että reissasin ja kuvasin paljon enemmän. Ja
+ennustukseni on, että vuosi 2023 ainakin alkaa samoilla linjoilla.
+
+** Hyvinkää ja asuminen
+
+Asunto on samaa vanhaa kuin edellisenä vuonna. En ole remontoinut tai
+laitellut erityisemmin. Muuttopahvilaatikoita on edelleen olohuoneessa
+vaimentamassa kaikuja kun ei ole muitakaan huonekaluja. Ostan lisää
+hiljalleen, viimeksi syyskuussa.
+
+Vuosi sitten povailin, että naapurirauha ei ole niinkään seinistä
+kiinni, pikemminkin naapureista. Valitettavasti ennustukseni kävi
+toteen, kun seinän taakse muutti lapsiperhe ja nyt saan todistaa
+nuoren ipanan ölinää päivittäin. Alakerrassa on myös lapsia nyt, mutta
+taitavat olla vain mummon luona joululomailemassa. Rapussani on vielä
+kaksi muuta äänekästä lapsiperhettä, mutta eivät kuulu onneksi
+omaan asuntooni.
+
+Tämä on nostanut hieman muuttokuumetta ilmalle, mutta Hyvinkään
+käsittämätön taloudellisuus kuitenkin kannustaa minua löytämään
+ratkaisut täältä ja tästä asunnosta. Uskoisin, että hieman
+mielikuvitusta ja rahaa käyttämällä voisin paikata joitain epäkohtia
+siististi.
+
+Asuntokuume on suuntautunut ensisijaisesti halpoihin omakotitaloihin
+isoilla tonteilla. Toisin sanoen Helsingin suuntaan kuumeilu on
+laskenut sitä mukaa kun melukkaat naapurit jatkavat elämöimistä.
+Toisaalta kun taaperran Töölön katuja niin suuri koti-ikävä painaa
+mieltä. Olen kuitenkin myös miedosti vähentänyt Helsingissä käymistä
+viimeaikoina -- en välttämättä tietoisesti, vaan paikalliset Hyvinkään
+polut ovat alkaneet ajaa asiaansa kävelymaastoina enemmissä määrin.
+
+Toisin sanoen, hyvinkääläisyys alkaa viimein tarttua ja asettautua
+minuun. Kai minun on otettava tämä asia positiivisuutena.
+
+Edellisenä vuonna ennustin, että ostaisin viimein uuden nojatuolin.
+Kesällä 2022 sain toteutettua. Ostin upouuden nojatuolin ja
+vuodesohvan olohuoneeseen.
+
+** Matkailu
+
+(Kirjoitushetkellä vielä) viime vuonna kun asetuin Hyvinkäälle taloksi
+niin luontaisesti alkoi matkailuvimma. Kotimaan matkailua oli paljon
+ilmassa 2021. Tänä vuonna suoritin myös ulkomaita: reilu viikko
+Oslossa kesällä oli hyvä idea. Sen lisäksi vuokra-autoilin kotimaata
+noin 2+2 viikkoa keväällä ja syksyllä. Kesällä oli myös perinteeksi
+muodostunut veljen kanssa karavaanailu, tällä kertaa Uudellamaalla.
+
+Olisin mielelläni käynyt enemmänkin Turussa ja lähitienoilla.
+Kuopiossa ei tullut edes käytyä. Sentään kävin Järvenpäässä
+tutustumassa itselleni uutena kaupunkina.
+
+Kotimainen matkailu ja vuokra-autoilu jatkunee vuonna 2023 samaan
+malliin. Toivoisin että malttaisin käydä Turussa ja Kuopiossa.
+Vuokra-autoa saatan ottaa ehkä (tarjouksista riippuen) nyt vain 1+1
+viikon jaksot aiemman 2+2 viikon sijaan.
+
+** Kuntoilu ja painonpudotus
+
+Saavuin painon suhteen tavoitteeseen/minimiin juuri ennen joulua, ja
+nyt pitäisi sitten syödä aiempaa enemmän kaloria ylläpitääkseni
+painoa. Joulumässäily luultavasti teki oman osansa, mutta yhtäkaikki,
+jatkossa saa syödä (hieman) aiempaa enemmän. 
+
+Masinointi ja ulkoilu ovat olleet ihan ok. Olen palkintomallin
+motivoimana liikkunut paljon ulkona, ja säännöllisesti! Tämä on
+erinomainen juttu. Masiinalle on kellotettu vasta 54 tuntia, joten
+vielä on paljon matkattavaa. Mieluummin kävelen ulkona, mutta onpa
+kiva myös seurata Youtuben ihmisten juttuja sillointällöin, masiinan
+kyydistä käsin.
+
+Kävelyt ja masinointi jatkunee vuonna 2023 samaan tapaan. Saa nähdä,
+miten asiat muuttuvat nyt kun painonpudotus ei ole enää yksi iso
+motivaattori lähteä ulos tai polkemaan.
+
+Ennustaisinko, että vuonna 2023 masiina näkee noin 26 tuntia käyttöä,
+eli aika vähiin jää. Vuoden päästä sen näkee.
+
+** Talous
+
+Vuosi 2021 oli yltäkylläisyyden aikaa, kun isot menot putosivat pois
+muuton myötä. Laitoin uskomattomat määrät rahaa kamerahömppään, ja
+vuoden loppuun mennessä moni asia meni överiksi.
+
+Vuonna 2022 laitoin jarrua kamerahömpälle, ja kamerakuume oli muutenkin
+hellittänyt muutamien epäonnisten suutariostosten myötä. Aloin laittaa
+suhteessa enemmän rahaa matkailun ja yleisen elintason puolelle.
+
+Syksyllä 2022 kasvaneet menot ja heräteostokset ja sensellaiset
+maksuerät voimistuvan aallon tavoin laittoivat käteistilit "tiukille",
+ja vietin loppuvuoden sellaisessa käteisköyhässä olotilassa. En
+suoranaisesti käteisköyhänä, mutta olo oli sellainen. Se oli hyvä
+juttu tuhlailun hillitsemiseksi. Nyt se käteisköyhyys viimein hellitti
+joulun jälkeen -- ironisesti samaan aikaan kun esimerkiksi
+asuntolainan korot ponkaisevat niin ylös, että on alettava vähän
+kiristämään säästelyohjelmistani.
+
+Ehkä kuitenkin tämä käteisköyhä olotila ja sen muisto kaikuu pitkälle
+vuoteen 2023 hyvällä tavalla.
+
+Matkailun ja kulutuksen kannalta uusi vuosi 2023 tuo hyviä juttuja
+minulle. Työnantajan ePassi-edut tuovat selkeätä rahallista säästöä:
+esimerkiksi matkaliput Helsinkiin ovat jatkossa 100% maksettavissa
+ePassilla verovapaasti, ja lounasetukin taitaa höylätä reilut kuutisen
+euroa pois per ateria. Ajattelin hyödyntää lounasetua lähinnä kun olen
+tienpäällä. Siellä minä söisin ulkona joka tapauksessa, joten se on
+kaikki silkkaa säästöä?
+
+** Kirjallisuus ja elokuvat
+
+Kirjallisuus on ehkä ottanut vähän vauhtia. Elämänkertoja, Richard
+Morganin scifiromaaneja ja pari vanhaa epäfiktiota. Lisäksi vanhoja
+suomalaisia valokuvalehtiä 70-luvulta eteenpäin. Ne eivät välttämättä
+kirjallisuudesta käy sellaisenaan, mutta 50 vuoden takaisiin
+elämäntapoihin pääsee silti eläytymään senaikaisia voivotuksia
+lukemalla myös.
+
+Toivon, että sama homma jatkuu tulevana vuonna. Ehkä jo tänään aloitan
+taas uuden kirjan Kindlellä niin että homma on varmasti hyvällä
+alulla.
+
+Pelkillä klassikoilla saisi varmaan koko vuoden menemään. Suunnittelin
+Robinson Crusoeta ja Monte Criston Kreiviä, ehkä jopa sitä
+Dickensiäkin, joka on pyörinyt Kindlen valikoissa aika pitkään jo.
+
+** Seuraava vuosi: 2023
+
+Kuten on ehkä käynyt tekstistä ilmi, sellainen sama konservatiivinen
+linja jatkunee vuodenvaihteen yli kuin mitä tehtiin koko vuosi 2022.
+Kamerahömppää vain vähän, maltillisesti muutakin investointia.
+
+*Hifiin* olen ajatellut laittaa noin 200 euron investoinnin nyt kun
+pääsiäisenä 2022 vahvistimeni hajosi ja olen siitä lähtien mennyt
+low-fidelity-vahvistimella. Ehkä mahdollisesti myös ergonomiasyistä
+kokeilen jotain 140 euron Beyerdynamicceja heti kun saan sen
+vahvistimen uusittua.
+
+*Kamerahommien* puolesta taisin sanoa vuosi takaperin, että 2022 olisi
+optisen etsimen vuosi. Uskon, että sama teema voisi toimia myös
+tulevalle vuodelle. Sadan euron Pentax-peilijärkkäri tulee olemaan
+lähipäivien ostoskokeilu ja sitten myöhemmin keväällä ehkä
+mahdollisesti toinen 200 euron peilikamera. Ei siis mitään mullistavan
+kalliita investointeja nyt suunnitteilla.
+
+Vuosi sitten uv-lupaus oli vähentää tuontiruoan syömistä ja kokata
+enemmän omaa. Se on toteutunut ainakin kirjaimellisesti, vaikka ei
+ehkä 100% uv-lupauksen hengessä.
+
+Parempienkin ideoiden puutteessa, syntyneiden naapurihälyäänien
+nimissä mietin että olisiko vaatimaton uudenvuodenlupaukseni vuodelle
+2023 nyt vaikkapa oman asuinympäristöni parantaminen asioilla, jotka
+vähentävät tai peittävät naapuriääniä.
+
+** PS: Asuntounelmia Hyvinkäällä?
+
+Tämän tekstin kirjoittamisen aikana päätin vilkaista nopeasti
+tarjontaa Hyvinkäältä ja lähialueilta. Sattumalta yksi hyvin vakava
+rivitaloyhtiön osake osui silmään:
+
+- 55 m², 92000 €, kaukolämpö
+- seinänaapuriton asunto! (ns. talonmiehen asunto huoltorakennuksen
+  kupeessa)
+- kaupoille/postiin 900 metriä, asemalle 1,4 km
+
+Koska olen ollut nyt kaksi vuotta sitä mieltä, että Hyvinkää on
+järkevä talousmielessä, niin lateraalinen muutto kaupungin sisällä
+asuinoloja parantaakseni on myös järkevien ideoiden piirissä.
+
+Seinänaapurittomuus olisi aikamoinen juttu. Sopiva asuinpaikka voi
+tappaa tai tehdä minkä tahansa asuinkaupungin. Huonoja puolia löytyy
+toki myös; päällimmäisenä epävarmat tietoverkot (valokuidusta ei
+puhuta, joten 5G/4G:kö jää toistaiseksi ainoaksi vaihtoehdoksi?).
+
+Tulenko toteuttamaan, tapahtuuko mitään? Pelkään pahoin, että nykyisen
+myymisen kynnys tuntuu olevan sellainen iso mörkö. No, ainakin on kiva
+päättää konservatiivisen tylsä vuosi joillain unelmilla.
+
+** PPS: Blogihommat.
+
+Vuonna 2022 ei tullut kirjoitettua paljoa tänne. Tämä postaus on
+kuudes vuoden aikana tehty ja julkaistu. Jospa yksi lisälupaus
+vuodelle 2023 olisi että en ainakaan vähennä nykyisestä tahdista!
