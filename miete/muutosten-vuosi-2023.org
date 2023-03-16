@@ -1,0 +1,46 @@
+#+TITLE: Vuosi 2023 on alkanut alamäellä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2023 on alkanut alamäellä                       :asunto:sandels:
+CLOSED: [2023-03-16 Thu 11:41]
+
+Minulla oli jo mieto kutina, että vuosi 2023 olisi ehkä jotain uutta
+edelliseen muutamaan verrattuna.
+
+Heti uudenvuodenpäivänä oli kaupungilla pieni harmittava kohtaaminen,
+joka tuntui vähän ennakoivan, maalaavan alkanutta vuotta tummempaan
+suuntaan.
+
+Helmikuu vietettiin pitkälti flunssan oireiden pauloissa. Sain sen
+heltiämään juuri ennen Tukholman reissua, mutta Tukholmassa se puhkesi
+takaisin, tai joku paikallinen variantti tuli tilalle.
+
+Tukholma itse oli flunssan ja huonon sään takia vähän sellainen
+harmaantylsä suoritus. Toki ei onneksi superkurjaa ollut, mutta aika
+vähän mitään uutta siellä sai tehdä verrattuna Helsinkiin. Halpa
+kaupunki se sentään onneksi on.
+
+Sitten tämän kaiken sivussa firma on tiivistämässä ja karsimassa ja
+haluaa keskittää kehittäjät Joensuuhun. Pelin nimi on YT-neuvottelut.
+Vaihtoehtona oli joko Joensuu tai ulos. Vaikka Sätös keinui hartaasti
+mielessä, en kuitenkaan ole nyt tähtäämässä takaisin sinne tässä
+vaiheessa. Päätin siis irtisanoutua. Eli varsinainen Q1 tässä!
+
+Käytin harkiten sanaa "alamäki", koska alamäessä voidaan kerätä
+vauhtia uutta nousua varten. Tuulenvaihdosta olen miettinyt monesti,
+mutta en vain toteuttanut silloin kun oli siihen parhaat tilaisuudet.
+Nyt sitten nämä YT:t pakottavat minut toimiin. Otan asian
+positiivisena tilaisuutena.
+
+En ole toistaiseksi ollut eläissäni päivääkään työttömänä, joten nyt
+tulee koettua sitäkin hommaa. Tällä alalla työnhakuun kuuluu
+työpaikkailmoitusten läpikäynnin ohella suuri aika oman portfolion
+hiomiseen, ja myytävien taitojen hiominen. Sovelluskehittäjältä
+toivotaan teknisesti hyvin toteutettuja (pikku)projekteja, jotka ovat
+esimerkiksi Githubissa näytillä. Nämä ovat asioita, joihin haluan
+panostaa alkuvaiheessa.
+
+Mikään hätä ei ole onneksi rahalle ihan hetkeen, mutta itseni tuntien
+polttelee liiaksi huoli tulevaisuudesta, jos en heti aloita aktiivista
+työnhakua.
+
+LinkedIniin en kuitenkaan vielä ajatellut tehdä tunnusta.
