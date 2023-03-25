@@ -1,0 +1,122 @@
+#+TITLE: Matopeli
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Matopeli                                               :pelit:pelailu:
+CLOSED: [2023-03-25 Sat 16:09]
+:LOGBOOK:
+- State "DONE"       from              [2023-03-25 Sat 16:09]
+:END:
+
+Olen ollut jo pitkään tietoinen [[https://www.openttd.org/][OpenTTD-pelistä]], mutta ajattelin sen
+liian tekniseksi ja monimutkaiseksi ja ei lainkaan minun makuuni
+soveltuvaksi. Tämän kevään aikana päätin tutustua siihen, ja olen
+vallan ollut sen pauloissa.
+
+OpenTTD:ssä operoidaan tavara- ja henkilökuljetusfirmaa, ja tavara
+liikkuu monenlaisella sortilla. Kuitenkin ihan ymmärrettävistä syistä
+OpenTTD:n sielu ja ydin on junissa ja rataverkoissa. Minusta tämä on
+ilmeinen matopelin jatkumo. Klassisessa matopelissä liikutellaan
+matoa, joka kasvaa ajan kanssa. Ennenpitkää mato pitenee liiaksi ja on
+vaikeuksia saada kaikki menemään nappiin.
+
+Junilla ei ole pakko mennä. Täällä on kumipyöräliikennettä ja on
+laivoja ja lentokoneita ja ratikoitakin on, jos laittaa kolmannen
+osapuolen sisältöä peliin.
+
+Tässä pelissä on kaupunkeja ja niissä ihmisiä ja postia. Kaupungit
+kasvavat ja kukoistavat, jos ihmiset ja tavara liikkuu siellä nätisti.
+Kaupunkien pormestarit voivat vihoitella jos liikutat tavaraa
+kovaäänisesti asukkaiden korvien juuressa, mutta et palvele asukkaiden
+tarpeita.
+
+Tämä peli on monenlaista yhdessä paketissa. Tämä on SimCityn korvike
+korkeammalla tasolla: kaupungit kaavoittavat ja rakentavat itse
+itsensä. Toisaalta se on kuin SimCityn korvike matalammalla tasolla,
+tarjoten joitain kiinnostavia matalamman tason näpräämisiä. En ole
+mitään (muuta) Tycoon-peliä pelannut niin en tiedä, ovatko muut sarjan
+samannimiset pelit samanlaisia tyypiltään kuin tämä Transport Tycoon
+Deluxen klooni.
+
+Tämä on yksi iso hiekkalaatikkopeli, jossa on muuttujia joka lähtöön;
+näin ollen myös paljon tekemistä ja puuhaa. Voit halutessasi unohtaa
+henkilöliikenteen kokonaan ja tehdä vain öljybisnestä. Voit
+halutessasi unohtaa kivihiilen ja öljyn ja tehdä vain
+henkilöliikennettä. Voit tosiaan unohtaa junatkin kokonaan ja tehdä
+vain bussi+lentokonebisnestä. Voit keskittyä höyryjuniin tai aloittaa
+peli myöhäistulevaisuudesta ja tehdä vain Maglev-pohjaisia luotijunia.
+
+Hiekkalaatikkomaisesti peli ei tarjoa mitään järkevää pistesysteemiä,
+ja vaikeustasoakin säädetään omaan makuun laittelemalla elämää
+helpottavia tai vaikeuttavia asetuksia päälle.
+
+Tämä peli samanaikaisesti ei vaadi jatkuvaa huomiotasi, vaan se voi
+olla taustalla kun puuhastelet muuta tietokoneella. Toisaalta
+petollisesti se kyllä imee aikaa ihan toisella tavalla. Yhdelle
+pienellekin kartalle nimittäin mahtuu valtava määrä eri pisteitä,
+joiden välille pelaaja voi laittaa jotain tavaraa liikkumaan. Pelin
+mekanismi kannustaa liikuttelemaan tavaraa mahd. pitkiä matkoja, mutta
+myös mahdollisimman nopeasti. Erilaisia muita pieniä ärsykkeitä ja
+kannustimia ja satunnaisgeneroitua sisältöä löytyy niin, että
+tekeminen harvoin loppuu missään vaiheessa kesken. Yhden kaupungin
+ruuhkasolmun oikominen alkaa tympiä, siirry kartalla katsomaan, miten
+öljybisnes sujuu. Ja se on mahdottoman hypnoottista katsella jotain
+vilkasta solmukohtaa, missä junia tulee ja menee jatkuvalla syötöllä.
+
+** Laajennettavuutta ja laajennuksia riittää
+
+Avoimen koodin tuotoksena pelillä on myös huomattava modi- ja
+patchikulttuuri. Joustava pelimekanismi ja pikseligrafiikkatyyli on
+kannustanut alusta alkaen modaajia luomaan uusia junia ja juttuja.
+
+Täällä on toimiva sisäänrakennettu modien haku- ja latauspalvelu. Eri
+modit toimivat enimmäkseen keskenään, ja jos eivät toimisi, on modeja
+helppo ryhmitellä seteiksi. Mitä tosimaailman sisältöä kaipaakaan
+matopelinsä raiteille, joku on varmaan luonut sen tänne. Suomikalustoa
+on paljon vuosien varrelta mukana täällä. Joissakin on jopa äänetkin.
+
+Otin itse nyt testiin [[https://github.com/JGRennison/OpenTTD-patches][JGRPP]]-pätsisetin joka on sellainen kuratoitu
+joukko uusia ominaisuuksia peliin. Osa näistä uusista ominaisuuksia
+tuo mukaan vaikeutta ja realismia, osa on elämää helpottavia juttuja.
+Otan avosylin vastaan asiat, jotka vähentävät turhaa klikkailua ja
+säätöä.
+
+Kolme JGRPP:n hienointa parannusta/ominaisuutta omasta mielestäni ovat
+järjestyksessä:
+
+1. Junien realistiset jarrutusmatkat. Vaniljainen peli laittaa 600
+   km/h viilettelevän luotijunan pysähtymään yhteen punaiseen
+   opastimeen salamana. Nyt junat ottavat tarvittavan määrän
+   turvaväliä. Saatat nyt huomata, että hieno Shinkansen-junasi ei
+   pääse mutkittelevalla radalla ikinä huippunopeuteensa enää, mutta
+   siinäpä on taas yksi ongelma ratkottavaksi. Tämän patchin toinen
+   etu on, että junat sopeutuvat paremmin menemään liikenteen mukana.
+   Sulavamman näköistä.
+2. Fiksusti toimiva automatisoitava aikataulutus. Voit laittaa joukon
+   postirekkoja menemään reitillä ja tähän löytyy nyt pätsi, joka
+   hoitaa päivien laskemisen puolestasi. Nyt ajetut, jaetut reitit
+   ajoitetaan kohtuullisen hyvin automaagisesti.
+3. Monipuolisempi hajoilu. Enää ei vaan ala savu nousta konepellin
+   alta, vaan nyt joskus veturista häviää tehot ja joskus huippunopeus
+   tippuu. Se on kyllä huipputurhauttavaa kyllä kun tavarajunasi
+   matelee kävelyvauhtia, ja varikko on liian kaukana. Mutta otan
+   tämän ominaisuuden mielelläni vastaan. Vaniljainen toiminta on
+   tylsä.
+
+Kaikkea muuta pientä kivaa on mukana, kuten ohjelmoitavat opastimet --
+en ole vielä keksinyt käyttöä. Myös junien määräyksiä voi tuunata
+hienommin näiden pätsien kanssa.
+
+JGRPP ujuttaa mukaan paljon muitakin monien suosimia ominaisuuksia,
+ehkäpä merkittävimpänä CargoDist. Se mahtaa olla nykyisessä pelissäni
+aktiivisena mutta en ole perehtynyt siihen, mitä se oikeastaan tekee.
+
+** Sivuhuomio ajankohtaan liittyen
+
+Juuri kun on jäänyt työttömäksi ja pitäisi olla aktiivisesti haku
+päällä, samalla itsensä kehittäminen ja portfolion hiominen
+prioriteettina, tällaiselle pelille ajan omistaminen on aika hankala
+idea ja vähän kliseinenkin juttu.
+
+Tutustuin tähän peliin kuitenkin tuossa helmikuun sairasteluiden
+aikana ennen kuin firmassa aloitettiin YT:t, joten päätökseni tutustua
+uusiin ajantappomenetelmiin oli vain huonosti ajoitettu sattuma.
+
