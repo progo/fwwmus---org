@@ -1,0 +1,83 @@
+#+TITLE: Leica M11, M12, ..., M3?
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Leica M11, M12, ..., M3?                                :leica:kamera:
+CLOSED: [2023-04-29 Sat 18:55]
+:LOGBOOK:
+- State "DONE"       from              [2023-04-29 Sat 18:55]
+:END:
+
+Vuoden 2022 kuumin kamera, Leica M11, on Leican uusin ja kaunein
+mittaetsinkamera kaikenlaisella hyvällä. Mutta se on samalla myös
+valmistajan tietokonemaisin härpäke.
+
+** Leica M11 lyhyesti
+
+Leica M11 vie [[file:./leica-m10r-mietteita.org][M10R:n speksejä]] eteenpäin niin hyvässä kuin
+tarpeettomassa. M10R vei M-sarjan 40 megapikseliin ja M11 boostaa sen
+entisestään 60 megapikseliin. Megapikseleillä en tee kamalasti mitään.
+
+Uusi kenno ei toki ole pelkkää pikseliä. Se on myös aiempaa
+kyvykkäämpi pimeänäkijä, mikä kiinnostaisi minua. Tiedämme, miten
+minun nykyinen M240 alkaa tuottaa ikävää raitakohinaa heti kun mennään
+ISO 3200:n yli. M11:n kenno tukee malliston ensimmäisenä kamerana myös
+sähköistä suljinta huippunopeaa kuvausta ajatellen.
+
+Ulkoisesti kamera jatkaa M10:n jalanjäljissä. Fyysinen ISO-rulla olisi
+tosi kiva olla.
+
+M11 toi uuden sulkimen peliin, ja se suljin on hieman omanlaatuisensa.
+Yleisesti tunnutaan kirjoittelevan netissä, että vakauden suhteen se
+ei ole mikään ihmeidentekijä, vaan että kuvaajan äärimmäinen
+huolellisuus vaaditaan saadakseen 100% teräviä kuvia.
+
+Yksi merkittävä ominaisuus olisi uudistettu sähköetsin, jossa on
+resoluutiota enemmän. Tämä kamera voisi olla aika täydellinen
+sovitetulle linssille?
+
+** Leica M11M ja milloin M11P?
+
+Leica M11M eli Monochrom tuli ulos vuosi M11:n jälkeen, mikä on
+totuttua nopeampi tahti Leicalta. Voisiko M11P tulla keväällä 2024?
+
+Ehkäpä tärkein asia kaikista: mitä ihmettä M11P voisi tuoda pöydälle?
+Olisiko mahdollista saada M11S (harvempipikselinen malli; 24-36
+megapikseliä)?
+
+Toivoisin myös sähköisen ensiverhosulkimen optiota, joka
+mahdollistaisi toivottavasti vakaampaa kuvaamista.
+
+** Kameroita vai tietokoneita?
+
+Käydyt keskustelut Leica M11:sta ja siitä, mitä yleisö haluaa/vaatii
+M12:lta (julkaistaneen 2026) ovat nostaneet uuden skenaarion
+mietteisiini.
+
+M11 on kompromisoinut -- paremman sanan puutteessa -- Leican sielua
+hieman, ja on odotettavissa että M12 kompromisoi sitä edelleen.
+Haluanko näitä kameroita, etenkin kun ne maksavat niin paljon kuin
+maksavatkin. Hittolainen, vaikka kamera olisi paluuta juurilleen ja
+olisi niin minunmyötäinen kuin olla ja voi, on kymppitonni kova raha
+laittaa tämmöiseen.
+
+Kuvitellaan, että mennään vuodessa 2035. Kuvitellaan, että viimeinen
+minua kiinnostava digitaalinen Leica M -malli on nyt yli 10 vuotta
+sitten rakennettu ja myyty, ja kaikelle elektroniikalle ei enää luvata
+korjaustakuuta, koska esimerkiksi osien saatavuus on heikkoa.
+
+** Leica forever
+
+Vuonna 1955 julkaistu M3 on kenties oikea vastaus. Ehkäpä upouusi
+Leica M6 tai MP on oikea vastaus. Leica myy filmille valottavaa MP:tä
+täyttä häkää. Filmileicat voi huoltaa Suomessa. Filmiä saa edelleen
+kaupoista vuonna 2035. Uskoisin, että jopa filmileicaa saa upouutena
+kaupasta vuonna 2035.
+
+Inflaatioasiat sivuuttaen, nyt ostettu täyshuollettu ja
+huoltotakuullinen M3 on 6100 € halvempi valinta kuin upouusi
+takuullinen M10R. 6100 eurolla ostaa noin 210 rullaa filmiä
+kehityksineen eli n. 10k ruutua. Jos kehittää itse niin puhutaan 30k
+kuvasta.
+
+Onko tämä minun tulevaisuussuunnitelma nyt tässä näin?
+
+Leica forever. 8)
