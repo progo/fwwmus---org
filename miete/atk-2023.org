@@ -1,0 +1,90 @@
+#+TITLE: Rautapäivityksiä vuodelle 2023
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Rautapäivityksiä vuodelle 2023                          :rauta:gentoo:
+CLOSED: [2023-05-27 Sat 19:02]
+:LOGBOOK:
+- State "DONE"       from              [2023-05-27 Sat 19:02]
+:END:
+
+Niin hullulta kuin se voi tuntuakin, käytettynä ja vanhana ostettu
+pöytäkoneeni täyttää parin viikon sisään 10 vuotta minun käytössäni.
+Monessa käytössä kone kestäisi paljon pidempään, mutta jotkut
+nykypäivän hömpötykset ja bloat ajaa minut nyt pohtimaan isoa
+päivitystä tälle vuodelle.
+
+[[file:./rautapaivityksia-gentoo-uusiksi.org][Kesäkuussa 2013]] ostin kaverin vinkkaamana Sandy Bridge i5 2500k
+-pohjaisen setin (emolevy, muistit, prossu) käytettynä 180 eurolla ja
+totesin, että se pyörii nätisti, viileänä ja vakaana 4,2 gigahertsin
+kelloilla, ja laittelin siihen gentoon.
+
+[[file:./gentoon-asennus.org][Gentoo-asennukseni]] on täten myös pian 10 vuotta vanha. Sitä aiempi
+asennus kesti 7 vuotta, eli minulla on 17 vuotta gentoota vyön alla.
+Vaikka nykyinen asennukseni kestää hyvin, ja toimii, on hyvä idea
+laittaa sekin puhtaalta pöydältä. En ole ihan 100% varma, että miksi,
+mutta ei se pahaa voi tehdä? Toisaalta olen kyllä pitänyt tätä
+nykyistä asennustani siistissä kunnossa, joka ei sinänsä tarvitse
+uudelleenasennusta.
+
+** Mikä ajaa uusimaan toimivaa?
+
+Muistetaan kaksi lakia:
+
+- Mooren lain bastardisaatio :: tietokoneiden nopeus tuplaantuu 18
+  kuukauden välein.
+- Wirthin laki :: ohjelmistot hidastuvat nopeammin kuin mitä niitä
+  pyörittävät tietokoneet.
+
+Nykyisin niin trendikäs juttu kuin energiatehokkuus ja resurssipiheys
+on tehnyt hyviä juttuja Wirthin laille. Erityisesti kun verkkoselaus
+ja mediakoodekit menivät jo kauan aikaa sitten GPU-kiihdytetyiksi, ei
+voi nettiselausta tai webappeja syyttää hidastelusta.
+
+Gentooni timmi sovelluskirjasto ei sekään sinänsä läskisty.
+Komentorivisovellukset toimivat aika hyvin. Videopelit ovat pitkään
+olleet konsolirajoitteisia ja ne toimivat hyvin prosessorillani.
+
+Typistäen: pari sovellusta on, jotka läskistyvät päivitys toisensa
+jälkeen, ja ovat hieman raskaita käyttää:
+
+- Darktable on iso hidastelija. Kuvankäsittelyn algoritmit ovat kaikki
+  huolellisesti hiottu GPU:lla toimivaksi, mutta käyttöliittymä ja
+  syötteen jakaminen näille GPU-rutiineille on kuitenkin kuin tervassa
+  uimista vanhan mopoprossuni kanssa.
+- JetBrainsin tuotteet. Nämä tykkäävät kun olisi enemmän coreja,
+  enemmän muistia.
+- Neuroverkkosovellukset. Generoidut kuvat ja tekstit eivät ole minun
+  jokapäiväistä arkeani juuri nyt, mutta miten tilanne kehittyy
+  seuraavan 10 vuoden aikana? Haluanko olla aallolla surffaamassa
+  muiden joukossa. Tämäkin on toki voimakkaasti GPU:lla tehtävää
+  työtä, mutta ovatko kortit ja väylät viimeistä huutoa niin että
+  kannattaa mennä uusimaan mitään.
+
+** Uusi rauta: uutta vai käytettyä?
+
+Koska en ole köyhä opiskelija/vastikään työllistynyt, kuten olin 10
+vuotta sitten, ensireaktio oli että tietenkin ostan kaupasta järkevät
+setit kaikki uutena ja yhtenä könttänä.
+
+Ei mennyt pitkään kun aloin ajatella: ostinhan minä tämän nykyisenkin
+setin käytettynä ja se kesti näinkin hyvin 10 vuotta. Toki "setti" on
+vain emo ja prosessori -- kaikki muu elää niiden ympärillä tihennettyä
+vaihtoväliä.
+
+Yhtäkkiä piheys iskee, ja mietin että on hyvä keino säästää isoja
+seteleitä ostamalla käytettyä.
+
+Käytettyä ostamalla tulee myös pohtineeksi erilaisia vaihtoehtoisia
+kokoonpanoja. Jossain myydään fiksua mutta epäseksikästä pari
+sukupolvea vanhaa Intel-settiä, toinen myy eksoottisempaa AMD
+Threadripper -settiä houkuttelevaan hintaan.
+
+Lisäksi uutta shoppaamalla nälkä yltyy herkästi, ja tulee ostettua
+reilusti yli omien tarpeiden oleva paketti. Sitä ajattelee yhdeltä
+kantilta: olen ostamassa ATK:ta seuraavaksi 10 vuodeksi, joten pieni
+ylimitoitus ei haittaa. Toisaalta, taas kerran, edellinen 180 euron
+romusetti kesti hyvin 10 vuotta.
+
+Käytettyä metsästämällä ei aina saa kovin hyvää settiä. Moni
+houkutteleva valmispaketti sisältää liian vähän muistia. Toisaalta
+miten helppo onkaan ostaa kaikki muu uutena ja sitten metsästää pelkkä
+GPU käytettynä.
