@@ -1,0 +1,162 @@
+#+TITLE: Vain ajan kysymys -- filmikokeilut alkavat
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vain ajan kysymys -- filmikokeilut alkavat              :filmi:kamera:
+CLOSED: [2023-09-18 Mon 15:02]
+:LOGBOOK:
+- State "DONE"       from              [2023-09-18 Mon 15:02]
+:END:
+
+Eilen laitoin tilaukseen ensimmäisen filmikamerani ja pari rullaa
+halpaa tavaraa. Filmikuvaaminen oli minulle vain ajan kysymys --
+itseäni yllättää vain se, miten varhaisessa vaiheessa astun siihen
+maailmaan. Tarkoitus on ostaa vähän filmiä kehityksineen niin, että
+voin talven mittaan valotella rullia ja nauttia. Tästä voi suurella
+todennäköisyydellä alkaa se seuraava iso juttu harrastukseni polulla.
+
+** Miten tämä alkoi: Polaroid lahjaksi veljelle
+
+Viime jouluna eli jouluna 2022 sain hetkellisen inspiraation muodossa
+etsiä ja ostaa veljelle Polaroid-paketti lahjaksi. Veli harrastaa
+karavaanailua paljon ja tämän varsinainen valokuvaharrastus on
+vähentynyt. Suunnittelin mielessäni että Polaroid on sopiva sellainen
+matkailevan kännykkäsnappailijan valinta, ja Polaroid-kuvista voi
+jäädä hyviä muistoja laittaa jääkaapin oveen.
+
+Totta kai kun Polaroid-kameran ostin niin pitihän sitä itse testata
+kanssa yhden pakallisen verran. Siinä oli pieni kosketus analogiseen
+kuvaamiseen, joitain palkitsevia hetkiä mukaanluettuna. Polaroidissa
+on oma taikansa.
+
+Kameran ja filmin annoin sitten veljelle ja jatkoin omissa
+maailmoissani. Olen tänä vuonna viettänyt hiljaisempaa suvantokautta
+valokuvaamisen kanssa. Työttömyys, työnhaku ja työnhakuun liittyvä
+oheistoiminta ovat kaikki varmasti olleet osasyyllisiä tähän. (/Hold
+that thought./ *)
+
+Sitten tulee tämä syksy ja jouluinen Polaroid-episodi tulee mieleen.
+
+** Oma Polaroid?
+
+Alan miettiä että olisiko Polaroid-kamera ja pari pakkaa filmiä kiva
+idea omaan käyttöön kanssa. Parilla sadalla saa ison pakan filmiä,
+vaikka se kallista onkin. Löin huudon eBayssa kaupanolleeseen vanhaan
+Polaroid-filmiin. Jos voittaisin sen, kohtalo on sillä sinetöity. Jos
+joku muu huutaisi tarjoukseni yli, se olisi myös ihan okei.
+
+Suunnittelin kaikenlaisia juttuja Polaroidin ympärille; minkä kameran
+joutuisin ehkä ostamaan filmilleni. Pitkät valotusajat olisivat hyvä
+ja jos kamera osaisi valottaa ilman salamaa niin se olisi tosi hyvä.
+
+Sitten joku huusi minun yli ja kauppiaskin vielä veti kohteen pois
+listoilta, ilmeisen tyytymättömänä huonoon tarjouskilpaan.
+
+Olin tässä kohtaa helpottunut, onhan Polaroid niin kallista
+kuvattavaa, eikä millään tasolla hifiä laatua. Mutta tein sitten
+sitäkin isomman virheen. Laskin, että mitä jos Polaroidin sijasta
+samalla suunnitellulla rahalla ostaisinkin halvan filmikameran ja
+filmiä kehityksineen. Ja voi veljet, Polaroid-pakan (8 kuvaa) hinnalla
+saa aika paljon filmiä ja kehitystä. Uusi kuumeilun kohde alkoi
+välittömästi.
+
+** Filmikuume
+
+Kameratorista tiedämme, että se on nykyisin vakiintunut
+kansainväliseksi analogisen kaman huoltajaksi ja myyjäksi. Hinnat ovat
+korkeanpuoleiset, mutta vastineeksi esimerkiksi filmikameran uskaltaa
+olettaa olevan ehjä ja valotiivis.
+
+300 euron Polaroid-budjetti kääntyi ensin 120 euron
+filmisettibudjetiksi; ymppäsin yhden tarjouslinssin pakettiin ja
+tuunailin vaihtoehtojani ja lopulta katsoin 240 euron pakettia missä
+on runko, linssi, neljä rullaa filmiä ja kehitykset labrassa.
+
+Koska minulla on kohtalainen kokoelma Leicalle ja Nikonille linssejä,
+oli ilmeisen luonnollista katsoa järjestelmäkamerarunkoa
+jommallekummalle näistä systeemeistä. Leican rungot ovat legendaarisen
+kalliita, joten Nikon on tässä elämäntilanteessa ainut järkevä suunta.
+
+Filmi-Nikoneita löytyy halvassa hintahaarukassa (reilusti alle 100 €)
+pyöreästi ottaen kahdenlaisia: 60-lukulaisia täysmanuaalisia
+metallijönttiä ja 90-lukulaisia muovisia täysautomaattikauhistuksia.
+Olisin voinut ostaa yhden kutakin noin sadan euron kokonaislaskulla,
+mutta päädyin ostamaan 60-lukulaisen [[https://en.wikipedia.org/wiki/Nikkormat][Nikkormat FTn]] -kameran 70
+eurolla. Tämän kameran alkukantaisuuden etu olisi se, että se ei
+tarvitse paristoja toimiakseen, ja sen kanssa toimii kaikki omistamani
+Nikon F -linssit, jopa 90-lukulaiset.
+
+Täysautomaattinen muovirähläke olisi sitä vastoin tarjonnut
+kuuluisanluotettavaa Matrix-valonmittausta ja autofokusta, mutta
+siihen ei olisi saanut isoa osaa Nikon-linsseistäni, mikä olisi ollut
+tavallaan sääli. Lisäksi tämä muovirähläke on niin suunniteltu
+aloittelijoille ja autofokuslinsseille (joita minulla toki olisi ollut
+neljä kappaletta systeemille) että manuaalitarkenteisten kanssa olisi
+ollut tuskaista kuvailla. Olisin voinut mennä kummin päin vain, menin
+nyt old school -valinnalla.
+
+Filmin suhteen otin halvimpia mahdollisia. Pimeä talvi on tulossa,
+joten keskityin ostamaan mustavalkofilmiä, jota aion valottaa ISO
+1600:na. Yhden värirullan otin kanssa, koska miksipä ei. Syksyn värit
+tässä edessäpäin minulla. Rupesin tässä tekstiä rustaillessani
+miettimään että ehkä ostanen toisenkin värirullan tässä, koska talven
+pimeisiin on pari hetkeä vielä.
+
+Viimeiseksi yksityiskohdaksi päädyin tilaamaan filmeilleni
+labrakehityksen. Kameratori lähettäisi filmit Espanjaan
+käsiteltäväksi. Värirullan skannautan myös kalliista lisähinnasta
+(tämä lähinnä mielenkiinnosta), mustavalkofilmit vain kehitytän.
+Kokeilen skannailla jotenkin perushuonoja kuvia vaikka puhelimella,
+jotta näen ne sitten värit oikeinpäin.
+
+Filmin kehittäminen itse kotioloissa on nykyään helppoa ja
+kaikenlaisia aloittelijaystävällisiä työkaluja ja kehitteitä löytyy.
+Laskin vain, että filmiä pitää kuvata n. 10 rullaa ennen kuin
+kotikehitykseen tarvittavat työkalut eli aloituskustannukset maksavat
+itsensä pois. Lisäksi kemikaaleilla on valitettavan lyhyt
+säilytysaika, eli useimmat kehitteet pitää käyttää parissa kuukaudessa
+avaamisesta. Vähän kuvaavalle tai kokeilijalle on ihan hyvä idea
+kehityttää muualla.
+
+Jos vallan hurahdan filmihommiin niin kotivälineet ovat nobrainer
+siinä vaiheessa. Vain itse kehittämällä saa toteutettua haluamansa
+kontrastin ja ilmeen rullalleen.
+
+** Loputon suo ja syöksy juoksuhiekkaan
+
+Isoin pelkoni on, että tämä aloittaa uuden aallon kamerakuumeissani.
+Satavuotisena ilmiönä filmi on suunnattomasti laajempi skene kuin
+digitaalinen kuvaus on ehtinyt olemaan.
+
+Erilaisia filmipokkareita löytyy joka nicheen. On panoraamakameroita,
+on infrapunaa ja on ihmeellisiä väkkyröitä.
+
+Ja sitten kaikki nuo eri filmit. Pelkään että nyt alan kohta
+etsiskellä mitä eksoottisimpia filmejä kokeiltavakseni ja ostan
+kalliita vuosikertafilmejä.
+
+Unohtamatta isompia formaatteja. Keskiformaatti on sekin ihan nurkan
+takana filmikuvaamiseen tottuneelle. Pentax 67 ja kaikki se
+syväterävyydellä hulluttelu.
+
+Kokeilu on halpaa, mutta kustannuksia alkaa tulla jos tämä nyt tästä
+lähtee isosti käyntiin.
+
+Filmikamaa huolletaan Tampereella, joten tämä harrastussuunta on
+osittain hyvä ja pitkällä ajanjänteellä kestävä idea. [[file:./leica-m11-mietteitae.org][Luonnehdinhan
+taannoin]], että Leica menee ehkä omasta mielestäni huonoon suuntaan
+digituotteidensa kanssa, mutta vuoden 1955 Leica M3 tulee olemaan
+täällä vuonna 2055. Ja myöhempäänkin.
+
+** Thought held (*)
+
+Aikaisemmin ei filmi käynyt edes mielessäni, koska kuvasin niin paljon
+aikaisempina vuosina. Nyt kuvaan niin paljon vähemmän ja kuvaan
+enemmän harkiten ja yhtäkkiä 3 rullaa = 108 kuvaa onkin ihan
+kunnioitettava määrä kuvia.
+
+Pari vuotta takaperin saatoin hulluuksissani ottaa 300 kuvaa yhden
+tunnin kävelymatkan aikana. Silloin ei filmi olisi toiminut.
+
+Tämä on osatekijä harrastuksen mukana kasvamisesta ja toivon, että
+harkitsevaisempi kuvaustapa, minkä filmi suoranaisesti pakottaa, on
+myös palkitsevampi eikä jätä keeppereitä ottamatta.
+
