@@ -1,6 +1,6 @@
 #+TITLE: Leica M11, M12, ..., M3?
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* DONE Leica M11, M12, ..., M3?                                :leica:kamera:
+* DONE Leica M11, M12, ..., M3?                          :leica:kamera:filmi:
 CLOSED: [2023-04-29 Sat 18:55]
 :LOGBOOK:
 - State "DONE"       from              [2023-04-29 Sat 18:55]
