@@ -1,0 +1,112 @@
+#+TITLE: Vuosi 2023: ollut yllättävän hyvä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2023: ollut yllättävän hyvä                  :retrospektiivi:uv:
+CLOSED: [2024-01-01 Mon 14:54]
+:LOGBOOK:
+- State "DONE"       from              [2024-01-01 Mon 14:54]
+:END:
+
+Vuosi 2023 rikkoi aiempien vuosien uriutuneisuutta monella kivalla
+tavalla, mutta ei ilman omia ongelmiaan.
+
+Tämä vuosi [[file:./muutosten-vuosi-2023.org][alkoi alamäellä]]. Oli pitkäkestoista flunssaa ja
+voimattomuutta, oli YT-neuvottelut ja senseurauksena tapahtunut
+vapautus töistä, oli sellaista kaikenlaista.
+
+Kun terveys koheni ja työnhaussa pääsi vauhtiin, alkoi päästä
+vanhoista urista irti ja jaloilleen. Kesällä tehtiin jo niin ahkerasti
+työnhakua, että sain työ(nhaku-)uupumuksesta oikein sairaslomaakin.
+Sen jälkeen olen matkaillut enemmän ja keväällä hyvä työnhakurutiini
+jäi vähemmälle, niin hyvässä kuin pahassakin.
+
+Kohta olen ollut vuoden työttömänä, vaan onneksi en ihan toimettomana
+kuitenkaan. Siitä huolimatta pitkäaikainen työttömyys vähän nakertaa
+takaraivossa.
+
+Kokonaisuutena sanoisin, että tapahtumineen vuosi 2023 on ollut
+poikkeuksellisen hyvä vuosi! Nyt luotan siihen, että 2024 jatkaa
+samoilla jäljillä.
+
+** Matkailua
+
+Vuoden alkupuoliskolla matkasin viikon reissun verran talvisessa
+Tukholmassa.
+
+Vuoden jälkipuoliskolla kävin kolmesti Tallinnassa laivateitse. Siisti
+kaupunki, Tallinna. Helpon saavutettavuutensa ansiosta se tuntuu ihan
+Helsingin yhdeltä kaupunginosalta melkeinpä.
+
+Työttömyyden takia aiempien vuosien vuokra-autoilut jäivät pois. Ihan
+hyvä näin. Seuraavana vuonna voi karsia vaikka ulkomaanmatkoista, ja
+ottaa pari viikkoa autoa sen sijaan.
+
+Vuosi päätetään rauhalliseen kotoiluun, mutta suunnitellen kovaa
+aloitusta vuodelle menestyksen vuodelle 2024: tammikuussa iso Japanin
+soolomatka. Kun mennään niin mennään.
+
+** Työnhaku
+
+On ollut kiinnostavia työpaikkoja ja tilaisuuksia. Mistään tarjotusta
+en kait kieltäytyisi, mutta on ollut tosi lähellä parisen paikkaa
+tässä 9 kuukauden aikana. Isoja palkkoja tai kiinnostavia tehtäviä,
+joskus molempiakin samassa paketissa.
+
+Asiakasprojektien kuihtuessa nykyisen talousilmapiirin alla on
+softatalojen rekrytointikin nyt sitten vaisua. Ei auta kuin pidellä
+hatustaan kiinni.
+
+** Valokuvaharrastus
+
+Kuvausharrastus on ollut varsin hiivuksissa koko tämän vuoden. Se,
+että mitä hiipuminen voisi tarkoittaa, on suhteellista.
+
+Menin nyt syksyllä ensimmäistä kertaa filmikuvaukseen kiinni. Oli
+tarkoitus kokeilla tätä hommaa pienellä, etukäteen maksetulla
+paketilla, mutta mopo karkasi käsistä nopeasti. Nyt minulla on pari
+filmikameraa Nikonin F-järjestelmään, pari tusinaa rullaa filmiä
+jääkaapissa ja kehitysaineet kotikehitystä varten, ja kallis
+skannaussetti kotiskannausta varten.
+
+Innostaako ja elvyttääkö filmi sitten kuvausharrastusta, kuten
+internetin ihmiset yleensä tapaavat kehua? Innostaa ehkä vähän, mutta
+uuden lelun viehätys kun lakkaa, niin ei se siitä sitten sen
+kummemmin. Tämän tiesinkin etukäteen. Filmin taloudelliset piirteet ja
+median omat oikkunsa toki vuorostaan eivät lakkaa noin vain. On
+piristävää lähteä pelkän filmikameran kanssa ulos seikkailemaan.
+
+** Talous
+
+Luonnollisesti työpaikan häviäminen laittaa talouden uusiksi. Vai
+laittaako? Erityisen kookas irtisanomispaketti ja ansiosidonnainen
+ovat pitäneet talouden ihan entisellään. Ja pitävät.
+Irtisanomispakettia on jäljellä yli 10ke tässä kohtaa, joten mikäs
+tässä.
+
+Pihistelin ensimmäiset pari kuukautta ja keskityin shoppailun ja
+matkailun sijaan hiomaan työtaitojani. Kun työuupumus ja siitä saatu
+sairasloma nautittiin Tallinnan kesässä, sen myötä alkoi taas rahaa
+palaa hieman enemmän. Ulkonasyömiset kaupunkimatkailun lomassa,
+filmikamerasetit ja massiivinen Japanin reissu kustannuksineen
+laittavat kysymään että mikä tässä on tämä homma. Näitä kustannuksia
+on karsittava järkevälle tasolle, etenkin kun asuntolainan korot
+pomppasivat toistamiseen uusille tasoille.
+
+** Kuntoilu ja painonpudotus
+
+Tämä vuosi on molemman suhteen alamäkivuosi. Pääsin vuoden 2022
+lopussa ihannepainoihini, ja nyt se tämän vuoden aikana näkyy siinä
+että herkkuja tulee ylensyötyä usein ja vaa'allakaan ei ole tullut
+käytyä pitkään aikaan.
+
+** Uudenvuodensuunnitelmia
+
+Matkan jälkeen helmikuussa jatkuu taas kaloreiden laskenta vuoden
+paussin jälkeen. Katsotaan, miten mennään taas painossa alaspäin.
+
+Toinen järkevä UV-päätös on jatkaa viimekeväistä aktiivista
+työnhaku-/itsensäkehittämistä, ja senpä kanssa uskon että työasiat
+menevät eteenpäin kivasti.
+
+Ja talous on kolmas tärkeä painopiste helmikuusta eteenpäin.
+Katsotaan, saadaanko kaikki menot maksettua ansiosidonnaisella ja
+varmistetaan, että säästölippaassa riittää jatkossakin tonnia.
