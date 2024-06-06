@@ -1,0 +1,56 @@
+#+TITLE: 14 kuukautta siinä meni
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE 14 kuukautta siinä meni
+CLOSED: [2024-06-06 Thu 17:49]
+:LOGBOOK:
+- State "DONE"       from              [2024-06-06 Thu 17:49]
+:END:
+
+Työttömyys alkoi maaliskuussa 2023 ja mentiin aina tähän toukokuuhun
+2024 asti, ennen kuin mätsi syntyi.
+
+Uusi firma on nuori ja kasvava firma, joka tarvitsee Python-taitojani
+ja olen hyvin iloinen voidessani antaa niitä kiinnostavalla uudella
+työmaalla. Kirjoitushetkellä kaikki on valmista ja työ alkaa heti
+juhannuksen jälkeen.
+
+** Työttömyyden jakso oli rikasta aikaa minulle
+
+Kaikenlaisia hienoja juttuja sai nähdä ja kokea. Pääsin käymään
+monenlaisessa tilaisuudessa, aina konsulttifirmojen saunailloista
+norjalaisfirman kustantamaan Oslon reissuun. Moni kiva jopi meni nenän
+edestä. Joillekin tilaisuuksille itse nyrpistin nokkaani.
+Toiminimiyrittäjyyttä pohdittu. Omia pitkäaikaisia ikuisuusprojekteja
+sain kuin sainkin käyttökelpoisiin kuosiin. Kävin Tallinnassa lukuisia
+kertoja, ekaa kertaa sitten lapsuudenajan perhematkailun. Kävin
+Japanissa, enkä vain pistäytymässä vaan menin kokonaiseksi
+kuukaudeksi. Ostin ja tuhlasin ja kulutin rahaa kuin työssäkäyvä
+yhteen aikaan, sitten vastavuoroisesti sinnittelin
+säästökuurimoodissa. Aloitin filmivalokuvaamisen. Ostin pisimmästä
+aikaa alkoholia; viskejä kaapin täydeltä maisteluharrastuksen
+aloittamiseksi. Aloitin lukemaan japania, johon alkoi paikoitellen
+mennä iso osa päivästä ja nyt minun pitää opetella pärjäämään
+vähemmällä vapaa-ajalla ja sovittaa kaikkea tätä uusiin raameihin.
+
+Moni vanha rutiini pysyi entisellään. Videopelejä vain harvakseltaan.
+Elokuvia ja sarjoja aina iltaisin. Kaupunkivierailuita.
+Valokuvakävelyitä ja ulkoilua.
+
+Hyvin vähän on mitään, mitä katuisin. Edellinen firma, jossa olin 10
+vuotta ja rapiat, oli alusta loppuun asti hyvä minulle, ja tuhti
+irtisanomispaketti ansiosidonnaisen kaverina ylläpiti sensaatiomaisen
+hyvin elämänlaatuani.
+
+** Vaikein on takana
+
+Työllistymistä hidasti paitsi maailmanpoliittinen taloustilanne, myös
+oma pitkä mutta kapeahko työkokemus joka koostuu vain yhdestä
+firmasta. Sitä moneen kertaan siunailtiin ihan ääneenkin. Jatkossa
+hyvää työkokemusta on laittaa ansioluetteloon kaksinverroin enemmän.
+Lisäksi joitain nykypäivänä seksikkäitä avainsanoja saa harjoitella ja
+harjoittaa uudessa firmassa, joka itsessään operoi yhdellä
+eksoottisella ja arvostetulla sektorilla.
+
+Seuraavaa työtä, jos sellaista ylipäätään tarvitsee seuraavaan
+kymmeneen vuoteen hakea, tuskin tarvitsee etsiä neljäätoista
+kuukautta.
