@@ -1,224 +1,19 @@
 #+TITLE: Vuosi filmikuvaamista
 #+SETUPFILE: ~/dokumentit/blog/post-setup.org
-* Vuosi filmikuvaamista                                        :kamera:filmi:
-
-Siitä tuleekin jo vuosi kun innostuin hankkimaan Nikon F -systeemiini
-täydennystä filmirunkopuolelta.
-
-Ostin innostuksissani paljon roinaa vuosi sitten syyskuussa. Kolme
-filmirunkoa: Nikkormat FTn, Nikkormat FT2 ja Nikon F70 -halparunko.
-Itseasiassa kaikki näistä ovat halparunkoja, mutta Nikkormatit ovat
-täysiverisiä rautaesineitä, joita Nikon teki 70-luvulla "off brand"
--tyyliin houkutellakseen systeemiin tulijoita edullisilla kameroilla.
-Nikon F70 on sitten muovinen hilavitkutin hienoilla (ja toimivilla)
-automatiikoilla 90-luvulta.
-
-Kaikki näistä minulla edelleen on, mutta FTn on nähnyt vähiten
-käyttöä. FT2 ja F70 ovat taasen käytännössä kuluneen 12 kuukauden
-aikana eniten käytettyjä kameroitani.
-
-12 kuukauden aikana olen ehtinyt laittaa n. 19 rullaa kinofilmiä
-kameroiden läpi. Osa filmeistä on 24 kuvan mittaisia, muutama hassu on
-27 kuvaa ja loput 36. Jos vaikka arvioimme keskimääräisen filmin
-pituudeksi 32 kuvaa niin filmikuvia olen ottanut 600 kappaletta. Tämä
-on aika vähän verrattuna niihin lukemiin, joita digikuvan hulluina
-vuosina (2019) vedin. 600 kuvaa saattoi tulla mittariin parin tunnin
-kävelyn aikana, jos oikein huonosti kävi! Sen minkä kentällä voittaa
-niin pimiössä häviää.
-
-Kotioloissa ja tutuissa maisemissa filmi on syrjäyttänyt
-digikuvaamisen pitkälti kokonaan. Ulkomaanreissuilla olen suosiolla
-mennyt digillä, enkä ole sinänsä kaivannut filmikameran haasteita ja
-laitteiden painoa.
-
-Nyt hiljan viimeisimmällä kotimaan matkalla päätin ottaa myös pitkät
-sarjat kuvia digi-Nikonilla.
-
-** Fiilistely
-
-Paljon kirjoitan täällä siitä, miten digiä on nautinnollinen kuvata
-(koska digi ei ole aina digi: tapausesimerkit Leica M ja Nikon Df),
-niin viimeisen 12 kuukauden aikana on ollut paljon sitä fiilistä että
-jos kuvaa en ota filmille niin sitä ei tarvitse ottaa.
-
-Lisäksi kun olen taas palkkatöissä pienet kustannukset filmirullien ja
-kehityksen (/kehitysaineiden) suhteen eivät pitäisi painaa
-vaakakupissa.
-
-Ehkä vain suon itselleni pienen hengähdystauon filmin haasteellisista
-puolista ja keskityn hyviin puoliin, vaikka se vähän maksaisi.
-Ostaisin pari rullaa kivaa värifilkkaa, joihin kehitykset labrassa.
-Ehkä soma pokkarikamera, jota voisi kanniskella talven pimeillä
-taskussaan silloin "kun ei halua kantaa kameraa mukanaan".
-
-** Skannailu ja kehittely
-
-Olen kehittynyt tässä hommassa mielekkäästi paremmaksi, mutta vaikeata
-se silti on. Rajallisempi dynaamisuus ja muut seikat tekevät asioista
-tavallaan helpompia, tavallaan vaikeampia. Helppous tulee lähinnä
-siitä että suosiolla unohdan kaikenlaiset hienot kikkailut mitä digin
-kanssa tekisin.
-
-** Ehtyykö innostus
-
-Moni valokuvaaja on löytänyt filmistä uuden muusan, joka on puhaltanut
-harrastukseen hehkua. Itsekin toki nautin aluksi filmikuvaamisen
-tuomista aspekteista, kuvaamisesta ilman liiallisia tietokoneapuja.
-
-Mutta olin skeptinen hurmoksen pysyvyydestä, ja nyt ollaan vähän
-menossa takaisin siihen että arvostan digikuvien käsiteltävyyttä ja
-nopeutta ja luotettavuutta.
-
-Alkujaan oli iso innostus kokeilla erilaisia filmejä ja nauttia
-retroväreistä ilman digikikkasteluita. Tässä todellisuus tuli kovasti
-vastaan: värifilmin käsittelyn jäljiltä kuva voi olla ihan mitä vain
-ja viimekädessä digiskannin käsittelyssä sille on melkeinpä pakko
-tehdä jotain säätöä. Eli tämä fiini aspekti erilaisten filmien
-pyörittelystä kaatui ja kaikki tähän liittyvä rämpiminen (värien
-tuunaaminen, skannausten virittely) kaikki tietää erävoittoja
-digileirin puolesta.
-
-** Filmin kehittäminen
-
-Labrakehitykset maksavat luokkaa 8-12 euroa per rulla. Minun
-verkkaisella kuvaustahdillani jos haluan kehittää kuvat kohtuuripeästi
-rullan valmistuttua niin labrakehitykset ja oma kehittäminen menee
-itseasiassa pitkälti tasoihin kustannuksiltaan.
-
-Laiskuus aloittaa, epävarmuus kemikaalien eheydestä ja epätasaisesti
-kehittyvät rullat alkavat kovasti puoltaa ajatusta siitä että lähtisi
-jatkossa kehityttämään kaiken labrassa. Mutta siinä tapauksessa tuli
-ostettua hyvät laitteet turhaan. (No, kehitysinvestoinnit eivät olleet
-kuin 50 euron luokkaa, kemikaalit erikseen.)
-
-Toinen vaihtoehto on vain keräillä filmejä jääkaappiin ja sitten
-kehitellä nopeassa ajassa isompi satsi pois. Kemikaalien luotettavuus
-ja pieni säästö olisi saavutettavissa näin. Labrassa kehittävät kyllä
-värifilmit ilmiömäisesti paremmin kuin mitä olen itse vielä kertaakaan
-onnistunut. Mutta en kiellä, etteikö siitä tulisi pientä tyydytystä
-kun tekee itse vaikka vain 75% laadulla.
-
-** Laitteet kunnossa
-
-Muutama filmiin liittyvä harmittelu liittyy osittain eniten käyttämäni
-kameran eli Nikkormat FT2:n aspekteihin. Kameran filmilatausmekanismi
-on varmasti aika standardi mutta se jättää usein epävarmaksi sen että
-tuliko filmi ladattua oikein, lähtikö se kelautumaan. Tämä on varmasti
-oman harjoituksen puutetta, mutta ainahan sitä pätevä tekijä syyttää
-laitteitaan.
-
-Vohoi, laitekuumettako? Filmin suhteen laitekuume on omanlaisensa suo.
-Moni vehje on digiä rutkasti edullisempi, mutta kuitenkin hehkeimpien
-trendikameroiden raketoivat hinnat laittavat vähän harmittamaan.
-
-Olen pyristellyt onnistuneesti kaikkea laitekuumetta vastaan. Mutta
-toki mielessä on speksejä ja ostoslistoja.
-
-Nikonille voisi ostaa jonkun rungon tuolta F70:n ja FT2:n väliltä.
-Joku legendaarinen FM2 tai F3 olisi ideaa.
-
-Ja sitten on tuo toinen järjestelmäni eli Leica M. Voi vietävä kun
-sille tekisi mieli ostaa runko ja laittaa paukutellen. Mutta
-kustannukset ovat mittavat ja valinnanvaikeus on toinen juttu.
-* Tarinan runko
-** Alkuinnostus
-
-- Vaikka työttömänä rahahanat olivat tiukasti kiinni...
-- tuli ostettua hurjasti kaikkea turhaa.
-- Alkup. idea oli ostaa yksi halpa runko ja kolme rullaa filmiä
-  labrakehityksineen.
-- Sen sijaan:
-  - kolmet rungot olemassaolevalle systeemille (Nikon F)
-  - yksi uusi linssi (toinen kopio suosikistani)
-  - kehityssetti
-  - kallis skannauskitti
-  - erillinen valomittari
-  - hurjasti filmiä eri lähteistä
-    - ml. fancyjä japanilaisia vintagefilmejä ebaysta
-- Innostusta oli paljon, mutta taloudellisena (pihinä) kuvaajana
-  kuitenkin valitsin kuvani tarkkaan, ja filmirulla kesti tuskallisen
-  pitkään saada valmiiksi.
-- Kotikehitys onnistui ja tuotti hyviä onnistumisia. Täydellistä
-  jälkeä en saanut, enkä edelleen saa, mutta oman tekemisen fiilis
-  korvaa puutteet lopputuloksessa.
-
-** Sekoilu seestyy
-
-- Syksyn edetessä talveksi kuvailu hiljeni odotetusti
-- Talvella ei tullut kuvattua paljoa
-- Ilford Delta 3200 oli kuitenkin talvikauden kohokohta. Sisälsi
-  hyvään aikaan tehdyn sumuisen Helsingin kävelyn kuvia ja käytännössä
-  vain onnistuneita kuvia mm. joululta.
-- Toinen kohokohta oli loppusyksyn Kentmere 400, puskettu 1600:een ja
-  jolla oli loisteliaita kuvia ei pelkästään Tallinnasta vaan myös
-  hieman ihmiskuvausta Helsingissä!
-- Lähimatkaillessa filmi syrjäytti digin 100%
-  - Jos kuva ei ollut filmille, ei ole ottamisen arvoinen
-- ... mutta isot ulkomaanreissut tehtiin pelkän digin kanssa.
-  - Japanin reissu oli odotettuun tapaan tuottoisa ja niitä kuvia
-    'kehiteltiin' 6 kuukautta verkkaiseen tahtiin.(a)
-
-** Kevät
-
-- Sakurarulla eksoottiselle japanilaiselle Washi X -filmille
-- mutta filmin kehitys meni mönkään
-- Se ei ollut riittävästi lannistamaan touhuja.
-- Kuvasin ahkerasti heti toisen rullan Washi X:ää ja sitten
-  Santacoloria ja kehitin ne itse ja niistä tuli värifilmien
-  parhaimmistoa.
-- Kehityskemikaalien laadun ja potenssin tarkkailu on nyt kuitenkin
-  asia, jota pitää vähän opiskella jotta voin luottavaisemmin kehittää
-  jatkossa.
-
-** Kesä
-
-- Töiden saaminen syystäkin hidasti valokuvaharrastusta, muiden syiden
-  ohella
-- Värifilmin skannailu ja värien fiksaaminen on saanut harjoitusta.(b)
-- Kuvaustahti räjähti loppukesän kotimaanreissulla ihan uusiin
-  lukemiin. Täysi rulla Kodak Goldia meni kuudessa tunnissa!
-  Seuraavaksi ladattu Ultramax 400-24 ei kestänyt sekään kuin
-  vuorokauden.
-
-** Missä ollaan nyt
-
-- Laitehankintoja (filmiin liittyen) ei ole onneksi ollut syksyn
-  jälkeen
-- (a) => Hyvällä kameralla napattuja diginegatiiveja on suunnaton ilo
-  ja vaivattomuus työstää verrattuna filmiin. Tämä on iso erävoitto
-  digin puoleen.
-- (b) => vastaavasti vaikka värifilmin skannaaminen ja värin
-  säätäminen onkin mennyt hyvään suuntaan, on kohtalainen pettymys
-  todeta omakohtaisesti värikehittämisen realiteetit: filmin
-  ominaisväri on aika vaikea käsite. Digiskannausta on helppo säätää
-  haluamaansa makuun ja vaikka tämä on hyvä, eri filmit tasapäistyvät
-  ja yksi iso viehätys filmikuvaamisesta on menettänyt potenssiaan.
-- Keväinen kehitysfaili ja oma verkkainen valokuvaustahtini nostaa
-  kysymyksen: pitäisikö laittaa filmit labrakehitettäväksi jatkossa?
-- Laskin että omalla tahdillani se menee noin about tasoihin jos
-  kehitytän filmit labrassa vs ostan kolmessa kuukaudessa vanhenevia
-  kemikaaleja ja kehitän itse.
-- Vaihtoehtoisesti voin keräillä filmiä jääkaapin nurkkaan ja
-  kehitellä isommat satsit kahdesti vuoteen, mutta haluanko sillä
-  tavalla jemmailla? Rahallinen säästökään ei ole kuin reilu kymppi
-  korkeintaan.
-
-** Opittua
-
-- Nopeat filmit enemmän mieleeni. Rae ei haittaa.
-- Kolmijalka ilman lankalaukaisinta = turha.
-- Keskiformaatti ei enää innosta kamalasti systeemin painon takia.
-
-** Pohdintaa
-
-- Pitäisikö tehdä kuten moni muu filmikuvaaja tekee? Omistaa
-  filmikuvaus mustavalkoiselle ja jättää väri suosiolla digille.
-- Viimesyksyiset/talviset kohokohdat ovat kaikki kuvattu
-  mustavalkofilmille ja sattumoisin myös automaattisella F70:llä.
-* Vuosi filmikuvaamista                                        :kamera:filmi:
+* DONE Vuosi filmikuvaamista                                   :kamera:filmi:
+CLOSED: [2024-09-22 Sun 11:07]
+:LOGBOOK:
+- State "DONE"       from              [2024-09-22 Sun 11:07]
+:END:
 
 Syyskuussa 2023 filmikipinä syttyi liekiksi. Mitä vuodessa ehti
 tapahtua?
+
+#+CAPTION: Näistä sitä lähdettiin vuosi sitten. Kehitys tuotti raitaa. Ultramax 400.
+[[./kuvat/filmi1v/2023-10-07 (Sat) 12-12-40.jpg]]
+
+#+CAPTION: Näistä sitä lähdettiin vuosi sitten. Kehitys tuotti raitaa. Varhainen low-fi-skannaus ennen kuin oli oikea systeemi. Ultramax 400.
+[[./kuvat/filmi1v/2023-10-07 (Sat) 13-56-38.jpg]]
 
 ** Luomistarina
 
@@ -234,6 +29,9 @@ runko, jolle olisi jo linssit entuudestaan. Kolme rullaa filmiä ja
 niille kehitykset. Kokonaisuutena tämä maksaisi satasen pintaan ja
 voisin viettää syyskautta sitten rauhassa fiilistellen filmin kanssa.
 
+#+CAPTION: Hyviä syysmaisemia ja onnistumisia. Ultramax 400
+[[./kuvat/filmi1v/2023-10-07 (Sat) 13-44-12.jpg]]
+
 No, vähemmän yllättäen mopo lähti käsistä lähestulkoon heti portilla.
 Yhden edullisen (edullisuus on minulle suhteellinen käsite, tällä
 kertaa se tarkoitti 70 euroa) kamerarungon sijaan ostin kolme
@@ -247,6 +45,12 @@ Kuherruskuukaudenkaan aikana en kuitenkaan valottanut emulsiota ihan
 jatkuvalla syötöllä. Olin säästeliäs ja tarkka valottaja. 36 ruudun
 rullat kestivät (ja kestävät ajoittain edelleenkin) tuskallisen
 pitkään ennen kuin ne 'saa' kehittää.
+
+#+CAPTION: Hyviä syysmaisemia ja onnistumisia. Ultramax 400
+[[./kuvat/filmi1v/2023-10-12 (Thu) 12-28-19.jpg]]
+
+#+CAPTION: Hyviä syysmaisemia ja onnistumisia. Kallis vintagefilmi Superia 100.
+[[./kuvat/filmi1v/2023-10-21 (Sat) 18-13-36.jpg]]
 
 Mitä kotikehitykseen tulee, epäonnistumisia ei tullut, vaikka
 värikehitys on vielä käsissäni todella 'low fidelity', monenlaisten
@@ -268,6 +72,12 @@ tavaraa kumpikin. Rae ei haittaa ja ylimääräinen nopeus on aina
 tervetullut. Filmin kanssa voit periaatteessa aina ylivalottaa jos et
 tarvitse kaikkea vauhtia.
 
+#+CAPTION: Talvikauden onnistumisia ja parhaimpia rullia. Kentmere 400.
+[[./kuvat/filmi1v/2023-11-05 (Sun) 18-09-01.jpg]]
+
+#+CAPTION: Talvikauden onnistumisia ja parhaimpia rullia. Delta 3200.
+[[./kuvat/filmi1v/2024-04-28 (Sun) 14-29-14.jpg]]
+
 Digikuvaus käytännössä loppui kuin seinään kun filmivillitys alkoi.
 Fiilis oli että jos kuva ei ole filmille niin se ei ole ottamisen
 arvoinen. Tämä siis näin lähimatkailussa.
@@ -275,7 +85,7 @@ arvoinen. Tämä siis näin lähimatkailussa.
 Kun kävin Japanissa tammikuussa, oli ilmiselvää alusta alkaen että se
 tehdään digillä. Matka oli tietenkin erittäin tuottoisa ja meni kuusi
 kuukautta saada kaikki diginegatiivit läpikäytyä. Pidetään tämä
-mielessä (a).
+mielessä. (A)
 
 ** Kevään tuulia
 
@@ -296,6 +106,9 @@ toisen rullan Washi X:ää ja sen jälkeen Santacolor 100 -filmiä. Näiden
 kehitys meni 100% nappiin ja olivat myös sisällöltäänkin rullina ihan
 asiallisia.
 
+#+CAPTION: Kesäkuuta Hyvinkäällä. Santacolor 100.
+[[./kuvat/filmi1v/2024-07-12 (Fri) 17-36-06.jpg]]
+
 ** Kesästä tähän hetkeen
 
 Asioita piristi huomattavasti töiden saanti. Kaikkea muuta paitsi
@@ -313,6 +126,9 @@ hetkellä ottaa kuvia filmille kuin se olisi ilmaista kuin digi. Täysi
 rulla Kodak Goldia meni kuudessa tunnissa! Ennenkuulumatonta minulle.
 Seuraavaksi ladattu Ultramax ei sekään kestänyt kuin vuorokauden.
 
+#+CAPTION: Kesäkuuta Helsingissä. Santacolor 100(?)
+[[./kuvat/filmi1v/2024-07-12 (Fri) 17-38-37.jpg]]
+
 ** Vuotta myöhemmin: missä ollaan nyt
 
 Olen pidättäytynyt laitehankinnoista, mikä on tietenkin aina hyvä.
@@ -325,6 +141,9 @@ hajoavat käsiin. Ulkomaanreissun digikuvat sen sijaan, voi veljet.
 Uskomaton joustavuus ja tietenkin korkea fideliteetti myös filmiin
 verrattuna. Pimiötyöskentelyn ilo näiden digikuvien kanssa on selkeä
 erävoitto digin puoleen, luonnollisesti.
+
+#+CAPTION: Tallinna kesäkuun alussa. Washi X.
+[[./kuvat/filmi1v/2024-07-12 (Fri) 17-43-00.jpg]]
 
 Vastavuoroisesti palataan kesän tuoreeseen kehittymiseeni värifilmin
 kehityksen kanssa kohdasta (B): tämä ei nyt ollut ihan uutisia mutta
@@ -358,6 +177,9 @@ Hyvät ja luotettavat kehitykset (per kohta (A)) painavat hieman
 vaakakupissa. Ensimmäinen filmivillityksen aalto on ehkä ohi. Onko
 koko filmikokeilun aika?
 
+#+CAPTION: Tallinna kesäkuun alussa. Washi X.
+[[./kuvat/filmi1v/2024-07-12 (Fri) 17-45-08.jpg]]
+
 ** Vuoden aikana opittua
 
 Nopeat filmit ovat mieleeni. Kentmere 400 valottuu tosi nätisti
@@ -385,3 +207,11 @@ olisi hieman pienempi ja vähemmän muovinen kuin tuo F70 niin olisi
 kiva. Olen vähän pohtinut, että elpyisikö filmikuvaus vähän, jos
 ostaisin jonkun kivan mittaetsinpokkarin (esimerkiksi Canonet 19).
 Sykli uusiutuu...
+
+#+CAPTION: Tallinna kesäkuun alussa. Washi X.
+[[./kuvat/filmi1v/2024-07-12 (Fri) 17-45-36.jpg]]
+
+Liitetyt kuvat ovat muutamia valintoja matkan varrelta. Osa on ihan
+ensimmäiseltä rullalta ja viimeisimmät, no, viimeisimmiltä
+skannatuilta rullilta juhannuksen tienoilta. Kaikkein tuoreimmat
+filmit on vielä kehittämättä.
