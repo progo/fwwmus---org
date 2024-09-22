@@ -293,6 +293,20 @@ li.tag-3 > * { background-color: #d04a00; }
     margin-top: 2em;
 }
 
+/**** Figures **/
+.figure p:nth-child(1) {
+    margin-top: 3em;
+}
+
+.figure p:nth-child(2) {
+    font-size: smaller;
+    margin-top: -1em;
+}
+
+.figure-number {
+    display: none;
+}
+
 
 /***** Text width (responsive stuff) ****/
 
