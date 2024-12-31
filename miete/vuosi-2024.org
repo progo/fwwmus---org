@@ -1,0 +1,88 @@
+#+TITLE: Vuosi 2024: vauhti päällä
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2024: vauhti päällä                          :uv:retrospektiivi:
+CLOSED: [2024-12-31 Tue 15:44]
+:LOGBOOK:
+- State "DONE"       from              [2024-12-31 Tue 15:44]
+:END:
+
+** Matkailua
+
+Vuoden 2024 selkeästi kirkkain tapahtuma oli tammikuussa vietetty
+kuukausi Japanissa. Ideana se oli pähkähullu. Lähteä nyt työttömänä
+tuollaiseen kaukaiseen paikkaan lomailemaan. Ja vielä kokonaiseksi
+kuukaudeksi. No, se meni huonoimmillaankin hyvien odotusten
+mukaisesti, ja monin kauniin tavoin odotukset paikoin ylitettiin.
+
+** Työt
+
+Lomailun jälkeen palattiin nauttimaan keväästä Suomessa, ja
+työmarkkinat ja työnhaku olikin vilkasta silloin. Hyvä työpaikka
+löytyi viimein keväällä, ja aloitin siellä juhannuksena. Puoli vuotta
+on siellä nyt oltu kirjoittamishetkellä. Tiimi ja firma ovat
+kertakaikkiaan upeita ihmisiä.
+
+** Valokuva
+
+Japanin matkalla tuli otettua kuvia riittävästi ja loppuvuodesta tuli
+kuvailtua vain harvakseltaan. Enimmäkseen filmille, kuten edellisenä
+vuonnakin. Syksyllä annoin filmikuvauksen vähän ottaa takapakkia, ja
+aloin kantaa digikameraa mukanani enemmissä määrin. Luonnollisesti
+kaukomaan lomareissulleni laitan taas digiä mukaan. Filmi on liian
+arvaamatonta tähän hommaan, vaikka tekisikin mieli laitella pari
+rullaa jotain hyvää värifilmiä eksoottisissa maisemissa. Sitä ehtii
+vielä miettimään.
+
+** Talous
+
+Neljätoista kuukautta työttömyyttä kesti ihan kiitettävästi
+taloudellani. Edellisen firman 6kk irtisanomispaketti kattoi
+käytännössä kaiken. Ja nyt uudessa jopissa ollaan
+pääkaupunkiseutumaisessa liksassa kiinni: ei ole valittamista.
+
+** Kuntoilu ja painonpudotus
+
+Painonseuranta on ollut tänä(kin) vuonna surkeaa. Kaloreita aloin
+laskea jossain vaiheessa kesää, mutta paino ei liikahda silti. Otin
+loppuvuodesta hyvän inspiraation puitteissa itselleni uusia
+kuntoilurutiineita; päivittäistä venyttelyä nyt tärkeimpänä. Siihen
+omistan 15-60 minuuttia joka päivä, mitä nyt joulunpyhinä hieman on
+tullut poikkeuksia. Tämä ei välttämättä muuta päivittäistä jaksamista
+mihinkään suuntaan, mutta onpa tuo kiva kun voi konkreettisesti
+havaita notkistuvansa sieltä sun täältä. Kuukauden perusteella myös
+paino on alkanut kääntyä lievään laskuun. Olisiko venyttelyn ja pienen
+kuntoilun aikaansaama lihasten harjoittaminen syytä?
+
+** Seuraava vuosi
+
+Moottori on lämmin ja kaasun uskaltaa laittaa pohjaan. Nyt mennään
+vauhdilla! Talous näyttää vahvalta, työlle voi omistaa enemmän ja sitä
+rataa.
+
+Loppuvuodesta aloitettu venyttely-/kuntoilurutiini on selvästi jotain,
+jota haluan jatkaa vuonna 2025. Siihen päälle on helppo luvata, että
+kaloreita laskemalla saadaan paino laskuun päin.
+
+Mutta ensin mennään takaisin Japaniin. Nyt ollaan kaksi kuukautta.
+Ensin tammikuussa kesälomaillaan ja sitten koko helmikuu vietetään
+Tokiossa etätöitä tehden. Sanoinhan, että uusi firma on kertakaikkiaan
+upea?
+
+** Henkilökehitys
+
+Paikoin laitostuneet päivärutiinini olen saanut paikoin nujerrettua.
+Ehkä tilalle on tullut toisia laitostuneita rutiineita. Mutta
+katsoisin että kuntoilurutiini on parempi kuin "TV:n edessä klo 19
+joka päivä" -rutiini. Myös olen hyväksynyt sen, että elokuvia ei
+tarvitse katsoa ja katseluita kerätä 6-7 päivänä viikossa jonain
+outona kilpailuna. Elokuvia ehtii katsoa aina myöhemminkin: kaunis
+alkukesäinen iltavalo klo 20:18 ei odota. Mitä enemmän saan purettua
+(niitä tylsempiä) rutiineitani, sen parempi.
+
+Aloitin myös uuden systeemin muistiinpanojen kirjaamiseen. Siirsin sen
+[[file:./uusi-journalointi.org][toiseksi kirjoitukseksi]], koska se vähän kasvaa tämän retron
+ulkopuolelle.
+
+Toivottavasti myös henkilökohtaiset projektit etenevät enemmän
+tulevana vuonna 2025.
+

@@ -1,0 +1,58 @@
+#+TITLE: Uusia muistiinpanosysteemejä uudelle vuodelle
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Uusia muistiinpanosysteemejä uudelle vuodelle     :emacs:organisointi:
+CLOSED: [2024-12-31 Tue 15:44]
+:LOGBOOK:
+- State "DONE"       from              [2024-12-31 Tue 15:44]
+:END:
+
+Puhtaasti kronologinen muistiinpanosysteemi poistaa tarpeen miettiä,
+minne kukin ajatus tai tiedonjyvä arkistoidaan.
+
+** Muistiinpanoista
+
+Uusien töiden ja uusien sidosryhmien asettamien toiveiden,
+vaatimusten, ja haasteiden alla olen löytänyt loppuvuodesta uutta
+motivaatiota parannella ja kehitellä omia rutiineitani ja itseäni.
+Yritän pitää paremmin kirjaa tekemisistäni töissä. Niinkutsuttu
+"engineering journal" -idea auttaa pitämään kurssin oikeaan suuntaan.
+Siinä on myös kumiankkailun henki mukana.
+
+Nyt tänään, vuoden lopussa, uusin myös henkilökohtaista
+muistiinpanokirjailuani toivottavasti uuteen, yhtenäiseen ja
+helpompaan muotoon. Idea on madaltaa kynnystä laittaa ajatukset ylös.
+Muistioita minulla on parissa org-tiedostossa vuosikymmenen ajalta,
+aika hujanhajan. Sellaiset tilapäiset ajatukset tai joku nopea
+A/B-vertailu ranskalaisin viivoin tulee laitettua 'jonnekin sinne' ja
+siellä se pysyy. Ihan sekaisin. Joitain juttuja jää myös tallentamatta
+kun ne on avattu tietynlaisessa bufferissa (Emacsin termein), ja
+vaikka 90% ajasta ne ovat turhaa hälinää, ei se tee pahaa tallentaa
+niitä sen 10%:n varalta.
+
+Uusi mekanismini poistaa vaatimukset nimetä, sijoittaa tai tallentaa
+muistio jonnekin tiettyyn paikkaan puussa. Yhdellä pikanäppäimellä
+(Emacsissa) avaan nyt sopivan org-tiedoston, joka on struktuuria:
+
+: ~/org/2024.org/2024 December/December 31/ajatuksenlento
+
+Eli yksi tiedosto per vuosi. Tiedoston alla on org-puu kolmessa
+tasossa. Idea ja toivomus on, että ajatuksenlentoja voi tagailla ja
+niihin voi jatkossa laittaa ajankohtaisia juttuja ja ne näkyvät
+agendassa jne. Jos teen itselleni junavaraukset sukulointiin
+niin niitä ei tarvitse levitellä jonnekin /Matkailu/-puun alle jossa
+sitten kaikki hukkuu vanhan tauhkan alle. Ketä kiinnostaa, että
+isänpäivänä 2019 juna lähti 15:13? Uuden systeemin valossa nämä
+tiedonjyvät tallennetaan edelleen siististi, mutta ne eivät turhaan
+keräänny epämääräisiin solmukohtiin isossa ~main.org~-tiedostossani
+(jota voisikin siivota keväällä).
+
+Esimerkiksi, hyvänen aika. Main-tiedostoni /Tehtävät/-puussa on
+sadoittain mitä onnettomampia tidbittejä. "Vie roskat" jostain
+Sätöksen ajoilta. "Apteekin reseptit". "Käy tädin luona ATK-avussa"
+vuosikymmenen takaa.
+
+Selkeämpi organisointi (puhtaasti kronologinen) antaa toivottavasti
+vapauden olla tuotteliaampi kirjoitustensa suhteen. Niillä on nyt
+selkeä paikka tiedostojärjestelmässä ja juttuja ei tarvitse halkoa
+palasiksi niin että ne istuvat jonnekin vanhan systeemin mukaiseen
+lokeroon. Odotan hyviä juttuja tältä.
