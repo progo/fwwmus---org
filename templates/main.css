@@ -132,16 +132,20 @@ ul.all-posts-list li {
 
 pre.example {
     color: white;
+    font-size: 12pt;
 }
 
 #main code {
     background-color: #6a1515;
+    padding: 1px;
     color: white;
+    font-size: 12pt;
 }
 
 pre.src {
     padding: 0.7em;
     padding-left: 1.4em;
+    font-size: 12pt;
     background-color: #721A1A;
     border-left: dashed 2px red;
     color: white;
