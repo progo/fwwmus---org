@@ -1,0 +1,67 @@
+#+TITLE: Muutoksia
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Muutoksia                                                  :blog:jane:
+CLOSED: [2025-09-15 Mon 16:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-09-15 Mon 16:52]
+:END:
+
+Tämä blogi ei ole nähnyt paljoa aktiviteettia viime vuosina. Erityisen
+hiljaista on ollut tänä vuonna. Viimeksi kirjoittelin tänne lyhyistä
+suunnitelmistani alkavalle vuodelle 2025. Asioita on ehtinyt tapahtua.
+
+** Perhe
+
+Tammikuussa lensin Japaniin toista kertaa, kuten taisin kehuakin. Mitä
+en vielä silloin kehdannut sanoa, pitkän reissun yksi kantava tekijä
+oli mennä tapaamaan tyttöä, Janea. Nyt Jane on vaimoni. Lensin
+takaisin Japaniin heinäkuun lopussa ja lensimme molemmat
+Filippiineille elokuun alussa tapaamaan Janen perhettä. Menimme siellä
+samalla käynnillä naimisiin, asiaa suunniteltuamme käytännössä siitä
+lähtien kun helmikuun lopussa palasin Suomeen.
+
+Nyt olen takaisin Suomessa ja kuluneen vuoden ulkomaanreissut on
+reissattu. Nyt vietämme odottelupeliä erinäisten paperien hakemisessa.
+Avioliittotodistus Filippiineiltä, avioliiton rekisteröiminen
+Suomessa. Sitten Janen oleskeluluvat Suomessa. Tässä menee siis
+hetkinen vielä ennen kuin perhe varsinaisesti yhdistyy Suomen lipun
+alla.
+
+Omat rutiinit ja entinen elämä on ehtinyt mennä vuoden aikana isosti
+uusiksi, ja sitten sitä myllätään työtä tehden kun Jane pääsee
+muuttamaan tänne. Ei millään tavalla huonossa mielessä.
+
+** Blogi muuttuu
+
+Tämä blogi on sakannut jo pitkään. Erilaisia tekosyitä tälle on helppo
+keksiä, mutta eiköhän oma motivaatio ole kaiken taustalla.
+
+Suunnittelen vähän uudistavani teknistä systeemiä taustalla johonkin
+suuntaan, ja ehkä vaihdan kielen englanniksi siinä kohtaa. Nykyiset
+suomenkieliset tekstit arkistoin uuden version kupeeseen.
+Kielivalinnan taustalla on unelmat motivaation kasvattamisesta. Jos
+kirjoitan tekstejä vaimolle (mutta pitäen ulkomaailman myös mielessä)
+niin ehkä uusia juttuja voisi innostua tekemään.
+
+Mitä blogimoottorini tekniseen toteutukseen tulee, nykyinen mekanismi
+on hieman jäykkä ja miedosti hidas. Kaikki teksti on (Emacs)
+org-syntaksissa olevaa puhdasta tekstiä, ja kun uusi kirjoitus
+valmistuu, ~org-mode~ kääntää kaiken HTML:ksi, ja toinen käsittely
+jalostaa HTML:t lopulliseen muotoonsa. Vaikka taustalla on
+kaikenlaista kakutusta ja kaikkea, mieto viive ja vajavaisuudet
+HTML-välimuodon käsittelyssä hieman jarruttelevat joskus. Hetkittäin
+tekisi mieli palata kirjoittamaan raakaa HTML:ää. Nykyinen systeemi
+kääntyi eloon 12 vuotta sitten, eli ei ihan häthätään olla
+uudistamassa.
+
+** Näkemiin?
+
+Ajattelin, että tämä on viimeinen teksti tähän nykyiseen blogiin (joka
+tullaan ehkä jatkossa tuntemaan arkistoidulla nimellä =fwwm.us/fi=)
+mutta ei tässä vielä tarvitse sanoa hyvästejä. Itseni tuntien on aivan
+mahdollista, että uudistus jää toteuttamatta ja vielä kirjoitellaan
+vuosiraportteja vanhaan pohjaan 3,5 kuukauden päästä.
+
+Jos ajatus suomenkielisen sisällön häviämisestä harmittaa, lohduttaudu
+ajatuksella että suomalaisilla on jatkossakin uniikki mahdollisuus
+ottaa tekijään yhteyttä ja haastella teksteistä äidinkielellään.
