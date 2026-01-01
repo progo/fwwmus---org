@@ -1,0 +1,131 @@
+#+TITLE: Vuosi 2025
+#+SETUPFILE: ~/dokumentit/blog/post-setup.org
+* DONE Vuosi 2025                                           :retrospektiivi:uv:
+CLOSED: [2026-01-01 Thu 13:31]
+:LOGBOOK:
+- State "DONE"       from              [2026-01-01 Thu 13:31]
+:END:
+
+Juuri viimeistelty vuosi oli vilkas, mutta vilkkaampikin voisi olla.
+Tehdäänpä pientä recappia.
+
+** Pari kuukautta Japanissa
+
+Vuosi alkoi lennokkaasti Japanin lumisissa maisemissa
+tammi-helmikuussa. Olin siellä pyörät kaksi kuukautta, joista
+ensimmäinen oli kesälomaa ja toinen etätyötä Tokiosta käsin. Tapasin
+vaimoni siellä face to face ja asiat olivat taianomaisia.
+
+** Töitä ja huvittelua kevään ja kesän yli
+
+Kevääksi Suomeen takaisin ja kaikenlaisia suunnitelmia ja pohdintoja
+oli ilma sakeana. Kotimaanmatkailin vanhaan tapaani ja erilaiset
+vuokra-autot palvelivat. Keväällä oli Citroën ajossa (polttomoottori +
+automaattivaihteisto = en tykännyt) ja kesällä juhannuksen ympärillä
+hybridisähköinen kiinanihme MG3 (tehopeli ja Yarikseen kehuttavasti
+vertailtava toiminnallisuus + upea maantieajettavuus = tykkäsin).
+Myöhemmin alkutalvesta oli manuaalivaihteinen Hyundai i20 vielä
+ajossa. Ihan näppärä ja manuaalivaihteisen auton voimansiirron keveys
+tuntuu ihanasti. Mutta ehkä tämmöinen hinnat-alkaen-malli on liian
+karvalakki minulle...
+
+Miksi noteeraan autovalinnat tässä? Auton pitkäkestoisempi liisaus tai
+ostaminen voi tulla kyseeseen pian.
+
+** Naimisiin
+
+Asiat villiintyvät, ja heinäkuun lopussa lennän takaisin Japaniin,
+josta jatkamme Filippiineille naimisiinmeno mielessä. Hektinen
+kolmiviikkoinen Filippiineillä ja sen jälkeen semirentouttava
+kuherruskuukausi oli viikko Hokkaidossa. Pieni hybridi-Toyota alla,
+mallia ei ole suoraan saatavilla Euroopassa mutta se on Aygon ja
+Yariksen välimaastoa. Siinä yksilössä bugasi B-ajo eli akkua lataava
+moottorijarrutuksellinen erikoisvaihde. Piti ajaa enemmän tavallisessa
+D-moodissa.
+
+Naimisiinmenon jälkeen koitti paluu Suomeen, missä alkoi olla
+syksyistä ruskaa kurjuuden ja kylmän lisäksi. Ruska oli tänä vuonna
+poikkeuksellisen hyvä! Se lievitti Suomeenpaluun tuskaa ihan hyvin.
+
+Häiden jälkeen on alkanut paperiruljanssi, jonka lopullinen tehtävä on
+yhdistää uudelti muodostunut perhe Suomeen. Jotkut askeleet ovat
+olleet tuskallisen hitaita kun ensin erehdyimme kysymään dokumentteja
+paikallishallinnon byrokratiasta. Filippiinien liittotasavallan tjsp
+tason virastot toimittivat papereita viikoissa, siinä missä
+paikallinen valta vielä pyörittelee peukaloitaan kuukausien jälkeen.
+Menetimme kaksi kuukautta tällä tavalla, mutta kukapa näitä laskee.
+
+Avioliitto pitää vahvistaa ja notarisoida ensin Filippiineillä, sitten
+Suomessa. Tämä vaihe on nyt menossa näin vuodentaitteessa. Kun Suomi
+tietää avioliitosta, on meillä hyvät eväät aloittaa oleskeluluvan
+hakeminen Migrissä. Kestääkö siinä uhatut 9 kuukautta (max) vai jotain
+vähemmän, siltä väliltä? Tällä hetkellä näyttää hyvältä, että seuraava
+joulu vietetään yhdessä.
+
+** Uusi ATK -- pihlaja 2013-2025
+
+Papereiden odottelu on odottelutyötä, ei siinä muuta. Odottavan aika
+ja sitä rataa.
+
+Vanha ATK (kokoonpanon nimi on /pihlaja/) palveli juhannuksesta 2013
+jouluun 2025 ja hitto vieköön kun palveli hyvin. Miedosti
+ylikellotettu Intel i5 2500k kulki 4.2 gigahertsin kelloilla ja
+päivittäisaskareet sujuvat sillä hyvin vielä tänä päivänäkin. Mutta
+jotkut erikoishommat, kuvankäsittely ja sovelluskehitys, alkoivat
+takuta sen verran pahasti että oli vain ajan kysymys että milloin
+uusitaan.
+
+Tässä suunnittelussa meni varmaan sen nelisen vuotta ennen kuin
+jaksoin toteuttaa. Ja tietenkin ajankohta oli supisurkea, ottaen
+huomioon DDR5-muistin räjähdysmäisen hintakehityksen.
+
+Yhtä kaikki, uusi ATK on ostettu black friday -tarjouksista ja kasattu
+ja viimein toiminnassa. Typerän ylimitoitettu ja -lämpöinen Ryzen 9
+9950x palvelee nyt 16 ytimensä kanssa, muistia sen kaveriksi 96
+gigatavua. Vanha ATK maksoi 180 euroa ja palveli 10+ vuotta. En voi
+perustella mitenkään että miksi nyt piti maksaa yli 1500 euroa näistä
+komponenteista seuraavaa kymmentä vuotta varten.
+
+Yhtä kaikki, uusi ATK on nimetty uneliaaksi paremman nimen puutteessa
+ja sen päälle vanhojen juttujen migraatio on vielä työn alla. Sen
+sanon, että Gentoon laittaminen ei ole koskaan ollut helpompaa. Xorg
+ja Pulseaudio laitettu, systemd:tä ei. Hommat pelaavat sulavasti ja
+isoja kipuiluja softan kanssa ei ole ollut.
+
+Vanha ATK saattaa muuttua NAS-purkiksi, koska noin vanhan tavaran
+jälleenmyyntiarvo on sen verran alhaista.
+
+** Blogaus
+
+Vuonna 2025 ei tullut blogattua. Aihetta olisi ollut, mutta laiskuus
+ja kynnyskysymykset ja parantelu-unelmat hidastivat laiskaa liikaa.
+
+Näkisin kyllä, että teknisien pohdiskeluiden kirjoittelu ääneen ja
+niiden julkaiseminen olisi varteenotettava idea. Jonkinlainen siisti
+arkkitehtuuri on myös mielessä.
+
+** Uudenvuodensuunnitelmia
+
+Mitä vuodelle 2026?
+
+Maalis-huhtikuussa takaisin Japaniin. Sään puolesta se ei näytä
+mitenkään mairittavalta ajankohdalta käydä. Mutta onpahan sentään
+kirsikka kukassa.
+
+Töissä refaktoroimme työskentelyprosessia. Tämän koen tärkeimpänä
+muutoksena kun mennään eteenpäin elämässäni, missä pitää olla
+sovittelemassa perhettä ja työpäivää ja vapaa-aikaa mahtumaan samaan
+vuorokauteen. Konkretia jätetään pois tällä kertaa. 
+
+Painonhallinta on pysynyt mukana kuvioissa, enemmän tai vähemmän.
+Rehellisyyden nimissä myönnettäköön, että "vähemmän" on oikein. Tämä
+jatkuu puolestani samaan malliin, jos muuta kehonhuoltoa kasvatan
+asioiden ohelle. Harmittavasti crosstraineristani aka. "Masiinasta"
+hajosi osa, ja kardiokuntoilun harrastaminen kotioloissa on nyt
+vaikeaa. Tekisi mieli heivata koko roska pois, mutta se maksoi aika
+paljon eikä ole 'tienannut' itseään takaisin.
+
+Sitten on paljon taloudellista valmistelua luvassa sitä onnellista
+hetkeä kohtaan kun vaimo saadaan tänne. Hän ymmärrettävistä syistä ei
+voi työllistyä ihan sormia napsauttamalla, joten katsellaan vähän että
+miten siinä sitten.
